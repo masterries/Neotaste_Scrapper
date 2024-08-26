@@ -5,28 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neotaste Restaurant Data</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
 <body class="bg-gray-100">
     <div class="container mx-auto px-4 py-8">
         <h1 class="text-4xl font-bold mb-8 text-center">Neotaste Restaurant Data</h1>
         
-        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Summary</h2>
-            <p id="lastUpdated" class="mb-2"></p>
-            <p id="totalRestaurants" class="mb-2"></p>
-            <canvas id="restaurantChart" class="mt-4"></canvas>
+        <div class="mb-4">
+            <button id="statsTab" class="px-4 py-2 bg-blue-500 text-white rounded">Statistics</button>
+            <button id="mapTab" class="px-4 py-2 bg-gray-300 text-gray-700 rounded">Map</button>
         </div>
 
-        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Latest Changes</h2>
-            <div id="latestChanges"></div>
+        <div id="statsContent">
+            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Summary</h2>
+                <p id="lastUpdated" class="mb-2"></p>
+                <p id="totalRestaurants" class="mb-2"></p>
+                <canvas id="restaurantChart" class="mt-4"></canvas>
+            </div>
+
+            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Latest Changes</h2>
+                <div id="latestChanges"></div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h2 class="text-2xl font-semibold mb-4">All Restaurants</h2>
+                <input type="text" id="searchInput" placeholder="Search restaurants..." class="w-full p-2 mb-4 border border-gray-300 rounded">
+                <div id="restaurantList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+            </div>
         </div>
 
-        <div class="bg-white rounded-lg shadow-md p-6">
-            <h2 class="text-2xl font-semibold mb-4">All Restaurants</h2>
-            <input type="text" id="searchInput" placeholder="Search restaurants..." class="w-full p-2 mb-4 border border-gray-300 rounded">
-            <div id="restaurantList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+        <div id="mapContent" class="hidden">
+            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Restaurant Map</h2>
+                <div id="mapFilters" class="mb-4">
+                    <select id="priceFilter" class="p-2 border border-gray-300 rounded mr-2">
+                        <option value="">All Prices</option>
+                        <option value="1">€</option>
+                        <option value="2">€€</option>
+                        <option value="3">€€€</option>
+                    </select>
+                    <select id="tagFilter" class="p-2 border border-gray-300 rounded">
+                        <option value="">All Tags</option>
+                    </select>
+                </div>
+                <div id="map" style="height: 500px;"></div>
+            </div>
         </div>
     </div>
 

@@ -1,17 +1,23 @@
+let map;
+let markers = [];
+let restaurants = [];
+
 async function fetchData(url) {
     const response = await fetch(url);
     return response.json();
 }
 
 async function displayData() {
-    const summary = await fetchData('data/summary.json');
-    const latestData = await fetchData('data/latest_full_data.json');
-    const latestChanges = await fetchData(`data/daily_changes/${summary.last_updated}.json`);
+    const summary = await fetchData('../data/summary.json');
+    restaurants = await fetchData('../data/latest_full_data.json');
+    const latestChanges = await fetchData(`../data/daily_changes/${summary.last_updated}.json`);
 
     displaySummary(summary);
     displayChart(summary);
     displayLatestChanges(latestChanges);
-    displayRestaurants(latestData);
+    displayRestaurants(restaurants);
+    initializeMap();
+    populateFilters();
 }
 
 function displaySummary(summary) {
@@ -76,6 +82,93 @@ function displayRestaurants(restaurants) {
         );
         renderRestaurants(filteredRestaurants);
     });
+}
+
+function initializeMap() {
+    map = L.map('map').setView([48.2082, 16.3738], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    restaurants.forEach(restaurant => {
+        const marker = L.marker([restaurant.latitude, restaurant.longitude])
+            .bindPopup(`
+                <b>${restaurant.name}</b><br>
+                Rating: ${restaurant.avgRating || 'N/A'}<br>
+                Price: ${'€'.repeat(restaurant.priceRange)}<br>
+                Tags: ${restaurant.tags.map(tag => tag.name).join(', ')}
+            `);
+        markers.push(marker);
+    });
+
+    const markerGroup = L.layerGroup(markers).addTo(map);
+}
+
+function populateFilters() {
+    const priceFilter = document.getElementById('priceFilter');
+    const tagFilter = document.getElementById('tagFilter');
+
+    const tags = new Set();
+    restaurants.forEach(restaurant => {
+        restaurant.tags.forEach(tag => tags.add(tag.name));
+    });
+
+    tags.forEach(tag => {
+        const option = document.createElement('option');
+        option.value = tag;
+        option.textContent = tag;
+        tagFilter.appendChild(option);
+    });
+
+    priceFilter.addEventListener('change', filterMarkers);
+    tagFilter.addEventListener('change', filterMarkers);
+}
+
+function filterMarkers() {
+    const selectedPrice = document.getElementById('priceFilter').value;
+    const selectedTag = document.getElementById('tagFilter').value;
+
+    markers.forEach((marker, index) => {
+        const restaurant = restaurants[index];
+        const priceMatch = selectedPrice === '' || restaurant.priceRange === parseInt(selectedPrice);
+        const tagMatch = selectedTag === '' || restaurant.tags.some(tag => tag.name === selectedTag);
+
+        if (priceMatch && tagMatch) {
+            marker.addTo(map);
+        } else {
+            map.removeLayer(marker);
+        }
+    });
+}
+
+// Tab switching logic
+document.getElementById('statsTab').addEventListener('click', () => switchTab('stats'));
+document.getElementById('mapTab').addEventListener('click', () => switchTab('map'));
+
+function switchTab(tab) {
+    const statsContent = document.getElementById('statsContent');
+    const mapContent = document.getElementById('mapContent');
+    const statsTab = document.getElementById('statsTab');
+    const mapTab = document.getElementById('mapTab');
+
+    if (tab === 'stats') {
+        statsContent.classList.remove('hidden');
+        mapContent.classList.add('hidden');
+        statsTab.classList.add('bg-blue-500', 'text-white');
+        statsTab.classList.remove('bg-gray-300', 'text-gray-700');
+        mapTab.classList.add('bg-gray-300', 'text-gray-700');
+        mapTab.classList.remove('bg-blue-500', 'text-white');
+    } else {
+        statsContent.classList.add('hidden');
+        mapContent.classList.remove('hidden');
+        mapTab.classList.add('bg-blue-500', 'text-white');
+        mapTab.classList.remove('bg-gray-300', 'text-gray-700');
+        statsTab.classList.add('bg-gray-300', 'text-gray-700');
+        statsTab.classList.remove('bg-blue-500', 'text-white');
+        if (!map) {
+            initializeMap();
+        }
+    }
 }
 
 displayData();
