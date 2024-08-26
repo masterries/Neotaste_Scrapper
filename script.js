@@ -9,9 +9,9 @@ async function fetchData(url) {
 }
 
 async function displayData() {
-    const summary = await fetchData('../data/summary.json');
-    restaurants = await fetchData('../data/latest_full_data.json');
-    const latestChanges = await fetchData(`../data/daily_changes/${summary.last_updated}.json`);
+    const summary = await fetchData('/data/summary.json');
+    restaurants = await fetchData('/data/latest_full_data.json');
+    const latestChanges = await fetchData(`/data/daily_changes/${summary.last_updated}.json`);
 
     displaySummary(summary);
     displayChart(summary);
