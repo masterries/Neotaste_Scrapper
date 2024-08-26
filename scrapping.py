@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 import os
+import time
 
 def fetch_neotaste_data():
     base_url = "https://api.neotaste.com/cities/vienna/restaurants/"
@@ -32,6 +33,7 @@ def fetch_neotaste_data():
                 break
 
             params['page'] += 1
+            time.sleep(1)  # Add a small delay to avoid overwhelming the server
 
         except requests.exceptions.RequestException as e:
             print(f"An error occurred while fetching page {params['page']}: {e}")
@@ -44,6 +46,24 @@ def fetch_neotaste_data():
     print(f"Total pages: {total_pages}")
 
     return all_restaurants
+
+def fetch_restaurant_details(slug):
+    url = f"https://api.neotaste.com/restaurants/{slug}/"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Referer': 'https://neotaste.com/',
+        'Origin': 'https://neotaste.com'
+    }
+
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred while fetching details for {slug}: {e}")
+        return None
 
 def save_structured_data(data):
     today = datetime.now().strftime("%Y-%m-%d")
@@ -70,6 +90,7 @@ def save_structured_data(data):
         'total_restaurants': len(data)
     }
 
+    os.makedirs('data/daily_changes', exist_ok=True)
     with open(f'data/daily_changes/{today}.json', 'w', encoding='utf-8') as f:
         json.dump(daily_changes, f, ensure_ascii=False, indent=2)
 
@@ -98,4 +119,14 @@ def save_structured_data(data):
 
 if __name__ == "__main__":
     restaurants = fetch_neotaste_data()
+    
+    # Fetch additional details for each restaurant
+    for restaurant in restaurants:
+        print(f"Fetching details for {restaurant['name']}...")
+        details = fetch_restaurant_details(restaurant['slug'])
+        if details:
+            restaurant['deals'] = details.get('deals', [])
+            restaurant['reviews'] = details.get('reviews', [])
+        time.sleep(1)  # Add a small delay to avoid overwhelming the server
+
     save_structured_data(restaurants)

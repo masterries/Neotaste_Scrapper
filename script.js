@@ -1,6 +1,7 @@
 let map;
 let markers = [];
 let restaurants = [];
+let mapInitialized = false;
 
 async function fetchData(url) {
     const response = await fetch(url);
@@ -16,7 +17,6 @@ async function displayData() {
     displayChart(summary);
     displayLatestChanges(latestChanges);
     displayRestaurants(restaurants);
-    initializeMap();
     populateFilters();
 }
 
@@ -85,6 +85,8 @@ function displayRestaurants(restaurants) {
 }
 
 function initializeMap() {
+    if (mapInitialized) return;
+
     map = L.map('map').setView([48.2082, 16.3738], 13);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
@@ -102,6 +104,7 @@ function initializeMap() {
     });
 
     const markerGroup = L.layerGroup(markers).addTo(map);
+    mapInitialized = true;
 }
 
 function populateFilters() {
@@ -165,9 +168,12 @@ function switchTab(tab) {
         mapTab.classList.remove('bg-gray-300', 'text-gray-700');
         statsTab.classList.add('bg-gray-300', 'text-gray-700');
         statsTab.classList.remove('bg-blue-500', 'text-white');
-        if (!map) {
+        
+        // Initialize map when the map tab is shown
+        setTimeout(() => {
             initializeMap();
-        }
+            map.invalidateSize();
+        }, 0);
     }
 }
 
