@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+import os
 
 def fetch_neotaste_data():
     base_url = "https://api.neotaste.com/cities/vienna/restaurants/"
@@ -44,15 +45,57 @@ def fetch_neotaste_data():
 
     return all_restaurants
 
-def save_data(data):
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"restaurant_data_{timestamp}.json"
+def save_structured_data(data):
+    today = datetime.now().strftime("%Y-%m-%d")
     
-    with open(filename, 'w', encoding='utf-8') as f:
+    # Save latest full data
+    with open('data/latest_full_data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"\nData saved to {filename}")
+    # Load previous data to compare changes
+    if os.path.exists('data/latest_full_data.json'):
+        with open('data/latest_full_data.json', 'r', encoding='utf-8') as f:
+            previous_data = json.load(f)
+    else:
+        previous_data = []
+
+    # Compute and save daily changes
+    new_restaurants = [r for r in data if r['uuid'] not in [pr['uuid'] for pr in previous_data]]
+    removed_restaurants = [r for r in previous_data if r['uuid'] not in [nr['uuid'] for nr in data]]
+    
+    daily_changes = {
+        'date': today,
+        'new_restaurants': [r['name'] for r in new_restaurants],
+        'removed_restaurants': [r['name'] for r in removed_restaurants],
+        'total_restaurants': len(data)
+    }
+
+    with open(f'data/daily_changes/{today}.json', 'w', encoding='utf-8') as f:
+        json.dump(daily_changes, f, ensure_ascii=False, indent=2)
+
+    # Update summary file
+    if os.path.exists('data/summary.json'):
+        with open('data/summary.json', 'r', encoding='utf-8') as f:
+            summary = json.load(f)
+    else:
+        summary = {'daily_counts': []}
+
+    summary['daily_counts'].append({
+        'date': today,
+        'total_restaurants': len(data),
+        'new_restaurants': len(new_restaurants),
+        'removed_restaurants': len(removed_restaurants)
+    })
+    summary['last_updated'] = today
+
+    with open('data/summary.json', 'w', encoding='utf-8') as f:
+        json.dump(summary, f, ensure_ascii=False, indent=2)
+
+    print(f"Data updated for {today}")
+    print(f"Total restaurants: {len(data)}")
+    print(f"New restaurants: {len(new_restaurants)}")
+    print(f"Removed restaurants: {len(removed_restaurants)}")
 
 if __name__ == "__main__":
     restaurants = fetch_neotaste_data()
-    save_data(restaurants)
+    save_structured_data(restaurants)
