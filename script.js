@@ -9,9 +9,11 @@ async function fetchData(url) {
 }
 
 async function displayData() {
-    const summary = await fetchData('/data/summary.json');
-    restaurants = await fetchData('/data/latest_full_data.json');
-    const latestChanges = await fetchData(`/data/daily_changes/${summary.last_updated}.json`);
+
+    const basePath = '/Neotaste_Scrapper';
+    const summary = await fetchData(`${basePath}/data/summary.json`);
+    restaurants = await fetchData(`${basePath}/data/latest_full_data.json`);
+    const latestChanges = await fetchData(`${basePath}/data/daily_changes/${summary.last_updated}.json`);
 
     displaySummary(summary);
     displayChart(summary);
@@ -19,6 +21,7 @@ async function displayData() {
     displayRestaurants(restaurants);
     populateFilters();
 }
+
 
 function displaySummary(summary) {
     document.getElementById('lastUpdated').textContent = `Last Updated: ${summary.last_updated}`;
