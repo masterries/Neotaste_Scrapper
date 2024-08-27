@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vienna Restaurant Explorer</title>
+    <title>Multi-City Restaurant Explorer</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
@@ -14,7 +14,7 @@
 <body class="bg-gray-100">
     <div class="container mx-auto px-4 py-8">
         <div class="flex justify-between items-center mb-8">
-            <h1 class="text-3xl font-bold">Vienna Restaurant Explorer</h1>
+            <h1 class="text-3xl font-bold">Multi-City Restaurant Explorer</h1>
             <a href="history.html" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105">
                 View Deal Statistics
             </a>
@@ -22,7 +22,14 @@
 
         <div class="mb-8">
             <h2 class="text-2xl font-semibold mb-4">Filters</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <select id="citySelector" class="border rounded p-2">
+                    <option value="">Select a City (Vienna)</option>
+                    <option value="vienna">Vienna</option>
+                    <option value="karlsruhe">Karlsruhe</option>
+                    <option value="freiburg">Freiburg</option>
+                    <!-- Add more cities as needed -->
+                </select>
                 <select id="priceFilter" class="border rounded p-2">
                     <option value="">All Price Ranges</option>
                     <option value="1">$</option>
@@ -73,12 +80,13 @@ document.addEventListener('DOMContentLoaded', function() {
     let restaurants = [];
     let map;
     let markers = [];
+    let currentCity = 'vienna';
 
-    async function fetchData() {
+    async function fetchData(city) {
         try {
-            const response = await fetch('./data/latest_full_data.json');
+            const response = await fetch(`./data/${city}/latest_full_data.json`);
             restaurants = await response.json();
-            initMap();
+            initMap(city);
             populateTagFilter();
             filterRestaurants();
         } catch (error) {
@@ -86,8 +94,19 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    function initMap() {
-        map = L.map('map').setView([48.2082, 16.3738], 13);
+    function initMap(city) {
+        if (map) {
+            map.remove();
+        }
+        
+        const cityCoordinates = {
+            'vienna': [48.2082, 16.3738],
+            'karlsruhe': [49.0069, 8.4037],
+            'freiburg': [47.9961, 7.8494],
+            // Add more cities as needed
+        };
+        
+        map = L.map('map').setView(cityCoordinates[city], 13);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
@@ -95,6 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function populateTagFilter() {
         const tagFilter = document.getElementById('tagFilter');
+        tagFilter.innerHTML = '<option value="">All Tags</option>';
         const allTags = [...new Set(restaurants.flatMap(r => r.tags.map(t => t.name)))];
         allTags.forEach(tag => {
             const option = document.createElement('option');
@@ -257,11 +277,23 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
+    document.getElementById('citySelector').addEventListener('change', function(event) {
+        currentCity = event.target.value;
+        if (currentCity) {
+            fetchData(currentCity);
+        } else {
+            // Clear the map and restaurant cards if no city is selected
+            if (map) {
+                map.remove();
+            }
+            document.getElementById('restaurantCards').innerHTML = '';
+        }
+    });
+
     document.getElementById('priceFilter').addEventListener('change', filterRestaurants);
     document.getElementById('zipCodeFilter').addEventListener('input', filterRestaurants);
     document.getElementById('tagFilter').addEventListener('change', filterRestaurants);
-
-    fetchData();
+    fetchData(currentCity);
 });
     </script>
 </body>
