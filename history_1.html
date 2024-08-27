@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neotaste Deal Statistics</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8">Neotaste Deal Statistics</h1>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Deal Value Distribution</h2>
+                <canvas id="dealValueDistribution"></canvas>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Average Deal Value Over Time(NO REAL DATA)</h2>
+                <canvas id="avgDealValueOverTime"></canvas>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Top 10 Highest Value Deals</h2>
+                <ul id="topDeals" class="list-decimal list-inside"></ul>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Deal Statistics</h2>
+                <ul id="dealStats" class="space-y-2"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allDeals = [];
+
+        async function fetchData() {
+            try {
+                const response = await fetch('./data/latest_full_data.json');
+                const restaurants = await response.json();
+                allDeals = restaurants.flatMap(r => r.deals.map(d => ({ ...d, restaurantName: r.name })));
+                updateCharts();
+                updateTopDeals();
+                updateDealStats();
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        }
+
+        function updateCharts() {
+            updateDealValueDistribution();
+            updateAvgDealValueOverTime();
+        }
+
+        function updateDealValueDistribution() {
+            const ctx = document.getElementById('dealValueDistribution').getContext('2d');
+            const values = allDeals.map(d => d.value);
+            const labels = ['0-5', '6-10', '11-15', '16-20', '21+'];
+            const data = [
+                values.filter(v => v <= 5).length,
+                values.filter(v => v > 5 && v <= 10).length,
+                values.filter(v => v > 10 && v <= 15).length,
+                values.filter(v => v > 15 && v <= 20).length,
+                values.filter(v => v > 20).length
+            ];
+
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Number of Deals',
+                        data: data,
+                        backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Number of Deals'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Deal Value (€)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateAvgDealValueOverTime() {
+            const ctx = document.getElementById('avgDealValueOverTime').getContext('2d');
+            
+            // Mocked data for demonstration
+            const labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'];
+            const data = [12, 14, 13, 15, 16, 17];
+
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Average Deal Value',
+                        data: data,
+                        borderColor: 'rgb(75, 192, 192)',
+                        tension: 0.1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Average Deal Value (€)'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Month'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateTopDeals() {
+            const topDealsElement = document.getElementById('topDeals');
+            const topDeals = allDeals
+                .sort((a, b) => b.value - a.value)
+                .slice(0, 10);
+
+            topDealsElement.innerHTML = topDeals.map(deal => `
+                <li class="mb-2">
+                    <span class="font-semibold">${deal.restaurantName}</span>: 
+                    ${deal.name} (Value: €${deal.value})
+                </li>
+            `).join('');
+        }
+
+        function updateDealStats() {
+            const dealStatsElement = document.getElementById('dealStats');
+            const totalDeals = allDeals.length;
+            const avgValue = (allDeals.reduce((sum, deal) => sum + deal.value, 0) / totalDeals).toFixed(2);
+            const maxValue = Math.max(...allDeals.map(d => d.value));
+            const minValue = Math.min(...allDeals.map(d => d.value));
+
+            dealStatsElement.innerHTML = `
+                <li><strong>Total Deals:</strong> ${totalDeals}</li>
+                <li><strong>Average Deal Value:</strong> €${avgValue}</li>
+                <li><strong>Highest Deal Value:</strong> €${maxValue}</li>
+                <li><strong>Lowest Deal Value:</strong> €${minValue}</li>
+            `;
+        }
+
+        fetchData();
+    </script>
+</body>
+</html>
