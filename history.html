@@ -58,12 +58,13 @@
         fetch('data/vienna/processed_thefork_data_2024-08-27.json')
             .then(response => response.json())
             .then(restaurants => {
-                // Sort restaurants by discountPercentage in descending order
-                restaurants.sort((a, b) => {
-                    let discountA = a.marketingOffer.discountPercentage || 0;
-                    let discountB = b.marketingOffer.discountPercentage || 0;
-                    return discountB - discountA; // Descending sort
+                // Calculate and add estimated savings to each restaurant object
+                restaurants.forEach(restaurant => {
+                    restaurant.estimatedSavings = restaurant.averagePrice * (restaurant.marketingOffer.discountPercentage / 100);
                 });
+    
+                // Sort restaurants by estimated savings in descending order
+                restaurants.sort((a, b) => b.estimatedSavings - a.estimatedSavings);
     
                 // Display sorted restaurants on map and list
                 restaurants.forEach(restaurant => {
@@ -76,7 +77,8 @@
                         <td>${restaurant.rating}</td>
                         <td>${restaurant.reviewCount}</td>
                         <td>${restaurant.averagePrice}€</td>
-                        <td>${restaurant.marketingOffer.label}</td>
+                        <td>${restaurant.marketingOffer.label} (${restaurant.marketingOffer.discountPercentage}%)</td>
+                        <td>${restaurant.estimatedSavings.toFixed(2)}€</td>
                         <td><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#restaurantModal" onclick="showDetails('${restaurant.id}')">View Details</button></td>
                     </tr>`;
                     document.getElementById('restaurant-list').innerHTML += row;
@@ -98,6 +100,6 @@
             })
             .catch(error => console.error('Error loading the data:', error));
     });
-    </script>    
+    </script>
 </body>
 </html>
