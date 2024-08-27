@@ -219,7 +219,7 @@ function calculateEstimatedSavings(restaurantData) {
 function createTheForkDealCard(marketingOffer, averagePrice, source) {
     const estimatedSavings = calculateEstimatedSavings({ marketingOffer, averagePrice });
     return `
-        <div class="block bg-yellow-50 p-3 rounded mb-3 hover:bg-yellow-100 transition duration-300">
+        <div class="block bg-green-50 p-3 rounded mb-3 hover:bg-green-100 transition duration-300">
             <div class="flex justify-between items-center mb-2">
                 <h4 class="font-medium text-lg">${marketingOffer.label}</h4>
                 <span class="font-bold text-green-600">Discount: ${marketingOffer.discountPercentage}%</span>
