@@ -1,0 +1,26 @@
+#map { 
+    height: 400px; 
+}
+
+.modal-body img { 
+    max-width: 100%; 
+}
+
+.restaurant-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.deal-card {
+    background-color: #fefcbf;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    transition: background-color 0.3s;
+}
+
+.deal-card:hover {
+    background-color: #faf089;
+}
