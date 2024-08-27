@@ -162,8 +162,14 @@ function updateRestaurantCards(filteredRestaurants) {
     document.querySelectorAll('.restaurant-image').forEach(img => {
         img.addEventListener('click', openImageModal);
     });
-}
 
+    // Add click event listeners for Neotaste deals
+    document.querySelectorAll('[id^="deal-"]').forEach(dealElement => {
+        dealElement.addEventListener('click', () => {
+            window.open('https://neotaste.app/invite/Patrick3632', '_blank');
+        });
+    });
+}
 
 function createNeotasteCard(restaurant) {
     return `
@@ -285,8 +291,9 @@ function createRestaurantCard(restaurant) {
 }
 
 function createDealCard(deal, source) {
+    const dealId = `deal-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
     return `
-        <div class="block bg-yellow-50 p-3 rounded mb-3 hover:bg-yellow-100 transition duration-300">
+        <div id="${dealId}" class="block bg-yellow-50 p-3 rounded mb-3 hover:bg-yellow-100 transition duration-300 cursor-pointer">
             <div class="flex justify-between items-center mb-2">
                 <h4 class="font-medium text-lg">${deal.name}</h4>
                 <span class="font-bold text-green-600">Value: €${deal.value.toFixed(2)}</span>
