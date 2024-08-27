@@ -24,7 +24,20 @@ def fetch_neotaste_data():
             response.raise_for_status()
             data = response.json()
 
-            all_restaurants.extend(data['data'])
+            for restaurant in data['data']:
+                all_restaurants.append({
+                    'uuid': restaurant['uuid'],
+                    'name': restaurant['name'],
+                    'slug': restaurant['slug'],
+                    'address': restaurant.get('address', ''),
+                    'addressOptional': restaurant.get('addressOptional', ''),
+                    'zipCode': restaurant.get('zipCode', ''),
+                    'latitude': restaurant.get('latitude'),
+                    'longitude': restaurant.get('longitude'),
+                    'deals': [],  # This will be populated later
+                    'tags': []    # This will be populated later
+                })
+
             total_pages += 1
 
             print(f"Fetched page {params['page']}: {len(data['data'])} restaurants")
@@ -46,7 +59,6 @@ def fetch_neotaste_data():
     print(f"Total pages: {total_pages}")
 
     return all_restaurants
-
 def fetch_restaurant_details(slug):
     url = f"https://api.neotaste.com/restaurants/{slug}/"
     headers = {
@@ -60,7 +72,21 @@ def fetch_restaurant_details(slug):
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
-        return response.json()
+        data = response.json()
+        
+        # Extract relevant information
+        details = {
+            'deals': data['data'].get('deals', []),
+            'tags': data['data'].get('tags', []),
+            # Update address information in case it's more detailed here
+            'address': data['data'].get('address', ''),
+            'addressOptional': data['data'].get('addressOptional', ''),
+            'zipCode': data['data'].get('zipCode', ''),
+            'latitude': data['data'].get('latitude'),
+            'longitude': data['data'].get('longitude'),
+        }
+        
+        return details
     except requests.exceptions.RequestException as e:
         print(f"An error occurred while fetching details for {slug}: {e}")
         return None
@@ -79,17 +105,60 @@ def save_structured_data(data):
     else:
         previous_data = []
 
-    # Compute and save daily changes
+    # Compute changes
     new_restaurants = [r for r in data if r['uuid'] not in [pr['uuid'] for pr in previous_data]]
     removed_restaurants = [r for r in previous_data if r['uuid'] not in [nr['uuid'] for nr in data]]
-    
+    existing_restaurants = [r for r in data if r['uuid'] in [pr['uuid'] for pr in previous_data]]
+
+    # Prepare daily changes with comprehensive deal information and address
     daily_changes = {
         'date': today,
-        'new_restaurants': [r['name'] for r in new_restaurants],
-        'removed_restaurants': [r['name'] for r in removed_restaurants],
+        'new_restaurants': [{
+            'name': r['name'],
+            'uuid': r['uuid'],
+            'deals': r.get('deals', []),
+            'address': r.get('address', ''),
+            'zipCode': r.get('zipCode', ''),
+            'latitude': r.get('latitude', None),
+            'longitude': r.get('longitude', None)
+        } for r in new_restaurants],
+        'removed_restaurants': [{
+            'name': r['name'],
+            'uuid': r['uuid'],
+            'deals': r.get('deals', []),
+            'address': r.get('address', ''),
+            'zipCode': r.get('zipCode', ''),
+            'latitude': r.get('latitude', None),
+            'longitude': r.get('longitude', None)
+        } for r in removed_restaurants],
+        'existing_restaurants': [],
         'total_restaurants': len(data)
     }
 
+    # Process existing restaurants for deal changes
+    for current in existing_restaurants:
+        previous = next((r for r in previous_data if r['uuid'] == current['uuid']), None)
+        if previous:
+            current_deals = set(json.dumps(d) for d in current.get('deals', []))
+            previous_deals = set(json.dumps(d) for d in previous.get('deals', []))
+            
+            new_deals = [json.loads(d) for d in current_deals - previous_deals]
+            removed_deals = [json.loads(d) for d in previous_deals - current_deals]
+            
+            if new_deals or removed_deals:
+                daily_changes['existing_restaurants'].append({
+                    'name': current['name'],
+                    'uuid': current['uuid'],
+                    'new_deals': new_deals,
+                    'removed_deals': removed_deals,
+                    'current_deals': current.get('deals', []),
+                    'address': current.get('address', ''),
+                    'zipCode': current.get('zipCode', ''),
+                    'latitude': current.get('latitude', None),
+                    'longitude': current.get('longitude', None)
+                })
+
+    # Save daily changes
     os.makedirs('data/daily_changes', exist_ok=True)
     with open(f'data/daily_changes/{today}.json', 'w', encoding='utf-8') as f:
         json.dump(daily_changes, f, ensure_ascii=False, indent=2)
@@ -105,9 +174,22 @@ def save_structured_data(data):
         'date': today,
         'total_restaurants': len(data),
         'new_restaurants': len(new_restaurants),
-        'removed_restaurants': len(removed_restaurants)
+        'removed_restaurants': len(removed_restaurants),
+        'restaurants_with_deal_changes': len(daily_changes['existing_restaurants']),
+        'total_deals': sum(len(r.get('deals', [])) for r in data)
     })
     summary['last_updated'] = today
+
+    # Add full restaurant data including address to summary
+    summary['restaurants'] = [{
+        'name': r['name'],
+        'uuid': r['uuid'],
+        'deals': r.get('deals', []),
+        'address': r.get('address', ''),
+        'zipCode': r.get('zipCode', ''),
+        'latitude': r.get('latitude', None),
+        'longitude': r.get('longitude', None)
+    } for r in data]
 
     with open('data/summary.json', 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
@@ -116,17 +198,16 @@ def save_structured_data(data):
     print(f"Total restaurants: {len(data)}")
     print(f"New restaurants: {len(new_restaurants)}")
     print(f"Removed restaurants: {len(removed_restaurants)}")
+    print(f"Restaurants with deal changes: {len(daily_changes['existing_restaurants'])}")
+    print(f"Total deals: {sum(len(r.get('deals', [])) for r in data)}")
 
 if __name__ == "__main__":
     restaurants = fetch_neotaste_data()
     
-    # Fetch additional details for each restaurant
     for restaurant in restaurants:
         print(f"Fetching details for {restaurant['name']}...")
         details = fetch_restaurant_details(restaurant['slug'])
         if details:
-            restaurant['deals'] = details.get('deals', [])
-            restaurant['reviews'] = details.get('reviews', [])
-        time.sleep(1)  # Add a small delay to avoid overwhelming the server
+            restaurant.update(details)
 
     save_structured_data(restaurants)

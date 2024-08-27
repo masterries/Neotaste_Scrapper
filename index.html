@@ -16,6 +16,8 @@
         <div class="mb-4">
             <button id="statsTab" class="px-4 py-2 bg-blue-500 text-white rounded">Statistics</button>
             <button id="mapTab" class="px-4 py-2 bg-gray-300 text-gray-700 rounded">Map</button>
+            <button id="dealsTab" class="px-4 py-2 bg-gray-300 text-gray-700 rounded">Deals</button>
+            <button id="searchTab" class="px-4 py-2 bg-gray-300 text-gray-700 rounded">Search</button>
         </div>
 
         <div id="statsContent">
@@ -26,17 +28,6 @@
                 <canvas id="restaurantChart" class="mt-4"></canvas>
             </div>
 
-            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
-                <h2 class="text-2xl font-semibold mb-4">Latest Changes</h2>
-                <div id="latestChanges"></div>
-            </div>
-
-            <div class="bg-white rounded-lg shadow-md p-6">
-                <h2 class="text-2xl font-semibold mb-4">All Restaurants</h2>
-                <input type="text" id="searchInput" placeholder="Search restaurants..." class="w-full p-2 mb-4 border border-gray-300 rounded">
-                <div id="restaurantList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
-            </div>
-        </div>
 
         <div id="mapContent" class="hidden">
             <div class="bg-white rounded-lg shadow-md p-6 mb-8">
@@ -57,6 +48,29 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+        <div id="dealsContent" class="hidden">
+            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Best Deals</h2>
+                <input type="text" id="dealSearchInput" placeholder="Search deals..." class="w-full p-2 mb-4 border border-gray-300 rounded">
+                <select id="dealZipcodeFilter" class="p-2 border border-gray-300 rounded mr-2">
+                    <option value="">All Zipcodes</option>
+                </select>
+                <select id="dealTagsFilter" class="p-2 border border-gray-300 rounded" multiple>
+                    <!-- Tags will be populated dynamically -->
+                </select>
+                <div id="dealsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4"></div>
+            </div>
+        </div>
+
+        <div id="searchContent" class="hidden">
+            <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Restaurant Search</h2>
+                <input type="text" id="searchInput" placeholder="Search restaurants..." class="w-full p-2 mb-4 border border-gray-300 rounded">
+                <div id="restaurantList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
 </body>
 </html>
