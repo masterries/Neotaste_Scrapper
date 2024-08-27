@@ -164,12 +164,20 @@ function updateRestaurantCards(filteredRestaurants) {
     });
 
     // Add click event listeners for Neotaste deals
-    document.querySelectorAll('[id^="deal-"]').forEach(dealElement => {
+    document.querySelectorAll('[id^="neotaste-deal-"]').forEach(dealElement => {
         dealElement.addEventListener('click', () => {
             window.open('https://neotaste.app/invite/Patrick3632', '_blank');
         });
     });
+
+    // Add click event listeners for TheFork deals
+    document.querySelectorAll('[id^="thefork-deal-"]').forEach(dealElement => {
+        dealElement.addEventListener('click', () => {
+            window.open('https://tfk.io/7j33a40o', '_blank');
+        });
+    });
 }
+
 
 function createNeotasteCard(restaurant) {
     return `
@@ -224,8 +232,9 @@ function calculateEstimatedSavings(restaurantData) {
 
 function createTheForkDealCard(marketingOffer, averagePrice, source) {
     const estimatedSavings = calculateEstimatedSavings({ marketingOffer, averagePrice });
+    const dealId = `thefork-deal-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
     return `
-        <div class="block bg-green-50 p-3 rounded mb-3 hover:bg-green-100 transition duration-300">
+        <div id="${dealId}" class="block bg-green-50 p-3 rounded mb-3 hover:bg-green-100 transition duration-300 cursor-pointer">
             <div class="flex justify-between items-center mb-2">
                 <h4 class="font-medium text-lg">${marketingOffer.label}</h4>
                 <span class="font-bold text-green-600">Discount: ${marketingOffer.discountPercentage}%</span>
@@ -238,6 +247,7 @@ function createTheForkDealCard(marketingOffer, averagePrice, source) {
         </div>
     `;
 }
+
 
 function getMaxDealValue(restaurant) {
     let maxValue = 0;
@@ -291,7 +301,7 @@ function createRestaurantCard(restaurant) {
 }
 
 function createDealCard(deal, source) {
-    const dealId = `deal-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+    const dealId = `neotaste-deal-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
     return `
         <div id="${dealId}" class="block bg-yellow-50 p-3 rounded mb-3 hover:bg-yellow-100 transition duration-300 cursor-pointer">
             <div class="flex justify-between items-center mb-2">
