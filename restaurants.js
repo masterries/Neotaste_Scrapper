@@ -207,6 +207,8 @@ function createNeotasteCard(restaurant) {
     `;
 }
 
+
+
 function calculateEstimatedSavings(restaurantData) {
     const discountPercentage = restaurantData.marketingOffer.discountPercentage;
     const averagePrice = restaurantData.averagePrice;

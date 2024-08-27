@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TheFork vs Neotaste Comparison</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8">TheFork vs Neotaste Comparison</h1>
+
+        <div class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Filters</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <select id="citySelector" class="border rounded p-2">
+                    <option value="">Select a City</option>
+                    <!-- Cities will be populated dynamically -->
+                </select>
+                <select id="priceFilter" class="border rounded p-2">
+                    <option value="">All Price Ranges</option>
+                    <option value="1">$</option>
+                    <option value="2">$$</option>
+                    <option value="3">$$$</option>
+                    <option value="4">$$$$</option>
+                </select>
+                <select id="tagFilter" class="border rounded p-2">
+                    <option value="">All Tags</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Deal Value Distribution Comparison</h2>
+                <canvas id="dealValueComparisonChart"></canvas>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Average Deal Value by Price Range</h2>
+                <canvas id="avgDealValueChart"></canvas>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Restaurant Count Comparison</h2>
+                <canvas id="restaurantCountChart"></canvas>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-semibold mb-4">Top 10 Restaurants in Both Datasets</h2>
+                <canvas id="topRestaurantsComparisonChart"></canvas>
+            </div>
+        </div>
+
+        <div class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <h2 class="text-xl font-semibold mb-4">Overlap Analysis</h2>
+            <div id="overlapStats"></div>
+        </div>
+    </div>
+
+    <script>
+    let neotasteRestaurants = [];
+    let theforkRestaurants = [];
+    let currentCity = 'vienna'; // Default city
+
+    document.addEventListener('DOMContentLoaded', function() {
+        initializeFilters();
+        fetchData();
+    });
+
+    function initializeFilters() {
+        document.getElementById('citySelector').addEventListener('change', function(event) {
+            currentCity = event.target.value;
+            fetchData();
+        });
+        document.getElementById('priceFilter').addEventListener('change', processData);
+        document.getElementById('tagFilter').addEventListener('change', processData);
+    }
+
+    async function fetchData() {
+        try {
+            const neotasteResponse = await fetch(`./data/${currentCity}/latest_full_data.json`);
+            const theforkResponse = await fetch(`./data/${currentCity}/processed_thefork_data_2024-08-27.json`);
+            
+            if (!neotasteResponse.ok || !theforkResponse.ok) {
+                throw new Error('Failed to fetch data');
+            }
+
+            neotasteRestaurants = await neotasteResponse.json();
+            theforkRestaurants = await theforkResponse.json();
+
+            populateTagFilter();
+            processData();
+        } catch (error) {
+            console.error('Error fetching data:', error);
+            alert('Error fetching data. Please try again later.');
+        }
+    }
+
+    function populateTagFilter() {
+        const tagFilter = document.getElementById('tagFilter');
+        tagFilter.innerHTML = '<option value="">All Tags</option>';
+        const allTags = [...new Set(neotasteRestaurants.flatMap(r => r.tags ? r.tags.map(t => t.name) : []))];
+        allTags.forEach(tag => {
+            const option = document.createElement('option');
+            option.value = tag;
+            option.textContent = tag;
+            tagFilter.appendChild(option);
+        });
+    }
+
+    function processData() {
+        const filteredNeotaste = filterRestaurants(neotasteRestaurants);
+        const filteredTheFork = filterRestaurants(theforkRestaurants);
+
+        updateDealValueComparisonChart(filteredNeotaste, filteredTheFork);
+        updateAvgDealValueChart(filteredNeotaste, filteredTheFork);
+        updateRestaurantCountChart(filteredNeotaste, filteredTheFork);
+        updateTopRestaurantsComparisonChart(filteredNeotaste, filteredTheFork);
+        updateOverlapAnalysis(filteredNeotaste, filteredTheFork);
+    }
+
+    function filterRestaurants(restaurants) {
+        const priceFilter = document.getElementById('priceFilter').value;
+        const tagFilter = document.getElementById('tagFilter').value;
+
+        return restaurants.filter(r => {
+            if (priceFilter && r.priceRange !== parseInt(priceFilter)) return false;
+            if (tagFilter && (!r.tags || !r.tags.some(t => t.name === tagFilter))) return false;
+            return true;
+        });
+    }
+
+    function updateDealValueComparisonChart(neotasteData, theforkData) {
+    const ctx = document.getElementById('dealValueComparisonChart').getContext('2d');
+    const neotasteValues = neotasteData.flatMap(r => r.deals ? r.deals.map(d => d.value) : []);
+    const theforkValues = theforkData.map(r => calculateTheForkEstimatedSavings(r));
+
+    console.log('Neotaste deal value range:', Math.min(...neotasteValues), 'to', Math.max(...neotasteValues));
+    console.log('TheFork estimated savings range:', Math.min(...theforkValues), 'to', Math.max(...theforkValues));
+
+    printHighTheForkEstimates(theforkData);
+
+    const bins = ['0-10', '11-20', '21-30', '31-40', '41-50', '51+'];
+    const maxValue = 50; // Set this to 50 to match our bin structure
+    const neotasteHistogram = createHistogram(neotasteValues, bins.length, maxValue);
+    const theforkHistogram = createHistogram(theforkValues, bins.length, maxValue);
+
+    console.log('Neotaste histogram:', neotasteHistogram);
+    console.log('TheFork histogram:', theforkHistogram);
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: bins,
+            datasets: [
+                {
+                    label: 'Neotaste',
+                    data: neotasteHistogram,
+                    backgroundColor: 'rgba(75, 192, 192, 0.6)'
+                },
+                {
+                    label: 'TheFork',
+                    data: theforkHistogram,
+                    backgroundColor: 'rgba(255, 99, 132, 0.6)'
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Deals'
+                    }
+                },
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Deal Value / Estimated Savings Range (€)'
+                    }
+                }
+            }
+        }
+    });
+}
+
+function normalizeRestaurantName(name) {
+    return name.toLowerCase()
+               .replace(/\s+/g, '') // Remove all whitespace
+               .replace(/[^a-z0-9]/g, '') // Remove non-alphanumeric characters
+               .replace(/(vienna|wien)$/, ''); // Remove city name at the end
+}
+
+function printTheForkSampleData(theforkData, sampleSize = 10) {
+    console.log(`Sample of ${sampleSize} TheFork restaurants:`);
+    for (let i = 0; i < sampleSize && i < theforkData.length; i++) {
+        const restaurant = theforkData[i];
+        const estimatedSavings = calculateTheForkEstimatedSavings(restaurant);
+        console.log(`${restaurant.name}: ${estimatedSavings.toFixed(2)}€ (Average Price: ${restaurant.averagePrice}€, Discount: ${restaurant.marketingOffer.discountPercentage}%)`);
+    }
+}
+
+function updateAvgDealValueChart(neotasteData, theforkData) {
+    const ctx = document.getElementById('avgDealValueChart').getContext('2d');
+    const priceRanges = ['$', '$$', '$$$', '$$$$'];
+
+    const neotasteAvg = priceRanges.map(range => {
+        const filtered = neotasteData.filter(r => '$'.repeat(r.priceRange) === range);
+        const values = filtered.flatMap(r => r.deals ? r.deals.map(d => d.value) : []);
+        return values.length ? values.reduce((a, b) => a + b, 0) / values.length : 0;
+    });
+
+    const theforkAvg = priceRanges.map(range => {
+        const filtered = theforkData.filter(r => '$'.repeat(Math.ceil(r.averagePrice / 25)) === range);
+        const values = filtered.map(r => calculateTheForkEstimatedSavings(r));
+        return values.length ? values.reduce((a, b) => a + b, 0) / values.length : 0;
+    });
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: priceRanges,
+                datasets: [
+                    {
+                        label: 'Neotaste',
+                        data: neotasteAvg,
+                        backgroundColor: 'rgba(75, 192, 192, 0.6)'
+                    },
+                    {
+                        label: 'TheFork',
+                        data: theforkAvg,
+                        backgroundColor: 'rgba(255, 99, 132, 0.6)'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Average Deal Value (€)'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Price Range'
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function updateRestaurantCountChart(neotasteData, theforkData) {
+        const ctx = document.getElementById('restaurantCountChart').getContext('2d');
+        
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Neotaste', 'TheFork'],
+                datasets: [{
+                    label: 'Number of Restaurants',
+                    data: [neotasteData.length, theforkData.length],
+                    backgroundColor: ['rgba(75, 192, 192, 0.6)', 'rgba(255, 99, 132, 0.6)']
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Number of Restaurants'
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function printCommonRestaurants(commonRestaurants) {
+    console.log(`Found ${commonRestaurants.length} common restaurants:`);
+    commonRestaurants.forEach(({ neotaste, thefork }) => {
+        console.log(`Neotaste: "${neotaste.name}" matches TheFork: "${thefork.name}"`);
+    });
+}
+
+function printUnmatchedRestaurants(neotasteData, theforkData, commonRestaurants) {
+    const matchedNeotasteNames = new Set(commonRestaurants.map(r => r.neotaste.name));
+    const matchedTheForkNames = new Set(commonRestaurants.map(r => r.thefork.name));
+
+    console.log("Unmatched Neotaste restaurants:");
+    neotasteData.forEach(r => {
+        if (!matchedNeotasteNames.has(r.name)) {
+            console.log(r.name);
+        }
+    });
+
+    console.log("Unmatched TheFork restaurants:");
+    theforkData.forEach(r => {
+        if (!matchedTheForkNames.has(r.name)) {
+            console.log(r.name);
+        }
+    });
+}
+
+function updateTopRestaurantsComparisonChart(neotasteData, theforkData) {
+    const ctx = document.getElementById('topRestaurantsComparisonChart').getContext('2d');
+    
+    const commonRestaurants = findCommonRestaurants(neotasteData, theforkData);
+    printCommonRestaurants(commonRestaurants);
+    printUnmatchedRestaurants(neotasteData, theforkData, commonRestaurants);
+    const topCommon = commonRestaurants
+        .map(({ neotaste, thefork }) => ({
+            name: neotaste.name, // Use Neotaste name for consistency
+            neotasteValue: Math.max(...(neotaste.deals ? neotaste.deals.map(d => d.value) : [0])),
+            theforkValue: calculateTheForkEstimatedSavings(thefork)
+        }))
+        .sort((a, b) => (b.neotasteValue + b.theforkValue) - (a.neotasteValue + a.theforkValue))
+        .slice(0, 10);
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: topCommon.map(r => r.name),
+                datasets: [
+                    {
+                        label: 'Neotaste',
+                        data: topCommon.map(r => r.neotasteValue),
+                        backgroundColor: 'rgba(75, 192, 192, 0.6)'
+                    },
+                    {
+                        label: 'TheFork',
+                        data: topCommon.map(r => r.theforkValue),
+                        backgroundColor: 'rgba(255, 99, 132, 0.6)'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Deal Value (€)'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Restaurant'
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function updateOverlapAnalysis(neotasteData, theforkData) {
+    const overlapStats = document.getElementById('overlapStats');
+    
+    const commonRestaurants = findCommonRestaurants(neotasteData, theforkData);
+
+    const betterDeals = commonRestaurants.reduce((acc, { neotaste, thefork }) => {
+        const neotasteValue = Math.max(...(neotaste.deals ? neotaste.deals.map(d => d.value) : [0]));
+        const theforkValue = calculateTheForkEstimatedSavings(thefork);
+        
+        if (neotasteValue > theforkValue) acc.neotaste++;
+        else if (theforkValue > neotasteValue) acc.thefork++;
+        else acc.equal++;
+        
+        return acc;
+    }, { neotaste: 0, thefork: 0, equal: 0 });
+
+        overlapStats.innerHTML = `
+            <p>Total restaurants in Neotaste: ${neotasteData.length}</p>
+            <p>Total restaurants in TheFork: ${theforkData.length}</p>
+            <p>Restaurants in both datasets: ${commonRestaurants.length}</p>
+            <p>Better deals in Neotaste: ${betterDeals.neotaste}</p>
+            <p>Better deals in TheFork: ${betterDeals.thefork}</p>
+            <p>Equal deals: ${betterDeals.equal}</p>
+        `;
+    }
+
+    function createHistogram(data, numBins, maxValue = 50) {
+    const binSize = maxValue / numBins;
+    const histogram = new Array(numBins).fill(0);
+
+    data.forEach(value => {
+        const binIndex = Math.min(Math.floor(value / binSize), numBins - 1);
+        histogram[binIndex]++;
+    });
+
+    return histogram;
+}
+
+function calculateTheForkEstimatedSavings(restaurant) {
+    const discountPercentage = restaurant.marketingOffer.discountPercentage;
+    const averagePrice = restaurant.averagePrice;
+    return (averagePrice * discountPercentage / 100);
+}
+
+function verifyHistogram(data, histogram, binSize) {
+    const counts = new Array(histogram.length).fill(0);
+    data.forEach(value => {
+        const binIndex = Math.min(Math.floor(value / binSize), histogram.length - 1);
+        counts[binIndex]++;
+    });
+    console.log('Verified histogram:', counts);
+    console.log('Original histogram:', histogram);
+}
+
+function printHighTheForkEstimates(theforkData, threshold = 40) {
+    console.log(`Restaurants with TheFork estimated savings over ${threshold}€:`);
+    let count = 0;
+    theforkData.forEach(restaurant => {
+        const estimatedSavings = calculateTheForkEstimatedSavings(restaurant);
+        if (estimatedSavings > threshold) {
+            console.log(`${restaurant.name}: ${estimatedSavings.toFixed(2)}€ (Average Price: ${restaurant.averagePrice}€, Discount: ${restaurant.marketingOffer.discountPercentage}%)`);
+            count++;
+        }
+    });
+    console.log(`Total restaurants with estimates over ${threshold}€: ${count}`);
+}
+
+    function getDealValue(restaurant, source) {
+    if (source === 'neotaste') {
+        return Math.max(...(restaurant.deals ? restaurant.deals.map(d => d.value) : [0]));
+    } else { // TheFork
+        return calculateTheForkEstimatedSavings(restaurant);
+    }
+}
+
+
+    function formatCurrency(value) {
+        return new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' }).format(value);
+    }
+
+    function getRestaurantPriceRange(restaurant, source) {
+        if (source === 'neotaste') {
+            return '$'.repeat(restaurant.priceRange);
+        } else {
+            return '$'.repeat(Math.ceil(restaurant.averagePrice / 25));
+        }
+    }
+
+    function findCommonRestaurants(neotasteData, theforkData) {
+    const commonRestaurants = [];
+    
+    neotasteData.forEach(nr => {
+        const normalizedNeotasteName = normalizeRestaurantName(nr.name);
+        const matchingTheForkRestaurant = theforkData.find(tr => {
+            const normalizedTheForkName = normalizeRestaurantName(tr.name);
+            return normalizedTheForkName === normalizedNeotasteName ||
+                   normalizedTheForkName.includes(normalizedNeotasteName) ||
+                   normalizedNeotasteName.includes(normalizedTheForkName);
+        });
+        
+        if (matchingTheForkRestaurant) {
+            commonRestaurants.push({
+                neotaste: nr,
+                thefork: matchingTheForkRestaurant
+            });
+        }
+    });
+
+    return commonRestaurants;
+}
+
+    function calculateAverageDealValue(restaurants, source) {
+        const values = restaurants.map(r => getDealValue(r, source));
+        return values.length ? values.reduce((a, b) => a + b, 0) / values.length : 0;
+    }
+
+    // Add event listeners for exporting data
+    document.getElementById('exportCSV').addEventListener('click', exportToCSV);
+    document.getElementById('exportJSON').addEventListener('click', exportToJSON);
+
+    function exportToCSV() {
+        const data = prepareExportData();
+        const csv = convertToCSV(data);
+        downloadFile(csv, 'restaurant_comparison.csv', 'text/csv');
+    }
+
+    function exportToJSON() {
+        const data = prepareExportData();
+        const json = JSON.stringify(data, null, 2);
+        downloadFile(json, 'restaurant_comparison.json', 'application/json');
+    }
+
+    function prepareExportData() {
+    const commonRestaurants = findCommonRestaurants(neotasteRestaurants, theforkRestaurants);
+    return commonRestaurants.map(nr => {
+        const tr = theforkRestaurants.find(r => r.name.toLowerCase() === nr.name.toLowerCase());
+        return {
+            name: nr.name,
+            neotasteDealValue: getDealValue(nr, 'neotaste'),
+            theforkEstimatedSavings: calculateTheForkEstimatedSavings(tr),
+            neotastePriceRange: getRestaurantPriceRange(nr, 'neotaste'),
+            theforkPriceRange: getRestaurantPriceRange(tr, 'thefork'),
+            neotasteTags: nr.tags ? nr.tags.map(t => t.name).join(', ') : '',
+            theforkCuisine: tr.cuisine
+        };
+    });
+}
+
+    function convertToCSV(data) {
+        const header = Object.keys(data[0]).join(',');
+        const rows = data.map(obj => Object.values(obj).map(value => `"${value}"`).join(','));
+        return [header, ...rows].join('\n');
+    }
+
+    function downloadFile(content, fileName, contentType) {
+        const a = document.createElement('a');
+        const file = new Blob([content], {type: contentType});
+        a.href = URL.createObjectURL(file);
+        a.download = fileName;
+        a.click();
+        URL.revokeObjectURL(a.href);
+    }
+    </script>
+</body>
+</html>
