@@ -246,6 +246,6 @@ def process_city(city):
     save_structured_data(restaurants, city)
 
 if __name__ == "__main__":
-    cities = ["freiburg"]  # Add more cities as needed
+    cities = ["mainz","mannheim","frankfurt"]  # Add more cities as needed
     for city in cities:
         process_city(city)
