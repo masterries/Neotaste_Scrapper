@@ -35,7 +35,12 @@ def fetch_neotaste_data():
                     'latitude': restaurant.get('latitude'),
                     'longitude': restaurant.get('longitude'),
                     'deals': [],  # This will be populated later
-                    'tags': []    # This will be populated later
+                    'tags': [],   # This will be populated later
+                    'avgRating': restaurant.get('avgRating'),
+                    'ratingsCount': restaurant.get('ratingsCount'),
+                    'reviewsCount': restaurant.get('reviewsCount'),
+                    'images': [],  # This will be populated later
+                    'priceRange': restaurant.get('priceRange')
                 })
 
             total_pages += 1
@@ -59,6 +64,7 @@ def fetch_neotaste_data():
     print(f"Total pages: {total_pages}")
 
     return all_restaurants
+
 def fetch_restaurant_details(slug):
     url = f"https://api.neotaste.com/restaurants/{slug}/"
     headers = {
@@ -84,6 +90,11 @@ def fetch_restaurant_details(slug):
             'zipCode': data['data'].get('zipCode', ''),
             'latitude': data['data'].get('latitude'),
             'longitude': data['data'].get('longitude'),
+            'avgRating': data['data'].get('avgRating'),
+            'ratingsCount': data['data'].get('ratingsCount'),
+            'reviewsCount': data['data'].get('reviewsCount'),
+            'images': [img['url'] for img in data['data'].get('images', [])],
+            'priceRange': data['data'].get('priceRange')
         }
         
         return details
@@ -110,7 +121,7 @@ def save_structured_data(data):
     removed_restaurants = [r for r in previous_data if r['uuid'] not in [nr['uuid'] for nr in data]]
     existing_restaurants = [r for r in data if r['uuid'] in [pr['uuid'] for pr in previous_data]]
 
-    # Prepare daily changes with comprehensive deal information and address
+    # Prepare daily changes with comprehensive deal information, address, rating, images, and price range
     daily_changes = {
         'date': today,
         'new_restaurants': [{
@@ -120,7 +131,12 @@ def save_structured_data(data):
             'address': r.get('address', ''),
             'zipCode': r.get('zipCode', ''),
             'latitude': r.get('latitude', None),
-            'longitude': r.get('longitude', None)
+            'longitude': r.get('longitude', None),
+            'avgRating': r.get('avgRating'),
+            'ratingsCount': r.get('ratingsCount'),
+            'reviewsCount': r.get('reviewsCount'),
+            'images': r.get('images', []),
+            'priceRange': r.get('priceRange')
         } for r in new_restaurants],
         'removed_restaurants': [{
             'name': r['name'],
@@ -129,7 +145,12 @@ def save_structured_data(data):
             'address': r.get('address', ''),
             'zipCode': r.get('zipCode', ''),
             'latitude': r.get('latitude', None),
-            'longitude': r.get('longitude', None)
+            'longitude': r.get('longitude', None),
+            'avgRating': r.get('avgRating'),
+            'ratingsCount': r.get('ratingsCount'),
+            'reviewsCount': r.get('reviewsCount'),
+            'images': r.get('images', []),
+            'priceRange': r.get('priceRange')
         } for r in removed_restaurants],
         'existing_restaurants': [],
         'total_restaurants': len(data)
@@ -145,7 +166,9 @@ def save_structured_data(data):
             new_deals = [json.loads(d) for d in current_deals - previous_deals]
             removed_deals = [json.loads(d) for d in previous_deals - current_deals]
             
-            if new_deals or removed_deals:
+            if (new_deals or removed_deals or 
+                current['avgRating'] != previous['avgRating'] or
+                current['priceRange'] != previous['priceRange']):
                 daily_changes['existing_restaurants'].append({
                     'name': current['name'],
                     'uuid': current['uuid'],
@@ -155,7 +178,12 @@ def save_structured_data(data):
                     'address': current.get('address', ''),
                     'zipCode': current.get('zipCode', ''),
                     'latitude': current.get('latitude', None),
-                    'longitude': current.get('longitude', None)
+                    'longitude': current.get('longitude', None),
+                    'avgRating': current.get('avgRating'),
+                    'ratingsCount': current.get('ratingsCount'),
+                    'reviewsCount': current.get('reviewsCount'),
+                    'images': current.get('images', []),
+                    'priceRange': current.get('priceRange')
                 })
 
     # Save daily changes
@@ -180,7 +208,7 @@ def save_structured_data(data):
     })
     summary['last_updated'] = today
 
-    # Add full restaurant data including address to summary
+    # Add full restaurant data including address, rating, images, and price range to summary
     summary['restaurants'] = [{
         'name': r['name'],
         'uuid': r['uuid'],
@@ -188,7 +216,12 @@ def save_structured_data(data):
         'address': r.get('address', ''),
         'zipCode': r.get('zipCode', ''),
         'latitude': r.get('latitude', None),
-        'longitude': r.get('longitude', None)
+        'longitude': r.get('longitude', None),
+        'avgRating': r.get('avgRating'),
+        'ratingsCount': r.get('ratingsCount'),
+        'reviewsCount': r.get('reviewsCount'),
+        'images': r.get('images', []),
+        'priceRange': r.get('priceRange')
     } for r in data]
 
     with open('data/summary.json', 'w', encoding='utf-8') as f:
