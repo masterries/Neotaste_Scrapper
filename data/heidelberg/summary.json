@@ -39,9 +39,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 130
+    },
+    {
+      "date": "2024-09-01",
+      "total_restaurants": 62,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 124
     }
   ],
-  "last_updated": "2024-08-31",
+  "last_updated": "2024-09-01",
   "restaurants": [
     {
       "name": "uuuhmami",
@@ -114,8 +122,8 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.7,
-      "ratingsCount": 280,
-      "reviewsCount": 39,
+      "ratingsCount": 288,
+      "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
         "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/692c9c6c-90eb-49aa-81fb-5078812cf75c.jpeg",
@@ -197,8 +205,8 @@
       "latitude": 49.41158110736696,
       "longitude": 8.706618447238917,
       "avgRating": 4.7,
-      "ratingsCount": 401,
-      "reviewsCount": 62,
+      "ratingsCount": 403,
+      "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/46e07b6f-6415-4415-bd43-82a843b8703f/images/13b4db87-fba9-4c61-98a9-f1a0af6d7496.jpeg",
         "https://assets.neotaste.com/restaurants/46e07b6f-6415-4415-bd43-82a843b8703f/images/5d8c75e0-df21-4829-8cbf-8328d3b68cb6.jpeg",
@@ -359,8 +367,8 @@
       "latitude": 49.41269372285168,
       "longitude": 8.705578788779384,
       "avgRating": 4.9,
-      "ratingsCount": 217,
-      "reviewsCount": 21,
+      "ratingsCount": 221,
+      "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/dbcc5048-e1c8-4578-89c1-6793a903a8b3.jpeg",
         "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/ca402d1a-c0ae-4366-b990-13cd97e4edaf.jpeg",
@@ -400,7 +408,7 @@
       "latitude": 49.41379908954332,
       "longitude": 8.692495502696648,
       "avgRating": 4.9,
-      "ratingsCount": 106,
+      "ratingsCount": 109,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
@@ -488,48 +496,6 @@
       "priceRange": 2
     },
     {
-      "name": "coffee nerd - specialty coffee",
-      "uuid": "536d9ac6-ba2e-492e-8400-365d722388ad",
-      "deals": [
-        {
-          "uuid": "78175a99-cb8f-4530-3fcb-08dc6b86fbfb",
-          "name": "2für1 Heißgetränk + Franzbrötchen",
-          "conditions": "Du bestellst 2 Heißgetränke und 2 Franzbrötchen deiner Wahl, das jeweils günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "b4d26ffc-8f0f-41ac-3fcc-08dc6b86fbfb",
-          "name": "GRATIS Gebäck",
-          "conditions": "Du bestellst ein Heißgetränk deiner Wahl und bekommst ein Gebäck gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Fischmarkt 4",
-      "zipCode": "69117",
-      "latitude": 49.41236143207543,
-      "longitude": 8.709207553586495,
-      "avgRating": 4.9,
-      "ratingsCount": 107,
-      "reviewsCount": 15,
-      "images": [
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/d2b56880-16d3-4bc0-a031-47b259051df7.jpeg",
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/bbbd1eec-e006-4f23-8dba-5e429aa46d3c.jpeg",
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/27696ca8-bb7e-40ec-8d99-986e17324ae3.jpeg",
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/edf11310-5d7a-4924-ac83-cb7654e373a0.jpeg",
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/e33674a0-b582-4693-b60a-b93109a25e8d.jpeg",
-        "https://assets.neotaste.com/restaurants/137a42b7-f1cb-4197-9613-08bc220dfa79/images/37d5b011-6668-40da-8ca1-e7588f6e1325.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "deer",
       "uuid": "ed6d1286-81a5-4ec9-81ee-adf62531e25b",
       "deals": [
@@ -599,7 +565,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.9,
-      "ratingsCount": 195,
+      "ratingsCount": 202,
       "reviewsCount": 34,
       "images": [
         "https://assets.neotaste.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/3df9389f-8ae8-48f1-9b2e-818ba97cac06.jpeg",
@@ -640,9 +606,9 @@
       "zipCode": "69117",
       "latitude": 49.41198391712379,
       "longitude": 8.700298358895566,
-      "avgRating": 4.8,
-      "ratingsCount": 5,
-      "reviewsCount": 3,
+      "avgRating": 4.7,
+      "ratingsCount": 6,
+      "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/b2a173d3-806b-43e0-8df7-509440bc67ef/images/5b787f90-91fd-4c3a-964c-ebd6fdcc123e.jpeg",
         "https://assets.neotaste.com/restaurants/b2a173d3-806b-43e0-8df7-509440bc67ef/images/e81b6de6-0072-46dd-98a6-caa06b5e36ac.jpeg",
@@ -721,7 +687,7 @@
       "latitude": 49.40763001962318,
       "longitude": 8.683590030059989,
       "avgRating": 4.9,
-      "ratingsCount": 165,
+      "ratingsCount": 166,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/6d0233d4-669d-481f-b42b-cf974bcb64d8/images/70af5e1d-36e3-44fa-9515-3d20845aead8.jpeg",
@@ -767,7 +733,7 @@
       "latitude": 49.41141481622605,
       "longitude": 8.70894370582841,
       "avgRating": 4.9,
-      "ratingsCount": 15,
+      "ratingsCount": 17,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/c880bdcf-21fb-4360-8858-594765109162/images/9d35dc62-77fa-495a-b52b-a0f33d0d9144.jpeg"
@@ -804,7 +770,7 @@
       "latitude": 49.40341666356518,
       "longitude": 8.665735235206025,
       "avgRating": 5,
-      "ratingsCount": 30,
+      "ratingsCount": 31,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/b3578c56-8f28-47fa-b466-17d62d677742/images/788a733c-c678-4e9c-abb9-72378ac21e1b.jpeg",
@@ -881,7 +847,7 @@
       "latitude": 49.40854393112112,
       "longitude": 8.689889188037249,
       "avgRating": 4.9,
-      "ratingsCount": 72,
+      "ratingsCount": 73,
       "reviewsCount": 19,
       "images": [
         "https://assets.neotaste.com/restaurants/dd59eb91-de14-48f1-aab6-422ff06f07ca/images/93a52bae-e06e-489a-9642-99fef0e363ce.jpeg",
@@ -1011,45 +977,6 @@
       "priceRange": 2
     },
     {
-      "name": "BENT Café-Bagel",
-      "uuid": "102b14da-5831-4cf5-aecb-9e8285f88554",
-      "deals": [
-        {
-          "uuid": "27bc43a0-fa7b-4c4e-a8a4-08dc6b82761c",
-          "name": "2für1 Heißgetränk + Kuchen",
-          "conditions": "Du bestellst 2 Heißgetränk und 2 Kuchen deiner Wahl, der jeweils günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 9,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "edd42b23-c84f-4db4-a8a5-08dc6b82761c",
-          "name": "GRATIS Kaffee",
-          "conditions": "Du bestellst ein Stück Bagel deiner Wahl und bekommst ein Kaffee gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Hauptstraße 15",
-      "zipCode": "69117",
-      "latitude": 49.4101440468173,
-      "longitude": 8.694836811962551,
-      "avgRating": 4.9,
-      "ratingsCount": 40,
-      "reviewsCount": 11,
-      "images": [
-        "https://assets.neotaste.com/restaurants/0ce061f4-d1ae-45f4-87ad-3a71e2760019/images/7177f55e-641f-4688-b43a-6da7023cdc58.jpeg",
-        "https://assets.neotaste.com/restaurants/0ce061f4-d1ae-45f4-87ad-3a71e2760019/images/31240928-f7d6-4c6c-82bf-6f8303f3abf1.jpeg",
-        "https://assets.neotaste.com/restaurants/0ce061f4-d1ae-45f4-87ad-3a71e2760019/images/2594cb86-345d-4583-822b-eecf9454785b.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Natna Buna",
       "uuid": "bd29b32d-f04f-410e-9d5b-5e93b6d5fba3",
       "deals": [
@@ -1117,7 +1044,7 @@
       "latitude": 49.41236752075998,
       "longitude": 8.710204230365,
       "avgRating": 4.8,
-      "ratingsCount": 70,
+      "ratingsCount": 71,
       "reviewsCount": 18,
       "images": [
         "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/7ad53322-c201-481e-bce7-ab63684d1781.jpeg",
@@ -1509,7 +1436,7 @@
       "latitude": 49.41225850724958,
       "longitude": 8.70777798834335,
       "avgRating": 4.9,
-      "ratingsCount": 68,
+      "ratingsCount": 69,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/35d195e8-0d8a-4c4a-b9d7-2bae0a0a7549.jpeg",
@@ -1590,8 +1517,8 @@
       "zipCode": "69126",
       "latitude": 49.38516364778641,
       "longitude": 8.682832953799672,
-      "avgRating": 4.8,
-      "ratingsCount": 66,
+      "avgRating": 4.9,
+      "ratingsCount": 67,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
@@ -1672,8 +1599,8 @@
       "zipCode": "69115",
       "latitude": 49.40884059964738,
       "longitude": 8.692244170174977,
-      "avgRating": 4.8,
-      "ratingsCount": 57,
+      "avgRating": 4.7,
+      "ratingsCount": 58,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/d8ebff84-9778-4d16-a0d2-2f5cc32976b1.jpeg",
@@ -1714,56 +1641,14 @@
       "latitude": 49.41225916217255,
       "longitude": 8.707785429447783,
       "avgRating": 5,
-      "ratingsCount": 19,
-      "reviewsCount": 4,
+      "ratingsCount": 20,
+      "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/57f42833-3926-4a24-bfa1-4736ebecda24.jpeg",
         "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/a10df9f6-2e84-490f-a10c-e2da1a271574.jpeg",
         "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/00e11ddd-4112-4754-89b4-fba44934462e.jpeg"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "PANNO",
-      "uuid": "550a9b7c-a840-41c4-a9b4-0541b1fb808c",
-      "deals": [
-        {
-          "uuid": "50b8a7d3-5ab4-40e3-a8bf-08dc6b82761c",
-          "name": "2für1 Kaffee + Cookie",
-          "conditions": "Du bestellst 2 Kaffees und 2 Cookie deiner Wahl, der jeweils günstigere/preisgleiche wird nicht berechnet (Ausgenommen Spezialitäten, erkundige dich hierzu beim Personal)",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "bdda3234-8d87-4389-a8c0-08dc6b82761c",
-          "name": "GRATIS Espresso",
-          "conditions": "Du bestellst ein Stück Kuchen deiner Wahl und bekommst einen Singleshot Espresso gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Ingrimstraße 22",
-      "zipCode": "69117",
-      "latitude": 49.41128977997316,
-      "longitude": 8.71026292944776,
-      "avgRating": 4.2,
-      "ratingsCount": 11,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/b8042388-9a32-4eb7-bed8-c1b97039bef1.jpeg",
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/0e10172e-2ed8-4fa8-a1f3-4ce196e5dae8.jpeg",
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/7dd19094-7995-43fa-b3a1-5e25018f2fd7.jpeg",
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/01d5cc3d-f126-43fa-ad07-3fa14feaf687.jpeg",
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/51709059-0fe6-4477-97e7-773490dd36a2.jpeg",
-        "https://assets.neotaste.com/restaurants/d2ad4aae-d9f6-499d-9004-4b779bb19746/images/062ed3d7-a3b7-494e-b517-c9aa3628d83a.jpeg"
-      ],
-      "priceRange": 1
     },
     {
       "name": "Zekis Uni Café Heidelberg",
@@ -1835,7 +1720,7 @@
       "latitude": 49.41197568439438,
       "longitude": 8.706548281291392,
       "avgRating": 4.9,
-      "ratingsCount": 103,
+      "ratingsCount": 108,
       "reviewsCount": 19,
       "images": [
         "https://assets.neotaste.com/restaurants/641fd42a-a26d-4e71-b663-63be3c34eeac/images/6bf7af93-00d9-4209-a24d-938aea9ec9d9.jpeg",
@@ -1914,7 +1799,7 @@
       "latitude": 49.39603329103342,
       "longitude": 8.680684632571127,
       "avgRating": 5,
-      "ratingsCount": 39,
+      "ratingsCount": 40,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/aecc3a6e-29d8-47b7-b0a5-d421efaedf3d.jpeg",
@@ -2075,7 +1960,7 @@
       "latitude": 49.41131614369048,
       "longitude": 8.711970070552214,
       "avgRating": 4.9,
-      "ratingsCount": 53,
+      "ratingsCount": 54,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/594f058b-e77e-4d0e-92ba-700e7e452e4b.jpeg",
@@ -2115,8 +2000,8 @@
       "zipCode": "69117",
       "latitude": 49.41152838095729,
       "longitude": 8.703814588406802,
-      "avgRating": 4.9,
-      "ratingsCount": 16,
+      "avgRating": 4.8,
+      "ratingsCount": 17,
       "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
@@ -2513,7 +2398,7 @@
       "latitude": 49.41320827082418,
       "longitude": 8.708922464723862,
       "avgRating": 4.8,
-      "ratingsCount": 40,
+      "ratingsCount": 41,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/3f5114a9-42eb-4f34-98f6-497045139764/images/63250583-03d5-47ee-b608-594fef3b62ad.jpeg",
