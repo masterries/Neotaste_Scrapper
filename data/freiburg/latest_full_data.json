@@ -41,7 +41,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 234,
+    "ratingsCount": 240,
     "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/1e7b2281-eb74-47aa-be90-ebd04f5cf78e/images/e726546c-a51f-46a9-ac85-10706ffdef7e.jpeg",
@@ -94,7 +94,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 77,
+    "ratingsCount": 79,
     "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/fe3243e0-1731-443b-8118-195e9f317d00.jpeg",
@@ -152,7 +152,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 204,
+    "ratingsCount": 205,
     "reviewsCount": 27,
     "images": [
       "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -260,8 +260,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 119,
-    "reviewsCount": 27,
+    "ratingsCount": 123,
+    "reviewsCount": 28,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/9aee18c4-da0e-498b-9404-05133ccd91ae.jpeg",
@@ -316,8 +316,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 22,
-    "reviewsCount": 4,
+    "ratingsCount": 23,
+    "reviewsCount": 5,
     "images": [
       "https://assets.neotaste.com/restaurants/73f32121-ff60-44ba-b5e3-a8d8f1b461d4/images/01b0e13f-a671-4867-9a0e-f1591a6ee6df.jpeg",
       "https://assets.neotaste.com/restaurants/73f32121-ff60-44ba-b5e3-a8d8f1b461d4/images/59046cb7-5aa3-458f-a5a9-a2abfb217bb0.jpeg",
@@ -530,6 +530,59 @@
     "priceRange": 2
   },
   {
+    "uuid": "671cfcdc-dcff-4235-9803-3c885ae54000",
+    "name": "Maria Bar",
+    "slug": "maria-bar",
+    "address": "Löwenstraße 3-7",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.99414363899047,
+    "longitude": 7.848129837891096,
+    "deals": [
+      {
+        "uuid": "27686795-45d2-4366-7a44-08dca240e941",
+        "name": "2for1 Burger",
+        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 21,
+        "daysToReset": 90,
+        "status": "available",
+        "timeframeGroups": []
+      },
+      {
+        "uuid": "fa156c36-65fd-48ca-7a45-08dca240e941",
+        "name": "GRATIS Tea",
+        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst einen homemade Tea gratis dazu.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available",
+        "timeframeGroups": []
+      }
+    ],
+    "tags": [
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 260,
+    "reviewsCount": 51,
+    "images": [
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/649b97db-3d05-4b5d-b7da-6de0722d2369.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/d593faf3-382f-4e24-9f5e-613cf087ea73.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/900ca06b-9e3e-43b4-ac7f-9ee3427730c9.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/9936fcd2-dffc-4cee-bab5-3f8f8e290749.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "7ee48cf6-ce0d-42ee-88f8-375bbe1b3ced",
     "name": "CHLOÉ",
     "slug": "chloe",
@@ -628,7 +681,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 49,
+    "ratingsCount": 52,
     "reviewsCount": 5,
     "images": [
       "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/d5fb635b-2654-4ae6-954e-43932393284a.jpeg",
@@ -686,7 +739,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 10,
+    "ratingsCount": 11,
     "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/d0ec65c4-3141-41ce-a940-4584d7c5f90b.png",
@@ -801,7 +854,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 85,
+    "ratingsCount": 87,
     "reviewsCount": 19,
     "images": [
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/add0033f-1b91-4cd9-83b7-87ef02de4a41.jpeg",
@@ -858,7 +911,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 78,
+    "ratingsCount": 79,
     "reviewsCount": 11,
     "images": [
       "https://assets.neotaste.com/restaurants/186a5fc7-6eda-4145-aaf4-80d0c73aecf8/images/998016f2-a42a-4ae2-bc20-e257c28e5c30.jpeg",
@@ -1030,7 +1083,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 36,
+    "ratingsCount": 37,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
@@ -1358,8 +1411,8 @@
         "name": "Dessert"
       }
     ],
-    "avgRating": 4.7,
-    "ratingsCount": 3,
+    "avgRating": 4.8,
+    "ratingsCount": 4,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/6d2adc07-dafd-44a1-929d-419d40a98ae3/images/56a784d1-a843-4935-b254-5811227711a3.jpeg",
@@ -1411,7 +1464,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 44,
+    "ratingsCount": 45,
     "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/5ca64d36-4c1e-4de3-b810-d83a432536a1/images/13e9a83e-151c-40f8-b6d7-06c2c8382774.jpeg",
@@ -1512,8 +1565,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 105,
-    "reviewsCount": 35,
+    "ratingsCount": 106,
+    "reviewsCount": 36,
     "images": [
       "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/23f9ff26-1ad9-4f8d-93fa-586569dc6f9c.jpeg",
       "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/92819f04-f157-48e2-8ae2-c2e5dc0c3d8a.jpeg",
@@ -1677,7 +1730,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 43,
+    "ratingsCount": 46,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/ab53b459-5f3a-41c0-a112-b711e5183866/images/f84ac08a-51f0-482c-bf4b-869cdeded85f.jpeg",
@@ -2059,7 +2112,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 26,
+    "ratingsCount": 30,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/6e1f8d4e-f39e-47a7-afff-6a02fd50497f/images/2cb95689-2afe-4e02-bf3c-8e0d0b517d7b.jpeg",
@@ -2109,7 +2162,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 2,
+    "ratingsCount": 3,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/1891990b-1e7b-4266-ac61-c7440bd76d18/images/8df6ebd4-0479-4d19-9ef1-0e3310380860.jpeg",
@@ -2211,7 +2264,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 15,
+    "ratingsCount": 17,
     "reviewsCount": 3,
     "images": [
       "https://assets.neotaste.com/restaurants/6dff8d96-c155-402d-80e6-db3b3372ce22/images/b7897150-8f95-4dce-af78-3fc0720f1b9d.jpeg",
@@ -2264,7 +2317,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 44,
+    "ratingsCount": 45,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
@@ -2378,59 +2431,6 @@
     "reviewsCount": 0,
     "images": [
       "https://assets.neotaste.com/restaurants/392b6f10-3aff-4dbf-b0df-7bd04654efc0/images/dfed24b7-be4e-4022-bd3a-20c9d11b4841.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "671cfcdc-dcff-4235-9803-3c885ae54000",
-    "name": "Maria Bar",
-    "slug": "maria-bar",
-    "address": "Löwenstraße 3-7",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.99414363899047,
-    "longitude": 7.848129837891096,
-    "deals": [
-      {
-        "uuid": "27686795-45d2-4366-7a44-08dca240e941",
-        "name": "2for1 Burger",
-        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 21,
-        "daysToReset": 90,
-        "status": "available",
-        "timeframeGroups": []
-      },
-      {
-        "uuid": "fa156c36-65fd-48ca-7a45-08dca240e941",
-        "name": "GRATIS Tea",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst einen homemade Tea gratis dazu.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available",
-        "timeframeGroups": []
-      }
-    ],
-    "tags": [
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 253,
-    "reviewsCount": 50,
-    "images": [
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/649b97db-3d05-4b5d-b7da-6de0722d2369.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/d593faf3-382f-4e24-9f5e-613cf087ea73.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/900ca06b-9e3e-43b4-ac7f-9ee3427730c9.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/9936fcd2-dffc-4cee-bab5-3f8f8e290749.jpeg"
     ],
     "priceRange": 2
   },
@@ -2690,7 +2690,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 254,
+    "ratingsCount": 256,
     "reviewsCount": 39,
     "images": [
       "https://assets.neotaste.com/restaurants/3ddcf1b1-bc5c-4904-bfdb-0399234d89fb/images/25f21a35-4a06-437c-86be-fe49e8678bcc.jpeg",
@@ -2859,63 +2859,6 @@
       "https://assets.neotaste.com/restaurants/09d3268d-3ac0-4692-8bc3-948fb683f0b3/images/6eb4b35b-fde7-4d2b-bdad-b67dc40337c9.jpeg",
       "https://assets.neotaste.com/restaurants/09d3268d-3ac0-4692-8bc3-948fb683f0b3/images/d39b5286-38c0-4d42-995c-3123ba92ff63.jpeg",
       "https://assets.neotaste.com/restaurants/09d3268d-3ac0-4692-8bc3-948fb683f0b3/images/9c989acc-782b-4e90-b71b-3d385d8e293a.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "94d79b0e-492c-4e5f-a921-69fb04b6ffbd",
-    "name": "Légère",
-    "slug": "legere",
-    "address": "Niemensstraße 8",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.9943591411248,
-    "longitude": 7.848288643330129,
-    "deals": [
-      {
-        "uuid": "81a36245-ed23-4d53-405d-08dca3792a70",
-        "name": "2für1 Hauptgericht",
-        "conditions": "Du bestellst 2 Hauptgerichte deiner Wahl, das günstigere/preisgleiche wird nicht berechnet. Gültig für Pastagerichte, Flammkuchen, oder Burger. ",
-        "locationCondition": "onSite",
-        "value": 19,
-        "daysToReset": 90,
-        "status": "available",
-        "timeframeGroups": []
-      },
-      {
-        "uuid": "c1251114-fbc3-474a-405e-08dca3792a70",
-        "name": "GRATIS Heißgetränk",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available",
-        "timeframeGroups": []
-      }
-    ],
-    "tags": [
-      {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "pasta",
-        "name": "Pasta"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 6,
-    "reviewsCount": 1,
-    "images": [
-      "https://assets.neotaste.com/restaurants/9259b101-5f07-4344-af32-ee070b9c2886/images/b2f4261a-2bcc-4711-9ff4-5041f23f2d02.jpeg",
-      "https://assets.neotaste.com/restaurants/9259b101-5f07-4344-af32-ee070b9c2886/images/2fd6ef36-83b7-43d4-bbcf-0826fea775ff.jpeg",
-      "https://assets.neotaste.com/restaurants/9259b101-5f07-4344-af32-ee070b9c2886/images/c230045c-4bf1-40cf-b315-0d8c06ea6b70.jpeg",
-      "https://assets.neotaste.com/restaurants/9259b101-5f07-4344-af32-ee070b9c2886/images/9c6f086e-e548-4f83-a838-3613724e3bab.jpeg",
-      "https://assets.neotaste.com/restaurants/9259b101-5f07-4344-af32-ee070b9c2886/images/34eaec31-d285-46d8-83d2-d0b47202bb76.jpeg"
     ],
     "priceRange": 2
   },
@@ -3124,7 +3067,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 211,
+    "ratingsCount": 212,
     "reviewsCount": 38,
     "images": [
       "https://assets.neotaste.com/restaurants/e5fcc7ae-efbf-45c7-bd48-03e4452151ac/images/31b12279-8d83-4207-999e-69c9408f02e8.jpeg",
@@ -3134,7 +3077,7 @@
     "priceRange": 2
   },
   {
-    "uuid": "frederics-cocktail-club",
+    "uuid": "a209fda3-9135-426f-bac3-ef311bd8a1c6",
     "name": "FREDERICS Cocktail Club",
     "slug": "frederics-cocktail-club",
     "address": "Leopoldring 1",
