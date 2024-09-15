@@ -159,9 +159,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 110
+    },
+    {
+      "date": "2024-09-15",
+      "total_restaurants": 55,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2024-09-14",
+  "last_updated": "2024-09-15",
   "restaurants": [
     {
       "name": "Helder & Leeuwen Café",
@@ -479,7 +487,7 @@
       "latitude": 49.48571991705016,
       "longitude": 8.466781901236262,
       "avgRating": 4.9,
-      "ratingsCount": 285,
+      "ratingsCount": 286,
       "reviewsCount": 82,
       "images": [
         "https://assets.neotaste.com/restaurants/d98d76a3-10b0-4209-ad79-b990f15836e4/images/a6307d84-802d-4288-a5f3-2a89a427c8c5.jpeg"
@@ -760,7 +768,7 @@
       "latitude": 49.48766253594116,
       "longitude": 8.470548980941285,
       "avgRating": 4.8,
-      "ratingsCount": 98,
+      "ratingsCount": 99,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
@@ -845,8 +853,8 @@
       "latitude": 49.4859128082442,
       "longitude": 8.46246848834337,
       "avgRating": 4.9,
-      "ratingsCount": 154,
-      "reviewsCount": 29,
+      "ratingsCount": 155,
+      "reviewsCount": 30,
       "images": [
         "https://assets.neotaste.com/restaurants/ebfa4c88-95d7-4df0-ba74-39b0f955f628/images/3dd29892-cec4-4720-96da-5ac40bc4ca6a.jpeg"
       ],
@@ -882,7 +890,7 @@
       "latitude": 49.49711959525272,
       "longitude": 8.476186311820861,
       "avgRating": 4.7,
-      "ratingsCount": 15,
+      "ratingsCount": 16,
       "reviewsCount": 3,
       "images": [
         "https://assets.neotaste.com/restaurants/f0115d85-6b94-412d-b4ca-df43520716c3/images/32e5176e-1242-405c-aabc-c2632f1f4f14.png",
@@ -1082,7 +1090,7 @@
       "latitude": 49.49399999102627,
       "longitude": 8.460476217691511,
       "avgRating": 5,
-      "ratingsCount": 6,
+      "ratingsCount": 7,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/409c60c0-d1f2-4d1f-844b-ec4a93e17b8f/images/ebebd364-c865-46fd-9751-b6d8f189e5fe.jpeg",
@@ -1161,7 +1169,7 @@
       "latitude": 49.494598,
       "longitude": 8.463426,
       "avgRating": 4.8,
-      "ratingsCount": 84,
+      "ratingsCount": 85,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/175da916-0d04-4ea0-9afa-de699f5be395/images/91c8467d-7ad0-4c6e-bafd-02e25b0e04fb.jpeg",
@@ -1318,7 +1326,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 212,
+      "ratingsCount": 214,
       "reviewsCount": 32,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -1393,7 +1401,7 @@
       "latitude": 49.48003271630078,
       "longitude": 8.48048845189209,
       "avgRating": 4.8,
-      "ratingsCount": 67,
+      "ratingsCount": 68,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/677cb8b2-c508-422e-86a1-6965e82d0fb8.jpeg",
@@ -1605,40 +1613,15 @@
     {
       "name": "Manti Manufaktur",
       "uuid": "b192df51-4cd6-482d-969f-4c625f49372d",
-      "deals": [
-        {
-          "uuid": "57f09b5f-37e8-4532-4686-08dc7f0ae955",
-          "name": "10€ Discount",
-          "conditions": "From a minimum order value of 25€ you get 10€ discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "cc120c9d-68b6-4864-4687-08dc7f0ae955",
-          "name": "GRATIS Milchreis-Dessert",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Milchreis-Dessert gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 0,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Zielstraße 14",
-      "zipCode": "68169",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.50669938432599,
       "longitude": 8.498023888482072,
       "avgRating": 4.9,
       "ratingsCount": 20,
-      "reviewsCount": 7,
-      "images": [
-        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/d3b4f512-74ca-4a7a-8a99-05e6824baa17.jpeg",
-        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/6aed92b6-0e57-4452-8a73-ba797e2c5a97.jpeg",
-        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/7eaeab34-7a53-44f7-ab20-a86140464457.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
@@ -2025,7 +2008,7 @@
       "latitude": 49.49457137743799,
       "longitude": 8.378757652843703,
       "avgRating": 4.9,
-      "ratingsCount": 67,
+      "ratingsCount": 68,
       "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/8353ced6-8e95-42fd-b274-adb989eab0ac/images/1554f0f4-3b76-41d5-9d70-d8cb608d26b2.jpeg",
@@ -2143,7 +2126,7 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.9,
-      "ratingsCount": 323,
+      "ratingsCount": 326,
       "reviewsCount": 38,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
@@ -2303,9 +2286,9 @@
       "zipCode": "68165",
       "latitude": 49.4826819,
       "longitude": 8.4774795,
-      "avgRating": 4.7,
-      "ratingsCount": 7,
-      "reviewsCount": 0,
+      "avgRating": 4.6,
+      "ratingsCount": 8,
+      "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/6f87c530-1ec9-4ef6-bbc1-7a50a8f3f891.jpeg",
