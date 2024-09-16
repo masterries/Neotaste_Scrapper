@@ -167,9 +167,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 108
+    },
+    {
+      "date": "2024-09-16",
+      "total_restaurants": 55,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 110
     }
   ],
-  "last_updated": "2024-09-15",
+  "last_updated": "2024-09-16",
   "restaurants": [
     {
       "name": "Helder & Leeuwen Café",
@@ -564,7 +572,7 @@
       "latitude": 49.4809112453207,
       "longitude": 8.472518434705705,
       "avgRating": 4.4,
-      "ratingsCount": 28,
+      "ratingsCount": 29,
       "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/7eebf2fe-20cd-454d-8165-fadfe6379576/images/b885c67c-39db-40a3-a715-b0ecf718b892.jpeg",
@@ -930,8 +938,8 @@
       "latitude": 49.47569775730934,
       "longitude": 8.472454841104417,
       "avgRating": 4.7,
-      "ratingsCount": 304,
-      "reviewsCount": 39,
+      "ratingsCount": 305,
+      "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/9d21245f-55ae-40bc-87e4-e0a2dcbf639e.jpeg",
         "https://assets.neotaste.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/6d18ee58-2a92-4a68-b924-68b7f73805ac.jpeg",
@@ -1401,7 +1409,7 @@
       "latitude": 49.48003271630078,
       "longitude": 8.48048845189209,
       "avgRating": 4.8,
-      "ratingsCount": 68,
+      "ratingsCount": 70,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/677cb8b2-c508-422e-86a1-6965e82d0fb8.jpeg",
@@ -1613,15 +1621,40 @@
     {
       "name": "Manti Manufaktur",
       "uuid": "b192df51-4cd6-482d-969f-4c625f49372d",
-      "deals": [],
-      "address": "",
-      "zipCode": "",
+      "deals": [
+        {
+          "uuid": "57f09b5f-37e8-4532-4686-08dc7f0ae955",
+          "name": "10€ Discount",
+          "conditions": "From a minimum order value of 25€ you get 10€ discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available",
+          "timeframeGroups": []
+        },
+        {
+          "uuid": "cc120c9d-68b6-4864-4687-08dc7f0ae955",
+          "name": "GRATIS Milchreis-Dessert",
+          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Milchreis-Dessert gratis dazu.",
+          "locationCondition": "onSite",
+          "value": 0,
+          "daysToReset": 90,
+          "status": "available",
+          "timeframeGroups": []
+        }
+      ],
+      "address": "Zielstraße 14",
+      "zipCode": "68169",
       "latitude": 49.50669938432599,
       "longitude": 8.498023888482072,
       "avgRating": 4.9,
       "ratingsCount": 20,
-      "reviewsCount": null,
-      "images": [],
+      "reviewsCount": 7,
+      "images": [
+        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/d3b4f512-74ca-4a7a-8a99-05e6824baa17.jpeg",
+        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/6aed92b6-0e57-4452-8a73-ba797e2c5a97.jpeg",
+        "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/7eaeab34-7a53-44f7-ab20-a86140464457.jpeg"
+      ],
       "priceRange": 2
     },
     {
@@ -1967,8 +2000,8 @@
       "latitude": 49.48492887404121,
       "longitude": 8.466949117791136,
       "avgRating": 4.8,
-      "ratingsCount": 81,
-      "reviewsCount": 23,
+      "ratingsCount": 82,
+      "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/ba41b8ac-560f-4612-a089-9634f6dbcded/images/40545234-24f7-4a1e-bdb0-8aa021cd96b1.jpeg",
         "https://assets.neotaste.com/restaurants/ba41b8ac-560f-4612-a089-9634f6dbcded/images/3df5d428-179a-4417-8990-6cfba8dd2e5c.jpeg",
@@ -2167,7 +2200,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 97,
+      "ratingsCount": 98,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -2208,7 +2241,7 @@
       "latitude": 49.50567626643245,
       "longitude": 8.524821068851372,
       "avgRating": 4.9,
-      "ratingsCount": 16,
+      "ratingsCount": 17,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/57c8d6de-6d12-40c2-a35b-a7e260d6beab/images/1fa20109-a89f-49d1-827d-de2af07bd905.jpeg",
@@ -2286,8 +2319,8 @@
       "zipCode": "68165",
       "latitude": 49.4826819,
       "longitude": 8.4774795,
-      "avgRating": 4.6,
-      "ratingsCount": 8,
+      "avgRating": 4.7,
+      "ratingsCount": 9,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -2330,8 +2363,8 @@
       "zipCode": "68159",
       "latitude": 49.4917327,
       "longitude": 8.463134799999997,
-      "avgRating": 0,
-      "ratingsCount": 0,
+      "avgRating": 5,
+      "ratingsCount": 1,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
