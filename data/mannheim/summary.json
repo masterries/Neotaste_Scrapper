@@ -191,9 +191,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 110
+    },
+    {
+      "date": "2024-09-19",
+      "total_restaurants": 55,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2024-09-18",
+  "last_updated": "2024-09-19",
   "restaurants": [
     {
       "name": "Helder & Leeuwen Café",
@@ -225,7 +233,7 @@
       "latitude": 49.48551335618428,
       "longitude": 8.467484375937062,
       "avgRating": 4.9,
-      "ratingsCount": 525,
+      "ratingsCount": 529,
       "reviewsCount": 47,
       "images": [
         "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/64406e1f-af54-461a-92d2-6bc927ecc945.jpeg",
@@ -426,7 +434,7 @@
       "latitude": 49.48671591723745,
       "longitude": 8.478277226998514,
       "avgRating": 4.8,
-      "ratingsCount": 23,
+      "ratingsCount": 24,
       "reviewsCount": 3,
       "images": [
         "https://assets.neotaste.com/restaurants/beb92e9f-8e16-4eac-bdc2-1e82bd1a8574/images/3dc77d06-d35c-4390-9ba9-2c5610cf4c94.jpeg",
@@ -750,7 +758,7 @@
       "latitude": 49.49515428276587,
       "longitude": 8.459738447238948,
       "avgRating": 4.9,
-      "ratingsCount": 212,
+      "ratingsCount": 213,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/7f0966ea-e82c-44ad-9055-62e511c90ad1.jpeg",
@@ -877,7 +885,7 @@
       "latitude": 49.4859128082442,
       "longitude": 8.46246848834337,
       "avgRating": 4.9,
-      "ratingsCount": 155,
+      "ratingsCount": 156,
       "reviewsCount": 30,
       "images": [
         "https://assets.neotaste.com/restaurants/ebfa4c88-95d7-4df0-ba74-39b0f955f628/images/3dd29892-cec4-4720-96da-5ac40bc4ca6a.jpeg"
@@ -1350,8 +1358,8 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 214,
-      "reviewsCount": 32,
+      "ratingsCount": 215,
+      "reviewsCount": 33,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
       ],
@@ -1947,43 +1955,15 @@
     {
       "name": "Picknick Mannheim",
       "uuid": "bff4801c-d29b-48b2-87a6-f5f8e833aece",
-      "deals": [
-        {
-          "uuid": "7d5602b9-5d9c-4e6f-3f5b-08dc99bd92ec",
-          "name": "2for1 Coffee + Cake",
-          "conditions": "You order 2 coffees and 2 cakes of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "5a605ff6-17bc-4be8-b704-08dbf72dcfc9",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 0,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Q4 1",
-      "zipCode": "68161",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.4873691010289,
       "longitude": 8.469708764723897,
       "avgRating": 5,
-      "ratingsCount": 174,
-      "reviewsCount": 57,
-      "images": [
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/27253420-05de-4487-abb5-98c7ea967065.jpeg",
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/b2154937-0450-4acf-9cd4-0cb6be812218.jpeg",
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/36710390-9199-4278-b9b4-4b710289a104.jpeg",
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/c4ae7175-39fd-4794-8a48-51fbbd4f283f.jpeg",
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/f69336a2-1e4e-4780-990e-82d74edc91e0.jpeg",
-        "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/2bfd0ac8-ca80-4b89-8a72-82ef0935a53f.jpeg"
-      ],
+      "ratingsCount": 175,
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
@@ -2016,7 +1996,7 @@
       "latitude": 49.48492887404121,
       "longitude": 8.466949117791136,
       "avgRating": 4.8,
-      "ratingsCount": 84,
+      "ratingsCount": 85,
       "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/ba41b8ac-560f-4612-a089-9634f6dbcded/images/40545234-24f7-4a1e-bdb0-8aa021cd96b1.jpeg",
@@ -2215,8 +2195,8 @@
       "zipCode": "68165",
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
-      "avgRating": 4.9,
-      "ratingsCount": 99,
+      "avgRating": 5,
+      "ratingsCount": 100,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -2380,8 +2360,8 @@
       "latitude": 49.4917327,
       "longitude": 8.463134799999997,
       "avgRating": 5,
-      "ratingsCount": 1,
-      "reviewsCount": 0,
+      "ratingsCount": 2,
+      "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
         "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/8b49677d-901f-4aa5-9157-74cebf8ea759.jpeg",
