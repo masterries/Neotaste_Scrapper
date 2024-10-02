@@ -295,9 +295,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 124
+    },
+    {
+      "date": "2024-10-02",
+      "total_restaurants": 55,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 110
     }
   ],
-  "last_updated": "2024-10-01",
+  "last_updated": "2024-10-02",
   "restaurants": [
     {
       "name": "uuuhmami",
@@ -370,7 +378,7 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.7,
-      "ratingsCount": 350,
+      "ratingsCount": 354,
       "reviewsCount": 44,
       "images": [
         "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
@@ -453,7 +461,7 @@
       "latitude": 49.41158110736696,
       "longitude": 8.706618447238917,
       "avgRating": 4.7,
-      "ratingsCount": 488,
+      "ratingsCount": 493,
       "reviewsCount": 74,
       "images": [
         "https://assets.neotaste.com/restaurants/46e07b6f-6415-4415-bd43-82a843b8703f/images/13b4db87-fba9-4c61-98a9-f1a0af6d7496.jpeg",
@@ -586,45 +594,6 @@
       "priceRange": 2
     },
     {
-      "name": "Peave‘s Pinsa",
-      "uuid": "338ec4cc-0944-44af-96bf-a5ba0d707527",
-      "deals": [
-        {
-          "uuid": "77ae244e-cf8f-4e2b-401a-08dc6b86fbfb",
-          "name": "2for1 Pinsa",
-          "conditions": "You order 2 pins of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 0,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "a3edcd36-1c6c-469b-401b-08dc6b86fbfb",
-          "name": "GRATIS Menü-Upgrade",
-          "conditions": "Du bestellst eine Pinsa deiner Wahl und bekommst ein Upgrade auf das PEACE - Menü gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 0,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Rheinstraße 27",
-      "zipCode": "69126",
-      "latitude": 49.38985965382872,
-      "longitude": 8.685614266980469,
-      "avgRating": 4.8,
-      "ratingsCount": 46,
-      "reviewsCount": 13,
-      "images": [
-        "https://assets.neotaste.com/restaurants/dd1ac7d9-8995-4171-969a-459aa7d5d1b3/images/65e92d9d-2397-4c1b-b580-3ff099427caf.jpeg",
-        "https://assets.neotaste.com/restaurants/dd1ac7d9-8995-4171-969a-459aa7d5d1b3/images/390d0537-0b04-4174-b56c-66b1ffeeb3b0.jpeg",
-        "https://assets.neotaste.com/restaurants/dd1ac7d9-8995-4171-969a-459aa7d5d1b3/images/ee7210cc-b32d-4e80-b131-d596ceec32fe.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "ok kool Marstallstraße",
       "uuid": "87d9756c-9f83-4897-9233-8c36c5fa48ba",
       "deals": [
@@ -695,8 +664,8 @@
       "latitude": 49.41379908954332,
       "longitude": 8.692495502696648,
       "avgRating": 4.9,
-      "ratingsCount": 135,
-      "reviewsCount": 23,
+      "ratingsCount": 140,
+      "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
         "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/fb339d90-4c90-438e-9100-3c4b2de12f95.jpeg"
@@ -852,8 +821,8 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.9,
-      "ratingsCount": 247,
-      "reviewsCount": 37,
+      "ratingsCount": 250,
+      "reviewsCount": 38,
       "images": [
         "https://assets.neotaste.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/3df9389f-8ae8-48f1-9b2e-818ba97cac06.jpeg",
         "https://assets.neotaste.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/acff51c3-640a-4b60-b2e0-4373241a2b2d.jpeg",
@@ -974,7 +943,7 @@
       "latitude": 49.40763001962318,
       "longitude": 8.683590030059989,
       "avgRating": 4.9,
-      "ratingsCount": 205,
+      "ratingsCount": 206,
       "reviewsCount": 57,
       "images": [
         "https://assets.neotaste.com/restaurants/6d0233d4-669d-481f-b42b-cf974bcb64d8/images/70af5e1d-36e3-44fa-9515-3d20845aead8.jpeg",
@@ -1063,44 +1032,6 @@
         "https://assets.neotaste.com/restaurants/b3578c56-8f28-47fa-b466-17d62d677742/images/788a733c-c678-4e9c-abb9-72378ac21e1b.jpeg",
         "https://assets.neotaste.com/restaurants/b3578c56-8f28-47fa-b466-17d62d677742/images/2ba1c604-2790-492c-94fc-41c6b3b08fac.jpeg",
         "https://assets.neotaste.com/restaurants/b3578c56-8f28-47fa-b466-17d62d677742/images/8b8b683d-efde-4e1f-a875-5058f9df32f4.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Yangda",
-      "uuid": "55cd4dc6-b884-4b5f-b86e-f889cfb61667",
-      "deals": [
-        {
-          "uuid": "d42bbd7f-3aa9-49df-eb29-08dc8c4fe0f1",
-          "name": "10€ Rabatt",
-          "conditions": "Ab einem Mindestbestellwert von 25€ bekommst du 10€ Rabatt. Dieser Deal ist nicht To-Go erhältlich.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "03528697-3c37-4fc5-56da-08dc6367d173",
-          "name": "GRATIS Dessert",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Dessert gratis dazu. Dieser Deal ist nur To-Go erhältlich.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 30,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Neckarhäuser Str. 3",
-      "zipCode": "69123",
-      "latitude": 49.4238307460488,
-      "longitude": 8.646049876271638,
-      "avgRating": 4.9,
-      "ratingsCount": 50,
-      "reviewsCount": 4,
-      "images": [
-        "https://assets.neotaste.com/restaurants/02af3545-3c29-4610-a4fb-1c7ab7f7920e/images/8ad3d1b6-3d12-4610-a84e-dca78bb9ff58.jpeg",
-        "https://assets.neotaste.com/restaurants/02af3545-3c29-4610-a4fb-1c7ab7f7920e/images/9cdb2a06-d8e1-4a8e-8ed2-675c748f0366.jpeg"
       ],
       "priceRange": 2
     },
@@ -1331,7 +1262,7 @@
       "latitude": 49.41236752075998,
       "longitude": 8.710204230365,
       "avgRating": 4.8,
-      "ratingsCount": 87,
+      "ratingsCount": 89,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/7ad53322-c201-481e-bce7-ab63684d1781.jpeg",
@@ -1575,86 +1506,6 @@
       "priceRange": 2
     },
     {
-      "name": "Café Ly",
-      "uuid": "7cb62f66-e3f7-4305-890e-e4fd56f3ff77",
-      "deals": [
-        {
-          "uuid": "142e6da0-413b-4b43-9d6e-08dc6ad74c33",
-          "name": "2für1 Kaffee + Kuchen",
-          "conditions": "Du bestellst 2 Kaffees und 2 Kuchen deiner Wahl, der jeweils günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "99f1dd26-458e-462e-9d6f-08dc6ad74c33",
-          "name": "GRATIS Heißgetränk",
-          "conditions": "Du bestellst ein Stück Kuchen deiner Wahl und bekommst ein Frühstück gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Theaterstraße 18",
-      "zipCode": "69117",
-      "latitude": 49.40957638224202,
-      "longitude": 8.70403374968569,
-      "avgRating": 4,
-      "ratingsCount": 24,
-      "reviewsCount": 6,
-      "images": [
-        "https://assets.neotaste.com/restaurants/91aea9ce-c9b3-4e8a-a4ea-b32c515315c6/images/16b6decb-1070-4516-9b5f-108c5a269052.png",
-        "https://assets.neotaste.com/restaurants/91aea9ce-c9b3-4e8a-a4ea-b32c515315c6/images/7f01b185-6e78-486b-9f09-e2a544946edb.png",
-        "https://assets.neotaste.com/restaurants/91aea9ce-c9b3-4e8a-a4ea-b32c515315c6/images/60d4d382-3891-473d-99ef-1d4390704352.png",
-        "https://assets.neotaste.com/restaurants/91aea9ce-c9b3-4e8a-a4ea-b32c515315c6/images/2b59d599-ef55-4ea6-9e34-1c0bac1bdaeb.png",
-        "https://assets.neotaste.com/restaurants/91aea9ce-c9b3-4e8a-a4ea-b32c515315c6/images/f415982e-5105-4ae4-804f-de2d7b36f53c.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Gino‘s ",
-      "uuid": "11051326-ec50-4411-a94c-bc6473379e04",
-      "deals": [
-        {
-          "uuid": "7629d13c-b466-4c44-a89e-08dc6b82761c",
-          "name": "10€ Discount",
-          "conditions": "From a minimum order value of 25€ you get 10€ discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "b2b2aed0-e940-49f0-a89f-08dc6b82761c",
-          "name": "GRATIS Pommes ",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst eine Portion Pommes gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Hauptstraße 113A",
-      "zipCode": "69117",
-      "latitude": 49.41153033049413,
-      "longitude": 8.70431340126602,
-      "avgRating": 4.8,
-      "ratingsCount": 106,
-      "reviewsCount": 17,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3fe9221b-2372-47fc-8d03-c4b7723dfb47/images/420f5b01-ba12-499e-8639-bf08f24b24c2.jpeg",
-        "https://assets.neotaste.com/restaurants/3fe9221b-2372-47fc-8d03-c4b7723dfb47/images/963412fc-85a5-4524-bd27-48c92929af16.jpeg",
-        "https://assets.neotaste.com/restaurants/3fe9221b-2372-47fc-8d03-c4b7723dfb47/images/cb558122-629d-479b-8332-45bb89e28375.jpeg"
-      ],
-      "priceRange": 1
-    },
-    {
       "name": "Rada Coffee & Rösterei",
       "uuid": "9a4f1549-010f-4905-9d47-63414e5f9397",
       "deals": [
@@ -1776,49 +1627,6 @@
       "priceRange": 2
     },
     {
-      "name": "Sweet Game",
-      "uuid": "93f6ca55-7668-4d5a-9c95-c30cdd3eb5ae",
-      "deals": [
-        {
-          "uuid": "a722353f-dad7-464a-a8a2-08dc6b82761c",
-          "name": "2für1 Waffel Classic + Milkshake Standard ",
-          "conditions": "Du bestellst 2 Waffeln Classic + Milkshakes Standard, das jeweils günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 16,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "00a2e068-013b-4096-a8a3-08dc6b82761c",
-          "name": "GRATIS Softgetränk",
-          "conditions": "Du bestellst einen Donut Level 02 und bekommst ein Softgetränk gratis dazu. Candy Shop und Energy Drinks ausgeschlossen.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Hauptstraße 1",
-      "zipCode": "69117",
-      "latitude": 49.40979649843486,
-      "longitude": 8.693694532151818,
-      "avgRating": 4.2,
-      "ratingsCount": 5,
-      "reviewsCount": 2,
-      "images": [
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/cf5fe198-1bc7-492e-9083-26a711ee1b48.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/65568831-7d6d-44d2-9da3-8559b22bdeaf.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/4f585e0c-9b98-4a22-a9de-56deea911cb3.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/8ad2ce8a-53ca-4da6-a003-3748faa7f697.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/552639f2-6adb-4d43-bd8f-ab21d94a5b07.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/22dd0fe1-a8c3-41ea-a056-11eb954535d5.jpeg",
-        "https://assets.neotaste.com/restaurants/07e63853-17cc-4f44-8913-4226032dcc41/images/1cbc343e-34b4-4c7a-93e3-4442c057b127.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "MyCurrywurst Bismarckplatz",
       "uuid": "d9d3a960-5c0f-413f-b52e-cdedc7144d96",
       "deals": [
@@ -1889,7 +1697,7 @@
       "latitude": 49.41225916217255,
       "longitude": 8.707785429447783,
       "avgRating": 5,
-      "ratingsCount": 31,
+      "ratingsCount": 32,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/57f42833-3926-4a24-bfa1-4736ebecda24.jpeg",
@@ -1968,7 +1776,7 @@
       "latitude": 49.41197568439438,
       "longitude": 8.706548281291392,
       "avgRating": 4.9,
-      "ratingsCount": 134,
+      "ratingsCount": 135,
       "reviewsCount": 19,
       "images": [
         "https://assets.neotaste.com/restaurants/641fd42a-a26d-4e71-b663-63be3c34eeac/images/6bf7af93-00d9-4209-a24d-938aea9ec9d9.jpeg",
@@ -2089,7 +1897,7 @@
       "latitude": 49.40888979935961,
       "longitude": 8.696507894477836,
       "avgRating": 4.9,
-      "ratingsCount": 90,
+      "ratingsCount": 92,
       "reviewsCount": 17,
       "images": [
         "https://assets.neotaste.com/restaurants/36b60e53-c2e5-4686-962f-a5ac4d30f42f/images/21ec83a3-4ad6-4c8d-b0f5-7e64063ad9c1.jpeg"
@@ -2208,7 +2016,7 @@
       "latitude": 49.41131614369048,
       "longitude": 8.711970070552214,
       "avgRating": 4.9,
-      "ratingsCount": 72,
+      "ratingsCount": 73,
       "reviewsCount": 11,
       "images": [
         "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/594f058b-e77e-4d0e-92ba-700e7e452e4b.jpeg",
@@ -2420,45 +2228,6 @@
       "priceRange": 2
     },
     {
-      "name": "Gino‘s 2",
-      "uuid": "e187a7a4-a884-48e8-9992-d7d2840e29cb",
-      "deals": [
-        {
-          "uuid": "d9867260-4d9b-4522-3ff8-08dc6b86fbfb",
-          "name": "10€ Discount",
-          "conditions": "From a minimum order value of 25€ you get 10€ discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "faca9ce6-832c-47cc-3ff9-08dc6b86fbfb",
-          "name": "GRATIS Pommes",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst eine Portion Pommes gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Haberstraße 15",
-      "zipCode": "69126",
-      "latitude": 49.36484193651589,
-      "longitude": 8.68102966159803,
-      "avgRating": 5,
-      "ratingsCount": 11,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotaste.com/restaurants/dc3ef855-3dd2-4ee6-b06d-d639f4090868/images/f9e245f1-b452-40c9-808c-49587a289c8d.jpeg",
-        "https://assets.neotaste.com/restaurants/dc3ef855-3dd2-4ee6-b06d-d639f4090868/images/cde20852-a797-4df6-a3a4-fe719d46c333.jpeg",
-        "https://assets.neotaste.com/restaurants/dc3ef855-3dd2-4ee6-b06d-d639f4090868/images/dd4a7ca0-4e92-4baf-8829-66f9f9043d2e.jpeg"
-      ],
-      "priceRange": 1
-    },
-    {
       "name": "Café Kolbez",
       "uuid": "8cb5e1d4-ba70-491d-8015-a06c501fb355",
       "deals": [
@@ -2608,51 +2377,11 @@
       "zipCode": "69115",
       "latitude": 49.40815519904355,
       "longitude": 8.691074353067041,
-      "avgRating": 4.8,
-      "ratingsCount": 24,
-      "reviewsCount": 1,
+      "avgRating": 4.6,
+      "ratingsCount": 25,
+      "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/76f8f9cf-c352-4a56-996a-6cb061b9e2ae/images/eb4473de-a513-41ed-bb76-0435d013af2e.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Asia Heidelberg",
-      "uuid": "4e874602-4309-4103-9ea1-c22a6e0bc619",
-      "deals": [
-        {
-          "uuid": "a5c4a991-b5af-4cfb-400d-08dc6b86fbfb",
-          "name": "2für1 Hauptgericht",
-          "conditions": "Du bestellst 2 Hauptgerichte deiner Wahl, das günstigere/preisgleiche wird nicht berechnet. Dieser Deal muss vor der Bestellung gezeigt werden.",
-          "locationCondition": "onSite",
-          "value": 23,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "251cb049-07ae-4b64-400e-08dc6b86fbfb",
-          "name": "GRATIS Getränk",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Getränk gratis dazu. Dieser Deal muss vor der Bestellung gezeigt werden.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Haspelgasse 2",
-      "zipCode": "69117",
-      "latitude": 49.41320827082418,
-      "longitude": 8.708922464723862,
-      "avgRating": 4.8,
-      "ratingsCount": 46,
-      "reviewsCount": 12,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3f5114a9-42eb-4f34-98f6-497045139764/images/63250583-03d5-47ee-b608-594fef3b62ad.jpeg",
-        "https://assets.neotaste.com/restaurants/3f5114a9-42eb-4f34-98f6-497045139764/images/594c8173-6709-4446-9f05-40e889ab3180.jpeg",
-        "https://assets.neotaste.com/restaurants/3f5114a9-42eb-4f34-98f6-497045139764/images/9154c498-3013-4405-9c04-f3e7da23d09a.jpeg",
-        "https://assets.neotaste.com/restaurants/3f5114a9-42eb-4f34-98f6-497045139764/images/d5ad5f64-3115-460d-aaea-84742ba77b8e.jpeg"
       ],
       "priceRange": 2
     },

@@ -295,9 +295,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 110
+    },
+    {
+      "date": "2024-10-02",
+      "total_restaurants": 50,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 100
     }
   ],
-  "last_updated": "2024-10-01",
+  "last_updated": "2024-10-02",
   "restaurants": [
     {
       "name": "Helder & Leeuwen Café",
@@ -329,7 +337,7 @@
       "latitude": 49.48551335618428,
       "longitude": 8.467484375937062,
       "avgRating": 4.9,
-      "ratingsCount": 542,
+      "ratingsCount": 545,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/64406e1f-af54-461a-92d2-6bc927ecc945.jpeg",
@@ -337,48 +345,6 @@
         "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/ed10f193-c1bb-48bd-a6ac-0821034d767b.jpeg",
         "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/caa1a929-14ac-43ea-9d3d-a3016fb22074.jpeg",
         "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/a072cab8-16d1-4956-a39b-4e607e0330a8.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Glückstein",
-      "uuid": "15b59272-a791-4b71-8cb8-fa79c1c0f12d",
-      "deals": [
-        {
-          "uuid": "3186530f-dfe7-4de0-7049-08dbcb581a4c",
-          "name": "10€ Rabatt",
-          "conditions": "Ab einem Mindestbestellwert von 25€ bekommst du 10€ Rabatt auf deine Rechnung",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 180,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "355cf4e5-fc3f-4693-704a-08dbcb581a4c",
-          "name": "GRATIS hausgemachter Eistee",
-          "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst einen hausgemachten Eistee gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Lindenhofstraße 62",
-      "zipCode": "68163",
-      "latitude": 49.47500137387737,
-      "longitude": 8.470775791663877,
-      "avgRating": 4.9,
-      "ratingsCount": 127,
-      "reviewsCount": 25,
-      "images": [
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/d7a8bd47-126c-4baa-b2c1-7368f85305d7.png",
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/678f81b0-150d-474e-a3d5-c117ea3a792a.png",
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/a26eec90-0169-46b8-9ddd-35b40d6948a5.png",
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/70987670-0ac6-4128-8545-422506f0c576.png",
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/e313737a-1351-45e7-bc8a-a70bf9872af1.png",
-        "https://assets.neotaste.com/restaurants/51d2f0e3-df63-4629-8e82-9e4af2fd4d82/images/b1fdef19-5026-4628-8ee7-3f6c56516b2d.png"
       ],
       "priceRange": 2
     },
@@ -497,46 +463,6 @@
       "reviewsCount": 102,
       "images": [
         "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Döringer's Backhaus - Lameystraße",
-      "uuid": "1532a395-636f-4878-b563-2d21c6877c1e",
-      "deals": [
-        {
-          "uuid": "a98034d3-e4f5-4142-97ab-08dbd46eddb8",
-          "name": "2für1 Kuchen, Süßteil o. Schnecke",
-          "conditions": "Du bestellst 2 Kuchen, Süßteile oder Schnecken deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "8a2e2a72-2ff6-45dc-97ac-08dbd46eddb8",
-          "name": "GRATIS Heißgetränk",
-          "conditions": "Du bestellst ein Gericht deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Lameystraße 14",
-      "zipCode": "68165",
-      "latitude": 49.48671591723745,
-      "longitude": 8.478277226998514,
-      "avgRating": 4.8,
-      "ratingsCount": 24,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotaste.com/restaurants/beb92e9f-8e16-4eac-bdc2-1e82bd1a8574/images/3dc77d06-d35c-4390-9ba9-2c5610cf4c94.jpeg",
-        "https://assets.neotaste.com/restaurants/beb92e9f-8e16-4eac-bdc2-1e82bd1a8574/images/bfe165b5-72ef-4c22-ae43-a588251c2d2a.jpeg",
-        "https://assets.neotaste.com/restaurants/beb92e9f-8e16-4eac-bdc2-1e82bd1a8574/images/2cba8eca-36f3-425c-9401-6088fe3454d8.jpeg",
-        "https://assets.neotaste.com/restaurants/beb92e9f-8e16-4eac-bdc2-1e82bd1a8574/images/4a964bf0-c7b2-4d21-8588-3b09b35016c0.jpeg"
       ],
       "priceRange": 2
     },
@@ -702,46 +628,6 @@
         "https://assets.neotaste.com/restaurants/7eebf2fe-20cd-454d-8165-fadfe6379576/images/4b1a9d67-f76c-484b-a8a5-dab32bacfc0e.jpeg"
       ],
       "priceRange": 1
-    },
-    {
-      "name": "Döringer's Backhaus - Stadtfiliale",
-      "uuid": "c830ea13-79ca-4cea-b83a-e7c155a72661",
-      "deals": [
-        {
-          "uuid": "c8f96284-9dde-4bde-0183-08dbd46f66d6",
-          "name": "2für1 Kuchen, Süßteil o. Schnecke",
-          "conditions": "Du bestellst 2 Kuchen, Süßteile oder Schnecken deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "990876c4-6fd6-41eb-0184-08dbd46f66d6",
-          "name": "GRATIS Heißgetränk",
-          "conditions": "Du bestellst ein Gericht deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "U1 4",
-      "zipCode": "68161",
-      "latitude": 49.49160085229533,
-      "longitude": 8.470131961703508,
-      "avgRating": 4.9,
-      "ratingsCount": 23,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotaste.com/restaurants/4283c97a-b6a5-434e-89a4-41442bd7a133/images/820e8324-2130-477f-aaee-ba2b47fe16a2.jpeg",
-        "https://assets.neotaste.com/restaurants/4283c97a-b6a5-434e-89a4-41442bd7a133/images/2c73d076-ca97-4484-8bd2-a0964c3247b4.jpeg",
-        "https://assets.neotaste.com/restaurants/4283c97a-b6a5-434e-89a4-41442bd7a133/images/c76c1f73-3a99-4ab5-a127-ef571ed6fb55.jpeg",
-        "https://assets.neotaste.com/restaurants/4283c97a-b6a5-434e-89a4-41442bd7a133/images/e4fc3737-8147-4195-bbb0-680142d25e44.jpeg"
-      ],
-      "priceRange": 2
     },
     {
       "name": "Mood Café",
@@ -1228,46 +1114,6 @@
       "priceRange": 2
     },
     {
-      "name": "Döringer's Backhaus - Jungbusch",
-      "uuid": "ed3ae4cb-8826-4198-a12d-9068280819d2",
-      "deals": [
-        {
-          "uuid": "983aee17-8241-4281-97ad-08dbd46eddb8",
-          "name": "2für1 Kuchen, Süßteil o. Schnecke",
-          "conditions": "Du bestellst 2 Kuchen, Süßteile oder Schnecken deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "8472a7af-2f90-48f8-97ae-08dbd46eddb8",
-          "name": "GRATIS Heißgetränk",
-          "conditions": "Du bestellst ein Gericht deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Hafenstraße 66",
-      "zipCode": "68159",
-      "latitude": 49.49504726335681,
-      "longitude": 8.457396268706832,
-      "avgRating": 4.8,
-      "ratingsCount": 24,
-      "reviewsCount": 1,
-      "images": [
-        "https://assets.neotaste.com/restaurants/ec01dfc3-ef2d-49e3-8c32-69f20cf03b6b/images/82cbe9b3-8a78-4ef5-8d0b-3ad3b2231e99.jpeg",
-        "https://assets.neotaste.com/restaurants/ec01dfc3-ef2d-49e3-8c32-69f20cf03b6b/images/9023f52d-301e-4561-bae0-54e3e2c92ec2.jpeg",
-        "https://assets.neotaste.com/restaurants/ec01dfc3-ef2d-49e3-8c32-69f20cf03b6b/images/9a7f24a8-7294-40c6-9618-b5a996000dd4.jpeg",
-        "https://assets.neotaste.com/restaurants/ec01dfc3-ef2d-49e3-8c32-69f20cf03b6b/images/82f879bf-5e96-4ffd-93c2-162ebcd3f22a.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Café Nunu",
       "uuid": "2ac9bc75-e34a-41b7-8cc3-910d494f229f",
       "deals": [
@@ -1454,7 +1300,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 220,
+      "ratingsCount": 221,
       "reviewsCount": 35,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -1768,8 +1614,8 @@
       "latitude": 49.50669938432599,
       "longitude": 8.498023888482072,
       "avgRating": 4.9,
-      "ratingsCount": 23,
-      "reviewsCount": 8,
+      "ratingsCount": 24,
+      "reviewsCount": 9,
       "images": [
         "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/d3b4f512-74ca-4a7a-8a99-05e6824baa17.jpeg",
         "https://assets.neotaste.com/restaurants/07d2346a-092c-4159-8ece-6e776c77d263/images/6aed92b6-0e57-4452-8a73-ba797e2c5a97.jpeg",
@@ -1817,46 +1663,6 @@
         "https://assets.neotaste.com/restaurants/c1d6dc81-b482-425a-bc0b-e5d590b4e41a/images/1f001375-59bc-467e-aaef-c2cc1fa268ba.jpeg"
       ],
       "priceRange": 3
-    },
-    {
-      "name": "Döringer's Backhaus - Oststadt",
-      "uuid": "13014fae-73f5-41f5-839b-8b2a51f83d35",
-      "deals": [
-        {
-          "uuid": "94f4ea2e-fce8-49e3-0181-08dbd46f66d6",
-          "name": "2für1 Kuchen, Süßteil o. Schnecke",
-          "conditions": "Du bestellst 2 Kuchen, Süßteile oder Schnecken deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available",
-          "timeframeGroups": []
-        },
-        {
-          "uuid": "37cb0e48-f770-4a8e-0182-08dbd46f66d6",
-          "name": "GRATIS Heißgetränk",
-          "conditions": "Du bestellst ein Gericht deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available",
-          "timeframeGroups": []
-        }
-      ],
-      "address": "Seckenheimer Str. 66",
-      "zipCode": "68165",
-      "latitude": 49.47921916810012,
-      "longitude": 8.481413357752123,
-      "avgRating": 4.9,
-      "ratingsCount": 18,
-      "reviewsCount": 4,
-      "images": [
-        "https://assets.neotaste.com/restaurants/224b10f0-23e6-4574-b708-2332146ba53d/images/bdcc0f4f-8809-4f55-9ea7-1d17b1a40bb8.jpeg",
-        "https://assets.neotaste.com/restaurants/224b10f0-23e6-4574-b708-2332146ba53d/images/93b6f71c-1bf8-4204-8bfb-ca532a6adfef.jpeg",
-        "https://assets.neotaste.com/restaurants/224b10f0-23e6-4574-b708-2332146ba53d/images/4924709e-e556-4b3f-83b5-7b388facc8a8.jpeg",
-        "https://assets.neotaste.com/restaurants/224b10f0-23e6-4574-b708-2332146ba53d/images/257a7846-e7c0-45fe-8da7-2041c377092a.jpeg"
-      ],
-      "priceRange": 2
     },
     {
       "name": "Taproom Jungbusch",
@@ -2279,8 +2085,8 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.9,
-      "ratingsCount": 350,
-      "reviewsCount": 40,
+      "ratingsCount": 353,
+      "reviewsCount": 41,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
@@ -2320,7 +2126,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 5,
-      "ratingsCount": 106,
+      "ratingsCount": 107,
       "reviewsCount": 17,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
