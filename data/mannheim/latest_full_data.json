@@ -35,7 +35,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 590,
+    "ratingsCount": 592,
     "reviewsCount": 50,
     "images": [
       "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/caa1a929-14ac-43ea-9d3d-a3016fb22074.jpeg",
@@ -67,8 +67,8 @@
       },
       {
         "uuid": "700487a2-5037-4b25-704c-08dbcb581a4c",
-        "name": "GRATIS Cappuccino",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst einen Cappuccino gratis dazu.",
+        "name": "FREE Cappuccino",
+        "conditions": "Order a main course of your choice and receive a free cappuccino.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 7,
@@ -77,16 +77,16 @@
     ],
     "tags": [
       {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      },
+      {
         "slug": "cafe",
         "name": "Café"
       },
       {
         "slug": "dessert",
         "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
       }
     ],
     "avgRating": 4.8,
@@ -112,8 +112,8 @@
     "deals": [
       {
         "uuid": "4fb04c05-4a2e-4ec0-7055-08dbcb581a4c",
-        "name": "2für1 Cocktails",
-        "conditions": "Du bestellst 2 Cocktails deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Cocktails",
+        "conditions": "Order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 12,
@@ -121,8 +121,8 @@
       },
       {
         "uuid": "321f3160-8c1d-41ab-7056-08dbcb581a4c",
-        "name": "GRATIS Shot",
-        "conditions": "Du bestellst ein alkoholisches Getränke deiner Wahl und bekommst einen zufälligen Shot gratis dazu.",
+        "name": "FREE Shot",
+        "conditions": "Order an alcoholic drink of your choice and receive a free random shot.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 7,
@@ -169,7 +169,7 @@
       {
         "uuid": "abad523a-cd03-4edd-433f-08dbccc4ca55",
         "name": "GRATIS Softgetränk",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Softgetränke gratis dazu.",
+        "conditions": "Order a main course of your choice and receive a free soft drink.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -178,16 +178,16 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "indian",
         "name": "Indian"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 345,
+    "ratingsCount": 346,
     "reviewsCount": 109,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -206,8 +206,8 @@
     "deals": [
       {
         "uuid": "87225fca-659c-4612-433a-08dbccc4ca55",
-        "name": "2für1 Hauptgericht",
-        "conditions": "Du bestellst 2 der Gerichte Nr. \"10\" (Huhn), \"12\" (Huhn), \"23\" oder \"29\", das günstigere/preisgleiche wird nicht berechnet. ",
+        "name": "2for1 Main Course",
+        "conditions": "Order 2 of the dishes no. \"10\" (Chicken), \"12\" (Chicken), \"23\" or \"29\", the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSiteAndToGo",
         "value": 9,
         "daysToReset": 90,
@@ -215,8 +215,8 @@
       },
       {
         "uuid": "4a78c68f-bba9-4ae9-433b-08dbccc4ca55",
-        "name": "GRATIS Getränk",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Getränk gratis dazu. (Ausgenommen Orangina, gr. Flaschen und Alkohol)",
+        "name": "FREE Drink",
+        "conditions": "Order a main dish of your choice and receive a free drink. (Excludes Orangina, large bottles and alcohol).",
         "locationCondition": "onSiteAndToGo",
         "value": 4,
         "daysToReset": 7,
@@ -270,8 +270,8 @@
       },
       {
         "uuid": "8dedabf4-c11b-462a-4339-08dbccc4ca55",
-        "name": "GRATIS Getränke",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Getränk gratis dazu.",
+        "name": "FREE Drinks",
+        "conditions": "You order a main course of your choice and get a free drink with it.",
         "locationCondition": "onSite",
         "value": 6,
         "daysToReset": 180,
@@ -327,17 +327,17 @@
         "name": "Burgers"
       },
       {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
         "slug": "mexican",
         "name": "Mexican"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 293,
-    "reviewsCount": 39,
+    "ratingsCount": 297,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/fe979bf1-cdf1-4770-90ce-c86ff2772bcb/images/d9d2e2e8-cd2e-476e-a87a-88f165d03885.jpeg",
       "https://assets.neotaste.com/restaurants/fe979bf1-cdf1-4770-90ce-c86ff2772bcb/images/932e6e51-d918-40ac-9c25-e491721b1044.jpeg",
@@ -358,8 +358,8 @@
     "deals": [
       {
         "uuid": "a392ee04-9549-4fa6-7043-08dbcb581a4c",
-        "name": "2für1 Kaffee + Croissant",
-        "conditions": "Du bestellst 2 Kaffees und 2 Croissants, der jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee + Croissant",
+        "conditions": "You order 2 coffees and 2 croissants, the cheaper/equally priced respectively will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 90,
@@ -377,12 +377,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       },
       {
         "slug": "cake",
@@ -413,8 +413,8 @@
     "deals": [
       {
         "uuid": "c50c0a71-38fb-464b-4334-08dbccc4ca55",
-        "name": "2für1 Kaffee + Croissant",
-        "conditions": "Du bestellst 2 Kaffees und 2 Croissants, der jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee + Croissant",
+        "conditions": "Order 2 coffees and 2 croissants, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 90,
@@ -432,16 +432,16 @@
     ],
     "tags": [
       {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      },
+      {
         "slug": "cafe",
         "name": "Café"
       },
       {
         "slug": "dessert",
         "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
       }
     ],
     "avgRating": 4.7,
@@ -469,7 +469,7 @@
       {
         "uuid": "d85529c5-fcfc-4172-4332-08dbccc4ca55",
         "name": "2für1 Longdrink",
-        "conditions": "Du bestellst 2 gleiche Longdrinks deiner Wahl (ausgenommen der Sours) und bezahlst nur einen.",
+        "conditions": "Order 2 identical long drinks of your choice (excluding the Sours) and pay for only one.",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -477,8 +477,8 @@
       },
       {
         "uuid": "592996a1-9b2f-4403-4333-08dbccc4ca55",
-        "name": "GRATIS hausgemachter Shot",
-        "conditions": "Du bestellst einen Aperitif/Longdrink deiner Wahl und bekommst einen hausgemachter  Shot (Vanille, Haselnuss oder Melone) gratis dazu.",
+        "name": "FREE Homemade Shot",
+        "conditions": "Order an aperitif/long drink of your choice and get a free homemade shot (vanilla, hazelnut, or melon) with it.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 90,
@@ -524,7 +524,7 @@
       {
         "uuid": "9ad74074-a2b3-4d30-703d-08dbcb581a4c",
         "name": "GRATIS Kaffeespezialität",
-        "conditions": "Du bestellst einen Kuchen deiner Wahl und bekommst eine Kaffeespezialität gratis dazu.",
+        "conditions": "Order a cake of your choice and receive a free speciality coffee.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 6,
@@ -567,7 +567,7 @@
       {
         "uuid": "a29fc4b8-bb41-49fc-4323-08dbccc4ca55",
         "name": "2für1 Kaffee + Kuchen",
-        "conditions": "Du bestellst 2 Kaffee und 2 Kuchen, das jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "conditions": "You order 2 coffees and 2 pastries, the cheaper/equally priced respectively will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 30,
@@ -575,8 +575,8 @@
       },
       {
         "uuid": "4f2a20fc-3c07-4359-4324-08dbccc4ca55",
-        "name": "2für1 Kaffee + Kuchen",
-        "conditions": "Du bestellst 2 Kaffee und 2 Kuchen, das jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee + Cake",
+        "conditions": "Order 2 coffee and 2 pieces of cake, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 30,
@@ -630,8 +630,8 @@
       },
       {
         "uuid": "4ec97cfb-640f-4780-7027-08dbcb581a4c",
-        "name": "GRATIS Kaffee",
-        "conditions": "Du bestellst ein Frühstück deiner Wahl und bekommst einen Kaffee gratis dazu",
+        "name": "FREE Coffee",
+        "conditions": "Order a breakfast of your choice and receive a free coffee.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -676,8 +676,8 @@
       },
       {
         "uuid": "9ab387ec-b70a-4a2e-7035-08dbcb581a4c",
-        "name": "GRATIS 2x Heißgetränk",
-        "conditions": "Du bestellst eine Brunch-Platte und bekommst 2 Heißgetränke gratis dazu.",
+        "name": "FREE 2x Hot Drink",
+        "conditions": "You order a brunch platter and get 2 free hot drinks with it.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -686,12 +686,12 @@
     ],
     "tags": [
       {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
       }
     ],
     "avgRating": 4.9,
@@ -714,8 +714,8 @@
     "deals": [
       {
         "uuid": "343cca44-7938-4fd7-afda-08dc8aa42a52",
-        "name": "2für1 Kaffeespezialität + Kuchen",
-        "conditions": "Du bestellst 2 Kaffeespezialitäten und 2 Kuchen deiner Wahl, das jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee Speciality + Cake",
+        "conditions": "You order 2 coffee specialties and 2 cakes of your choice, the cheaper/equally priced ones will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 90,
@@ -742,7 +742,7 @@
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 22,
+    "ratingsCount": 24,
     "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/f0115d85-6b94-412d-b4ca-df43520716c3/images/32e5176e-1242-405c-aabc-c2632f1f4f14.png",
@@ -783,16 +783,16 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
+        "slug": "vegan",
+        "name": "Vegan"
       },
       {
         "slug": "burgers",
         "name": "Burgers"
       },
       {
-        "slug": "vegan",
-        "name": "Vegan"
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.7,
@@ -829,7 +829,7 @@
       },
       {
         "uuid": "2a082535-4e15-4791-4359-08dbccc4ca55",
-        "name": "GRATIS Softdrink/Hausgemachte Limonade",
+        "name": "FREE Soft Drink/Homemade Lemonade",
         "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst einen Softdrink o. hausgemachte Limonade gratis dazu.",
         "locationCondition": "onSite",
         "value": 4,
@@ -839,12 +839,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       },
       {
         "slug": "bowls",
@@ -871,8 +871,8 @@
     "deals": [
       {
         "uuid": "4da299e4-5d30-4779-432f-08dbccc4ca55",
-        "name": "2für1 Hauptgericht",
-        "conditions": "Du bestellst 2 Hauptgerichte (Mittagsgerichte) deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Main Course",
+        "conditions": "Order 2 main courses (lunch dishes) of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -880,8 +880,8 @@
       },
       {
         "uuid": "f543cbb7-3ccb-43ee-4330-08dbccc4ca55",
-        "name": "GRATIS 2x Kaffeespezialität",
-        "conditions": "Du bestellst eine Brunch-Platte und bekommst 2 Kaffeespezialitäten gratis dazu.",
+        "name": "FREE 2x Specialty Coffee",
+        "conditions": "Order a brunch platter and receive 2 free speciality coffees.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -921,8 +921,8 @@
     "deals": [
       {
         "uuid": "bb900d87-7590-4f78-4325-08dbccc4ca55",
-        "name": "2für1 Kaffeegetränk",
-        "conditions": "Du bestellst 2 Kaffeegetränke deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee Drink",
+        "conditions": "Order 2 coffee drinks of your choice, the cheaper/equivalent one will not be charged.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -930,8 +930,8 @@
       },
       {
         "uuid": "0b05c66e-addc-48e6-4326-08dbccc4ca55",
-        "name": "2für1 Slow Juice",
-        "conditions": "Du bestellt 2 Slow Jouice deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Slow Juice",
+        "conditions": "You order 2 Slow Juices of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 90,
@@ -968,8 +968,8 @@
     "deals": [
       {
         "uuid": "d00c52a0-c399-4f72-1d5f-08dc85495d4a",
-        "name": "2für1 Tapioca",
-        "conditions": "Du bestellst 2 Tapioca deiner Wahl, die günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Tapioca",
+        "conditions": "Order 2 Tapioca of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 9,
         "daysToReset": 90,
@@ -977,8 +977,8 @@
       },
       {
         "uuid": "d29ec4ed-e69a-47c8-1d60-08dc85495d4a",
-        "name": "GRATIS Guarana",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst eine Guarana gratis dazu.",
+        "name": "FREE Guarana",
+        "conditions": "Order a main dish of your choice and receive a free Guarana.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -987,12 +987,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "dessert",
         "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 5,
@@ -1017,8 +1017,8 @@
     "deals": [
       {
         "uuid": "bbcf1ad3-f969-4d27-4344-08dbccc4ca55",
-        "name": "2für1 Granola klein",
-        "conditions": "Du bestellst 2 kleine Granola, das günstigere/preisgleiche wird nicht berechnet. (Frühstück gibt es nur bis 15:00 Uhr)",
+        "name": "2for1 Small Granola",
+        "conditions": "You order 2 small Granola, the cheaper/equally priced one will not be charged. (Breakfast is only available until 3:00 PM).",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -1026,8 +1026,8 @@
       },
       {
         "uuid": "2c8a4e37-e97c-4e52-4345-08dbccc4ca55",
-        "name": "GRATIS Dattel Snickers ",
-        "conditions": "Du bestellst ein Heißgetränk deiner Wahl und bekommst ein Dattel Snickers gratis dazu. ",
+        "name": "FREE Date Snickers",
+        "conditions": "Order a hot drink of your choice and get a complimentary Date Snickers.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 6,
@@ -1036,12 +1036,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 4.9,
@@ -1068,8 +1068,8 @@
     "deals": [
       {
         "uuid": "c65c5f6b-e538-499b-4346-08dbccc4ca55",
-        "name": "2für1 Kaffee + Kuchen",
-        "conditions": "Du bestellst 2 Kaffee und 2 Kuchen deiner Wahl, der jeweils günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Coffee + Pastry",
+        "conditions": "You order 2 coffees and 2 slices of cake of your choice, the respective cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 90,
@@ -1077,8 +1077,8 @@
       },
       {
         "uuid": "af4fd9d6-3660-47fa-4347-08dbccc4ca55",
-        "name": "GRATIS Getränk",
-        "conditions": "Du bestellst einen Kuchen deiner Wahl und bekommst ein Getränk gratis dazu. (Alkoholische Getränke ausgenommen)",
+        "name": "FREE Drink",
+        "conditions": "Order a cake of your choice and receive a free drink. (Alcoholic beverages excluded).",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 6,
@@ -1118,8 +1118,8 @@
     "deals": [
       {
         "uuid": "174c328d-44ce-4cfd-704f-08dbcb581a4c",
-        "name": "2für1 Longdrinks",
-        "conditions": "Du bestellst 2 Longdrinks deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Long Drinks",
+        "conditions": "Order 2 long drinks of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 10,
         "daysToReset": 90,
@@ -1127,8 +1127,8 @@
       },
       {
         "uuid": "71fe4d30-fe61-4216-7050-08dbcb581a4c",
-        "name": "GRATIS Shot",
-        "conditions": "Du bestellst 1 Bier/Weinschorle und bekommst einen Shot gratis dazu.",
+        "name": "FREE Shot",
+        "conditions": "Order 1 beer/wine spritzer and get a free shot with it.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 6,
@@ -1146,8 +1146,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 57,
-    "reviewsCount": 23,
+    "ratingsCount": 58,
+    "reviewsCount": 24,
     "images": [
       "https://assets.neotaste.com/restaurants/6196bef1-f386-492d-8b84-e99d5c3df288/images/056ae187-3b45-41d8-9e85-5590af3a63ff.jpeg",
       "https://assets.neotaste.com/restaurants/6196bef1-f386-492d-8b84-e99d5c3df288/images/1d02929a-57ca-44a2-89a2-317687c74e8c.jpeg",
@@ -1167,8 +1167,8 @@
     "deals": [
       {
         "uuid": "0c03a98a-ea75-4616-434c-08dbccc4ca55",
-        "name": "2für1 Longdrinks",
-        "conditions": "Du bestellst 2 Longdrinks deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Long Drinks",
+        "conditions": "Order 2 long drinks of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -1176,8 +1176,8 @@
       },
       {
         "uuid": "6faee7e8-bc9e-45ea-434d-08dbccc4ca55",
-        "name": "GRATIS Shot",
-        "conditions": "Du bestellst 1 Bier/Weinschorle und bekommst 1 Shot gratis dazu.",
+        "name": "FREE Shot",
+        "conditions": "Order 1 beer/wine spritzer and get 1 shot free.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 7,
@@ -1257,8 +1257,8 @@
     "deals": [
       {
         "uuid": "d5f9376d-514e-4254-705b-08dbcb581a4c",
-        "name": "2für1 Frühstück",
-        "conditions": "Du bestellst 2 Frühstück deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Breakfast",
+        "conditions": "Order 2 breakfasts of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -1305,8 +1305,8 @@
     "deals": [
       {
         "uuid": "d2b6b326-f755-4f1d-705f-08dbcb581a4c",
-        "name": "2für1 Hauptgericht",
-        "conditions": "Du bestellst 2 Hauptgerichte bis max. 10€, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Main Course",
+        "conditions": "Order 2 main courses up to max. €10, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 10,
         "daysToReset": 90,
@@ -1314,8 +1314,8 @@
       },
       {
         "uuid": "72c82b0b-d9cd-4243-7060-08dbcb581a4c",
-        "name": "GRATIS Getränk",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Getränk gratis dazu. (Smoothies ausgenommen)",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a free drink with it. (Excluding smoothies).",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 6,
@@ -1352,8 +1352,8 @@
     "deals": [
       {
         "uuid": "b0bb0794-d475-440f-4352-08dbccc4ca55",
-        "name": "2für1 Lunch",
-        "conditions": "Du bestellst 2 Hauptgerichte der Kategorie Lunch, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Lunch",
+        "conditions": "Order 2 main courses from the Lunch category, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 13,
         "daysToReset": 90,
@@ -1361,8 +1361,8 @@
       },
       {
         "uuid": "78b1ec74-3251-4489-4353-08dbccc4ca55",
-        "name": "2für1 Aperitif",
-        "conditions": "Du bestellst 2 Aperitif deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Aperitif",
+        "conditions": "Order 2 aperitifs of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 9,
         "daysToReset": 90,
@@ -1371,16 +1371,16 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 4.9,
@@ -1410,8 +1410,8 @@
     "deals": [
       {
         "uuid": "b900bc57-2d12-4158-7061-08dbcb581a4c",
-        "name": "2für1 Heiße Schokolade",
-        "conditions": "Du bestellst 2x Heiße Schokolade, die günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Hot Chocolate",
+        "conditions": "Order 2 hot chocolates, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 90,
@@ -1419,8 +1419,8 @@
       },
       {
         "uuid": "50bc7d15-9cb5-4e8f-7062-08dbcb581a4c",
-        "name": "GRATIS Kaffee oder Cappuccino",
-        "conditions": "Du bestellst einen Kuchen deiner Wahl und bekommst einen Kaffee/Cappuccino gratis dazu.",
+        "name": "FREE Coffee or Cappuccino",
+        "conditions": "You order a cake of your choice and get a free coffee/cappuccino with it.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 6,
@@ -1458,8 +1458,8 @@
     "deals": [
       {
         "uuid": "f4912c28-1a78-4618-4354-08dbccc4ca55",
-        "name": "2für1 Whisky Sour",
-        "conditions": "Du bestellst 2 Whisky Sour, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Whisky Sour",
+        "conditions": "Order 2 Whisky Sour, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 9,
         "daysToReset": 90,
@@ -1467,8 +1467,8 @@
       },
       {
         "uuid": "56fbb5eb-c9ff-4ac0-4355-08dbccc4ca55",
-        "name": "GRATIS Shot",
-        "conditions": "Du bestellst einen Longdrink deiner Wahl und bekommst einen Shot gratis dazu.",
+        "name": "FREE Shot",
+        "conditions": "Order a long drink of your choice and receive a free shot with it.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 7,
@@ -1501,8 +1501,8 @@
     "deals": [
       {
         "uuid": "3eb9eba2-c831-44a6-8ff4-08dc848cc025",
-        "name": "4für2 Brownies",
-        "conditions": "Du bestellst 4 Brownies deiner Wahl, die 2 günstigeren/preisgleichen werden nicht berechnet.",
+        "name": "4for2 Brownies",
+        "conditions": "Order 4 brownies of your choice, the 2 cheaper/equally priced ones will not be charged.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 90,
@@ -1510,8 +1510,8 @@
       },
       {
         "uuid": "c834e2db-bfee-40dd-8ff5-08dc848cc025",
-        "name": "GRATIS Kaffeespezialität",
-        "conditions": "Bestelle ein Stück Kuchen und erhalte eine gratis Kaffeespezialität dazu.",
+        "name": "FREE Specialty Coffee",
+        "conditions": "Order a slice of cake and receive a free speciality coffee.",
         "locationCondition": "onSite",
         "value": 6,
         "daysToReset": 90,
@@ -1546,8 +1546,8 @@
     "deals": [
       {
         "uuid": "fd0c0155-6ed6-49c6-bbc3-08dc7f042677",
-        "name": "2für1 Hauptgericht",
-        "conditions": "Du bestellst 2 Hauptgerichte deiner Wahl, das günstigere/preisgleiche wird nicht berechnet. MANTU erst ab 17 Uhr.",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. MANTU valid from 5 PM.",
         "locationCondition": "onSite",
         "value": 15,
         "daysToReset": 90,
@@ -1555,8 +1555,8 @@
       },
       {
         "uuid": "8e3a68ec-5d3f-448e-bbc4-08dc7f042677",
-        "name": "2für1 Limonade/Kaffeespezialität",
-        "conditions": "Du bestellst 2 Limonaden/Kaffeespezialitäten deiner Wahl, die günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Lemonade/Coffee Special",
+        "conditions": "Order 2 lemonades/coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -1605,8 +1605,8 @@
       },
       {
         "uuid": "cc120c9d-68b6-4864-4687-08dc7f0ae955",
-        "name": "GRATIS Milchreis-Dessert",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Milchreis-Dessert gratis dazu.",
+        "name": "FREE Rice Dessert",
+        "conditions": "Order a main course of your choice and receive a free rice dessert.",
         "locationCondition": "onSite",
         "value": 0,
         "daysToReset": 90,
@@ -1692,8 +1692,8 @@
     "deals": [
       {
         "uuid": "83223123-fdb1-446c-c493-08dbd18b0e2a",
-        "name": "2für1 Bier",
-        "conditions": "Du bestellst 2 Biere (Nr. 2-4 von Today's Tap List) deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Beer",
+        "conditions": "Order 2 beers (no. 2-4 from the Today's Tap List) of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 6,
         "daysToReset": 90,
@@ -1701,8 +1701,8 @@
       },
       {
         "uuid": "b3a367c1-4092-44bb-c494-08dbd18b0e2a",
-        "name": "GRATIS Shot",
-        "conditions": "Du bestellst einen Longdrink deiner Wahl und bekommst einen Shot gratis dazu.",
+        "name": "FREE Shot",
+        "conditions": "Order a long drink of your choice and receive a free shot.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 6,
@@ -1736,8 +1736,8 @@
     "deals": [
       {
         "uuid": "14742f9a-3e2e-4bae-315d-08dc7646768d",
-        "name": "2für1 Manti",
-        "conditions": "Du bestellst 2 Medium Manti (ohne Toppings) deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Manti",
+        "conditions": "Order 2 medium Manti (without toppings) of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 8,
         "daysToReset": 90,
@@ -1745,8 +1745,8 @@
       },
       {
         "uuid": "ce1fa3f3-acae-41eb-315e-08dc7646768d",
-        "name": "GRATIS Softgetränk",
-        "conditions": "Du bestellst 2 Softgetränke deiner Wahl (Redbull und Homemade Lemonade ausgeschlossen), das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "FREE Soft Drink",
+        "conditions": "Order 2 soft drinks of your choice (Redbull and homemade lemonade excluded), the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 2,
         "daysToReset": 90,
@@ -1824,8 +1824,8 @@
     "deals": [
       {
         "uuid": "f0b48021-c4a0-4fa1-ebf4-08dc734bfeb5",
-        "name": "10€ Rabatt ",
-        "conditions": "Ab einem Mindestbestellwert von 25€ bekommst du 10€ Rabatt",
+        "name": "£10 Discount",
+        "conditions": "From a minimum order value of €25 you get a €10 discount.",
         "locationCondition": "onSite",
         "value": 10,
         "daysToReset": 90,
@@ -1833,8 +1833,8 @@
       },
       {
         "uuid": "3d61a615-d560-433e-ebf5-08dc734bfeb5",
-        "name": "GRATIS Profiterole",
-        "conditions": "Du bestellst ein Hauptgericht deiner Wahl und bekommst ein Mal Profiterole gratis dazu.",
+        "name": "FREE Profiteroles",
+        "conditions": "Order a main course of your choice and get a serving of profiteroles for free.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 90,
@@ -1873,8 +1873,8 @@
     "deals": [
       {
         "uuid": "21c99eb7-9091-4a74-0185-08dbd46f66d6",
-        "name": "2für1 Belegtes Brötchen",
-        "conditions": "Du bestellst 2 belegte Brötchen, Schnitzelbrötchen, oder Fleischkäsebrötchen, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Filled Roll",
+        "conditions": "Order 2 filled rolls, schnitzel rolls, or meatloaf rolls, the cheaper/equivalent one will not be charged.",
         "locationCondition": "onSite",
         "value": 5,
         "daysToReset": 90,
@@ -1882,8 +1882,8 @@
       },
       {
         "uuid": "1b854f64-48d5-459f-0186-08dbd46f66d6",
-        "name": "GRATIS Kaffee",
-        "conditions": "Du bestellst einen Stück Kuchen deiner Wahl und bekommst einen Kaffee gratis dazu.",
+        "name": "FREE Coffee",
+        "conditions": "Order a slice of cake of your choice and get a free coffee with it.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 1,
@@ -1935,16 +1935,16 @@
     ],
     "tags": [
       {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
       }
     ],
     "avgRating": 5,
@@ -1981,8 +1981,8 @@
       },
       {
         "uuid": "1d59f77d-a707-4920-a7d7-08dc02dbf4da",
-        "name": "GRATIS Heißgetränk",
-        "conditions": "Du bestellst einen Pancake deiner Wahl und bekommst ein Heißgetränk gratis dazu.",
+        "name": "FREE Hot Drink",
+        "conditions": "You order a pancake of your choice and get a free hot drink with it.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -2023,8 +2023,8 @@
     "deals": [
       {
         "uuid": "b51669fa-a3f9-4c79-4528-08dc38185f35",
-        "name": "2für1 Cheeseburger",
-        "conditions": "Du bestellst 2 Cheeseburger deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Cheeseburger",
+        "conditions": "Order 2 cheeseburgers of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 11,
         "daysToReset": 90,
@@ -2032,8 +2032,8 @@
       },
       {
         "uuid": "ebe96175-db57-4785-4529-08dc38185f35",
-        "name": "GRATIS Beilage",
-        "conditions": "Du bestellst einen Burger deiner Wahl und bekommst eine Beilage gratis dazu.",
+        "name": "FREE Side Dish",
+        "conditions": "Order a burger of your choice and receive a free side dish.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 6,
@@ -2042,12 +2042,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       },
       {
         "slug": "quick",
@@ -2075,8 +2075,8 @@
     "deals": [
       {
         "uuid": "a61fbb30-ee60-4158-aced-08dc46b3cafc",
-        "name": "2für1 Crêpe",
-        "conditions": "Du bestellst 2 Crêpes deiner Wahl, der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Crepe",
+        "conditions": "Order 2 crêpes of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 6,
         "daysToReset": 90,
@@ -2084,8 +2084,8 @@
       },
       {
         "uuid": "91ebac86-bd20-4c08-acee-08dc46b3cafc",
-        "name": "2für1 Softeis",
-        "conditions": "Du bestellst 2 Softeise deiner Wahl, das günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Soft Serve",
+        "conditions": "Order 2 soft ice creams of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 90,
@@ -2137,8 +2137,8 @@
       },
       {
         "uuid": "5509003c-1278-43a2-f9a1-08dc484a74f0",
-        "name": "GRATIS Pommes",
-        "conditions": "Du bestellst einen Wrap deiner Wahl und bekommst eine Pommes gratis dazu.",
+        "name": "FREE Fries",
+        "conditions": "Order a wrap of your choice and receive free fries with it.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 30,
@@ -2198,16 +2198,16 @@
     ],
     "tags": [
       {
-        "slug": "bowls",
-        "name": "Bowls"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
       }
     ],
     "avgRating": 4.9,
@@ -2253,20 +2253,20 @@
     ],
     "tags": [
       {
-        "slug": "bowls",
-        "name": "Bowls"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 117,
+    "ratingsCount": 119,
     "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -2289,8 +2289,8 @@
     "deals": [
       {
         "uuid": "daf97b5c-ed12-4f76-56d1-08dc6367d173",
-        "name": "2für1 Burger",
-        "conditions": "Du bestellst 2 Burger deiner Wahl (130 g), der günstigere/preisgleiche wird nicht berechnet.",
+        "name": "2for1 Burger",
+        "conditions": "Order 2 burgers of your choice (130g), the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 15,
         "daysToReset": 30,
@@ -2298,8 +2298,8 @@
       },
       {
         "uuid": "d7a79247-7b12-49be-56d2-08dc6367d173",
-        "name": "GRATIS Getränk",
-        "conditions": "Du bestellst einen Monster Burger deiner Wahl und bekommst ein Getränk gratis dazu.",
+        "name": "FREE Drink",
+        "conditions": "Order a Monster Burger of your choice and receive a free drink.",
         "locationCondition": "onSite",
         "value": 4,
         "daysToReset": 1,
@@ -2308,12 +2308,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.9,
