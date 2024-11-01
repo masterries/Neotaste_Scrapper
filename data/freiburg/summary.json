@@ -535,9 +535,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 120
+    },
+    {
+      "date": "2024-11-01",
+      "total_restaurants": 59,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 118
     }
   ],
-  "last_updated": "2024-10-31",
+  "last_updated": "2024-11-01",
   "restaurants": [
     {
       "name": "Umami Ramen Freiburg",
@@ -567,7 +575,7 @@
       "latitude": 47.99194707365028,
       "longitude": 7.847779734559588,
       "avgRating": 4.9,
-      "ratingsCount": 438,
+      "ratingsCount": 439,
       "reviewsCount": 68,
       "images": [
         "https://assets.neotaste.com/restaurants/1e7b2281-eb74-47aa-be90-ebd04f5cf78e/images/e726546c-a51f-46a9-ac85-10706ffdef7e.jpeg",
@@ -606,8 +614,8 @@
       "latitude": 47.99395827917463,
       "longitude": 7.848505067201791,
       "avgRating": 4.9,
-      "ratingsCount": 136,
-      "reviewsCount": 28,
+      "ratingsCount": 138,
+      "reviewsCount": 29,
       "images": [
         "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/fe3243e0-1731-443b-8118-195e9f317d00.jpeg",
         "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/6a256fad-0f2f-4fc2-9c1c-2fbe3104da29.jpeg",
@@ -646,7 +654,7 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 402,
+      "ratingsCount": 405,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -689,7 +697,7 @@
       "latitude": 48.00112319985894,
       "longitude": 7.837687846846397,
       "avgRating": 4.9,
-      "ratingsCount": 85,
+      "ratingsCount": 86,
       "reviewsCount": 17,
       "images": [
         "https://assets.neotaste.com/restaurants/54be7c9f-c6de-4bcf-89f5-e30ee4e165b1/images/de77a6c5-06ac-4f3a-ad18-5d0fe62fef44.jpeg",
@@ -822,8 +830,8 @@
       "deals": [
         {
           "uuid": "78ef6ee2-0bcc-4aab-9c7e-52c2ac419284",
-          "name": "2for1 Lunch Dish",
-          "conditions": "You order 2 lunch dishes of your choice, the cheaper/equally priced one will not be charged.",
+          "name": "2for1 Lunch Offer",
+          "conditions": "You order 2 lunch offer of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 12,
           "daysToReset": 90,
@@ -884,7 +892,7 @@
       "latitude": 47.97777145366275,
       "longitude": 7.824594152776761,
       "avgRating": 4.9,
-      "ratingsCount": 62,
+      "ratingsCount": 63,
       "reviewsCount": 9,
       "images": [
         "https://assets.neotaste.com/restaurants/b7bc54be-e790-4290-a9f3-8ae499b1ca5d/images/08071694-6339-429e-ba7d-287c4b2faf80.jpeg",
@@ -997,7 +1005,7 @@
       "latitude": 47.99414363899047,
       "longitude": 7.848129837891096,
       "avgRating": 4.8,
-      "ratingsCount": 388,
+      "ratingsCount": 392,
       "reviewsCount": 70,
       "images": [
         "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
@@ -1045,46 +1053,6 @@
         "https://assets.neotaste.com/restaurants/1f821d47-22e1-46aa-9c06-81df0acbee67/images/8f3e6703-46ad-418b-95e1-10c7b9995704.jpeg",
         "https://assets.neotaste.com/restaurants/1f821d47-22e1-46aa-9c06-81df0acbee67/images/31876a6e-1a40-4a9f-9977-93dddeb3aa75.jpeg",
         "https://assets.neotaste.com/restaurants/1f821d47-22e1-46aa-9c06-81df0acbee67/images/b78fde26-8e53-4cb7-aa07-c9db76fe9534.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Marmell",
-      "uuid": "aa041145-1808-43a6-9932-3473c77e4f89",
-      "deals": [
-        {
-          "uuid": "1010e382-aee4-4a0e-0071-08dcafcc79e3",
-          "name": "2for1 Coffee + Pastry",
-          "conditions": "You order 2 coffees and 2 cakes of your choice, the respectively cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "8b592988-d63a-4d79-f2af-08dc9cef8877",
-          "name": "2for1 Coffee Special",
-          "conditions": "Order 2 coffee specials of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kaiser-Joseph-Straße 268",
-      "zipCode": "79098",
-      "latitude": 47.99217565425291,
-      "longitude": 7.848075579262312,
-      "avgRating": 4.7,
-      "ratingsCount": 171,
-      "reviewsCount": 22,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/d5fb635b-2654-4ae6-954e-43932393284a.jpeg",
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/015604eb-56db-4045-8271-ae01ac2c056f.jpeg",
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/5795269f-c85d-4235-a420-6826e57e32b7.jpeg",
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/f431457b-624a-4356-b5f4-2ec6c787dda1.jpeg",
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/5e343d64-a5e6-4b8e-a6fc-3fbed10d0d90.jpeg",
-        "https://assets.neotaste.com/restaurants/3ed4f1af-79b2-4f5e-b1f1-cb4e79598c62/images/3ea7e518-4577-4ae3-ac15-abfb2d14df19.jpeg"
       ],
       "priceRange": 2
     },
@@ -1198,7 +1166,7 @@
       "latitude": 47.99784479394619,
       "longitude": 7.850253947282228,
       "avgRating": 4.9,
-      "ratingsCount": 170,
+      "ratingsCount": 175,
       "reviewsCount": 32,
       "images": [
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
@@ -1346,7 +1314,7 @@
         },
         {
           "uuid": "d80651c5-31ba-4b79-f8e5-08dc9a9c0f6b",
-          "name": "GRATIS Heißgetränk",
+          "name": "FREE Hot Drink",
           "conditions": "Order a dish of your choice and receive a free hot drink.",
           "locationCondition": "onSite",
           "value": 5,
@@ -1473,7 +1441,7 @@
       "latitude": 47.98798078546789,
       "longitude": 7.869258473249295,
       "avgRating": 4.7,
-      "ratingsCount": 41,
+      "ratingsCount": 42,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/19e70690-d8df-440d-9c21-aa4afdfce469/images/228efe78-b96f-4434-94f0-ed56c5a90588.jpeg",
@@ -1510,7 +1478,7 @@
       "latitude": 47.982186876572,
       "longitude": 7.797776798132244,
       "avgRating": 4.9,
-      "ratingsCount": 41,
+      "ratingsCount": 42,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/d5b34d5c-f0a1-4337-85b7-e2eb44d65941/images/55fe677e-dc5c-40d6-a3a0-b4dbbac14b64.jpeg",
@@ -1671,7 +1639,7 @@
       "latitude": 47.99716976872945,
       "longitude": 7.843911327575043,
       "avgRating": 4.9,
-      "ratingsCount": 8,
+      "ratingsCount": 9,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotaste.com/restaurants/b8b8143d-6bc1-4a04-bf4d-7f7af53e6fec/images/e2f46e06-798f-4ad4-8086-7315b00975b0.jpeg",
@@ -1711,7 +1679,7 @@
       "latitude": 47.99786275798512,
       "longitude": 7.851534038587432,
       "avgRating": 5,
-      "ratingsCount": 171,
+      "ratingsCount": 173,
       "reviewsCount": 41,
       "images": [
         "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/23f9ff26-1ad9-4f8d-93fa-586569dc6f9c.jpeg",
@@ -1826,7 +1794,7 @@
       "latitude": 47.99189333779383,
       "longitude": 7.847379584912244,
       "avgRating": 4.9,
-      "ratingsCount": 86,
+      "ratingsCount": 88,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/ab53b459-5f3a-41c0-a112-b711e5183866/images/ed7f9d56-9107-448b-a10c-e7f9ba511725.jpeg",
@@ -1951,7 +1919,7 @@
       "latitude": 47.99826930155179,
       "longitude": 7.851500683357337,
       "avgRating": 4.9,
-      "ratingsCount": 51,
+      "ratingsCount": 53,
       "reviewsCount": 15,
       "images": [
         "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/733265b8-4abc-4fcd-bb7a-6c6963383b7d.jpeg",
@@ -1990,7 +1958,7 @@
       "latitude": 47.9939540106442,
       "longitude": 7.854930878071155,
       "avgRating": 4.9,
-      "ratingsCount": 15,
+      "ratingsCount": 16,
       "reviewsCount": 3,
       "images": [
         "https://assets.neotaste.com/restaurants/5326aec9-c808-4ff0-a954-9a8ad6c1981c/images/e6b72f5a-d3e4-496d-bfd9-d317a8fc371e.jpeg"
@@ -2078,42 +2046,6 @@
       "priceRange": 2
     },
     {
-      "name": "Café Moltke",
-      "uuid": "466325b6-d31a-4814-a3a1-74a2709562cf",
-      "deals": [
-        {
-          "uuid": "cd3061ed-f250-436b-bd10-08dc96a11fe1",
-          "name": "2for1 Hot Drink",
-          "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "963e2fa1-7a93-462a-bd11-08dc96a11fe1",
-          "name": "FREE Espresso",
-          "conditions": "Order a cinnamon roll of your choice and receive a free espresso.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Moltkestraße 42",
-      "zipCode": "79098",
-      "latitude": 47.99304734127055,
-      "longitude": 7.843192462349023,
-      "avgRating": 5,
-      "ratingsCount": 92,
-      "reviewsCount": 7,
-      "images": [
-        "https://assets.neotaste.com/restaurants/6e1f8d4e-f39e-47a7-afff-6a02fd50497f/images/2cb95689-2afe-4e02-bf3c-8e0d0b517d7b.jpeg",
-        "https://assets.neotaste.com/restaurants/6e1f8d4e-f39e-47a7-afff-6a02fd50497f/images/6c6b3301-3687-401c-9122-0ba90405e4ee.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Hansens Esszimmer",
       "uuid": "53d09d4f-aef2-439d-a471-875d83205e80",
       "deals": [
@@ -2178,7 +2110,7 @@
       "latitude": 47.99410896863955,
       "longitude": 7.850962171663311,
       "avgRating": 4.8,
-      "ratingsCount": 108,
+      "ratingsCount": 110,
       "reviewsCount": 19,
       "images": [
         "https://assets.neotaste.com/restaurants/63d36d31-85cb-4373-bb71-3be5a9e1ff81/images/d9fcc959-5394-4528-8ac8-36da467cbacb.jpeg",
@@ -2517,7 +2449,7 @@
       "latitude": 47.99072002889339,
       "longitude": 7.842331120153164,
       "avgRating": 4.9,
-      "ratingsCount": 426,
+      "ratingsCount": 429,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/3ddcf1b1-bc5c-4904-bfdb-0399234d89fb/images/25f21a35-4a06-437c-86be-fe49e8678bcc.jpeg",
@@ -2784,7 +2716,7 @@
       "latitude": 47.99555517967057,
       "longitude": 7.844929755643063,
       "avgRating": 4.9,
-      "ratingsCount": 413,
+      "ratingsCount": 419,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/e5fcc7ae-efbf-45c7-bd48-03e4452151ac/images/31b12279-8d83-4207-999e-69c9408f02e8.jpeg",
@@ -2821,7 +2753,7 @@
       "latitude": 47.99829090000001,
       "longitude": 7.853315499999999,
       "avgRating": 4.9,
-      "ratingsCount": 43,
+      "ratingsCount": 44,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/a209fda3-9135-426f-bac3-ef311bd8a1c6/images/8e76831b-9176-4d9b-b6f3-e5501f63d92a.jpeg",
@@ -2865,6 +2797,43 @@
         "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/47bce476-66aa-4a55-a0d0-480b521e8f12.jpeg",
         "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/1ae291c3-b212-4ec2-82ab-c18b242f6ee9.jpeg",
         "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/4a10c8bc-916c-4ff8-bbb6-fd68fe58a1c9.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Pizza Passione",
+      "uuid": "5ab30cbe-bd4e-45c7-a81c-dac61de4a999",
+      "deals": [
+        {
+          "uuid": "998b852b-f487-4096-923b-789a7b7aa67a",
+          "name": "2for1 Pizza",
+          "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "toGo",
+          "value": 15,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "f8a83197-2060-4626-b394-a9bad606fd0a",
+          "name": "FREE Drink",
+          "conditions": "You order a main course of your choice and get a non-alcoholic drink for free.",
+          "locationCondition": "toGo",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Auf der Haid 67 b",
+      "zipCode": "79114",
+      "latitude": 47.9934276,
+      "longitude": 7.802235599999999,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 1,
+      "images": [
+        "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/64628df3-ff7a-4fab-a475-727a0d2b99dc.jpeg",
+        "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/b1a90aaf-f38b-4187-ab4a-8e02a2861c93.jpeg",
+        "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/7e7f40ac-8b3f-4746-9ac8-18441b0ce735.jpeg"
       ],
       "priceRange": 2
     }
