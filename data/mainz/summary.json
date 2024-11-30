@@ -767,9 +767,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 69
+    },
+    {
+      "date": "2024-11-30",
+      "total_restaurants": 34,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 67
     }
   ],
-  "last_updated": "2024-11-29",
+  "last_updated": "2024-11-30",
   "restaurants": [
     {
       "name": "🎄 Noch kein Geschenk?",
@@ -828,7 +836,7 @@
       "latitude": 50.00178071124446,
       "longitude": 8.264891912193557,
       "avgRating": 5,
-      "ratingsCount": 141,
+      "ratingsCount": 142,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
@@ -868,7 +876,7 @@
       "latitude": 50.00836722611069,
       "longitude": 8.261523499961315,
       "avgRating": 4.9,
-      "ratingsCount": 147,
+      "ratingsCount": 148,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
@@ -906,7 +914,7 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.9,
-      "ratingsCount": 341,
+      "ratingsCount": 345,
       "reviewsCount": 42,
       "images": [
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
@@ -1024,7 +1032,7 @@
       "latitude": 49.99982870133544,
       "longitude": 8.27372691427238,
       "avgRating": 4.8,
-      "ratingsCount": 310,
+      "ratingsCount": 312,
       "reviewsCount": 46,
       "images": [
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
@@ -1140,7 +1148,7 @@
       "latitude": 50.00097159781512,
       "longitude": 8.268178958895566,
       "avgRating": 4.9,
-      "ratingsCount": 346,
+      "ratingsCount": 348,
       "reviewsCount": 46,
       "images": [
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
@@ -1215,7 +1223,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.8,
-      "ratingsCount": 481,
+      "ratingsCount": 488,
       "reviewsCount": 67,
       "images": [
         "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/ef9d04c9-48c9-42ee-b859-858727256b20.jpeg",
@@ -1255,8 +1263,8 @@
       "latitude": 50.00260298904056,
       "longitude": 8.271884950801736,
       "avgRating": 4.6,
-      "ratingsCount": 93,
-      "reviewsCount": 14,
+      "ratingsCount": 94,
+      "reviewsCount": 15,
       "images": [
         "https://assets.neotaste.com/restaurants/c2aaea8f-a494-4a8b-a151-763166f2c190/images/9d70a035-0dd3-4f1f-8b05-37cb7c2e18aa.jpeg",
         "https://assets.neotaste.com/restaurants/c2aaea8f-a494-4a8b-a151-763166f2c190/images/1a3e3f58-45ff-49c1-9f34-18aac7a90d62.jpeg",
@@ -1293,7 +1301,7 @@
       "latitude": 49.99375812283927,
       "longitude": 8.277788115656897,
       "avgRating": 4.8,
-      "ratingsCount": 144,
+      "ratingsCount": 145,
       "reviewsCount": 41,
       "images": [
         "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/a9d18810-c33e-466e-b985-234014b9fe70.jpeg",
@@ -1376,41 +1384,6 @@
         "https://assets.neotaste.com/restaurants/2cd7ecfe-38a9-4255-be90-7abaa164f999/images/3888d37b-0d2b-4dfa-9d3d-2cdf4312e0e4.jpeg"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "Nino Panino Mainz",
-      "uuid": "b39b5f1f-6aa5-465a-b3ea-6947878e5e4b",
-      "deals": [
-        {
-          "uuid": "f5699ffd-94c4-4ea1-39c4-08dc02c55f48",
-          "name": "2for1 Panini",
-          "conditions": "You order 2 paninis of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 9,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "a15464a9-d4eb-44d1-39c5-08dc02c55f48",
-          "name": "FREE Sweet Treat",
-          "conditions": "Order a main course of your choice and receive a free Dolce.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Fischtorstraße 7",
-      "zipCode": "55116",
-      "latitude": 49.99951720502725,
-      "longitude": 8.27658113558227,
-      "avgRating": 4.7,
-      "ratingsCount": 39,
-      "reviewsCount": 8,
-      "images": [
-        "https://assets.neotaste.com/restaurants/6c0621b1-6d33-4bdc-a079-0065a8725a3f/images/f78bf869-2722-432e-9e39-33b9dba50b85.jpeg"
-      ],
-      "priceRange": 1
     },
     {
       "name": "Restaurant Brauhaus zur Sonne",
@@ -1706,7 +1679,7 @@
       "latitude": 49.97462545073654,
       "longitude": 8.237424780932672,
       "avgRating": 4.9,
-      "ratingsCount": 36,
+      "ratingsCount": 37,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/76a12817-009c-4962-99eb-df37a9e18572/images/7296b980-c72c-458b-a212-87116b96acd0.jpeg",
@@ -1780,7 +1753,7 @@
       "latitude": 49.9999924669898,
       "longitude": 8.270244500306209,
       "avgRating": 4.5,
-      "ratingsCount": 20,
+      "ratingsCount": 21,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/45318c1e-4369-4ebb-92e2-b8c26df38ec2/images/8291359d-d69e-4778-bac4-8e6c0e927293.jpeg",
@@ -1817,7 +1790,7 @@
       "latitude": 50.00048520485867,
       "longitude": 8.274239429336554,
       "avgRating": 4.8,
-      "ratingsCount": 48,
+      "ratingsCount": 49,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/b7ca8966-6fc6-4e69-959b-f791b22f055a/images/8243716c-8391-4368-bed9-140219911d40.jpeg",
@@ -1924,7 +1897,7 @@
       "latitude": 49.99611164683669,
       "longitude": 8.279427615916552,
       "avgRating": 4.8,
-      "ratingsCount": 106,
+      "ratingsCount": 108,
       "reviewsCount": 17,
       "images": [
         "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/4e7a7309-b765-4768-8821-da14ee06f373.jpeg",
@@ -2034,7 +2007,7 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 525,
+      "ratingsCount": 528,
       "reviewsCount": 70,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
