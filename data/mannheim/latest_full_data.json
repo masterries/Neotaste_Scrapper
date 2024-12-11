@@ -37,61 +37,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
-    "name": "Compleat Quadrate",
-    "slug": "compleat-quadrate",
-    "address": "N7 7",
-    "addressOptional": null,
-    "zipCode": "68161",
-    "latitude": 49.48410872470583,
-    "longitude": 8.472395164652163,
-    "deals": [
-      {
-        "uuid": "8a0b872d-08f1-4e52-0e38-08dc547e2049",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 485,
-    "reviewsCount": 51,
-    "images": [
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
     "name": "Compleat Oststadt",
     "slug": "compleat-oststadt",
@@ -122,20 +67,20 @@
     ],
     "tags": [
       {
-        "slug": "bowls",
-        "name": "Bowls"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 150,
+    "ratingsCount": 151,
     "reviewsCount": 23,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -143,6 +88,61 @@
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
+    "name": "Compleat Quadrate",
+    "slug": "compleat-quadrate",
+    "address": "N7 7",
+    "addressOptional": null,
+    "zipCode": "68161",
+    "latitude": 49.48410872470583,
+    "longitude": 8.472395164652163,
+    "deals": [
+      {
+        "uuid": "8a0b872d-08f1-4e52-0e38-08dc547e2049",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 486,
+    "reviewsCount": 51,
+    "images": [
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
     ],
     "priceRange": 2
   },
@@ -182,7 +182,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 649,
+    "ratingsCount": 650,
     "reviewsCount": 51,
     "images": [
       "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/caa1a929-14ac-43ea-9d3d-a3016fb22074.jpeg",
@@ -224,16 +224,16 @@
     ],
     "tags": [
       {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      },
+      {
         "slug": "cafe",
         "name": "Café"
       },
       {
         "slug": "dessert",
         "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
       }
     ],
     "avgRating": 4.8,
@@ -278,16 +278,16 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "indian",
         "name": "Indian"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 389,
+    "ratingsCount": 392,
     "reviewsCount": 120,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -334,7 +334,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 124,
+    "ratingsCount": 126,
     "reviewsCount": 37,
     "images": [
       "https://assets.neotaste.com/restaurants/f76085f9-097a-40fb-9622-f932163175d1/images/fefb2d4d-e204-436a-aff8-8ca6bfb1dddc.jpeg",
@@ -423,12 +423,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       },
       {
         "slug": "cake",
@@ -478,16 +478,16 @@
     ],
     "tags": [
       {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      },
+      {
         "slug": "cafe",
         "name": "Café"
       },
       {
         "slug": "dessert",
         "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
       }
     ],
     "avgRating": 4.7,
@@ -640,7 +640,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 124,
+    "ratingsCount": 125,
     "reviewsCount": 20,
     "images": [
       "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
@@ -732,16 +732,16 @@
     ],
     "tags": [
       {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 178,
+    "ratingsCount": 179,
     "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/ebfa4c88-95d7-4df0-ba74-39b0f955f628/images/3dd29892-cec4-4720-96da-5ac40bc4ca6a.jpeg"
@@ -779,16 +779,16 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
+        "slug": "vegan",
+        "name": "Vegan"
       },
       {
         "slug": "burgers",
         "name": "Burgers"
       },
       {
-        "slug": "vegan",
-        "name": "Vegan"
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.7,
@@ -835,12 +835,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       },
       {
         "slug": "bowls",
@@ -983,12 +983,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "dessert",
         "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 4.9,
@@ -1032,12 +1032,12 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "breakfast",
         "name": "Breakfast"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 4.9,
@@ -1367,16 +1367,16 @@
     ],
     "tags": [
       {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
       }
     ],
     "avgRating": 5,
@@ -1931,16 +1931,16 @@
     ],
     "tags": [
       {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
         "slug": "vegan",
         "name": "Vegan"
       },
       {
         "slug": "healthy",
         "name": "Healthy"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
       }
     ],
     "avgRating": 5,
@@ -2038,12 +2038,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       },
       {
         "slug": "quick",
@@ -2051,7 +2051,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 78,
+    "ratingsCount": 79,
     "reviewsCount": 26,
     "images": [
       "https://assets.neotaste.com/restaurants/8353ced6-8e95-42fd-b274-adb989eab0ac/images/1554f0f4-3b76-41d5-9d70-d8cb608d26b2.jpeg",
@@ -2151,8 +2151,8 @@
         "name": "Quick"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 13,
+    "avgRating": 4.9,
+    "ratingsCount": 14,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/191d46a7-fd12-4599-adfb-bfe8b8a28f00.jpeg",
@@ -2194,12 +2194,12 @@
     ],
     "tags": [
       {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
         "slug": "burgers",
         "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
       }
     ],
     "avgRating": 4.9,
@@ -2361,8 +2361,8 @@
       }
     ],
     "avgRating": 4.4,
-    "ratingsCount": 38,
-    "reviewsCount": 7,
+    "ratingsCount": 39,
+    "reviewsCount": 8,
     "images": [
       "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
       "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/6f87c530-1ec9-4ef6-bbc1-7a50a8f3f891.jpeg",
