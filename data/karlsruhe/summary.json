@@ -903,9 +903,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 143
+    },
+    {
+      "date": "2024-12-17",
+      "total_restaurants": 72,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 141
     }
   ],
-  "last_updated": "2024-12-16",
+  "last_updated": "2024-12-17",
   "restaurants": [
     {
       "name": "🎄 Noch kein Geschenk?",
@@ -964,7 +972,7 @@
       "latitude": 48.99193828988366,
       "longitude": 8.37443173511256,
       "avgRating": 4.9,
-      "ratingsCount": 70,
+      "ratingsCount": 72,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/a4970979-7aa8-4807-8820-4fcdf1fc28ff.jpeg",
@@ -1003,7 +1011,7 @@
       "latitude": 49.00878525342304,
       "longitude": 8.404225110851845,
       "avgRating": 4.7,
-      "ratingsCount": 497,
+      "ratingsCount": 499,
       "reviewsCount": 106,
       "images": [
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
@@ -1045,7 +1053,7 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 831,
+      "ratingsCount": 833,
       "reviewsCount": 138,
       "images": [
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
@@ -1245,8 +1253,8 @@
       "latitude": 49.00966819440338,
       "longitude": 8.394729321804608,
       "avgRating": 4.7,
-      "ratingsCount": 666,
-      "reviewsCount": 101,
+      "ratingsCount": 673,
+      "reviewsCount": 102,
       "images": [
         "https://assets.neotaste.com/restaurants/fa105873-afdb-4130-b0e1-917813780071/images/02a75b31-86f6-45ee-bcfb-0bcad22b6063.jpeg",
         "https://assets.neotaste.com/restaurants/fa105873-afdb-4130-b0e1-917813780071/images/5bf888a2-a623-4696-b43c-c52d1ced4b61.jpeg",
@@ -1326,8 +1334,8 @@
       "latitude": 49.00713881957641,
       "longitude": 8.403498993865345,
       "avgRating": 4.8,
-      "ratingsCount": 273,
-      "reviewsCount": 38,
+      "ratingsCount": 274,
+      "reviewsCount": 39,
       "images": [
         "https://assets.neotaste.com/restaurants/99aeda26-f1c0-4c0d-8748-c71248a672cc/images/0ecb80db-65ff-4deb-9a07-8722ac1fdd11.jpeg",
         "https://assets.neotaste.com/restaurants/99aeda26-f1c0-4c0d-8748-c71248a672cc/images/bf23851b-78cb-4d65-96c2-73d7c5f11628.png",
@@ -1403,7 +1411,7 @@
       "latitude": 49.0080510797015,
       "longitude": 8.397243418096643,
       "avgRating": 4.8,
-      "ratingsCount": 197,
+      "ratingsCount": 198,
       "reviewsCount": 35,
       "images": [
         "https://assets.neotaste.com/restaurants/f9c93287-731d-4830-9833-1ed3d9fa87e9/images/5fde9499-866b-45e9-80c8-b4874ddc858a.jpeg",
@@ -1490,7 +1498,7 @@
       "latitude": 49.0080188701199,
       "longitude": 8.382135432078572,
       "avgRating": 4.9,
-      "ratingsCount": 195,
+      "ratingsCount": 196,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/8da6b7f0-ad49-48c8-aeaf-36b4e61e2621/images/e364d3a4-46ef-4aab-bcc2-d4bbcd4feca7.jpeg",
@@ -1942,7 +1950,7 @@
       "latitude": 49.00686129321499,
       "longitude": 8.394466832752178,
       "avgRating": 4.8,
-      "ratingsCount": 10,
+      "ratingsCount": 11,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/7a83f676-e4ea-4935-a04b-54424dc4e252/images/945e7e28-24e2-48f6-a26f-cfda1ae15ef7.jpeg",
@@ -2147,45 +2155,15 @@
     {
       "name": "Santos Cocktailbar",
       "uuid": "37caf1f4-e1fe-427c-8215-2ed43b7c78ae",
-      "deals": [
-        {
-          "uuid": "d8a8106b-9dfc-490e-bba5-08dc7f042677",
-          "name": "2for1 Cocktail",
-          "conditions": "Order 2 cocktails from the Special Menu, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "bec64e06-e996-45cb-bba6-08dc7f042677",
-          "name": "2for1 Spritz",
-          "conditions": "Order 2 Spritz on the terrace, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Karlstraße 69",
-      "zipCode": "76137",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.00096131061614,
       "longitude": 8.3943422856344,
       "avgRating": 4.8,
       "ratingsCount": 84,
-      "reviewsCount": 17,
-      "images": [
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6e890239-63f9-4684-9d7d-226aef05fe0f.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/2af0b526-a5be-4803-8a46-6568f47d2324.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/be7f0801-d778-4f6d-bb4a-f64e0682c19f.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6af1ba58-31d6-43bd-9238-b93077228a6d.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/e1f54e3c-788d-4125-a1bd-a1504504ba58.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/ab1bf049-8918-4487-b5cb-6f9d360c1ff2.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/9e51f8cb-adc9-4ef8-a7a5-c0caf443d158.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/129c2296-60aa-42f7-a3d8-39581824b488.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/3e42c301-527d-4569-900f-01d2e9acbb4b.jpeg",
-        "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/acb79114-2f32-4fc0-8e48-f0f4cd815566.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
@@ -2960,42 +2938,6 @@
       "priceRange": 2
     },
     {
-      "name": "Romulus et Remus",
-      "uuid": "5acd30fd-7833-4216-84fa-2c1e7af1d144",
-      "deals": [
-        {
-          "uuid": "974db930-4429-4ded-f430-08dc4daf3e7e",
-          "name": "2for1 Pizza",
-          "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.\n(Pizza is baked in a wood-fired oven).",
-          "locationCondition": "onSite",
-          "value": 16,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "67ce5959-81a2-46a2-f431-08dc4daf3e7e",
-          "name": "FREE Bruschetta",
-          "conditions": "You order a main dish of your choice and get a Bruschetta for free. This deal is not valid for takeaway orders.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Auer Str. 74",
-      "zipCode": "76227",
-      "latitude": 48.99314768000911,
-      "longitude": 8.461200735203178,
-      "avgRating": 4.9,
-      "ratingsCount": 151,
-      "reviewsCount": 72,
-      "images": [
-        "https://assets.neotaste.com/restaurants/99031c3b-79b1-459a-a1bf-8912aa0161dc/images/c382e667-8f4a-4b28-8ac5-29b020f67d50.jpeg",
-        "https://assets.neotaste.com/restaurants/99031c3b-79b1-459a-a1bf-8912aa0161dc/images/a9200335-85dc-49fb-a7dc-613e0a2e93bd.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Eiscafé EUROPA",
       "uuid": "91dbcca3-f888-4f10-b4cb-073e7fb7ab22",
       "deals": [
@@ -3239,7 +3181,7 @@
       "latitude": 49.01098661903561,
       "longitude": 8.423569105757169,
       "avgRating": 4.9,
-      "ratingsCount": 220,
+      "ratingsCount": 221,
       "reviewsCount": 31,
       "images": [
         "https://assets.neotaste.com/restaurants/c056c3e9-b793-4867-b447-956e59e8d035/images/0eeb9d16-59b8-45fd-b188-b62f21e46ab6.jpeg",
@@ -3660,6 +3602,42 @@
         "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/15d6510a-d5a4-4270-85d6-73874e9eca3d.jpg",
         "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/26c0cdea-a7d3-445c-990c-aed6d777d67f.jpg",
         "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/28b7ddf4-f02f-418b-a31a-8c7ac78e2781.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Romulus et Remus",
+      "uuid": "5acd30fd-7833-4216-84fa-2c1e7af1d144",
+      "deals": [
+        {
+          "uuid": "974db930-4429-4ded-f430-08dc4daf3e7e",
+          "name": "2for1 Pizza",
+          "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.\n(Pizza is baked in a wood-fired oven).\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.\n",
+          "locationCondition": "onSite",
+          "value": 16,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "67ce5959-81a2-46a2-f431-08dc4daf3e7e",
+          "name": "FREE Bruschetta",
+          "conditions": "You order a main dish of your choice and get a Bruschetta for free. This deal is not valid for takeaway orders.\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.\n",
+          "locationCondition": "onSite",
+          "value": 6,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Auer Str. 74",
+      "zipCode": "76227",
+      "latitude": 48.99314768000911,
+      "longitude": 8.461200735203178,
+      "avgRating": 4.9,
+      "ratingsCount": 151,
+      "reviewsCount": 72,
+      "images": [
+        "https://assets.neotaste.com/restaurants/99031c3b-79b1-459a-a1bf-8912aa0161dc/images/c382e667-8f4a-4b28-8ac5-29b020f67d50.jpeg",
+        "https://assets.neotaste.com/restaurants/99031c3b-79b1-459a-a1bf-8912aa0161dc/images/a9200335-85dc-49fb-a7dc-613e0a2e93bd.jpeg"
       ],
       "priceRange": 2
     }
