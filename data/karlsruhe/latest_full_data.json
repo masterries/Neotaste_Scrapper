@@ -193,7 +193,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 833,
+    "ratingsCount": 836,
     "reviewsCount": 138,
     "images": [
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
@@ -445,7 +445,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 673,
+    "ratingsCount": 677,
     "reviewsCount": 102,
     "images": [
       "https://assets.neotaste.com/restaurants/fa105873-afdb-4130-b0e1-917813780071/images/02a75b31-86f6-45ee-bcfb-0bcad22b6063.jpeg",
@@ -497,8 +497,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 244,
-    "reviewsCount": 58,
+    "ratingsCount": 245,
+    "reviewsCount": 59,
     "images": [
       "https://assets.neotaste.com/restaurants/522919d5-d8c6-4118-98f1-fd16cb623579/images/532b8548-ccd0-4373-95f7-ff971b9d8539.jpeg",
       "https://assets.neotaste.com/restaurants/522919d5-d8c6-4118-98f1-fd16cb623579/images/88c2b182-08e9-4e37-9c7b-337611cd805c.jpeg",
@@ -550,8 +550,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 274,
-    "reviewsCount": 39,
+    "ratingsCount": 278,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/99aeda26-f1c0-4c0d-8748-c71248a672cc/images/0ecb80db-65ff-4deb-9a07-8722ac1fdd11.jpeg",
       "https://assets.neotaste.com/restaurants/99aeda26-f1c0-4c0d-8748-c71248a672cc/images/bf23851b-78cb-4d65-96c2-73d7c5f11628.png",
@@ -1548,8 +1548,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 295,
-    "reviewsCount": 56,
+    "ratingsCount": 297,
+    "reviewsCount": 57,
     "images": [
       "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/abe963c1-c080-42a5-9f20-3750e36e39c3.jpeg",
       "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/dcfd51cc-e1e6-4033-8bfc-ee6bde8290b5.jpeg",
@@ -1620,17 +1620,52 @@
     "uuid": "37caf1f4-e1fe-427c-8215-2ed43b7c78ae",
     "name": "Santos Cocktailbar",
     "slug": "santos-cocktailbar",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Karlstraße 69",
+    "addressOptional": null,
+    "zipCode": "76137",
     "latitude": 49.00096131061614,
     "longitude": 8.3943422856344,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "d8a8106b-9dfc-490e-bba5-08dc7f042677",
+        "name": "2for1 Cocktail",
+        "conditions": "Order 2 cocktails from the Special Menu, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 13,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "bec64e06-e996-45cb-bba6-08dc7f042677",
+        "name": "2for1 Spritz",
+        "conditions": "Order 2 Spritz on the terrace, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
     "avgRating": 4.8,
-    "ratingsCount": 84,
-    "reviewsCount": null,
-    "images": [],
+    "ratingsCount": 85,
+    "reviewsCount": 17,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6e890239-63f9-4684-9d7d-226aef05fe0f.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/2af0b526-a5be-4803-8a46-6568f47d2324.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/be7f0801-d778-4f6d-bb4a-f64e0682c19f.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6af1ba58-31d6-43bd-9238-b93077228a6d.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/e1f54e3c-788d-4125-a1bd-a1504504ba58.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/ab1bf049-8918-4487-b5cb-6f9d360c1ff2.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/9e51f8cb-adc9-4ef8-a7a5-c0caf443d158.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/129c2296-60aa-42f7-a3d8-39581824b488.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/3e42c301-527d-4569-900f-01d2e9acbb4b.jpeg",
+      "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/acb79114-2f32-4fc0-8e48-f0f4cd815566.jpeg"
+    ],
     "priceRange": 2
   },
   {
@@ -1841,7 +1876,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 257,
+    "ratingsCount": 262,
     "reviewsCount": 63,
     "images": [
       "https://assets.neotaste.com/restaurants/cb903b4b-d530-4d1f-8efa-48545b6b0aa9/images/16a559b3-26e5-44dc-a4c4-05bb3c6bf104.png",
@@ -2557,7 +2592,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 101,
+    "ratingsCount": 102,
     "reviewsCount": 28,
     "images": [
       "https://assets.neotaste.com/restaurants/090d83cf-5ad0-4bfd-b5ac-d10ab7379847/images/c9b543cf-366b-4ee7-a9c7-b4748378c261.jpeg",
@@ -2614,7 +2649,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 255,
+    "ratingsCount": 258,
     "reviewsCount": 51,
     "images": [
       "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/3874c809-00ae-4d31-aed3-17af97f0e921.jpeg",
@@ -3004,7 +3039,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 221,
+    "ratingsCount": 222,
     "reviewsCount": 31,
     "images": [
       "https://assets.neotaste.com/restaurants/c056c3e9-b793-4867-b447-956e59e8d035/images/0eeb9d16-59b8-45fd-b188-b62f21e46ab6.jpeg",
@@ -3060,8 +3095,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 162,
-    "reviewsCount": 38,
+    "ratingsCount": 164,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/bf8864bd-a259-4d19-8e51-c7858cc94eca.jpeg",
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/5d71e43e-238f-4f12-8237-7646660aea74.jpeg",
