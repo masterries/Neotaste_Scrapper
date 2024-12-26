@@ -76,8 +76,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 318,
-    "reviewsCount": 60,
+    "ratingsCount": 321,
+    "reviewsCount": 61,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
@@ -775,8 +775,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 484,
-    "reviewsCount": 86,
+    "ratingsCount": 485,
+    "reviewsCount": 87,
     "images": [
       "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
       "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/9936fcd2-dffc-4cee-bab5-3f8f8e290749.jpeg",
@@ -2125,6 +2125,62 @@
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/a07d6e58-0c1e-48c5-b59a-d88bc41ea06d.jpeg",
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/a6571bba-225f-43e2-b273-f5d058c11337.jpeg",
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/ef5d437d-725b-44dd-9516-df4597cbd224.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "3b3168ec-2d6c-4e85-858d-e21114955c58",
+    "name": "Katzentempel Freiburg",
+    "slug": "katzentempel-freiburg",
+    "address": "Bertoldstraße 24",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.9950877,
+    "longitude": 7.847792800000001,
+    "deals": [
+      {
+        "uuid": "76785084-b0c4-4a4b-a1ba-07672e88e382",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "56bae5f8-b584-4ae2-8e12-44b2fd174597",
+        "name": "FREE (Hot) Drink",
+        "conditions": "You order a main course of your choice and get a (hot) drink for free.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/368b915f-b2fc-403a-a264-9c7ee32626b4.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/bb9739b8-c7c2-4f91-ad10-4f12e105df96.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/eb8b031d-0db4-43eb-985b-36c0ac09cfde.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/ce97a336-6a88-45c5-bc2c-98f615a7b18b.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/55188c3e-a427-4b90-baf7-535e01d37230.jpg"
     ],
     "priceRange": 2
   },
