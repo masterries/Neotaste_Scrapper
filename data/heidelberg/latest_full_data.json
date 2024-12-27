@@ -80,7 +80,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 496,
+    "ratingsCount": 499,
     "reviewsCount": 53,
     "images": [
       "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -245,7 +245,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 624,
+    "ratingsCount": 625,
     "reviewsCount": 74,
     "images": [
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
@@ -955,7 +955,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 180,
+    "ratingsCount": 181,
     "reviewsCount": 21,
     "images": [
       "https://assets.neotaste.com/restaurants/6f868219-ecea-458a-8e83-85f739e4d02a/images/dc75100e-f849-43b8-98fd-b2187cf86851.jpeg",
@@ -1645,7 +1645,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 12,
+    "ratingsCount": 13,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/f6f14275-f936-4ffc-90e5-e9a2ae69603e/images/03fdd505-1b98-426a-a5c8-32eacec37c84.jpeg",
@@ -1762,17 +1762,55 @@
     "uuid": "48045493-fac2-4d64-b0aa-d3bbe4ccacf0",
     "name": "Linde Restaurant",
     "slug": "linde-restaurant",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Bierhelderweg 2",
+    "addressOptional": null,
+    "zipCode": "69126",
     "latitude": 49.37791225003587,
     "longitude": 8.693084301143406,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "19212be6-9772-4372-9018-08dc848cc025",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "bed5eb45-4b84-4539-9019-08dc848cc025",
+        "name": "FREE Lime Aperitif",
+        "conditions": "Order a main course of your choice and receive a free lime aperitif.",
+        "locationCondition": "onSite",
+        "value": 9,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "meat",
+        "name": "Meat"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "seafood",
+        "name": "Seafood"
+      }
+    ],
     "avgRating": 5,
     "ratingsCount": 4,
-    "reviewsCount": null,
-    "images": [],
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/e90c4192-6dcc-483b-864a-38981bf0bbbb.jpeg",
+      "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/6fe6e359-454d-4be6-9387-ae0ac6ddc56f.jpeg",
+      "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/48210b8a-66ab-4a82-8dc0-094b2b2e10b0.jpeg",
+      "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/18c16aa1-0f77-4491-8640-b18e4dbd2a27.jpeg",
+      "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/87167f6f-585f-49fc-9f9e-1331ecca2d97.jpeg"
+    ],
     "priceRange": 2
   },
   {
@@ -1874,8 +1912,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 127,
-    "reviewsCount": 20,
+    "ratingsCount": 128,
+    "reviewsCount": 21,
     "images": [
       "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
       "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/235f3980-3676-40ab-8407-53ea81216c3f.jpeg",
