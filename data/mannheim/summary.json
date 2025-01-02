@@ -1031,9 +1031,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 95
+    },
+    {
+      "date": "2025-01-02",
+      "total_restaurants": 46,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 91
     }
   ],
-  "last_updated": "2025-01-01",
+  "last_updated": "2025-01-02",
   "restaurants": [
     {
       "name": "🎄 Noch kein Geschenk?",
@@ -1139,45 +1147,6 @@
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Helder & Leeuwen Café",
-      "uuid": "154dfbb3-961f-4411-9a82-f6d74df627eb",
-      "deals": [
-        {
-          "uuid": "397f710a-b800-4a90-435a-08dbccc4ca55",
-          "name": "2for1 Coffee Specialty",
-          "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 180,
-          "status": "available"
-        },
-        {
-          "uuid": "bdcc8c7a-7e56-406a-435b-08dbccc4ca55",
-          "name": "FREE Dessert",
-          "conditions": "Order a hot drink of your choice and receive a free cookie, croissant, or Franzbrötchen.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "N3 15",
-      "zipCode": "68161",
-      "latitude": 49.48551335618428,
-      "longitude": 8.467484375937062,
-      "avgRating": 4.9,
-      "ratingsCount": 686,
-      "reviewsCount": 55,
-      "images": [
-        "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/caa1a929-14ac-43ea-9d3d-a3016fb22074.jpeg",
-        "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/ed10f193-c1bb-48bd-a6ac-0821034d767b.jpeg",
-        "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/64406e1f-af54-461a-92d2-6bc927ecc945.jpeg",
-        "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/a072cab8-16d1-4956-a39b-4e607e0330a8.jpeg",
-        "https://assets.neotaste.com/restaurants/10dcf405-0284-4a17-ae3d-fda3f16d39a6/images/bd6745b1-277e-463a-9401-3bbf3b9cc2f1.jpeg"
       ],
       "priceRange": 2
     },
@@ -1476,7 +1445,7 @@
       "latitude": 49.49515428276587,
       "longitude": 8.459738447238948,
       "avgRating": 4.9,
-      "ratingsCount": 262,
+      "ratingsCount": 263,
       "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/7f0966ea-e82c-44ad-9055-62e511c90ad1.jpeg",
@@ -1831,44 +1800,6 @@
         "https://assets.neotaste.com/restaurants/175da916-0d04-4ea0-9afa-de699f5be395/images/1303b359-73c0-4915-8c6e-96626d92ca8b.jpeg"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "Patina",
-      "uuid": "22908f6f-d020-4fc0-b664-636f51958a53",
-      "deals": [
-        {
-          "uuid": "c65c5f6b-e538-499b-4346-08dbccc4ca55",
-          "name": "2for1 Coffee + Pastry",
-          "conditions": "You order 2 coffees and 2 slices of cake of your choice, the respective cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "af4fd9d6-3660-47fa-4347-08dbccc4ca55",
-          "name": "FREE Drink",
-          "conditions": "Order a cake of your choice and receive a free drink. (Alcoholic beverages excluded).",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Luisenring 38",
-      "zipCode": "68159",
-      "latitude": 49.49409688573907,
-      "longitude": 8.46357003917108,
-      "avgRating": 5,
-      "ratingsCount": 159,
-      "reviewsCount": 26,
-      "images": [
-        "https://assets.neotaste.com/restaurants/adb71a44-5f78-4dcf-b54b-7982280ec551/images/0a6cd6a3-1cf9-4ef6-b628-679601eb118c.jpeg",
-        "https://assets.neotaste.com/restaurants/adb71a44-5f78-4dcf-b54b-7982280ec551/images/1fa77204-da96-4375-a242-83c7dace6f4a.jpeg",
-        "https://assets.neotaste.com/restaurants/adb71a44-5f78-4dcf-b54b-7982280ec551/images/97b0dbfa-69df-48dd-b791-c13f7861a2a9.jpeg",
-        "https://assets.neotaste.com/restaurants/adb71a44-5f78-4dcf-b54b-7982280ec551/images/8c9fff8d-af0a-44da-b0f3-14f698193fc7.jpeg"
-      ],
-      "priceRange": 1
     },
     {
       "name": "Chocolate Cocktailbar",
@@ -2230,8 +2161,8 @@
       "latitude": 49.50327625854703,
       "longitude": 8.516225509961728,
       "avgRating": 4.8,
-      "ratingsCount": 52,
-      "reviewsCount": 13,
+      "ratingsCount": 53,
+      "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
         "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/73fc0051-3edb-4a52-81d4-e1a729676231.jpeg",
@@ -2603,7 +2534,7 @@
       "latitude": 49.49457137743799,
       "longitude": 8.378757652843703,
       "avgRating": 4.9,
-      "ratingsCount": 84,
+      "ratingsCount": 85,
       "reviewsCount": 26,
       "images": [
         "https://assets.neotaste.com/restaurants/8353ced6-8e95-42fd-b274-adb989eab0ac/images/1554f0f4-3b76-41d5-9d70-d8cb608d26b2.jpeg",
@@ -2828,8 +2759,8 @@
       "zipCode": "68165",
       "latitude": 49.4826819,
       "longitude": 8.4774795,
-      "avgRating": 4.4,
-      "ratingsCount": 46,
+      "avgRating": 4.5,
+      "ratingsCount": 48,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",

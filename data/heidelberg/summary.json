@@ -1031,9 +1031,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 97
+    },
+    {
+      "date": "2025-01-02",
+      "total_restaurants": 47,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 93
     }
   ],
-  "last_updated": "2025-01-01",
+  "last_updated": "2025-01-02",
   "restaurants": [
     {
       "name": "🎄 Noch kein Geschenk?",
@@ -1092,7 +1100,7 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.9,
-      "ratingsCount": 509,
+      "ratingsCount": 511,
       "reviewsCount": 55,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -1592,7 +1600,7 @@
       "latitude": 49.40763001962318,
       "longitude": 8.683590030059989,
       "avgRating": 4.9,
-      "ratingsCount": 389,
+      "ratingsCount": 390,
       "reviewsCount": 85,
       "images": [
         "https://assets.neotaste.com/restaurants/6d0233d4-669d-481f-b42b-cf974bcb64d8/images/eac25b23-d005-4245-9dc9-e036334457da.jpeg",
@@ -2013,45 +2021,6 @@
       "priceRange": 2
     },
     {
-      "name": "Rada Coffee & Rösterei",
-      "uuid": "9a4f1549-010f-4905-9d47-63414e5f9397",
-      "deals": [
-        {
-          "uuid": "d43ebdeb-5df5-48d6-a871-08dc6b82761c",
-          "name": "2for1 Coffee Speciality + Pastry",
-          "conditions": "Order 2 coffee specialties and 2 cakes of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "9a8a6e90-ce2d-4547-a872-08dc6b82761c",
-          "name": "FREE Cake..",
-          "conditions": "Order a drink of your choice and get a free slice of cake.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Untere Str. 21",
-      "zipCode": "69117",
-      "latitude": 49.41225850724958,
-      "longitude": 8.70777798834335,
-      "avgRating": 4.9,
-      "ratingsCount": 199,
-      "reviewsCount": 28,
-      "images": [
-        "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/35d195e8-0d8a-4c4a-b9d7-2bae0a0a7549.jpeg",
-        "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/0d5b4d9e-c055-4902-99ee-e1ec5a57e7d1.jpeg",
-        "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/cb2e54fb-3bfe-4c0d-84a7-fc3f16119c3c.jpeg",
-        "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/c3253fe7-1dc0-4cb1-a16d-671f89ea560f.jpeg",
-        "https://assets.neotaste.com/restaurants/e416d13b-8f6c-41e6-87ad-6d3565df2d29/images/4bbbd2cd-73a1-4336-8bfb-353237ff6e75.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Taif‘s",
       "uuid": "0948ad54-9a89-404e-ac3f-1d09d918f702",
       "deals": [
@@ -2163,43 +2132,6 @@
         "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/becc389e-4606-4ab7-b812-e22ebaac0641.jpeg",
         "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/4818e2dd-a42f-45dd-991b-e6345d9ada7d.jpeg",
         "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/97b89572-0dce-4050-80bf-c92d0cc91da0.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Rada Arepa [Glutenfrei]",
-      "uuid": "5406aaa1-def8-46ec-bf72-963aa5d3b7fb",
-      "deals": [
-        {
-          "uuid": "2ce15bd3-9253-4164-3fcd-08dc6b86fbfb",
-          "name": "2for1 Arepa",
-          "conditions": "Order 2 Arepas of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "32375db2-b776-42e8-3fce-08dc6b86fbfb",
-          "name": "FREE Drink",
-          "conditions": "Order an Arepa of your choice and receive a free drink.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Untere Str. 21",
-      "zipCode": "69117",
-      "latitude": 49.41225916217255,
-      "longitude": 8.707785429447783,
-      "avgRating": 5,
-      "ratingsCount": 53,
-      "reviewsCount": 6,
-      "images": [
-        "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/57f42833-3926-4a24-bfa1-4736ebecda24.jpeg",
-        "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/00e11ddd-4112-4754-89b4-fba44934462e.jpeg",
-        "https://assets.neotaste.com/restaurants/5b6349b5-38a5-4965-b04a-e9ff04ce6fea/images/a10df9f6-2e84-490f-a10c-e2da1a271574.jpeg"
       ],
       "priceRange": 2
     },
@@ -2460,7 +2392,7 @@
       "latitude": 49.41131614369048,
       "longitude": 8.711970070552214,
       "avgRating": 4.8,
-      "ratingsCount": 133,
+      "ratingsCount": 134,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
@@ -2499,7 +2431,7 @@
       "latitude": 49.41152838095729,
       "longitude": 8.703814588406802,
       "avgRating": 4.7,
-      "ratingsCount": 109,
+      "ratingsCount": 110,
       "reviewsCount": 13,
       "images": [
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
