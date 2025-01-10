@@ -1095,9 +1095,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 110
+    },
+    {
+      "date": "2025-01-10",
+      "total_restaurants": 54,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2025-01-09",
+  "last_updated": "2025-01-10",
   "restaurants": [
     {
       "name": "Enchilada",
@@ -1127,7 +1135,7 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.7,
-      "ratingsCount": 353,
+      "ratingsCount": 354,
       "reviewsCount": 67,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -1364,7 +1372,7 @@
       "latitude": 47.99194707365028,
       "longitude": 7.847779734559588,
       "avgRating": 4.9,
-      "ratingsCount": 641,
+      "ratingsCount": 648,
       "reviewsCount": 93,
       "images": [
         "https://assets.neotaste.com/restaurants/1e7b2281-eb74-47aa-be90-ebd04f5cf78e/images/e726546c-a51f-46a9-ac85-10706ffdef7e.jpeg",
@@ -1403,8 +1411,8 @@
       "latitude": 47.99395827917463,
       "longitude": 7.848505067201791,
       "avgRating": 4.8,
-      "ratingsCount": 200,
-      "reviewsCount": 39,
+      "ratingsCount": 201,
+      "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/fe3243e0-1731-443b-8118-195e9f317d00.jpeg",
         "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/6a256fad-0f2f-4fc2-9c1c-2fbe3104da29.jpeg",
@@ -1443,8 +1451,8 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 635,
-      "reviewsCount": 86,
+      "ratingsCount": 644,
+      "reviewsCount": 88,
       "images": [
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/4b3a9e43-ea06-4ff7-a5a9-ed61af27bd2b.jpeg",
@@ -1486,7 +1494,7 @@
       "latitude": 47.99495260577616,
       "longitude": 7.834672897294029,
       "avgRating": 4.9,
-      "ratingsCount": 130,
+      "ratingsCount": 132,
       "reviewsCount": 28,
       "images": [
         "https://assets.neotaste.com/restaurants/54be7c9f-c6de-4bcf-89f5-e30ee4e165b1/images/de77a6c5-06ac-4f3a-ad18-5d0fe62fef44.jpeg",
@@ -1523,7 +1531,7 @@
       "latitude": 47.98882552933242,
       "longitude": 7.795506249683676,
       "avgRating": 4.9,
-      "ratingsCount": 58,
+      "ratingsCount": 59,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotaste.com/restaurants/73f32121-ff60-44ba-b5e3-a8d8f1b461d4/images/01b0e13f-a671-4867-9a0e-f1591a6ee6df.jpeg",
@@ -1601,55 +1609,13 @@
       "latitude": 47.99880664830506,
       "longitude": 7.839823582447768,
       "avgRating": 4.8,
-      "ratingsCount": 102,
-      "reviewsCount": 20,
+      "ratingsCount": 103,
+      "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/3bb1cb50-c99f-4fd7-91ca-1b8c361a54c0.jpeg",
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/041d723f-9da6-4d14-8385-cab494edd640.jpeg",
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/31d620bb-46dc-47a7-8309-eaff70d800c0.jpeg",
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/1bf3158f-668e-493c-8156-3478b00328e8.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "PasteVai",
-      "uuid": "2f449493-47eb-4ad5-bb79-fff427699c02",
-      "deals": [
-        {
-          "uuid": "b10bf6c2-46bd-4814-8111-08dc9f5dd49d",
-          "name": "2for1 Pasta",
-          "conditions": "Order 2 pasta dishes of your choice and receive 50% discount on the second pasta dish.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "27c7ecfb-642e-45dd-8112-08dc9f5dd49d",
-          "name": "FREE Soft Drink",
-          "conditions": "You order a main course of your choice and get a soft drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Am Mettweg 41",
-      "zipCode": "79111",
-      "latitude": 47.97973337953962,
-      "longitude": 7.807321015957085,
-      "avgRating": 5,
-      "ratingsCount": 29,
-      "reviewsCount": 6,
-      "images": [
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/e73fd6d4-b6cb-498f-8530-37b0ae43831d.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/487269f3-9f77-4641-be41-c46f372c800c.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/440f30c6-0c2b-4c07-bfca-e63d23d43f93.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/8b4eda81-67cb-4219-a79a-cc190f01ee1e.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/47828dfa-1584-4916-923b-7bdfcc5f9808.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/1616689b-f7bf-423b-8791-5b49d1d81411.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/a8c8ccaa-e6de-4ae7-a69a-f9df250b345c.jpeg",
-        "https://assets.neotaste.com/restaurants/fa5f3d00-6608-45e6-a5f5-85e1e6995615/images/540bfb9c-1512-4ced-87b1-0f9852a0e821.jpeg"
       ],
       "priceRange": 2
     },
@@ -1796,7 +1762,7 @@
       "latitude": 48.01031352429842,
       "longitude": 7.850689035204358,
       "avgRating": 4.8,
-      "ratingsCount": 46,
+      "ratingsCount": 47,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/4856a9d6-d703-4a25-a4ce-664ec17d0c83.jpeg",
@@ -1909,7 +1875,7 @@
       "latitude": 47.99784479394619,
       "longitude": 7.850253947282228,
       "avgRating": 4.9,
-      "ratingsCount": 307,
+      "ratingsCount": 308,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
@@ -2293,7 +2259,7 @@
       "latitude": 47.99716976872945,
       "longitude": 7.843911327575043,
       "avgRating": 4.8,
-      "ratingsCount": 23,
+      "ratingsCount": 24,
       "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/b8b8143d-6bc1-4a04-bf4d-7f7af53e6fec/images/e2f46e06-798f-4ad4-8086-7315b00975b0.jpeg",
@@ -2408,8 +2374,8 @@
       "latitude": 48.47284398229384,
       "longitude": 7.94515171145101,
       "avgRating": 4.9,
-      "ratingsCount": 14,
-      "reviewsCount": 1,
+      "ratingsCount": 15,
+      "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/7c664ebd-d011-4487-ac9c-f200596abc0d/images/09b38e86-c4f1-42fe-8025-1a31f526a7c1.jpeg",
         "https://assets.neotaste.com/restaurants/7c664ebd-d011-4487-ac9c-f200596abc0d/images/4b4f2f86-86f3-4dce-81b5-d2a7bb8399e1.jpeg",
@@ -2643,7 +2609,7 @@
       "latitude": 47.9950877,
       "longitude": 7.847792800000001,
       "avgRating": 4.5,
-      "ratingsCount": 15,
+      "ratingsCount": 16,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
@@ -2683,7 +2649,7 @@
       "latitude": 48.01117640528474,
       "longitude": 7.856115522762241,
       "avgRating": 4.8,
-      "ratingsCount": 172,
+      "ratingsCount": 173,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
@@ -2946,7 +2912,7 @@
       "latitude": 47.992546557769,
       "longitude": 7.852472618930051,
       "avgRating": 4.9,
-      "ratingsCount": 94,
+      "ratingsCount": 95,
       "reviewsCount": 11,
       "images": [
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/47db98a3-6dce-41ce-a1a1-c580975119c3.jpeg",
@@ -3176,7 +3142,7 @@
       "latitude": 47.99555517967057,
       "longitude": 7.844929755643063,
       "avgRating": 4.9,
-      "ratingsCount": 635,
+      "ratingsCount": 639,
       "reviewsCount": 90,
       "images": [
         "https://assets.neotaste.com/restaurants/e5fcc7ae-efbf-45c7-bd48-03e4452151ac/images/31b12279-8d83-4207-999e-69c9408f02e8.jpeg",
