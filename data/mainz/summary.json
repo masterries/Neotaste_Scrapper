@@ -1159,9 +1159,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 64
+    },
+    {
+      "date": "2025-01-18",
+      "total_restaurants": 32,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 64
     }
   ],
-  "last_updated": "2025-01-17",
+  "last_updated": "2025-01-18",
   "restaurants": [
     {
       "name": "Madiba Afrika Mainz",
@@ -1191,7 +1199,7 @@
       "latitude": 49.99867599138207,
       "longitude": 8.277129470552216,
       "avgRating": 4.8,
-      "ratingsCount": 140,
+      "ratingsCount": 141,
       "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/83dcb137-3785-4cf2-936f-2f08c599021e.jpeg",
@@ -1199,6 +1207,41 @@
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8a6f56c2-9f25-4a3e-903e-a37c3ce2bf7e.jpeg",
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8b20fbc0-295c-445d-b3a3-e7b286d76f06.jpeg",
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/d4e8065d-c3aa-4552-9482-2506f4ae0799.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Restaurant Damas Mainz",
+      "uuid": "f7e224c4-c9a7-494e-a6e3-c1c074a22b7e",
+      "deals": [
+        {
+          "uuid": "16e9512c-515b-4fb9-093c-08dc0de911ca",
+          "name": "2for1 Main Course",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Valid for all main courses up to €20. Deals cannot be combined.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
+          "name": "FREE Non-Alcoholic Beverage",
+          "conditions": "Order a main dish of your choice and receive a free non-alcoholic drink (0.2l). Deals cannot be combined.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Holzstraße 34",
+      "zipCode": "55116",
+      "latitude": 49.99686052603381,
+      "longitude": 8.278237976686702,
+      "avgRating": 4.7,
+      "ratingsCount": 95,
+      "reviewsCount": 27,
+      "images": [
+        "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
       ],
       "priceRange": 2
     },
@@ -1230,7 +1273,7 @@
       "latitude": 50.00836722611069,
       "longitude": 8.261523499961315,
       "avgRating": 4.9,
-      "ratingsCount": 178,
+      "ratingsCount": 179,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
@@ -1282,74 +1325,84 @@
       "priceRange": 2
     },
     {
-      "name": "Restaurant Damas Mainz",
-      "uuid": "f7e224c4-c9a7-494e-a6e3-c1c074a22b7e",
+      "name": "Wilma Wunder am Markt",
+      "uuid": "eb23a4a2-06a3-40a6-937e-2ba552237b2f",
       "deals": [
         {
-          "uuid": "16e9512c-515b-4fb9-093c-08dc0de911ca",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Valid for all main courses up to €20. Deals cannot be combined.",
+          "uuid": "0026ef81-ea93-45eb-948f-08dc57a6097f",
+          "name": "2for1 Main or Breakfast Dish",
+          "conditions": "You order 2 main (from 12 PM) or breakfast dishes (until 12 PM) of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 17,
+          "value": 23,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
-          "name": "FREE Non-Alcoholic Beverage",
-          "conditions": "Order a main dish of your choice and receive a free non-alcoholic drink (0.2l). Deals cannot be combined.",
+          "uuid": "9aa13767-b30d-4b47-9490-08dc57a6097f",
+          "name": "2for1 Coffee + Pastry",
+          "conditions": "Order 2 coffees and 2 cakes of your choice, the respective cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
+          "value": 7,
+          "daysToReset": 90,
           "status": "available"
         }
       ],
-      "address": "Holzstraße 34",
+      "address": "Markt 11",
       "zipCode": "55116",
-      "latitude": 49.99686052603381,
-      "longitude": 8.278237976686702,
-      "avgRating": 4.7,
-      "ratingsCount": 94,
-      "reviewsCount": 27,
+      "latitude": 49.99982870133544,
+      "longitude": 8.27372691427238,
+      "avgRating": 4.8,
+      "ratingsCount": 405,
+      "reviewsCount": 64,
       "images": [
-        "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/ff43bae8-7d1d-4dbc-95f3-71206f382950.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/788e46d2-5418-4d5d-8f28-51db25dc6de2.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/6e5f78b4-3043-42e0-a853-2400ed4f75d4.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/96b7840c-39b0-442a-8b45-afcec21bf289.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/3ac2c3dd-a5d6-443e-ae43-3d13e8a1324d.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/24874c6a-2a34-454d-8c08-83bccdb599bf.jpeg"
       ],
       "priceRange": 2
     },
     {
-      "name": "Kelly’s Kitchen",
-      "uuid": "5bfbbb8b-10ef-4450-95dc-ed3f5cc9db88",
+      "name": "Aposto",
+      "uuid": "f7c291a7-98b5-477e-a374-6bac3edb2efe",
       "deals": [
         {
-          "uuid": "a19d2d34-7808-4964-f01f-08dc1b26f2da",
+          "uuid": "7f3e9542-7104-4d37-492a-08dc7ff3dc51",
           "name": "2for1 Main Course",
-          "conditions": "You order 2 Basic Bowls/Basic Wraps of your choice, the cheaper/equally priced one will not be charged (ADD ONS will be charged extra).",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Dishes from the grill category are excluded from this offer.",
           "locationCondition": "onSite",
-          "value": 12,
+          "value": 18,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "4058e210-2616-434d-f020-08dc1b26f2da",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
+          "uuid": "cdcc7bba-e202-4853-bbba-08dc7f042677",
+          "name": "2for1 Spritz",
+          "conditions": "Order 2 Spritz of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
+          "value": 8,
+          "daysToReset": 90,
           "status": "available"
         }
       ],
-      "address": "Große Bleiche 28",
+      "address": "Gutenbergpl. 8-10",
       "zipCode": "55116",
-      "latitude": 50.00171064339747,
-      "longitude": 8.266157290551462,
-      "avgRating": 4.9,
-      "ratingsCount": 141,
-      "reviewsCount": 21,
+      "latitude": 49.99874458446846,
+      "longitude": 8.271932893865731,
+      "avgRating": 4.8,
+      "ratingsCount": 464,
+      "reviewsCount": 58,
       "images": [
-        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/1cbcee02-da97-4a11-bbc9-a32a29960ade.jpeg",
-        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/52ece070-5c07-4e5d-8a8d-4c51b6e105ca.jpeg",
-        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/f161af49-1f58-45b8-b373-97d15e2971d5.jpeg"
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/5b9c298c-dedc-4c71-87a1-965c1be5a1ee.jpeg",
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/1ffd4094-14c3-4d74-b16e-c288fcdeccc2.jpeg",
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/1dd40d93-2a00-4a0d-8ea2-ebc92db30878.jpeg",
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/bfa63fc6-b7e4-45de-b7ba-6779c4742625.jpeg",
+        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/59762362-c7e9-407a-8dee-a12b9d90f0e8.jpeg"
       ],
       "priceRange": 2
     },
@@ -1394,84 +1447,39 @@
       "priceRange": 3
     },
     {
-      "name": "Aposto",
-      "uuid": "f7c291a7-98b5-477e-a374-6bac3edb2efe",
+      "name": "Kelly’s Kitchen",
+      "uuid": "5bfbbb8b-10ef-4450-95dc-ed3f5cc9db88",
       "deals": [
         {
-          "uuid": "7f3e9542-7104-4d37-492a-08dc7ff3dc51",
+          "uuid": "a19d2d34-7808-4964-f01f-08dc1b26f2da",
           "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Dishes from the grill category are excluded from this offer.",
+          "conditions": "You order 2 Basic Bowls/Basic Wraps of your choice, the cheaper/equally priced one will not be charged (ADD ONS will be charged extra).",
           "locationCondition": "onSite",
-          "value": 18,
+          "value": 12,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "cdcc7bba-e202-4853-bbba-08dc7f042677",
-          "name": "2for1 Spritz",
-          "conditions": "Order 2 Spritz of your choice, the cheaper/equally priced one will not be charged.",
+          "uuid": "4058e210-2616-434d-f020-08dc1b26f2da",
+          "name": "FREE Drink",
+          "conditions": "You order a main course of your choice and get a drink for free.",
           "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
+          "value": 4,
+          "daysToReset": 6,
           "status": "available"
         }
       ],
-      "address": "Gutenbergpl. 8-10",
+      "address": "Große Bleiche 28",
       "zipCode": "55116",
-      "latitude": 49.99874458446846,
-      "longitude": 8.271932893865731,
-      "avgRating": 4.8,
-      "ratingsCount": 460,
-      "reviewsCount": 58,
+      "latitude": 50.00171064339747,
+      "longitude": 8.266157290551462,
+      "avgRating": 4.9,
+      "ratingsCount": 142,
+      "reviewsCount": 21,
       "images": [
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/5b9c298c-dedc-4c71-87a1-965c1be5a1ee.jpeg",
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/1ffd4094-14c3-4d74-b16e-c288fcdeccc2.jpeg",
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/1dd40d93-2a00-4a0d-8ea2-ebc92db30878.jpeg",
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/bfa63fc6-b7e4-45de-b7ba-6779c4742625.jpeg",
-        "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/59762362-c7e9-407a-8dee-a12b9d90f0e8.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Wilma Wunder am Markt",
-      "uuid": "eb23a4a2-06a3-40a6-937e-2ba552237b2f",
-      "deals": [
-        {
-          "uuid": "0026ef81-ea93-45eb-948f-08dc57a6097f",
-          "name": "2for1 Main or Breakfast Dish",
-          "conditions": "You order 2 main (from 12 PM) or breakfast dishes (until 12 PM) of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 23,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "9aa13767-b30d-4b47-9490-08dc57a6097f",
-          "name": "2for1 Coffee + Pastry",
-          "conditions": "Order 2 coffees and 2 cakes of your choice, the respective cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 7,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Markt 11",
-      "zipCode": "55116",
-      "latitude": 49.99982870133544,
-      "longitude": 8.27372691427238,
-      "avgRating": 4.8,
-      "ratingsCount": 403,
-      "reviewsCount": 64,
-      "images": [
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/ff43bae8-7d1d-4dbc-95f3-71206f382950.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/788e46d2-5418-4d5d-8f28-51db25dc6de2.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/6e5f78b4-3043-42e0-a853-2400ed4f75d4.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/96b7840c-39b0-442a-8b45-afcec21bf289.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/3ac2c3dd-a5d6-443e-ae43-3d13e8a1324d.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/24874c6a-2a34-454d-8c08-83bccdb599bf.jpeg"
+        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/1cbcee02-da97-4a11-bbc9-a32a29960ade.jpeg",
+        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/52ece070-5c07-4e5d-8a8d-4c51b6e105ca.jpeg",
+        "https://assets.neotaste.com/restaurants/046c22d3-d959-43b2-a03e-982e5116e5bc/images/f161af49-1f58-45b8-b373-97d15e2971d5.jpeg"
       ],
       "priceRange": 2
     },
@@ -1503,8 +1511,8 @@
       "latitude": 50.00097159781512,
       "longitude": 8.268178958895566,
       "avgRating": 4.8,
-      "ratingsCount": 402,
-      "reviewsCount": 49,
+      "ratingsCount": 405,
+      "reviewsCount": 50,
       "images": [
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/38a81659-5ab2-47ed-acce-37b29c25ef76.png",
@@ -1578,7 +1586,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 578,
+      "ratingsCount": 582,
       "reviewsCount": 77,
       "images": [
         "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/ef9d04c9-48c9-42ee-b859-858727256b20.jpeg",
@@ -1618,7 +1626,7 @@
       "latitude": 49.99375812283927,
       "longitude": 8.277788115656897,
       "avgRating": 4.7,
-      "ratingsCount": 165,
+      "ratingsCount": 166,
       "reviewsCount": 47,
       "images": [
         "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/a9d18810-c33e-466e-b985-234014b9fe70.jpeg",
@@ -1626,41 +1634,6 @@
         "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/da3c2976-e647-42d1-b682-66d577e708d8.jpeg",
         "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/eb1d96ca-21da-436e-be41-2d9f523eda3a.jpeg",
         "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/92f38a22-1176-445e-ac37-fc6f494c6d44.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Pho Viet",
-      "uuid": "3096d0fb-08cd-4ff7-8866-a51ef1ec6dea",
-      "deals": [
-        {
-          "uuid": "ac593f02-3784-49b0-f301-08dc0d5e9ff9",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 180,
-          "status": "available"
-        },
-        {
-          "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
-          "name": "FREE Soft Drinks..",
-          "conditions": "Order a main course of your choice and receive a free drink. This deal is not valid for takeaway orders.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Franziskanerstraße 5",
-      "zipCode": "55116",
-      "latitude": 50.00082672190576,
-      "longitude": 8.26955109417166,
-      "avgRating": 4.8,
-      "ratingsCount": 403,
-      "reviewsCount": 83,
-      "images": [
-        "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
       ],
       "priceRange": 2
     },
@@ -1704,6 +1677,41 @@
         "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/1dba1777-e6c4-43ef-aea8-7471c20e2bdd.jpg"
       ],
       "priceRange": 1
+    },
+    {
+      "name": "Pho Viet",
+      "uuid": "3096d0fb-08cd-4ff7-8866-a51ef1ec6dea",
+      "deals": [
+        {
+          "uuid": "ac593f02-3784-49b0-f301-08dc0d5e9ff9",
+          "name": "2for1 Main Course",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 180,
+          "status": "available"
+        },
+        {
+          "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
+          "name": "FREE Soft Drinks..",
+          "conditions": "Order a main course of your choice and receive a free drink. This deal is not valid for takeaway orders.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Franziskanerstraße 5",
+      "zipCode": "55116",
+      "latitude": 50.00082672190576,
+      "longitude": 8.26955109417166,
+      "avgRating": 4.8,
+      "ratingsCount": 403,
+      "reviewsCount": 83,
+      "images": [
+        "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
+      ],
+      "priceRange": 2
     },
     {
       "name": "Kelly‘s Café",
@@ -1771,7 +1779,7 @@
       "latitude": 50.00076555668208,
       "longitude": 8.271083735276106,
       "avgRating": 4.7,
-      "ratingsCount": 63,
+      "ratingsCount": 64,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotaste.com/restaurants/f6f2b909-8b49-4f97-ab9b-1177c9bea660/images/b00136dd-18d3-47b9-b763-1aeef10d2e44.jpeg"
@@ -1884,7 +1892,7 @@
       "latitude": 50.01357938219792,
       "longitude": 8.262064111830862,
       "avgRating": 4.9,
-      "ratingsCount": 107,
+      "ratingsCount": 108,
       "reviewsCount": 27,
       "images": [
         "https://assets.neotaste.com/restaurants/d91c54a9-f88c-46a5-bc29-325f9c8afb0c/images/b9ca70d5-4a17-40c2-93b6-8aae959661f6.jpeg",
@@ -1959,7 +1967,7 @@
       "latitude": 49.99390542898702,
       "longitude": 8.277178202536128,
       "avgRating": 4.7,
-      "ratingsCount": 32,
+      "ratingsCount": 34,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/cce015e4-05e5-4a6b-bdcf-88afc8b96f98/images/3a0a4c85-5e67-4d6b-9055-7540ac0946c4.jpeg",
@@ -2076,7 +2084,7 @@
       "latitude": 49.9999924669898,
       "longitude": 8.270244500306209,
       "avgRating": 4.6,
-      "ratingsCount": 28,
+      "ratingsCount": 29,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/45318c1e-4369-4ebb-92e2-b8c26df38ec2/images/8291359d-d69e-4778-bac4-8e6c0e927293.jpeg",
@@ -2149,7 +2157,7 @@
       "latitude": 50.000754097859,
       "longitude": 8.270320611656702,
       "avgRating": 4.5,
-      "ratingsCount": 59,
+      "ratingsCount": 61,
       "reviewsCount": 15,
       "images": [
         "https://assets.neotaste.com/restaurants/e3aab96b-d994-406d-88f9-abd7e81a9a0a/images/5076b409-deb7-4ae8-8252-c4657a7c0772.jpeg"
@@ -2330,8 +2338,8 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 609,
-      "reviewsCount": 84,
+      "ratingsCount": 614,
+      "reviewsCount": 85,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/fc3f7896-8bf2-4992-b3e6-cf5372380dac.jpeg",
