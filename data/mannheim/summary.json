@@ -1215,49 +1215,18 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 86
+    },
+    {
+      "date": "2025-01-25",
+      "total_restaurants": 42,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 84
     }
   ],
-  "last_updated": "2025-01-24",
+  "last_updated": "2025-01-25",
   "restaurants": [
-    {
-      "name": "Compleat Oststadt",
-      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
-      "deals": [
-        {
-          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
-          "name": "€10 Discount",
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "c9a46f45-0df3-44da-9bec-08dc547e6347",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Otto-Beck-Straße 21-25",
-      "zipCode": "68165",
-      "latitude": 49.48125102479414,
-      "longitude": 8.484002435205113,
-      "avgRating": 4.9,
-      "ratingsCount": 176,
-      "reviewsCount": 27,
-      "images": [
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
-      ],
-      "priceRange": 2
-    },
     {
       "name": "Compleat Quadrate",
       "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
@@ -1294,6 +1263,45 @@
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Compleat Oststadt",
+      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
+      "deals": [
+        {
+          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "c9a46f45-0df3-44da-9bec-08dc547e6347",
+          "name": "FREE Drink",
+          "conditions": "You order a main course of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Otto-Beck-Straße 21-25",
+      "zipCode": "68165",
+      "latitude": 49.48125102479414,
+      "longitude": 8.484002435205113,
+      "avgRating": 4.9,
+      "ratingsCount": 178,
+      "reviewsCount": 27,
+      "images": [
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
       ],
       "priceRange": 2
     },
@@ -1363,8 +1371,8 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 437,
-      "reviewsCount": 132,
+      "ratingsCount": 439,
+      "reviewsCount": 134,
       "images": [
         "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
       ],
@@ -1398,8 +1406,8 @@
       "latitude": 49.50140062261812,
       "longitude": 8.470703286814302,
       "avgRating": 4.8,
-      "ratingsCount": 144,
-      "reviewsCount": 40,
+      "ratingsCount": 145,
+      "reviewsCount": 41,
       "images": [
         "https://assets.neotaste.com/restaurants/f76085f9-097a-40fb-9622-f932163175d1/images/fefb2d4d-e204-436a-aff8-8ca6bfb1dddc.jpeg",
         "https://assets.neotaste.com/restaurants/f76085f9-097a-40fb-9622-f932163175d1/images/f45d1447-5d78-47b5-8801-d5d1c0f8b156.jpeg",
@@ -1519,7 +1527,7 @@
       "latitude": 49.49411415510568,
       "longitude": 8.459693991967573,
       "avgRating": 4.7,
-      "ratingsCount": 64,
+      "ratingsCount": 66,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/142bfdfe-0e5e-40ff-bc17-568a36346e1e.jpeg",
@@ -1670,8 +1678,8 @@
       "latitude": 49.49495742078869,
       "longitude": 8.456743305522204,
       "avgRating": 4.7,
-      "ratingsCount": 83,
-      "reviewsCount": 15,
+      "ratingsCount": 84,
+      "reviewsCount": 16,
       "images": [
         "https://assets.neotaste.com/restaurants/beae5f67-1636-4467-a79e-37848a15c66f/images/84d20da8-36a1-4441-ae9c-59eb656aabbe.jpeg"
       ],
@@ -1930,7 +1938,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 272,
+      "ratingsCount": 274,
       "reviewsCount": 36,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -2232,7 +2240,7 @@
       "latitude": 49.49366224176781,
       "longitude": 8.459376313632271,
       "avgRating": 4.8,
-      "ratingsCount": 109,
+      "ratingsCount": 110,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/f62fe676-fb82-4d21-8f45-0a5b98c87910/images/0ad618f4-92af-44d9-9205-5c6da6415b05.jpeg",
@@ -2268,7 +2276,7 @@
       "latitude": 49.48039754405456,
       "longitude": 8.447488014194885,
       "avgRating": 5,
-      "ratingsCount": 45,
+      "ratingsCount": 46,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/c3b6a17d-4469-4559-b24b-ddf280ee30e6/images/129039dd-5ed2-440a-a33a-b9cbec5d5430.jpeg",
@@ -2640,8 +2648,8 @@
       "zipCode": "67063",
       "latitude": 49.48937764809315,
       "longitude": 8.433469514350099,
-      "avgRating": 4.2,
-      "ratingsCount": 5,
+      "avgRating": 4.3,
+      "ratingsCount": 6,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/f3f09418-98fa-4628-a46d-8f314ff391e8/images/bb23b2f9-9ad6-4d56-85b3-041548592222.jpeg",
@@ -2717,7 +2725,7 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.5,
-      "ratingsCount": 61,
+      "ratingsCount": 62,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -2806,44 +2814,6 @@
       "reviewsCount": 108,
       "images": [
         "https://assets.neotaste.com/restaurants/d98d76a3-10b0-4209-ad79-b990f15836e4/images/a6307d84-802d-4288-a5f3-2a89a427c8c5.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Dear Bagel Mannheim",
-      "uuid": "d891a999-1a39-4efc-ab61-6921b0736e11",
-      "deals": [
-        {
-          "uuid": "ac916717-0ea1-4bf2-9568-f0de78c97128",
-          "name": "2for1 Bagel",
-          "conditions": "You order 2 bagels of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 12,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "184863c0-3398-49c8-acae-3ba8265a44dc",
-          "name": "FREE Drink",
-          "conditions": "Order a bagel of your choice and receive a free soft drink.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "P7 5",
-      "zipCode": "68161",
-      "latitude": 49.4858407,
-      "longitude": 8.473140999999998,
-      "avgRating": 5,
-      "ratingsCount": 1,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
-        "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/b765c463-aeaf-4b14-b165-fe23ceb0e5e2.jpg",
-        "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/fda742b5-a137-451a-9ac3-5e5e180403c7.png",
-        "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/190a3172-d4d7-43b0-bd00-03b9af9d780b.png"
       ],
       "priceRange": 2
     }
