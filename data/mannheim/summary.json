@@ -1239,9 +1239,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 84
+    },
+    {
+      "date": "2025-01-28",
+      "total_restaurants": 42,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 84
     }
   ],
-  "last_updated": "2025-01-27",
+  "last_updated": "2025-01-28",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -1279,45 +1287,6 @@
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Compleat Oststadt",
-      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
-      "deals": [
-        {
-          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
-          "name": "€10 Discount",
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "c9a46f45-0df3-44da-9bec-08dc547e6347",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Otto-Beck-Straße 21-25",
-      "zipCode": "68165",
-      "latitude": 49.48125102479414,
-      "longitude": 8.484002435205113,
-      "avgRating": 4.9,
-      "ratingsCount": 179,
-      "reviewsCount": 28,
-      "images": [
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
       ],
       "priceRange": 2
     },
@@ -1767,7 +1736,7 @@
       "latitude": 49.48905611573085,
       "longitude": 8.466118355838388,
       "avgRating": 4.9,
-      "ratingsCount": 18,
+      "ratingsCount": 19,
       "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/b33b0da8-da97-41c3-bbaf-6de0e5c21b6c/images/45b19cea-1f97-4544-ba78-cec3b2bd931e.jpeg",
@@ -2142,7 +2111,7 @@
       "latitude": 49.50327625854703,
       "longitude": 8.516225509961728,
       "avgRating": 4.8,
-      "ratingsCount": 65,
+      "ratingsCount": 66,
       "reviewsCount": 17,
       "images": [
         "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
@@ -2292,7 +2261,7 @@
       "latitude": 49.48039754405456,
       "longitude": 8.447488014194885,
       "avgRating": 5,
-      "ratingsCount": 46,
+      "ratingsCount": 47,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/c3b6a17d-4469-4559-b24b-ddf280ee30e6/images/129039dd-5ed2-440a-a33a-b9cbec5d5430.jpeg",
@@ -2830,6 +2799,45 @@
       "reviewsCount": 109,
       "images": [
         "https://assets.neotaste.com/restaurants/d98d76a3-10b0-4209-ad79-b990f15836e4/images/a6307d84-802d-4288-a5f3-2a89a427c8c5.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Compleat Oststadt",
+      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
+      "deals": [
+        {
+          "uuid": "5cb85f1a-473e-4c8f-9beb-08dc547e6347",
+          "name": "2for1 Main Course",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "c9a46f45-0df3-44da-9bec-08dc547e6347",
+          "name": "FREE Drink",
+          "conditions": "You order a main course of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Otto-Beck-Straße 21-25",
+      "zipCode": "68165",
+      "latitude": 49.48125102479414,
+      "longitude": 8.484002435205113,
+      "avgRating": 4.9,
+      "ratingsCount": 179,
+      "reviewsCount": 28,
+      "images": [
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
       ],
       "priceRange": 2
     }
