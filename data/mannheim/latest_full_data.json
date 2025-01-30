@@ -148,7 +148,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 442,
+    "ratingsCount": 443,
     "reviewsCount": 134,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -195,8 +195,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 148,
-    "reviewsCount": 41,
+    "ratingsCount": 149,
+    "reviewsCount": 42,
     "images": [
       "https://assets.neotaste.com/restaurants/f76085f9-097a-40fb-9622-f932163175d1/images/fefb2d4d-e204-436a-aff8-8ca6bfb1dddc.jpeg",
       "https://assets.neotaste.com/restaurants/f76085f9-097a-40fb-9622-f932163175d1/images/f45d1447-5d78-47b5-8801-d5d1c0f8b156.jpeg",
@@ -1976,7 +1976,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 145,
+    "ratingsCount": 147,
     "reviewsCount": 23,
     "images": [
       "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
@@ -2027,7 +2027,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 389,
+    "ratingsCount": 390,
     "reviewsCount": 109,
     "images": [
       "https://assets.neotaste.com/restaurants/d98d76a3-10b0-4209-ad79-b990f15836e4/images/a6307d84-802d-4288-a5f3-2a89a427c8c5.jpeg"
@@ -2078,14 +2078,60 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 180,
-    "reviewsCount": 28,
+    "ratingsCount": 181,
+    "reviewsCount": 29,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "d891a999-1a39-4efc-ab61-6921b0736e11",
+    "name": "Dear Bagel Mannheim",
+    "slug": "dear-bagel-mannheim",
+    "address": "P7 5",
+    "addressOptional": null,
+    "zipCode": "68161",
+    "latitude": 49.4858407,
+    "longitude": 8.473140999999998,
+    "deals": [
+      {
+        "uuid": "ac916717-0ea1-4bf2-9568-f0de78c97128",
+        "name": "2for1 Bagel",
+        "conditions": "You order 2 classic bagels of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 12,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "184863c0-3398-49c8-acae-3ba8265a44dc",
+        "name": "FREE Drink",
+        "conditions": "Order a bagel of your choice and receive a free soft drink.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 2,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
+      "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/b765c463-aeaf-4b14-b165-fe23ceb0e5e2.jpg",
+      "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/fda742b5-a137-451a-9ac3-5e5e180403c7.png",
+      "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/190a3172-d4d7-43b0-bd00-03b9af9d780b.png"
     ],
     "priceRange": 2
   }
