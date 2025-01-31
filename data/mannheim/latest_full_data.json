@@ -1,60 +1,5 @@
 [
   {
-    "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
-    "name": "Compleat Quadrate",
-    "slug": "compleat-quadrate",
-    "address": "N7 7",
-    "addressOptional": null,
-    "zipCode": "68161",
-    "latitude": 49.48410872470583,
-    "longitude": 8.472395164652163,
-    "deals": [
-      {
-        "uuid": "8a0b872d-08f1-4e52-0e38-08dc547e2049",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 503,
-    "reviewsCount": 57,
-    "images": [
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
-      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "9dfb27b5-1496-4160-ac67-fc5fb3dd1a03",
     "name": "Perle Kaffeebar",
     "slug": "perle-kaffeebar",
@@ -148,7 +93,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 443,
+    "ratingsCount": 444,
     "reviewsCount": 134,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -363,58 +308,6 @@
       "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/da41a863-099a-41ba-9ea2-2a5c32fa905c.jpeg",
       "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/90b1f4cc-0b3b-45c4-817b-bfe214d2903b.jpeg",
       "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/28309392-e8bc-4eed-8a0c-fac623b1499a.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "64c50053-16a3-41f3-b1ad-5643a98492b1",
-    "name": "Schön Klar",
-    "slug": "schoen-klar",
-    "address": "Beilstraße 29",
-    "addressOptional": null,
-    "zipCode": "68159",
-    "latitude": 49.49515428276587,
-    "longitude": 8.459738447238948,
-    "deals": [
-      {
-        "uuid": "68290bdf-7522-4c38-703c-08dbcb581a4c",
-        "name": "€15 Discount",
-        "conditions": "From a minimum order value of €35 you get €15 discount.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "9ad74074-a2b3-4d30-703d-08dbcb581a4c",
-        "name": "FREE Speciality Coffee",
-        "conditions": "Order a cake of your choice and receive a free speciality coffee.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 6,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 278,
-    "reviewsCount": 25,
-    "images": [
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/7f0966ea-e82c-44ad-9055-62e511c90ad1.jpeg",
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/925b5da4-085f-4049-a2b7-d01d45eed68f.jpeg",
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/50955581-5f5f-4fc1-b0df-19a4c17f3776.jpeg",
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/09a858ac-e436-48b0-9d7e-741b05bab53a.jpeg",
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/6fcbaf29-545b-4291-afd7-245b7a2a310b.jpeg",
-      "https://assets.neotaste.com/restaurants/630f1da6-0daa-4f38-80a7-6888c0ff9214/images/c6fdd23a-cc86-479e-b6d1-7b2190df51dc.jpeg"
     ],
     "priceRange": 2
   },
@@ -1131,7 +1024,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 66,
+    "ratingsCount": 67,
     "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
@@ -1317,55 +1210,12 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 47,
-    "reviewsCount": 14,
+    "ratingsCount": 48,
+    "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/c3b6a17d-4469-4559-b24b-ddf280ee30e6/images/129039dd-5ed2-440a-a33a-b9cbec5d5430.jpeg",
       "https://assets.neotaste.com/restaurants/c3b6a17d-4469-4559-b24b-ddf280ee30e6/images/bd6e9fc5-05ae-47f6-8b49-ce489e290dfe.jpeg",
       "https://assets.neotaste.com/restaurants/c3b6a17d-4469-4559-b24b-ddf280ee30e6/images/7795e67c-da50-46b7-94eb-b679e67707fc.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "f19c4aba-b7b2-4abf-afb2-d713a0046eaf",
-    "name": "Tapas y Mas",
-    "slug": "tapas-y-mas",
-    "address": "An d. Radrennbahn 4G",
-    "addressOptional": null,
-    "zipCode": "68169",
-    "latitude": 49.50952994664652,
-    "longitude": 8.490345034382042,
-    "deals": [
-      {
-        "uuid": "6f3787d1-659f-4432-93f7-08dc2255bfe9",
-        "name": "2for1 Tapas",
-        "conditions": "You order 2 tapas of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "60f310f4-9be6-4be4-93f8-08dc2255bfe9",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 6,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "spanishtapas",
-        "name": "Spanish/Tapas"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 2,
-    "reviewsCount": 2,
-    "images": [
-      "https://assets.neotaste.com/restaurants/004e89b7-177a-43bb-be11-8a5682f4645a/images/3266a027-d89b-45d1-995b-5bd607e49b06.jpeg"
     ],
     "priceRange": 2
   },
@@ -2035,6 +1885,110 @@
     "priceRange": 2
   },
   {
+    "uuid": "f19c4aba-b7b2-4abf-afb2-d713a0046eaf",
+    "name": "Tapas y Mas",
+    "slug": "tapas-y-mas",
+    "address": "An d. Radrennbahn 4G",
+    "addressOptional": null,
+    "zipCode": "68169",
+    "latitude": 49.50952994664652,
+    "longitude": 8.490345034382042,
+    "deals": [
+      {
+        "uuid": "6f3787d1-659f-4432-93f7-08dc2255bfe9",
+        "name": "2for1 Tapas",
+        "conditions": "You order 2 tapas of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "60f310f4-9be6-4be4-93f8-08dc2255bfe9",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 6,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "spanishtapas",
+        "name": "Spanish/Tapas"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 2,
+    "reviewsCount": 2,
+    "images": [
+      "https://assets.neotaste.com/restaurants/004e89b7-177a-43bb-be11-8a5682f4645a/images/3266a027-d89b-45d1-995b-5bd607e49b06.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/de31f093-3777-44e0-8dad-0fed5a02541a.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/b4794d0f-0ac0-41f0-a4f0-9690cc4746d2.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/d9567022-0ffb-4deb-9d18-abf2b40fcef8.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/99030642-5c9e-4a21-a873-2d04765dad48.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/65f01d8e-9497-4b7b-8d91-c268379b1064.jpeg",
+      "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/fd7e6de4-0d52-448c-9ca5-fe3c2f62248f.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
+    "name": "Compleat Quadrate",
+    "slug": "compleat-quadrate",
+    "address": "N7 7",
+    "addressOptional": null,
+    "zipCode": "68161",
+    "latitude": 49.48410872470583,
+    "longitude": 8.472395164652163,
+    "deals": [
+      {
+        "uuid": "8a0b872d-08f1-4e52-0e38-08dc547e2049",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 503,
+    "reviewsCount": 57,
+    "images": [
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
+      "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
     "name": "Compleat Oststadt",
     "slug": "compleat-oststadt",
@@ -2078,7 +2032,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 181,
+    "ratingsCount": 183,
     "reviewsCount": 29,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -2124,9 +2078,9 @@
         "name": "Café"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 2,
-    "reviewsCount": 0,
+    "avgRating": 4.6,
+    "ratingsCount": 5,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
       "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/b765c463-aeaf-4b14-b165-fe23ceb0e5e2.jpg",
