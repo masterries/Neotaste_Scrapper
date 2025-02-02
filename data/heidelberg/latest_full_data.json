@@ -1,5 +1,60 @@
 [
   {
+    "uuid": "8397ca03-6e1d-44fd-88ba-97c2746aa69e",
+    "name": "Compleat Foodtruck",
+    "slug": "compleat-foodtruck",
+    "address": "Eppelheimer Str. 80",
+    "addressOptional": null,
+    "zipCode": "69123",
+    "latitude": 49.40344583401104,
+    "longitude": 8.645399928557108,
+    "deals": [
+      {
+        "uuid": "e348922b-5a48-4da7-3fd5-08dc6b86fbfb",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "6e97915b-0a42-4b96-3fd6-08dc6b86fbfb",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 229,
+    "reviewsCount": 28,
+    "images": [
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/33e9fd8e-f080-49cd-820d-f8491c6639d9.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/423de573-584e-4978-95d3-f1a51508b265.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/d3840437-644c-4710-819d-619d0c50f112.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "87d63154-435f-42c2-96b8-06538d3dbe0f",
     "name": "Compleat Bismarckplatz",
     "slug": "compleat-bismarckplatz",
@@ -43,7 +98,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 594,
+    "ratingsCount": 596,
     "reviewsCount": 60,
     "images": [
       "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -153,8 +208,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 701,
-    "reviewsCount": 87,
+    "ratingsCount": 713,
+    "reviewsCount": 89,
     "images": [
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/15002c77-3dd3-43e9-aab8-0255c37891ff.jpeg",
@@ -256,7 +311,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 207,
+    "ratingsCount": 209,
     "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/f281481e-7e51-4cee-9b15-37fb25d67e97/images/abc0244e-99d6-4593-b175-c2035766fbb9.jpeg",
@@ -407,8 +462,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 179,
-    "reviewsCount": 28,
+    "ratingsCount": 182,
+    "reviewsCount": 29,
     "images": [
       "https://assets.neotaste.com/restaurants/61a9e7cd-26b8-4ca4-b35d-873433504f10/images/008a344b-2b9f-4d6b-82bd-3f1cd9460578.jpeg",
       "https://assets.neotaste.com/restaurants/61a9e7cd-26b8-4ca4-b35d-873433504f10/images/e37a7d2f-b7e2-409e-bbbd-249f637b6534.jpeg",
@@ -460,8 +515,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 465,
-    "reviewsCount": 51,
+    "ratingsCount": 467,
+    "reviewsCount": 52,
     "images": [
       "https://assets.neotaste.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/3df9389f-8ae8-48f1-9b2e-818ba97cac06.jpeg",
       "https://assets.neotaste.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/9746e513-7ca7-4c88-ab41-60a1274c96b2.jpeg",
@@ -612,8 +667,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 463,
-    "reviewsCount": 92,
+    "ratingsCount": 469,
+    "reviewsCount": 94,
     "images": [
       "https://assets.neotaste.com/restaurants/6d0233d4-669d-481f-b42b-cf974bcb64d8/images/eac25b23-d005-4245-9dc9-e036334457da.jpeg",
       "https://assets.neotaste.com/restaurants/6d0233d4-669d-481f-b42b-cf974bcb64d8/images/70af5e1d-36e3-44fa-9515-3d20845aead8.jpeg",
@@ -713,7 +768,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 281,
+    "ratingsCount": 284,
     "reviewsCount": 48,
     "images": [
       "https://assets.neotaste.com/restaurants/dd59eb91-de14-48f1-aab6-422ff06f07ca/images/93a52bae-e06e-489a-9642-99fef0e363ce.jpeg",
@@ -768,8 +823,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 219,
-    "reviewsCount": 24,
+    "ratingsCount": 223,
+    "reviewsCount": 25,
     "images": [
       "https://assets.neotaste.com/restaurants/6f868219-ecea-458a-8e83-85f739e4d02a/images/dc75100e-f849-43b8-98fd-b2187cf86851.jpeg",
       "https://assets.neotaste.com/restaurants/6f868219-ecea-458a-8e83-85f739e4d02a/images/9cc87bda-1e04-416f-95d7-76a2e9d8cd77.jpeg",
@@ -1257,7 +1312,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 154,
+    "ratingsCount": 155,
     "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/d8ebff84-9778-4d16-a0d2-2f5cc32976b1.jpeg",
@@ -1468,8 +1523,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 153,
-    "reviewsCount": 28,
+    "ratingsCount": 155,
+    "reviewsCount": 29,
     "images": [
       "https://assets.neotaste.com/restaurants/36b60e53-c2e5-4686-962f-a5ac4d30f42f/images/21ec83a3-4ad6-4c8d-b0f5-7e64063ad9c1.jpeg"
     ],
@@ -1684,7 +1739,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 137,
+    "ratingsCount": 138,
     "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
@@ -1880,9 +1935,9 @@
         "name": "Dessert"
       }
     ],
-    "avgRating": 4.6,
-    "ratingsCount": 10,
-    "reviewsCount": 3,
+    "avgRating": 4.5,
+    "ratingsCount": 11,
+    "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/4b1048b2-bac1-4d06-aab2-70176e503845/images/c68eb544-c1d8-4094-a879-edf7a0459a49.jpeg",
       "https://assets.neotaste.com/restaurants/4b1048b2-bac1-4d06-aab2-70176e503845/images/dacfac26-071e-4dfe-bffa-a7bd0308541b.jpeg",
@@ -2178,66 +2233,11 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 200,
+    "ratingsCount": 201,
     "reviewsCount": 34,
     "images": [
       "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
       "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/fb339d90-4c90-438e-9100-3c4b2de12f95.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "8397ca03-6e1d-44fd-88ba-97c2746aa69e",
-    "name": "Compleat Foodtruck",
-    "slug": "compleat-foodtruck",
-    "address": "Eppelheimer Str. 80",
-    "addressOptional": null,
-    "zipCode": "69123",
-    "latitude": 49.40344583401104,
-    "longitude": 8.645399928557108,
-    "deals": [
-      {
-        "uuid": "e348922b-5a48-4da7-3fd5-08dc6b86fbfb",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "6e97915b-0a42-4b96-3fd6-08dc6b86fbfb",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 228,
-    "reviewsCount": 28,
-    "images": [
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/33e9fd8e-f080-49cd-820d-f8491c6639d9.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/423de573-584e-4978-95d3-f1a51508b265.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/d3840437-644c-4710-819d-619d0c50f112.jpeg"
     ],
     "priceRange": 2
   },
