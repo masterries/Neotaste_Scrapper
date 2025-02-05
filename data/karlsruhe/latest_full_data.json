@@ -254,7 +254,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 309,
+    "ratingsCount": 310,
     "reviewsCount": 72,
     "images": [
       "https://assets.neotaste.com/restaurants/cb903b4b-d530-4d1f-8efa-48545b6b0aa9/images/16a559b3-26e5-44dc-a4c4-05bb3c6bf104.png",
@@ -263,60 +263,53 @@
     "priceRange": 2
   },
   {
-    "uuid": "0137f8e4-73fd-4b0b-ac43-3d42dae7b82a",
-    "name": "Wilma Wunder",
-    "slug": "wilma-wunder-karlsruhe",
-    "address": "Karl-Friedrich-Straße 9",
+    "uuid": "68af4f00-29d6-45e3-b43c-fc343c755759",
+    "name": "BESCHDE Pizza",
+    "slug": "beschde-pizza",
+    "address": "Amalienstraße 53",
     "addressOptional": null,
     "zipCode": "76133",
-    "latitude": 49.00878525342304,
-    "longitude": 8.404225110851845,
+    "latitude": 49.00889060000001,
+    "longitude": 8.391373,
     "deals": [
       {
-        "uuid": "e779efc0-d850-4445-afc2-08dc4db1b03a",
-        "name": "2for1 Main or Breakfast Dish",
-        "conditions": "You order 2 main courses (from 12 pm) or breakfast dishes (until 12 pm) of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 25,
+        "uuid": "3dc1baf1-e43f-4178-9fb2-1911cb01e16e",
+        "name": "2for1 Pizza",
+        "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged. Also valid to To-Go!",
+        "locationCondition": "onSiteAndToGo",
+        "value": 12,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "72275ea4-4e8e-4468-afc3-08dc4db1b03a",
-        "name": "2for1 Coffee + Cake",
-        "conditions": "Order 2 coffees and 2 cakes of your choice, the respective cheaper/equally priced one will not be charged.",
+        "uuid": "64a49e51-e08f-4dbd-af2c-4b212f2f67a8",
+        "name": "FREE Soft Drink",
+        "conditions": "You order a pizza of your choice and get a free soft drink. Also valid to To-Go!",
         "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 90,
+        "value": 4,
+        "daysToReset": 30,
         "status": "available"
       }
     ],
     "tags": [
       {
-        "slug": "breakfast",
-        "name": "Breakfast"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
+        "slug": "pizza",
+        "name": "Pizza"
       }
     ],
-    "avgRating": 4.7,
-    "ratingsCount": 595,
-    "reviewsCount": 129,
+    "avgRating": 4.9,
+    "ratingsCount": 60,
+    "reviewsCount": 13,
     "images": [
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/a0a4c823-ee2f-4113-84ef-67017d3bb6a7.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/55e36d20-d45f-4085-b96c-586e4258093d.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/5e91b5b9-bf64-45f3-adba-c2e6441cf0e4.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/b8fd918b-120f-452a-95df-5bc372d4188d.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/0057f181-f7d4-4aae-941d-2801744fe967.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/1d14de55-8882-40bf-b813-6f8854edec27.jpeg",
-      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/ea15a014-edd6-40b6-92c4-6c06ac7554a3.jpeg"
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/c1dedf43-f6f7-4184-8c1b-0a2ab5d3a466.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/882151bc-7c02-4f8d-b2df-649b6d72b631.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/bed8fc53-ffbc-4a8c-ac1f-46cf58394e0e.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/5e442bbf-6585-41b3-8bcc-5b299d991a01.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/14ebec44-190b-4883-aab9-984607bb3cbd.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/709b0d30-c075-4a83-8d3a-e7a1f27294b6.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/adbb40cf-1812-43b7-894e-7e3aff79ffb2.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/cfbb4aa6-e247-4219-895d-ccb863f918e2.jpg",
+      "https://assets.neotaste.com/restaurants/68af4f00-29d6-45e3-b43c-fc343c755759/images/5477d71f-4a33-4fe4-b928-52f5db3d40ae.jpg"
     ],
     "priceRange": 2
   },
@@ -457,8 +450,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 988,
-    "reviewsCount": 157,
+    "ratingsCount": 991,
+    "reviewsCount": 158,
     "images": [
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -554,7 +547,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 261,
+    "ratingsCount": 262,
     "reviewsCount": 60,
     "images": [
       "https://assets.neotaste.com/restaurants/522919d5-d8c6-4118-98f1-fd16cb623579/images/532b8548-ccd0-4373-95f7-ff971b9d8539.jpeg",
@@ -611,7 +604,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 211,
+    "ratingsCount": 213,
     "reviewsCount": 38,
     "images": [
       "https://assets.neotaste.com/restaurants/f9c93287-731d-4830-9833-1ed3d9fa87e9/images/5fde9499-866b-45e9-80c8-b4874ddc858a.jpeg",
@@ -730,7 +723,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 97,
+    "ratingsCount": 98,
     "reviewsCount": 21,
     "images": [
       "https://assets.neotaste.com/restaurants/12322532-68dc-4aa9-baa8-bf92a20fde9b/images/e8ee846b-1bd8-4f5a-b8a8-93e5f72f4e15.jpeg",
@@ -1575,8 +1568,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 163,
-    "reviewsCount": 39,
+    "ratingsCount": 164,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/c922af13-db41-4f8d-a592-214b5a510176.jpeg",
       "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/2b394bdd-9a4a-40f5-afe9-1dfe2fad8371.jpeg"
@@ -1786,8 +1779,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 164,
-    "reviewsCount": 49,
+    "ratingsCount": 166,
+    "reviewsCount": 50,
     "images": [
       "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/d5771fe7-0377-4b16-a47e-06ce3eb0d146.jpeg",
       "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/eb525fcd-3317-4606-866f-598dc54d98f3.jpeg",
@@ -1835,8 +1828,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 78,
-    "reviewsCount": 23,
+    "ratingsCount": 79,
+    "reviewsCount": 24,
     "images": [
       "https://assets.neotaste.com/restaurants/d5328c95-fe84-4b9d-a9e1-b1f8d1e86e52/images/95118e0d-a980-4b92-b10a-d5638cab668b.jpeg",
       "https://assets.neotaste.com/restaurants/d5328c95-fe84-4b9d-a9e1-b1f8d1e86e52/images/8ed62f8d-d477-4872-bdf5-3ab576c2eefc.jpeg",
@@ -1885,9 +1878,9 @@
         "name": "Dessert"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 62,
-    "reviewsCount": 8,
+    "avgRating": 4.6,
+    "ratingsCount": 63,
+    "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/4dc0a1b3-e417-45c6-89ab-f43f47672b58.jpeg",
       "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/ee0d4d13-15c1-46e5-a4ca-a1e8ae0cf26c.jpeg"
@@ -3203,6 +3196,64 @@
       "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/bf5380b2-17db-41d3-b1b4-ab38fb03f6ea.jpeg",
       "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/a6a03174-767c-4d36-9cfb-0c672abfa476.jpeg",
       "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/50affafa-7bbb-4f3a-87e4-b7e954b102d7.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "0137f8e4-73fd-4b0b-ac43-3d42dae7b82a",
+    "name": "Wilma Wunder",
+    "slug": "wilma-wunder-karlsruhe",
+    "address": "Karl-Friedrich-Straße 9",
+    "addressOptional": null,
+    "zipCode": "76133",
+    "latitude": 49.00878525342304,
+    "longitude": 8.404225110851845,
+    "deals": [
+      {
+        "uuid": "e779efc0-d850-4445-afc2-08dc4db1b03a",
+        "name": "2for1 Main or Breakfast Dish",
+        "conditions": "You order 2 main courses (from 12 pm) or breakfast dishes (until 12 pm) of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 25,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "72275ea4-4e8e-4468-afc3-08dc4db1b03a",
+        "name": "2for1 Coffee + Cake",
+        "conditions": "Order 2 coffees and 2 cakes of your choice, the respective cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      }
+    ],
+    "avgRating": 4.7,
+    "ratingsCount": 595,
+    "reviewsCount": 129,
+    "images": [
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/a0a4c823-ee2f-4113-84ef-67017d3bb6a7.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/55e36d20-d45f-4085-b96c-586e4258093d.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/5e91b5b9-bf64-45f3-adba-c2e6441cf0e4.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/b8fd918b-120f-452a-95df-5bc372d4188d.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/0057f181-f7d4-4aae-941d-2801744fe967.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/1d14de55-8882-40bf-b813-6f8854edec27.jpeg",
+      "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/ea15a014-edd6-40b6-92c4-6c06ac7554a3.jpeg"
     ],
     "priceRange": 2
   },
