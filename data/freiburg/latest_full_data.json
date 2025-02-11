@@ -49,115 +49,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "b3d2ec8e-e3bd-4bec-91d2-30b7e050a6d1",
-    "name": "H&S Brothers Meal",
-    "slug": "hs-brothers-meal",
-    "address": "Guntramstraße 24",
-    "addressOptional": null,
-    "zipCode": "79106",
-    "latitude": 47.99935582989657,
-    "longitude": 7.838413841565702,
-    "deals": [
-      {
-        "uuid": "4741cfa5-98d3-405f-8e4d-08dca4ca9b87",
-        "name": "2for1 Daily Special",
-        "conditions": "Order 2 set menus of your choice, the cheaper/equivalent one will not be charged. Rotating set menus.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "67e814f6-a8c0-4b54-8e4e-08dca4ca9b87",
-        "name": "FREE Soup or Falafel..",
-        "conditions": "Order a salad dish of your choice and receive a free soup or a serving of falafel with it.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "oriental",
-        "name": "Oriental"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 35,
-    "reviewsCount": 11,
-    "images": [
-      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/d0ec65c4-3141-41ce-a940-4584d7c5f90b.png",
-      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/adfb2a50-e2dc-4d06-9bc1-832370bf6b77.png",
-      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/d66d7dd3-b5d3-4c6d-9cf0-9eec68df4f44.png",
-      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/b96e8d90-2472-4342-be30-f9046956e3a1.png",
-      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/668f9b8b-0bc1-49f1-8e20-25c416185ee5.png"
-    ],
-    "priceRange": 1
-  },
-  {
-    "uuid": "b1699e7e-a32a-4e6c-9e26-bb98fefa0517",
-    "name": "Enchilada",
-    "slug": "enchilada-auf-d-zinnen-1",
-    "address": "Auf d. Zinnen 1",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.99723785801392,
-    "longitude": 7.854663823439529,
-    "deals": [
-      {
-        "uuid": "cd8de9f0-29d6-465f-454c-08dca56bcf1c",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 20,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "0bda977f-248f-48a7-b797-37b3a9a585e9",
-        "name": "2for1 Cocktail",
-        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "mexican",
-        "name": "Mexican"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 433,
-    "reviewsCount": 82,
-    "images": [
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/453b80f3-b62e-4a55-9bc6-31eb95a830ea.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/1e928c66-8dbf-4978-a9b6-b60ad113107b.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/e4cfd870-5e4f-4431-b4df-d3d32a5420a0.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/0cb10913-429f-4b18-aa0b-9aa1d935791b.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/035eb1a8-e6e5-4099-8315-7c65b9b3d3b4.jpeg",
-      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/9aee18c4-da0e-498b-9404-05133ccd91ae.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "a17ad17a-5134-4fd4-abe0-1e63bb588ebe",
     "name": "Scheunencafé Stubenareal",
     "slug": "scheunencafe-stubenareal",
@@ -252,6 +143,165 @@
     "priceRange": 2
   },
   {
+    "uuid": "74163d94-7ac2-4f62-b13f-2e2ac27898a5",
+    "name": "Vitaminlädele",
+    "slug": "vitaminlaedele",
+    "address": "Schusterstraße 34",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.99460375823909,
+    "longitude": 7.852621798686205,
+    "deals": [
+      {
+        "uuid": "ca8cee4d-7ae8-465d-8458-08dc974385b2",
+        "name": "FREE Juice Of The Day (0,33l)",
+        "conditions": "You order a Bircher muesli of your choice and get a free juice of the day (0,33l).",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "83d78d1e-3aa0-44ed-8459-08dc974385b2",
+        "name": "FREE Medjool Date with Walnut",
+        "conditions": "Order a Bircher muesli or a juice of your choice and receive a free Medjool date with walnut.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 96,
+    "reviewsCount": 6,
+    "images": [
+      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
+      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/24486e33-afcd-4174-8cb5-995eb04dd927.jpeg",
+      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/ba869827-4912-46ec-8c8b-05bd78b66d23.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "b3d2ec8e-e3bd-4bec-91d2-30b7e050a6d1",
+    "name": "H&S Brothers Meal",
+    "slug": "hs-brothers-meal",
+    "address": "Guntramstraße 24",
+    "addressOptional": null,
+    "zipCode": "79106",
+    "latitude": 47.99935582989657,
+    "longitude": 7.838413841565702,
+    "deals": [
+      {
+        "uuid": "4741cfa5-98d3-405f-8e4d-08dca4ca9b87",
+        "name": "2for1 Daily Special",
+        "conditions": "Order 2 set menus of your choice, the cheaper/equivalent one will not be charged. Rotating set menus.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "67e814f6-a8c0-4b54-8e4e-08dca4ca9b87",
+        "name": "FREE Soup or Falafel..",
+        "conditions": "Order a salad dish of your choice and receive a free soup or a serving of falafel with it.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "oriental",
+        "name": "Oriental"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 35,
+    "reviewsCount": 11,
+    "images": [
+      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/d0ec65c4-3141-41ce-a940-4584d7c5f90b.png",
+      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/adfb2a50-e2dc-4d06-9bc1-832370bf6b77.png",
+      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/d66d7dd3-b5d3-4c6d-9cf0-9eec68df4f44.png",
+      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/b96e8d90-2472-4342-be30-f9046956e3a1.png",
+      "https://assets.neotaste.com/restaurants/48ae2c5a-feae-4982-89c6-9fd7ac2168c2/images/668f9b8b-0bc1-49f1-8e20-25c416185ee5.png"
+    ],
+    "priceRange": 1
+  },
+  {
+    "uuid": "3ffe57f4-8afd-4a12-9a93-1ea1e740eed2",
+    "name": "Café Phiin",
+    "slug": "cafe-phiin",
+    "address": "Friedrichring 14",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.99826930155179,
+    "longitude": 7.851500683357337,
+    "deals": [
+      {
+        "uuid": "eb9a95e9-0293-42ad-f900-08dca1997e5f",
+        "name": "2for1 Coffee Special",
+        "conditions": "Order 2 Iced Coffees of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "3769be5a-7a49-49df-af75-5593afc4e575",
+        "name": "FREE Cookie ",
+        "conditions": "You order a hot drink of your choice and get a cookie for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 95,
+    "reviewsCount": 24,
+    "images": [
+      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/733265b8-4abc-4fcd-bb7a-6c6963383b7d.jpeg",
+      "https://assets.neotaste.com/restaurants/43cc8379-96b0-47ca-b701-26198c2bb6c8/images/0f085e1c-c23e-4240-8f2f-a196dc743c30.jpeg",
+      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/dd9a5e83-6144-40c6-a7ae-9fbf4d82c1d1.jpeg",
+      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/f36e167d-694c-483d-9325-eb1c7ca61288.jpeg",
+      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/df4355aa-a6af-457e-a09c-9d6d0ead3475.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "195f184c-ea16-4541-ba93-5948b941bbb7",
     "name": "Rothaus Schwarzwald erleben Beim Hackl",
     "slug": "rothaus-schwarzwald-erleben-beim-hackl",
@@ -312,59 +362,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "74163d94-7ac2-4f62-b13f-2e2ac27898a5",
-    "name": "Vitaminlädele",
-    "slug": "vitaminlaedele",
-    "address": "Schusterstraße 34",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.99460375823909,
-    "longitude": 7.852621798686205,
-    "deals": [
-      {
-        "uuid": "ca8cee4d-7ae8-465d-8458-08dc974385b2",
-        "name": "FREE Juice Of The Day (0,33l)",
-        "conditions": "You order a Bircher muesli of your choice and get a free juice of the day (0,33l).",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "83d78d1e-3aa0-44ed-8459-08dc974385b2",
-        "name": "FREE Medjool Date with Walnut",
-        "conditions": "Order a Bircher muesli or a juice of your choice and receive a free Medjool date with walnut.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 96,
-    "reviewsCount": 6,
-    "images": [
-      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
-      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/24486e33-afcd-4174-8cb5-995eb04dd927.jpeg",
-      "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/ba869827-4912-46ec-8c8b-05bd78b66d23.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "dd6e8106-9a9f-46e9-b63f-337839ab412b",
     "name": "BoaBoa",
     "slug": "boaboa",
@@ -411,112 +408,56 @@
     "priceRange": 2
   },
   {
-    "uuid": "671cfcdc-dcff-4235-9803-3c885ae54000",
-    "name": "Maria Bar",
-    "slug": "maria-bar",
-    "address": "Löwenstraße 3-7",
+    "uuid": "b1699e7e-a32a-4e6c-9e26-bb98fefa0517",
+    "name": "Enchilada",
+    "slug": "enchilada-auf-d-zinnen-1",
+    "address": "Auf d. Zinnen 1",
     "addressOptional": null,
     "zipCode": "79098",
-    "latitude": 47.99414363899047,
-    "longitude": 7.848129837891096,
+    "latitude": 47.99723785801392,
+    "longitude": 7.854663823439529,
     "deals": [
       {
-        "uuid": "4d08f640-97a8-4fa3-90bb-b3c8c1222c85",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25 you get €10 discount. Only one deal redemption per table valid.",
+        "uuid": "cd8de9f0-29d6-465f-454c-08dca56bcf1c",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 10,
+        "value": 20,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "fa156c36-65fd-48ca-7a45-08dca240e941",
-        "name": "FREE Tea",
-        "conditions": "Order a main course of your choice and receive a free homemade tea.",
+        "uuid": "0bda977f-248f-48a7-b797-37b3a9a585e9",
+        "name": "2for1 Cocktail",
+        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 4,
+        "value": 10,
         "daysToReset": 90,
         "status": "available"
       }
     ],
     "tags": [
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
       {
         "slug": "drinks",
         "name": "Drinks"
       },
       {
-        "slug": "burgers",
-        "name": "Burgers"
+        "slug": "mexican",
+        "name": "Mexican"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 546,
-    "reviewsCount": 95,
+    "avgRating": 4.7,
+    "ratingsCount": 435,
+    "reviewsCount": 83,
     "images": [
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/9936fcd2-dffc-4cee-bab5-3f8f8e290749.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/649b97db-3d05-4b5d-b7da-6de0722d2369.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/d593faf3-382f-4e24-9f5e-613cf087ea73.jpeg",
-      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/900ca06b-9e3e-43b4-ac7f-9ee3427730c9.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "3ffe57f4-8afd-4a12-9a93-1ea1e740eed2",
-    "name": "Café Phiin",
-    "slug": "cafe-phiin",
-    "address": "Friedrichring 14",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.99826930155179,
-    "longitude": 7.851500683357337,
-    "deals": [
-      {
-        "uuid": "eb9a95e9-0293-42ad-f900-08dca1997e5f",
-        "name": "2for1 Coffee Special",
-        "conditions": "Order 2 Iced Coffees of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "3769be5a-7a49-49df-af75-5593afc4e575",
-        "name": "FREE Cookie ",
-        "conditions": "You order a hot drink of your choice and get a cookie for free.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 95,
-    "reviewsCount": 24,
-    "images": [
-      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/733265b8-4abc-4fcd-bb7a-6c6963383b7d.jpeg",
-      "https://assets.neotaste.com/restaurants/43cc8379-96b0-47ca-b701-26198c2bb6c8/images/0f085e1c-c23e-4240-8f2f-a196dc743c30.jpeg",
-      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/dd9a5e83-6144-40c6-a7ae-9fbf4d82c1d1.jpeg",
-      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/f36e167d-694c-483d-9325-eb1c7ca61288.jpeg",
-      "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/df4355aa-a6af-457e-a09c-9d6d0ead3475.jpeg"
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/453b80f3-b62e-4a55-9bc6-31eb95a830ea.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/1e928c66-8dbf-4978-a9b6-b60ad113107b.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/e4cfd870-5e4f-4431-b4df-d3d32a5420a0.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/0cb10913-429f-4b18-aa0b-9aa1d935791b.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/035eb1a8-e6e5-4099-8315-7c65b9b3d3b4.jpeg",
+      "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/9aee18c4-da0e-498b-9404-05133ccd91ae.jpeg"
     ],
     "priceRange": 2
   },
@@ -576,6 +517,65 @@
       "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/7dd27e29-46fa-46ca-b7f1-8d29e060fde7.jpeg",
       "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/86e12ff5-3417-431f-8958-97bae01f6e96.jpeg",
       "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/d78a7249-0bae-44eb-a98f-5cfb544054c7.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "671cfcdc-dcff-4235-9803-3c885ae54000",
+    "name": "Maria Bar",
+    "slug": "maria-bar",
+    "address": "Löwenstraße 3-7",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.99414363899047,
+    "longitude": 7.848129837891096,
+    "deals": [
+      {
+        "uuid": "4d08f640-97a8-4fa3-90bb-b3c8c1222c85",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €25 you get €10 discount. Only one deal redemption per table valid.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "fa156c36-65fd-48ca-7a45-08dca240e941",
+        "name": "FREE Tea",
+        "conditions": "Order a main course of your choice and receive a free homemade tea.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 547,
+    "reviewsCount": 95,
+    "images": [
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/9936fcd2-dffc-4cee-bab5-3f8f8e290749.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/649b97db-3d05-4b5d-b7da-6de0722d2369.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/d593faf3-382f-4e24-9f5e-613cf087ea73.jpeg",
+      "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/900ca06b-9e3e-43b4-ac7f-9ee3427730c9.jpeg"
     ],
     "priceRange": 2
   },
@@ -674,8 +674,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 391,
-    "reviewsCount": 69,
+    "ratingsCount": 394,
+    "reviewsCount": 71,
     "images": [
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/add0033f-1b91-4cd9-83b7-87ef02de4a41.jpeg",
@@ -936,8 +936,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 133,
-    "reviewsCount": 18,
+    "ratingsCount": 135,
+    "reviewsCount": 19,
     "images": [
       "https://assets.neotaste.com/restaurants/b7bc54be-e790-4290-a9f3-8ae499b1ca5d/images/08071694-6339-429e-ba7d-287c4b2faf80.jpeg",
       "https://assets.neotaste.com/restaurants/b7bc54be-e790-4290-a9f3-8ae499b1ca5d/images/55c4896e-af16-4104-a008-7d7e7c4f3c8a.jpeg",
@@ -1040,8 +1040,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 151,
-    "reviewsCount": 26,
+    "ratingsCount": 152,
+    "reviewsCount": 27,
     "images": [
       "https://assets.neotaste.com/restaurants/186a5fc7-6eda-4145-aaf4-80d0c73aecf8/images/998016f2-a42a-4ae2-bc20-e257c28e5c30.jpeg",
       "https://assets.neotaste.com/restaurants/186a5fc7-6eda-4145-aaf4-80d0c73aecf8/images/85b59c78-ffb1-4996-b21e-c35b590ff0fc.jpeg",
@@ -1148,7 +1148,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 175,
+    "ratingsCount": 176,
     "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
@@ -1501,7 +1501,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 29,
+    "ratingsCount": 30,
     "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/b8b8143d-6bc1-4a04-bf4d-7f7af53e6fec/images/e2f46e06-798f-4ad4-8086-7315b00975b0.jpeg",
@@ -1809,7 +1809,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 75,
+    "ratingsCount": 76,
     "reviewsCount": 12,
     "images": [
       "https://assets.neotaste.com/restaurants/6dff8d96-c155-402d-80e6-db3b3372ce22/images/b7897150-8f95-4dce-af78-3fc0720f1b9d.jpeg",
@@ -1864,7 +1864,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 203,
+    "ratingsCount": 204,
     "reviewsCount": 28,
     "images": [
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
@@ -2119,7 +2119,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 87,
+    "ratingsCount": 88,
     "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/7ea16cd1-13c5-42d0-90d2-c3f3e86dc534.jpeg",
@@ -2545,6 +2545,117 @@
     "priceRange": 1
   },
   {
+    "uuid": "3b3168ec-2d6c-4e85-858d-e21114955c58",
+    "name": "Katzentempel Freiburg",
+    "slug": "katzentempel-freiburg",
+    "address": "Bertoldstraße 24",
+    "addressOptional": null,
+    "zipCode": "79098",
+    "latitude": 47.9950877,
+    "longitude": 7.847792800000001,
+    "deals": [
+      {
+        "uuid": "76785084-b0c4-4a4b-a1ba-07672e88e382",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "56bae5f8-b584-4ae2-8e12-44b2fd174597",
+        "name": "FREE (Hot) Drink",
+        "conditions": "You order a main course of your choice and get a (hot) drink for free.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 4.7,
+    "ratingsCount": 68,
+    "reviewsCount": 10,
+    "images": [
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/368b915f-b2fc-403a-a264-9c7ee32626b4.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/bb9739b8-c7c2-4f91-ad10-4f12e105df96.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/eb8b031d-0db4-43eb-985b-36c0ac09cfde.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/ce97a336-6a88-45c5-bc2c-98f615a7b18b.jpg",
+      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/55188c3e-a427-4b90-baf7-535e01d37230.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "ba9519b6-34f6-4b54-8f5a-140a702253cf",
+    "name": "Café Alma",
+    "slug": "cafe-alma-kronenstrasse-1",
+    "address": "Kronenstraße 1",
+    "addressOptional": null,
+    "zipCode": "79100",
+    "latitude": 47.98989469999999,
+    "longitude": 7.8442949,
+    "deals": [
+      {
+        "uuid": "86298db6-719c-4592-b29d-2456f92f1757",
+        "name": "2for1 Coffee Specialty",
+        "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "2cc144de-997b-47a5-b66a-1ee79e6988c5",
+        "name": "FREE Coffee Specialty",
+        "conditions": "From a minimum order value of €30, you receive a free speciality coffee.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "cake",
+        "name": "Cake"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 176,
+    "reviewsCount": 30,
+    "images": [
+      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/45795250-3e94-49f5-8f01-ab104e98e066.jpeg",
+      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/403bf688-4782-488b-83b7-4d0d8f827f29.jpeg",
+      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/47bce476-66aa-4a55-a0d0-480b521e8f12.jpeg",
+      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/1ae291c3-b212-4ec2-82ab-c18b242f6ee9.jpeg",
+      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/4a10c8bc-916c-4ff8-bbb6-fd68fe58a1c9.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "db20f5e9-5a6e-430b-b091-5bd4796fa0a5",
     "name": "TACHELES",
     "slug": "tacheles",
@@ -2594,61 +2705,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "ba9519b6-34f6-4b54-8f5a-140a702253cf",
-    "name": "Café Alma",
-    "slug": "cafe-alma-kronenstrasse-1",
-    "address": "Kronenstraße 1",
-    "addressOptional": null,
-    "zipCode": "79100",
-    "latitude": 47.98989469999999,
-    "longitude": 7.8442949,
-    "deals": [
-      {
-        "uuid": "86298db6-719c-4592-b29d-2456f92f1757",
-        "name": "2for1 Coffee Specialty",
-        "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "2cc144de-997b-47a5-b66a-1ee79e6988c5",
-        "name": "FREE Coffee Specialty",
-        "conditions": "From a minimum order value of €30, you receive a free speciality coffee.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "cake",
-        "name": "Cake"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 175,
-    "reviewsCount": 29,
-    "images": [
-      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/45795250-3e94-49f5-8f01-ab104e98e066.jpeg",
-      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/403bf688-4782-488b-83b7-4d0d8f827f29.jpeg",
-      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/47bce476-66aa-4a55-a0d0-480b521e8f12.jpeg",
-      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/1ae291c3-b212-4ec2-82ab-c18b242f6ee9.jpeg",
-      "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/4a10c8bc-916c-4ff8-bbb6-fd68fe58a1c9.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "5ab30cbe-bd4e-45c7-a81c-dac61de4a999",
     "name": "Pizza Passione",
     "slug": "pizza-passione",
@@ -2692,68 +2748,12 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 19,
-    "reviewsCount": 8,
+    "ratingsCount": 20,
+    "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/64628df3-ff7a-4fab-a475-727a0d2b99dc.jpeg",
       "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/b1a90aaf-f38b-4187-ab4a-8e02a2861c93.jpeg",
       "https://assets.neotaste.com/restaurants/5ab30cbe-bd4e-45c7-a81c-dac61de4a999/images/7e7f40ac-8b3f-4746-9ac8-18441b0ce735.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "3b3168ec-2d6c-4e85-858d-e21114955c58",
-    "name": "Katzentempel Freiburg",
-    "slug": "katzentempel-freiburg",
-    "address": "Bertoldstraße 24",
-    "addressOptional": null,
-    "zipCode": "79098",
-    "latitude": 47.9950877,
-    "longitude": 7.847792800000001,
-    "deals": [
-      {
-        "uuid": "76785084-b0c4-4a4b-a1ba-07672e88e382",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "56bae5f8-b584-4ae2-8e12-44b2fd174597",
-        "name": "FREE (Hot) Drink",
-        "conditions": "You order a main course of your choice and get a (hot) drink for free.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 65,
-    "reviewsCount": 8,
-    "images": [
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/368b915f-b2fc-403a-a264-9c7ee32626b4.jpg",
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/bb9739b8-c7c2-4f91-ad10-4f12e105df96.jpg",
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/eb8b031d-0db4-43eb-985b-36c0ac09cfde.jpg",
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/ce97a336-6a88-45c5-bc2c-98f615a7b18b.jpg",
-      "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/55188c3e-a427-4b90-baf7-535e01d37230.jpg"
     ],
     "priceRange": 2
   }
