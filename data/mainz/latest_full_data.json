@@ -198,8 +198,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 199,
-    "reviewsCount": 24,
+    "ratingsCount": 201,
+    "reviewsCount": 25,
     "images": [
       "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
       "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/fd254bc0-8f0f-4778-8abf-9ffd93771eec.png",
@@ -308,7 +308,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 452,
+    "ratingsCount": 453,
     "reviewsCount": 77,
     "images": [
       "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
@@ -377,6 +377,63 @@
       "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/b226cb12-20c2-47b5-be76-74d2feced302.jpeg"
     ],
     "priceRange": 3
+  },
+  {
+    "uuid": "d3669eea-cc27-445a-a069-ba74c13490f1",
+    "name": "Trattoria & Pizzeria L´Arcino",
+    "slug": "trattoria-pizzeria-larcino",
+    "address": "Darmstädter Landstraße 111",
+    "addressOptional": null,
+    "zipCode": "65462",
+    "latitude": 49.9955655,
+    "longitude": 8.3267279,
+    "deals": [
+      {
+        "uuid": "5fb1c3af-4757-40af-8aa2-c49a45acade2",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice and receive a 50% discount on both.",
+        "locationCondition": "onSite",
+        "value": 12,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "27eb5438-b800-4642-9a14-12495d12757c",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a non-alcoholic drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 3,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/be0d9965-c6a2-43b9-a830-90257a1fc48b.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/8b49e681-86a3-485b-801f-e1bca60ea585.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/9a956abd-89f6-434c-8932-ebaa823cc611.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/5015f44a-d9e6-4b70-80f4-cf96d5cc06da.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/089ca4fd-a4d1-463f-8190-5f64e698cadf.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/c55c3f1b-5fc4-49ec-b9df-99395de1135f.jpg",
+      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/1dba1777-e6c4-43ef-aea8-7471c20e2bdd.jpg"
+    ],
+    "priceRange": 1
   },
   {
     "uuid": "03f240c8-e1d0-41ce-a125-ffb3bda98b8e",
@@ -472,8 +529,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 626,
-    "reviewsCount": 88,
+    "ratingsCount": 627,
+    "reviewsCount": 89,
     "images": [
       "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/ef9d04c9-48c9-42ee-b859-858727256b20.jpeg",
       "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/18d8d011-7c25-453e-926d-35f4a8570b11.jpeg",
@@ -540,63 +597,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "d3669eea-cc27-445a-a069-ba74c13490f1",
-    "name": "Trattoria & Pizzeria L´Arcino",
-    "slug": "trattoria-pizzeria-larcino",
-    "address": "Darmstädter Landstraße 111",
-    "addressOptional": null,
-    "zipCode": "65462",
-    "latitude": 49.9955655,
-    "longitude": 8.3267279,
-    "deals": [
-      {
-        "uuid": "5fb1c3af-4757-40af-8aa2-c49a45acade2",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice and receive a 50% discount on both.",
-        "locationCondition": "onSite",
-        "value": 12,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "27eb5438-b800-4642-9a14-12495d12757c",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a non-alcoholic drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
-        "slug": "italian",
-        "name": "Italian"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 3,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/be0d9965-c6a2-43b9-a830-90257a1fc48b.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/8b49e681-86a3-485b-801f-e1bca60ea585.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/9a956abd-89f6-434c-8932-ebaa823cc611.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/5015f44a-d9e6-4b70-80f4-cf96d5cc06da.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/089ca4fd-a4d1-463f-8190-5f64e698cadf.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/c55c3f1b-5fc4-49ec-b9df-99395de1135f.jpg",
-      "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/1dba1777-e6c4-43ef-aea8-7471c20e2bdd.jpg"
-    ],
-    "priceRange": 1
-  },
-  {
     "uuid": "3096d0fb-08cd-4ff7-8866-a51ef1ec6dea",
     "name": "Pho Viet",
     "slug": "pho-viet",
@@ -632,7 +632,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 441,
+    "ratingsCount": 444,
     "reviewsCount": 96,
     "images": [
       "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
@@ -835,7 +835,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 46,
+    "ratingsCount": 47,
     "reviewsCount": 24,
     "images": [
       "https://assets.neotaste.com/restaurants/aeb20de4-12e2-4a54-a629-9adac0cb8216/images/c4a22650-2fa6-4e71-9926-2d6e33f876a5.jpeg",
@@ -1531,8 +1531,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 440,
-    "reviewsCount": 58,
+    "ratingsCount": 442,
+    "reviewsCount": 59,
     "images": [
       "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
       "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/38a81659-5ab2-47ed-acce-37b29c25ef76.png",

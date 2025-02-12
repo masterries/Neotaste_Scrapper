@@ -104,59 +104,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "52e13441-198b-4c8a-998d-c0aee21b14bd",
-    "name": "Mille Stelle",
-    "slug": "mille-stelle",
-    "address": "Akademiestraße 38-40",
-    "addressOptional": null,
-    "zipCode": "76133",
-    "latitude": 49.01087310130616,
-    "longitude": 8.39427486519315,
-    "deals": [
-      {
-        "uuid": "88b123e2-8255-4a6e-9e63-34d8ec84592d",
-        "name": "2for1 Pizza",
-        "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.\n(Valid for all 31 cm pizzas).",
-        "locationCondition": "onSite",
-        "value": 13,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "269c227b-3e37-4a57-92d5-2253fe6c3787",
-        "name": "FREE House Wine",
-        "conditions": "Order a main course of your choice and get a free beer.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "italian",
-        "name": "Italian"
-      },
-      {
-        "slug": "pasta",
-        "name": "Pasta"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 96,
-    "reviewsCount": 25,
-    "images": [
-      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
-      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/0f6dea57-0c04-4da0-91cb-7a6380e6758b.jpeg",
-      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/cc4b8ba7-d7e9-4b05-910d-dc17128ddd5d.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "68af4f00-29d6-45e3-b43c-fc343c755759",
     "name": "BESCHDE Pizza",
     "slug": "beschde-pizza",
@@ -208,6 +155,52 @@
     "priceRange": 2
   },
   {
+    "uuid": "2331c261-6754-487f-9294-8084e260e593",
+    "name": "Thirty Seats",
+    "slug": "thirty-seats",
+    "address": "Waldstr. 30",
+    "addressOptional": null,
+    "zipCode": "76133",
+    "latitude": 49.01028937598119,
+    "longitude": 8.397761281196042,
+    "deals": [
+      {
+        "uuid": "d3856e26-2fc0-4af8-af89-1d7d2ba68e05",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €40 you get a €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "b1a74cd9-faaf-4264-a7a8-29a25c6ed80f",
+        "name": "€20 Discount",
+        "conditions": "From a minimum order value of €50 you get a €20 discount.",
+        "locationCondition": "onSite",
+        "value": 20,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 20,
+    "reviewsCount": 7,
+    "images": [
+      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/839f8a7d-9b27-4fc0-bc1b-cbb7752ba137.jpeg",
+      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/fd1cc4cc-0ba1-4d6e-b203-b1e528d2a570.jpeg",
+      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/5f317e17-79d7-4202-84a9-2aff3c11ac96.jpeg",
+      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/f96c7749-4786-4750-ace5-ec7d6cf296b3.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "d248ecc7-5462-4952-b19d-341f02aaeefe",
     "name": "intro",
     "slug": "intro",
@@ -251,8 +244,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 307,
-    "reviewsCount": 62,
+    "ratingsCount": 309,
+    "reviewsCount": 63,
     "images": [
       "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/3874c809-00ae-4d31-aed3-17af97f0e921.jpeg",
       "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/67619d5f-cbb6-4155-86c0-d8e652cba475.jpeg",
@@ -514,8 +507,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1017,
-    "reviewsCount": 168,
+    "ratingsCount": 1019,
+    "reviewsCount": 169,
     "images": [
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -1159,7 +1152,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 339,
+    "ratingsCount": 340,
     "reviewsCount": 66,
     "images": [
       "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/abe963c1-c080-42a5-9f20-3750e36e39c3.jpeg",
@@ -1376,7 +1369,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 82,
+    "ratingsCount": 83,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
@@ -1487,7 +1480,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 166,
+    "ratingsCount": 167,
     "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/c922af13-db41-4f8d-a592-214b5a510176.jpeg",
@@ -1698,8 +1691,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 169,
-    "reviewsCount": 52,
+    "ratingsCount": 170,
+    "reviewsCount": 53,
     "images": [
       "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/d5771fe7-0377-4b16-a47e-06ce3eb0d146.jpeg",
       "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/eb525fcd-3317-4606-866f-598dc54d98f3.jpeg",
@@ -1941,8 +1934,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 11,
-    "reviewsCount": 2,
+    "ratingsCount": 12,
+    "reviewsCount": 3,
     "images": [
       "https://assets.neotaste.com/restaurants/876075d5-f6df-455f-97db-a6f8e2d13b67/images/a93f95f2-c041-4784-81d1-5a80b87793c8.jpeg",
       "https://assets.neotaste.com/restaurants/876075d5-f6df-455f-97db-a6f8e2d13b67/images/6bbdc33d-aac3-4dfd-b59c-790e712f56c0.jpeg",
@@ -2054,8 +2047,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 121,
-    "reviewsCount": 34,
+    "ratingsCount": 122,
+    "reviewsCount": 35,
     "images": [
       "https://assets.neotaste.com/restaurants/090d83cf-5ad0-4bfd-b5ac-d10ab7379847/images/c9b543cf-366b-4ee7-a9c7-b4748378c261.jpeg",
       "https://assets.neotaste.com/restaurants/090d83cf-5ad0-4bfd-b5ac-d10ab7379847/images/fcb2d201-1e21-4974-bb69-5ddca2c070b3.jpeg",
@@ -2551,7 +2544,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 30,
+    "ratingsCount": 31,
     "reviewsCount": 10,
     "images": [
       "https://assets.neotaste.com/restaurants/0f4ae0bc-be2a-4374-bcb3-2e032e466f78/images/f9602441-4b58-4525-838f-562656cab6bc.jpeg",
@@ -3165,48 +3158,55 @@
     "priceRange": 2
   },
   {
-    "uuid": "2331c261-6754-487f-9294-8084e260e593",
-    "name": "Thirty Seats",
-    "slug": "thirty-seats",
-    "address": "Waldstr. 30",
+    "uuid": "52e13441-198b-4c8a-998d-c0aee21b14bd",
+    "name": "Mille Stelle",
+    "slug": "mille-stelle",
+    "address": "Akademiestraße 38-40",
     "addressOptional": null,
     "zipCode": "76133",
-    "latitude": 49.01028937598119,
-    "longitude": 8.397761281196042,
+    "latitude": 49.01087310130616,
+    "longitude": 8.39427486519315,
     "deals": [
       {
-        "uuid": "d3856e26-2fc0-4af8-af89-1d7d2ba68e05",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €40 you get a €10 discount.",
+        "uuid": "88b123e2-8255-4a6e-9e63-34d8ec84592d",
+        "name": "2for1 Pizza",
+        "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.\n(Valid for all 31 cm pizzas).",
         "locationCondition": "onSite",
-        "value": 10,
+        "value": 13,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "b1a74cd9-faaf-4264-a7a8-29a25c6ed80f",
-        "name": "€20 Discount",
-        "conditions": "From a minimum order value of €50 you get a €20 discount.",
+        "uuid": "269c227b-3e37-4a57-92d5-2253fe6c3787",
+        "name": "FREE House Wine",
+        "conditions": "Order a main course of your choice and get a free beer.",
         "locationCondition": "onSite",
-        "value": 20,
+        "value": 5,
         "daysToReset": 90,
         "status": "available"
       }
     ],
     "tags": [
       {
-        "slug": "drinks",
-        "name": "Drinks"
+        "slug": "italian",
+        "name": "Italian"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 20,
-    "reviewsCount": 7,
+    "avgRating": 4.8,
+    "ratingsCount": 98,
+    "reviewsCount": 25,
     "images": [
-      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/839f8a7d-9b27-4fc0-bc1b-cbb7752ba137.jpeg",
-      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/fd1cc4cc-0ba1-4d6e-b203-b1e528d2a570.jpeg",
-      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/5f317e17-79d7-4202-84a9-2aff3c11ac96.jpeg",
-      "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/f96c7749-4786-4750-ace5-ec7d6cf296b3.jpeg"
+      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
+      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/0f6dea57-0c04-4da0-91cb-7a6380e6758b.jpeg",
+      "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/cc4b8ba7-d7e9-4b05-910d-dc17128ddd5d.jpeg"
     ],
     "priceRange": 2
   },
