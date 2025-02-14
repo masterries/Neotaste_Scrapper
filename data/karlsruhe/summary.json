@@ -1375,9 +1375,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 128
+    },
+    {
+      "date": "2025-02-14",
+      "total_restaurants": 63,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 124
     }
   ],
-  "last_updated": "2025-02-13",
+  "last_updated": "2025-02-14",
   "restaurants": [
     {
       "name": "Compleat",
@@ -1483,8 +1491,8 @@
       "latitude": 49.00923406335475,
       "longitude": 8.409084393595768,
       "avgRating": 4.9,
-      "ratingsCount": 310,
-      "reviewsCount": 63,
+      "ratingsCount": 314,
+      "reviewsCount": 65,
       "images": [
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/3874c809-00ae-4d31-aed3-17af97f0e921.jpeg",
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/67619d5f-cbb6-4155-86c0-d8e652cba475.jpeg",
@@ -1521,7 +1529,7 @@
       "latitude": 49.00878525342304,
       "longitude": 8.404225110851845,
       "avgRating": 4.7,
-      "ratingsCount": 609,
+      "ratingsCount": 610,
       "reviewsCount": 139,
       "images": [
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
@@ -1643,39 +1651,42 @@
       "priceRange": 2
     },
     {
-      "name": "Mille Stelle",
-      "uuid": "52e13441-198b-4c8a-998d-c0aee21b14bd",
+      "name": "Taquería Taol",
+      "uuid": "552762f2-6ccc-48d0-9005-3ea1445cafe6",
       "deals": [
         {
-          "uuid": "88b123e2-8255-4a6e-9e63-34d8ec84592d",
-          "name": "2for1 Pizza",
-          "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.\n(Valid for all 31 cm pizzas).",
+          "uuid": "26ddc082-a888-4209-8afd-577b36c19080",
+          "name": "2for1 Breakfast",
+          "conditions": "You order 2 breakfasts of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 13,
+          "value": 10,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "269c227b-3e37-4a57-92d5-2253fe6c3787",
-          "name": "FREE House Wine",
-          "conditions": "Order a main course of your choice and get a free beer.",
+          "uuid": "0e7c33fc-e05f-4dc1-869f-d2763ee35367",
+          "name": "FREE Drink",
+          "conditions": "With the purchase of a main course, you get a free Agua de Jamaica.",
           "locationCondition": "onSite",
-          "value": 5,
+          "value": 4,
           "daysToReset": 90,
           "status": "available"
         }
       ],
-      "address": "Akademiestraße 38-40",
-      "zipCode": "76133",
-      "latitude": 49.01087310130616,
-      "longitude": 8.39427486519315,
-      "avgRating": 4.8,
-      "ratingsCount": 100,
-      "reviewsCount": 26,
+      "address": "Lange Straße 1",
+      "zipCode": "76199",
+      "latitude": 48.97224000000001,
+      "longitude": 8.4033873,
+      "avgRating": 5,
+      "ratingsCount": 11,
+      "reviewsCount": 8,
       "images": [
-        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
-        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/0f6dea57-0c04-4da0-91cb-7a6380e6758b.jpeg",
-        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/cc4b8ba7-d7e9-4b05-910d-dc17128ddd5d.jpeg"
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/c6500d63-a262-4283-b1d6-59f4db0c3b32.jpg",
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/15d6510a-d5a4-4270-85d6-73874e9eca3d.jpg",
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/26c0cdea-a7d3-445c-990c-aed6d777d67f.jpg",
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/28b7ddf4-f02f-418b-a31a-8c7ac78e2781.jpg",
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/f5035fd1-1277-4f2e-89f3-dbe9d50a0aa9.jpeg",
+        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/bba55d0f-4307-4433-933e-109e7fc323e5.jpeg"
       ],
       "priceRange": 2
     },
@@ -2133,8 +2144,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1024,
-      "reviewsCount": 173,
+      "ratingsCount": 1027,
+      "reviewsCount": 174,
       "images": [
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -2251,8 +2262,8 @@
       "latitude": 49.00900466252355,
       "longitude": 8.414438352148224,
       "avgRating": 4.9,
-      "ratingsCount": 340,
-      "reviewsCount": 66,
+      "ratingsCount": 341,
+      "reviewsCount": 67,
       "images": [
         "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/abe963c1-c080-42a5-9f20-3750e36e39c3.jpeg",
         "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/dcfd51cc-e1e6-4033-8bfc-ee6bde8290b5.jpeg",
@@ -2290,7 +2301,7 @@
       "latitude": 48.99650879988173,
       "longitude": 8.455849732571133,
       "avgRating": 4.8,
-      "ratingsCount": 54,
+      "ratingsCount": 55,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/12089622-907d-4486-9578-36e0c86fafff/images/a9b6e928-38bd-491d-8bc7-2f50834ee453.jpeg",
@@ -2499,7 +2510,7 @@
       "latitude": 49.0106808588777,
       "longitude": 8.395981676237538,
       "avgRating": 4.9,
-      "ratingsCount": 167,
+      "ratingsCount": 168,
       "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/c922af13-db41-4f8d-a592-214b5a510176.jpeg",
@@ -2646,8 +2657,8 @@
       "latitude": 49.00964741991798,
       "longitude": 8.394573976307528,
       "avgRating": 4.9,
-      "ratingsCount": 170,
-      "reviewsCount": 53,
+      "ratingsCount": 171,
+      "reviewsCount": 54,
       "images": [
         "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/d5771fe7-0377-4b16-a47e-06ce3eb0d146.jpeg",
         "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/eb525fcd-3317-4606-866f-598dc54d98f3.jpeg",
@@ -2796,8 +2807,8 @@
       "latitude": 49.00454245805076,
       "longitude": 8.387811044261303,
       "avgRating": 4.9,
-      "ratingsCount": 86,
-      "reviewsCount": 20,
+      "ratingsCount": 88,
+      "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/4f534968-432d-41f8-90a6-2b73ac73866e.jpeg",
         "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/58512d5b-b076-4c78-9c0f-74d117d1bd05.jpeg",
@@ -3148,41 +3159,6 @@
       "priceRange": 2
     },
     {
-      "name": "Thasy Tamil",
-      "uuid": "03e74bf3-2cc6-4f90-b2c4-af6aceebb2a2",
-      "deals": [
-        {
-          "uuid": "54a24f27-d8f9-49fe-972c-08dc52fcad0a",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 14,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "f9b84eb2-f4b5-46d5-972d-08dc52fcad0a",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 14,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Wilhelmstraße 8",
-      "zipCode": "76137",
-      "latitude": 49.00316986143334,
-      "longitude": 8.405470711962847,
-      "avgRating": 4.6,
-      "ratingsCount": 91,
-      "reviewsCount": 33,
-      "images": [
-        "https://assets.neotaste.com/restaurants/25cc7b58-c96d-47ea-8b3f-6475b1d6c686/images/5609dfdb-388a-42c4-bdd4-869740ecf109.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Café Galerie /Restaurant / Bar",
       "uuid": "a66d360e-629e-4b15-af48-f61e86bef5a2",
       "deals": [
@@ -3474,7 +3450,7 @@
       "latitude": 49.0060247,
       "longitude": 8.431078900000001,
       "avgRating": 4.7,
-      "ratingsCount": 140,
+      "ratingsCount": 141,
       "reviewsCount": 31,
       "images": [
         "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/d57e3740-71ec-4522-9a33-242abdeec8f7.jpg",
@@ -3633,7 +3609,7 @@
       "latitude": 49.00135264036042,
       "longitude": 8.388085706439838,
       "avgRating": 4.9,
-      "ratingsCount": 138,
+      "ratingsCount": 139,
       "reviewsCount": 29,
       "images": [
         "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/79df01de-a7e9-4dde-92f9-70be7678017d.jpeg",
@@ -3642,46 +3618,6 @@
         "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/bf5380b2-17db-41d3-b1b4-ab38fb03f6ea.jpeg",
         "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/a6a03174-767c-4d36-9cfb-0c672abfa476.jpeg",
         "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/50affafa-7bbb-4f3a-87e4-b7e954b102d7.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Taquería Taol",
-      "uuid": "552762f2-6ccc-48d0-9005-3ea1445cafe6",
-      "deals": [
-        {
-          "uuid": "26ddc082-a888-4209-8afd-577b36c19080",
-          "name": "2for1 Breakfast",
-          "conditions": "You order 2 breakfasts of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "8461e1f8-677a-4dda-b022-68b0dbc80b4f",
-          "name": "FREE Hot Drink",
-          "conditions": "Order a dish of your choice and get a hot drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Lange Straße 1",
-      "zipCode": "76199",
-      "latitude": 48.97224000000001,
-      "longitude": 8.4033873,
-      "avgRating": 5,
-      "ratingsCount": 11,
-      "reviewsCount": 8,
-      "images": [
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/c6500d63-a262-4283-b1d6-59f4db0c3b32.jpg",
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/15d6510a-d5a4-4270-85d6-73874e9eca3d.jpg",
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/26c0cdea-a7d3-445c-990c-aed6d777d67f.jpg",
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/28b7ddf4-f02f-418b-a31a-8c7ac78e2781.jpg",
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/f5035fd1-1277-4f2e-89f3-dbe9d50a0aa9.jpeg",
-        "https://assets.neotaste.com/restaurants/552762f2-6ccc-48d0-9005-3ea1445cafe6/images/bba55d0f-4307-4433-933e-109e7fc323e5.jpeg"
       ],
       "priceRange": 2
     },
@@ -3788,7 +3724,7 @@
       "latitude": 49.0077618,
       "longitude": 8.4074139,
       "avgRating": 5,
-      "ratingsCount": 10,
+      "ratingsCount": 11,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
@@ -3832,6 +3768,24 @@
         "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/fd1cc4cc-0ba1-4d6e-b203-b1e528d2a570.jpeg",
         "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/5f317e17-79d7-4202-84a9-2aff3c11ac96.jpeg",
         "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/f96c7749-4786-4750-ace5-ec7d6cf296b3.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Mille Stelle",
+      "uuid": "52e13441-198b-4c8a-998d-c0aee21b14bd",
+      "deals": [],
+      "address": "Akademiestraße 38-40",
+      "zipCode": "76133",
+      "latitude": 49.01087310130616,
+      "longitude": 8.39427486519315,
+      "avgRating": 4.8,
+      "ratingsCount": 101,
+      "reviewsCount": 26,
+      "images": [
+        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
+        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/0f6dea57-0c04-4da0-91cb-7a6380e6758b.jpeg",
+        "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/cc4b8ba7-d7e9-4b05-910d-dc17128ddd5d.jpeg"
       ],
       "priceRange": 2
     }
