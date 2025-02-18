@@ -1407,10 +1407,275 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 78
+    },
+    {
+      "date": "2025-02-18",
+      "total_restaurants": 39,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 78
     }
   ],
-  "last_updated": "2025-02-17",
+  "last_updated": "2025-02-18",
   "restaurants": [
+    {
+      "name": "Compleat Quadrate",
+      "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
+      "deals": [
+        {
+          "uuid": "842edfd8-e94d-42eb-80ef-5162c59d7e76",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
+          "name": "FREE Drink",
+          "conditions": "You order a main course of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "N7 7",
+      "zipCode": "68161",
+      "latitude": 49.48410872470583,
+      "longitude": 8.472395164652163,
+      "avgRating": 4.9,
+      "ratingsCount": 503,
+      "reviewsCount": 56,
+      "images": [
+        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
+        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
+        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
+        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
+        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "St.James",
+      "uuid": "fa172d2e-9325-4948-bf5f-26db17890ef0",
+      "deals": [
+        {
+          "uuid": "1905396f-161d-4b6f-4358-08dbccc4ca55",
+          "name": "2for1 Bowl ",
+          "conditions": "You order 2 bowls of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "2a082535-4e15-4791-4359-08dbccc4ca55",
+          "name": "FREE Soft Drink/Homemade Lemonade",
+          "conditions": "Order a main course of your choice and receive a free soft drink or homemade lemonade.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Hafenstraße 25-27",
+      "zipCode": "68159",
+      "latitude": 49.49495742078869,
+      "longitude": 8.456743305522204,
+      "avgRating": 4.7,
+      "ratingsCount": 89,
+      "reviewsCount": 18,
+      "images": [
+        "https://assets.neotaste.com/restaurants/beae5f67-1636-4467-a79e-37848a15c66f/images/84d20da8-36a1-4441-ae9c-59eb656aabbe.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Granatapfel",
+      "uuid": "89361891-dc5b-451c-b89e-02ecba4425ca",
+      "deals": [
+        {
+          "uuid": "fd0c0155-6ed6-49c6-bbc3-08dc7f042677",
+          "name": "2for1 Main Course",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. MANTU valid from 5 PM.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "8e3a68ec-5d3f-448e-bbc4-08dc7f042677",
+          "name": "2for1 Lemonade/Coffee Special",
+          "conditions": "Order 2 lemonades/coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Leonie-Ossowski-Promenade 1",
+      "zipCode": "68309",
+      "latitude": 49.50327625854703,
+      "longitude": 8.516225509961728,
+      "avgRating": 4.8,
+      "ratingsCount": 71,
+      "reviewsCount": 18,
+      "images": [
+        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
+        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/73fc0051-3edb-4a52-81d4-e1a729676231.jpeg",
+        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/46da63ff-f88a-487f-8b72-d48e358f7a8d.jpeg",
+        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/4c17e0d6-2bd3-45b9-8e14-96a8a450d17d.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Frankys Farm",
+      "uuid": "576dd7ca-965c-47a4-9112-f717d2268341",
+      "deals": [
+        {
+          "uuid": "b3e88264-6641-45ad-7057-08dbcb581a4c",
+          "name": "2for1 Drinks",
+          "conditions": "Order 2 drinks of your choice, the cheaper/equivalent one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "13814975-84a3-4017-7058-08dbcb581a4c",
+          "name": "FREE Espresso, Americano or Cappuccino",
+          "conditions": "Order a slice of cake of your choice and receive a free Espresso, Americano, or Cappuccino with it.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "G7 20",
+      "zipCode": "68159",
+      "latitude": 49.49255001248255,
+      "longitude": 8.461192696096019,
+      "avgRating": 4.9,
+      "ratingsCount": 289,
+      "reviewsCount": 41,
+      "images": [
+        "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "POP Bar",
+      "uuid": "1a1816d0-e53b-48c2-b609-114567644e47",
+      "deals": [
+        {
+          "uuid": "d85529c5-fcfc-4172-4332-08dbccc4ca55",
+          "name": "2for1 Long drink",
+          "conditions": "Order 2 identical long drinks of your choice (excluding the Sours) and pay for only one.",
+          "locationCondition": "onSite",
+          "value": 13,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "592996a1-9b2f-4403-4333-08dbccc4ca55",
+          "name": "FREE Homemade Shot",
+          "conditions": "Order an aperitif/long drink of your choice and get a free homemade shot (vanilla, hazelnut, or melon) with it.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Beilstraße 14",
+      "zipCode": "68159",
+      "latitude": 49.49411415510568,
+      "longitude": 8.459693991967573,
+      "avgRating": 4.7,
+      "ratingsCount": 67,
+      "reviewsCount": 5,
+      "images": [
+        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/142bfdfe-0e5e-40ff-bc17-568a36346e1e.jpeg",
+        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/da41a863-099a-41ba-9ea2-2a5c32fa905c.jpeg",
+        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/90b1f4cc-0b3b-45c4-817b-bfe214d2903b.jpeg",
+        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/28309392-e8bc-4eed-8a0c-fac623b1499a.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Taverna Orion",
+      "uuid": "33132857-59bc-4a63-a374-73d40f0038ad",
+      "deals": [
+        {
+          "uuid": "f0b48021-c4a0-4fa1-ebf4-08dc734bfeb5",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get a €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "3d61a615-d560-433e-ebf5-08dc734bfeb5",
+          "name": "FREE Profiteroles",
+          "conditions": "Order a main course of your choice and get a serving of profiteroles for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Welserstraße 25",
+      "zipCode": "67063",
+      "latitude": 49.48502781792361,
+      "longitude": 8.435306065011337,
+      "avgRating": 4.9,
+      "ratingsCount": 18,
+      "reviewsCount": 4,
+      "images": [
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5acb7ce7-bfb4-4ab6-b269-cc559c6850f9.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Indian Palace",
+      "uuid": "586f2a1b-1751-4627-bf10-c69dc81f723b",
+      "deals": [
+        {
+          "uuid": "48518cd2-443c-4448-433e-08dbccc4ca55",
+          "name": "2for1 Main Course",
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 23,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "abad523a-cd03-4edd-433f-08dbccc4ca55",
+          "name": "FREE Soft Drink",
+          "conditions": "Order a main course of your choice and receive a free soft drink.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "L14 10",
+      "zipCode": "68161",
+      "latitude": 49.48213686156112,
+      "longitude": 8.471570562583093,
+      "avgRating": 4.8,
+      "ratingsCount": 466,
+      "reviewsCount": 141,
+      "images": [
+        "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
+      ],
+      "priceRange": 2
+    },
     {
       "name": "Compleat Oststadt",
       "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
@@ -1451,43 +1716,43 @@
       "priceRange": 2
     },
     {
-      "name": "Compleat Quadrate",
-      "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
+      "name": "Universe Café",
+      "uuid": "c576fed6-1e31-495a-8f72-77610edc73cb",
       "deals": [
         {
-          "uuid": "8a0b872d-08f1-4e52-0e38-08dc547e2049",
+          "uuid": "d2b6b326-f755-4f1d-705f-08dbcb581a4c",
           "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "Order 2 main courses up to max. €10, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 15,
-          "daysToReset": 30,
+          "value": 10,
+          "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
+          "uuid": "72c82b0b-d9cd-4243-7060-08dbcb581a4c",
           "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
+          "conditions": "You order a main course of your choice and get a free drink with it. (Excluding smoothies).",
           "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 30,
+          "value": 5,
+          "daysToReset": 6,
           "status": "available"
         }
       ],
-      "address": "N7 7",
-      "zipCode": "68161",
-      "latitude": 49.48410872470583,
-      "longitude": 8.472395164652163,
+      "address": "Seckenheimer Str. 27",
+      "zipCode": "68165",
+      "latitude": 49.48003271630078,
+      "longitude": 8.48048845189209,
       "avgRating": 4.8,
-      "ratingsCount": 504,
-      "reviewsCount": 57,
+      "ratingsCount": 97,
+      "reviewsCount": 12,
       "images": [
-        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
-        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
-        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/2e70cced-5c73-4887-8f1e-ee6964d40a2e.jpeg",
-        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/53ba37c2-ce48-44df-abaa-5e7f94d3c812.jpeg",
-        "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/e3277acb-e56a-4f92-ac7f-c3578018ee00.jpeg"
+        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/1dd8810f-4f33-4c6c-b845-7b3df0978923.jpeg",
+        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/70ce9f9f-be75-4e2f-8a71-77176dfec572.jpeg",
+        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/392c47dc-e76f-4979-9a02-37e881c5688d.jpeg",
+        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/677cb8b2-c508-422e-86a1-6965e82d0fb8.jpeg",
+        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/b5d1cd8e-9e5b-45da-94db-4800b56f5c60.jpeg"
       ],
-      "priceRange": 2
+      "priceRange": 1
     },
     {
       "name": "Perle Kaffeebar",
@@ -1524,41 +1789,6 @@
         "https://assets.neotaste.com/restaurants/80a68bb5-4b9d-4094-bcea-c236b3f566bb/images/2ad68522-de01-47cd-9aa8-c76eb00bb6fb.jpeg",
         "https://assets.neotaste.com/restaurants/80a68bb5-4b9d-4094-bcea-c236b3f566bb/images/35ca4bb2-7940-4c37-93bc-a7e5e6a2fd31.jpeg",
         "https://assets.neotaste.com/restaurants/80a68bb5-4b9d-4094-bcea-c236b3f566bb/images/eb53addd-4759-4316-9a80-4ef6067e4087.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Indian Palace",
-      "uuid": "586f2a1b-1751-4627-bf10-c69dc81f723b",
-      "deals": [
-        {
-          "uuid": "48518cd2-443c-4448-433e-08dbccc4ca55",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 23,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "abad523a-cd03-4edd-433f-08dbccc4ca55",
-          "name": "FREE Soft Drink",
-          "conditions": "Order a main course of your choice and receive a free soft drink.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "L14 10",
-      "zipCode": "68161",
-      "latitude": 49.48213686156112,
-      "longitude": 8.471570562583093,
-      "avgRating": 4.8,
-      "ratingsCount": 464,
-      "reviewsCount": 141,
-      "images": [
-        "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
       ],
       "priceRange": 2
     },
@@ -1684,44 +1914,6 @@
       "priceRange": 1
     },
     {
-      "name": "POP Bar",
-      "uuid": "1a1816d0-e53b-48c2-b609-114567644e47",
-      "deals": [
-        {
-          "uuid": "d85529c5-fcfc-4172-4332-08dbccc4ca55",
-          "name": "2for1 Long drink",
-          "conditions": "Order 2 identical long drinks of your choice (excluding the Sours) and pay for only one.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "592996a1-9b2f-4403-4333-08dbccc4ca55",
-          "name": "FREE Homemade Shot",
-          "conditions": "Order an aperitif/long drink of your choice and get a free homemade shot (vanilla, hazelnut, or melon) with it.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Beilstraße 14",
-      "zipCode": "68159",
-      "latitude": 49.49411415510568,
-      "longitude": 8.459693991967573,
-      "avgRating": 4.7,
-      "ratingsCount": 67,
-      "reviewsCount": 5,
-      "images": [
-        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/142bfdfe-0e5e-40ff-bc17-568a36346e1e.jpeg",
-        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/da41a863-099a-41ba-9ea2-2a5c32fa905c.jpeg",
-        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/90b1f4cc-0b3b-45c4-817b-bfe214d2903b.jpeg",
-        "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/28309392-e8bc-4eed-8a0c-fac623b1499a.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Amari Café Bar",
       "uuid": "fbdfbcfa-4d55-4d73-9cec-6a11def66c2d",
       "deals": [
@@ -1791,41 +1983,6 @@
       "reviewsCount": 30,
       "images": [
         "https://assets.neotaste.com/restaurants/ebfa4c88-95d7-4df0-ba74-39b0f955f628/images/3dd29892-cec4-4720-96da-5ac40bc4ca6a.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "St.James",
-      "uuid": "fa172d2e-9325-4948-bf5f-26db17890ef0",
-      "deals": [
-        {
-          "uuid": "1905396f-161d-4b6f-4358-08dbccc4ca55",
-          "name": "2for1 Bowl ",
-          "conditions": "You order 2 bowls of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "2a082535-4e15-4791-4359-08dbccc4ca55",
-          "name": "FREE Soft Drink/Homemade Lemonade",
-          "conditions": "Order a main course of your choice and receive a free soft drink or homemade lemonade.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Hafenstraße 25-27",
-      "zipCode": "68159",
-      "latitude": 49.49495742078869,
-      "longitude": 8.456743305522204,
-      "avgRating": 4.7,
-      "ratingsCount": 89,
-      "reviewsCount": 18,
-      "images": [
-        "https://assets.neotaste.com/restaurants/beae5f67-1636-4467-a79e-37848a15c66f/images/84d20da8-36a1-4441-ae9c-59eb656aabbe.jpeg"
       ],
       "priceRange": 2
     },
@@ -2055,80 +2212,6 @@
       "priceRange": 1
     },
     {
-      "name": "Frankys Farm",
-      "uuid": "576dd7ca-965c-47a4-9112-f717d2268341",
-      "deals": [
-        {
-          "uuid": "b3e88264-6641-45ad-7057-08dbcb581a4c",
-          "name": "2for1 Drinks",
-          "conditions": "Order 2 drinks of your choice, the cheaper/equivalent one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "13814975-84a3-4017-7058-08dbcb581a4c",
-          "name": "FREE Espresso, Americano or Cappuccino",
-          "conditions": "Order a slice of cake of your choice and receive a free Espresso, Americano, or Cappuccino with it.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "G7 20",
-      "zipCode": "68159",
-      "latitude": 49.49255001248255,
-      "longitude": 8.461192696096019,
-      "avgRating": 4.9,
-      "ratingsCount": 289,
-      "reviewsCount": 41,
-      "images": [
-        "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
-      ],
-      "priceRange": 1
-    },
-    {
-      "name": "Universe Café",
-      "uuid": "c576fed6-1e31-495a-8f72-77610edc73cb",
-      "deals": [
-        {
-          "uuid": "d2b6b326-f755-4f1d-705f-08dbcb581a4c",
-          "name": "2for1 Main Course",
-          "conditions": "Order 2 main courses up to max. €10, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "72c82b0b-d9cd-4243-7060-08dbcb581a4c",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a free drink with it. (Excluding smoothies).",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Seckenheimer Str. 27",
-      "zipCode": "68165",
-      "latitude": 49.48003271630078,
-      "longitude": 8.48048845189209,
-      "avgRating": 4.8,
-      "ratingsCount": 96,
-      "reviewsCount": 12,
-      "images": [
-        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/1dd8810f-4f33-4c6c-b845-7b3df0978923.jpeg",
-        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/70ce9f9f-be75-4e2f-8a71-77176dfec572.jpeg",
-        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/392c47dc-e76f-4979-9a02-37e881c5688d.jpeg",
-        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/677cb8b2-c508-422e-86a1-6965e82d0fb8.jpeg",
-        "https://assets.neotaste.com/restaurants/5d5b62c4-8831-45dd-bcfe-4e46619974fe/images/b5d1cd8e-9e5b-45da-94db-4800b56f5c60.jpeg"
-      ],
-      "priceRange": 1
-    },
-    {
       "name": "Tipu Café - Spritz Bar",
       "uuid": "6acadc8f-32eb-4bd4-8d17-9f4b8192291b",
       "deals": [
@@ -2243,44 +2326,6 @@
       "priceRange": 2
     },
     {
-      "name": "Granatapfel",
-      "uuid": "89361891-dc5b-451c-b89e-02ecba4425ca",
-      "deals": [
-        {
-          "uuid": "fd0c0155-6ed6-49c6-bbc3-08dc7f042677",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. MANTU valid from 5 PM.",
-          "locationCondition": "onSite",
-          "value": 15,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "8e3a68ec-5d3f-448e-bbc4-08dc7f042677",
-          "name": "2for1 Lemonade/Coffee Special",
-          "conditions": "Order 2 lemonades/coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Leonie-Ossowski-Promenade 1",
-      "zipCode": "68309",
-      "latitude": 49.50327625854703,
-      "longitude": 8.516225509961728,
-      "avgRating": 4.8,
-      "ratingsCount": 71,
-      "reviewsCount": 18,
-      "images": [
-        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
-        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/73fc0051-3edb-4a52-81d4-e1a729676231.jpeg",
-        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/46da63ff-f88a-487f-8b72-d48e358f7a8d.jpeg",
-        "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/4c17e0d6-2bd3-45b9-8e14-96a8a450d17d.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Black Bird",
       "uuid": "e98cbc5e-b1e6-4f93-80f5-2ef5a83093da",
       "deals": [
@@ -2352,43 +2397,6 @@
       "images": [
         "https://assets.neotaste.com/restaurants/f62fe676-fb82-4d21-8f45-0a5b98c87910/images/0ad618f4-92af-44d9-9205-5c6da6415b05.jpeg",
         "https://assets.neotaste.com/restaurants/f62fe676-fb82-4d21-8f45-0a5b98c87910/images/b85ef838-bf05-4517-8fc2-9ef12375908a.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Taverna Orion",
-      "uuid": "33132857-59bc-4a63-a374-73d40f0038ad",
-      "deals": [
-        {
-          "uuid": "f0b48021-c4a0-4fa1-ebf4-08dc734bfeb5",
-          "name": "€10 Discount",
-          "conditions": "From a minimum order value of €25 you get a €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "3d61a615-d560-433e-ebf5-08dc734bfeb5",
-          "name": "FREE Profiteroles",
-          "conditions": "Order a main course of your choice and get a serving of profiteroles for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Welserstraße 25",
-      "zipCode": "67063",
-      "latitude": 49.48502781792361,
-      "longitude": 8.435306065011337,
-      "avgRating": 4.9,
-      "ratingsCount": 18,
-      "reviewsCount": 4,
-      "images": [
-        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
-        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
-        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5acb7ce7-bfb4-4ab6-b269-cc559c6850f9.jpeg"
       ],
       "priceRange": 2
     },
@@ -2760,7 +2768,7 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.6,
-      "ratingsCount": 69,
+      "ratingsCount": 70,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -2845,7 +2853,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 26,
+      "ratingsCount": 27,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
