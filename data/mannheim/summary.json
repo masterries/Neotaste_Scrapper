@@ -1527,9 +1527,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2025-03-05",
+      "total_restaurants": 38,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 76
     }
   ],
-  "last_updated": "2025-03-04",
+  "last_updated": "2025-03-05",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -1545,12 +1553,12 @@
           "status": "available"
         },
         {
-          "uuid": "b42253fc-6234-498b-0e39-08dc547e2049",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
+          "uuid": "a524cfa8-32bf-4a6c-afca-f728221090b2",
+          "name": "FREE add-on",
+          "conditions": "You order a Bowl of your choice and get 2 free Add-Ons.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 30,
+          "daysToReset": 90,
           "status": "available"
         }
       ],
@@ -1559,7 +1567,7 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.9,
-      "ratingsCount": 513,
+      "ratingsCount": 514,
       "reviewsCount": 58,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
@@ -1781,7 +1789,7 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 481,
+      "ratingsCount": 482,
       "reviewsCount": 147,
       "images": [
         "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -1793,18 +1801,18 @@
       "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
       "deals": [
         {
-          "uuid": "5cb85f1a-473e-4c8f-9beb-08dc547e6347",
-          "name": "2for1 Main Course",
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
-          "value": 15,
+          "value": 10,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "c9a46f45-0df3-44da-9bec-08dc547e6347",
-          "name": "FREE Drink",
-          "conditions": "You order a main course of your choice and get a drink for free.",
+          "uuid": "d1d30563-a6c3-48b2-8e1a-ee930bfbdf10",
+          "name": "FREE add-ons",
+          "conditions": "You order a bowl of your choice and get 2 free add-ons for free.",
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
@@ -1894,7 +1902,7 @@
       "latitude": 49.47290275492687,
       "longitude": 8.469473317791353,
       "avgRating": 4.8,
-      "ratingsCount": 80,
+      "ratingsCount": 81,
       "reviewsCount": 23,
       "images": [
         "https://assets.neotaste.com/restaurants/80a68bb5-4b9d-4094-bcea-c236b3f566bb/images/99ea506f-b669-4c5b-b43f-e23629a749b8.jpeg",
@@ -2014,7 +2022,7 @@
       "latitude": 49.48521171533379,
       "longitude": 8.465242923989319,
       "avgRating": 4.7,
-      "ratingsCount": 100,
+      "ratingsCount": 101,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotaste.com/restaurants/00db5201-b400-45a5-ad24-84cf21a929e0/images/2df33b84-15bd-4e2d-a6da-aaa82ddc3b9d.jpeg",
@@ -2386,8 +2394,8 @@
       "latitude": 49.49955165771866,
       "longitude": 8.476969374924293,
       "avgRating": 4.8,
-      "ratingsCount": 16,
-      "reviewsCount": 6,
+      "ratingsCount": 17,
+      "reviewsCount": 7,
       "images": [
         "https://assets.neotaste.com/restaurants/3d0dfcb0-8e67-4888-98c8-9915f7fc23c2/images/c41013a0-8932-498b-96e4-79413a3424db.jpeg",
         "https://assets.neotaste.com/restaurants/3d0dfcb0-8e67-4888-98c8-9915f7fc23c2/images/d09df8bf-494e-43cf-af62-6a12a0db12bf.jpeg",
@@ -2838,7 +2846,7 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.6,
-      "ratingsCount": 72,
+      "ratingsCount": 73,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
