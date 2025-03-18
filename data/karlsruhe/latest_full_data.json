@@ -1,5 +1,57 @@
 [
   {
+    "uuid": "6b36d5ea-aa4a-4673-945b-c38374514f39",
+    "name": "Dunkin' Karlsruhe ETK",
+    "slug": "dunkin-karlsruhe-etk",
+    "address": "Karl-Friedrich-Straße 26",
+    "addressOptional": null,
+    "zipCode": "76133",
+    "latitude": 49.00726853019443,
+    "longitude": 8.401699573961436,
+    "deals": [
+      {
+        "uuid": "63375d79-4ab1-4617-904d-f283f4f40214",
+        "name": "🌟 €1 Donut 🌟",
+        "conditions": "🍩 €1 Donuts with thisisyules! 🍩\nOrder a standard Donut of your choice & pay only €1!\n\n⚠️ Important: The deal is only valid for standard Donuts. Special Donuts such as the \"CronuDD\" are excluded from the deal.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 365,
+        "status": "available"
+      },
+      {
+        "uuid": "0eed352c-c019-4175-8c36-08dc9f5a2970",
+        "name": "2for1 Donut + Hot Drink",
+        "conditions": "Order 2 donuts and 2 medium hot drinks of your choice, the cheaper/equivalent product will not be charged.",
+        "locationCondition": "onSite",
+        "value": 9,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "event-deal",
+        "name": "Event Deal"
+      }
+    ],
+    "avgRating": 4.6,
+    "ratingsCount": 71,
+    "reviewsCount": 9,
+    "images": [
+      "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/4dc0a1b3-e417-45c6-89ab-f43f47672b58.jpeg",
+      "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/ee0d4d13-15c1-46e5-a4ca-a1e8ae0cf26c.jpeg"
+    ],
+    "priceRange": 1
+  },
+  {
     "uuid": "a3a55347-0bff-4b5b-9fa1-b9319f9336a1",
     "name": "MAPA",
     "slug": "mapa",
@@ -306,7 +358,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1118,
+    "ratingsCount": 1123,
     "reviewsCount": 209,
     "images": [
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
@@ -407,7 +459,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 158,
+    "ratingsCount": 159,
     "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/79df01de-a7e9-4dde-92f9-70be7678017d.jpeg",
@@ -488,21 +540,21 @@
     "longitude": 8.37443173511256,
     "deals": [
       {
-        "uuid": "6a6219b9-63c0-41f0-9d38-b9f5cf1f1855",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "uuid": "e78381eb-cdce-476c-7c20-08dc6925f91a",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
+        "value": 15,
+        "daysToReset": 30,
         "status": "available"
       },
       {
-        "uuid": "4f7aeb3c-130e-4b0d-8b24-f698b14d8b48",
-        "name": "FREE Add-Ons",
-        "conditions": "You order a bowl of your choice and get 2  add-ons for free.",
+        "uuid": "8d2245e3-9935-4b93-7c21-08dc6925f91a",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
         "locationCondition": "onSite",
         "value": 4,
-        "daysToReset": 90,
+        "daysToReset": 30,
         "status": "available"
       }
     ],
@@ -1701,58 +1753,6 @@
     "priceRange": 1
   },
   {
-    "uuid": "6b36d5ea-aa4a-4673-945b-c38374514f39",
-    "name": "Dunkin' Karlsruhe ETK",
-    "slug": "dunkin-karlsruhe-etk",
-    "address": "Karl-Friedrich-Straße 26",
-    "addressOptional": null,
-    "zipCode": "76133",
-    "latitude": 49.00726853019443,
-    "longitude": 8.401699573961436,
-    "deals": [
-      {
-        "uuid": "63375d79-4ab1-4617-904d-f283f4f40214",
-        "name": "🌟 €1 Donut 🌟",
-        "conditions": "🍩 €1 Donuts with thisisyules! 🍩\nOrder a standard Donut of your choice & pay only €1!\n\n⚠️ Important: The deal is only valid for standard Donuts. Special Donuts such as the \"CronuDD\" are excluded from the deal.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 365,
-        "status": "available"
-      },
-      {
-        "uuid": "0eed352c-c019-4175-8c36-08dc9f5a2970",
-        "name": "2for1 Donut + Hot Drink",
-        "conditions": "Order 2 donuts and 2 medium hot drinks of your choice, the cheaper/equivalent product will not be charged.",
-        "locationCondition": "onSite",
-        "value": 9,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "event-deal",
-        "name": "Event Deal"
-      }
-    ],
-    "avgRating": 4.6,
-    "ratingsCount": 70,
-    "reviewsCount": 9,
-    "images": [
-      "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/4dc0a1b3-e417-45c6-89ab-f43f47672b58.jpeg",
-      "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/ee0d4d13-15c1-46e5-a4ca-a1e8ae0cf26c.jpeg"
-    ],
-    "priceRange": 1
-  },
-  {
     "uuid": "50785008-dbe9-4308-8e97-29a107fc20bb",
     "name": "Café mit Flair",
     "slug": "cafe-mit-flair",
@@ -2787,8 +2787,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 208,
-    "reviewsCount": 108,
+    "ratingsCount": 211,
+    "reviewsCount": 111,
     "images": [
       "https://assets.neotaste.com/restaurants/5acd30fd-7833-4216-84fa-2c1e7af1d144/images/b2311540-1e82-4ba1-8210-b24464acd6e4.jpeg",
       "https://assets.neotaste.com/restaurants/5acd30fd-7833-4216-84fa-2c1e7af1d144/images/0f37e791-aef5-415c-9939-4a7bdb9f03d7.jpeg",
@@ -3152,55 +3152,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "092b772a-0755-4e10-8a35-27d14e0be70b",
-    "name": "Lángosland",
-    "slug": "langosland-kaiserstrasse-217",
-    "address": "Kaiserstraße 217",
-    "addressOptional": null,
-    "zipCode": "76133",
-    "latitude": 49.0095044,
-    "longitude": 8.394166100000001,
-    "deals": [
-      {
-        "uuid": "890e5569-7f3d-47f4-bac0-b5631fcdc86d",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "c98b52c5-e160-4a88-9b1a-10de07c9dcb1",
-        "name": "FREE Drink",
-        "conditions": "Order a main course of your choice and receive a free non-alcoholic drink.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 3,
-    "reviewsCount": 1,
-    "images": [
-      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/0246a5ea-66be-4e76-bc71-5692b956d3ee.png",
-      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/c26ce9bf-8190-47d3-b653-a435f18aeba7.png",
-      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/0fc9259f-2488-4fd4-8ebe-c30686bacb72.png"
-    ],
-    "priceRange": 1
-  },
-  {
     "uuid": "0118eb4d-288a-4949-9afc-4b3eb8b16722",
     "name": "Moser, coffee & wine",
     "slug": "moser-coffee-wine",
@@ -3275,5 +3226,54 @@
       "https://assets.neotaste.com/restaurants/0118eb4d-288a-4949-9afc-4b3eb8b16722/images/38eea7bc-1178-4208-806d-2dd07aec0e3d.jpeg"
     ],
     "priceRange": 2
+  },
+  {
+    "uuid": "092b772a-0755-4e10-8a35-27d14e0be70b",
+    "name": "Lángosland",
+    "slug": "langosland-kaiserstrasse-217",
+    "address": "Kaiserstraße 217",
+    "addressOptional": null,
+    "zipCode": "76133",
+    "latitude": 49.0095044,
+    "longitude": 8.394166100000001,
+    "deals": [
+      {
+        "uuid": "890e5569-7f3d-47f4-bac0-b5631fcdc86d",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "c98b52c5-e160-4a88-9b1a-10de07c9dcb1",
+        "name": "FREE Drink",
+        "conditions": "Order a main course of your choice and receive a free non-alcoholic drink.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      }
+    ],
+    "avgRating": 4.7,
+    "ratingsCount": 3,
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/0246a5ea-66be-4e76-bc71-5692b956d3ee.png",
+      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/c26ce9bf-8190-47d3-b653-a435f18aeba7.png",
+      "https://assets.neotaste.com/restaurants/092b772a-0755-4e10-8a35-27d14e0be70b/images/0fc9259f-2488-4fd4-8ebe-c30686bacb72.png"
+    ],
+    "priceRange": 1
   }
 ]
