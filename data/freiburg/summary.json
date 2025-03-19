@@ -1639,9 +1639,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 96
+    },
+    {
+      "date": "2025-03-19",
+      "total_restaurants": 49,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 98
     }
   ],
-  "last_updated": "2025-03-18",
+  "last_updated": "2025-03-19",
   "restaurants": [
     {
       "name": "Cheers",
@@ -1671,7 +1679,7 @@
       "latitude": 47.99299213685041,
       "longitude": 7.848064668648593,
       "avgRating": 4.7,
-      "ratingsCount": 103,
+      "ratingsCount": 104,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotaste.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/7ea16cd1-13c5-42d0-90d2-c3f3e86dc534.jpeg",
@@ -1828,8 +1836,8 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.7,
-      "ratingsCount": 503,
-      "reviewsCount": 114,
+      "ratingsCount": 505,
+      "reviewsCount": 115,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
@@ -1907,7 +1915,7 @@
       "latitude": 47.99414363899047,
       "longitude": 7.848129837891096,
       "avgRating": 4.8,
-      "ratingsCount": 584,
+      "ratingsCount": 586,
       "reviewsCount": 111,
       "images": [
         "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
@@ -1946,8 +1954,8 @@
       "latitude": 47.99784479394619,
       "longitude": 7.850253947282228,
       "avgRating": 4.9,
-      "ratingsCount": 474,
-      "reviewsCount": 92,
+      "ratingsCount": 476,
+      "reviewsCount": 94,
       "images": [
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/add0033f-1b91-4cd9-83b7-87ef02de4a41.jpeg",
@@ -2101,7 +2109,7 @@
       "latitude": 47.99460375823909,
       "longitude": 7.852621798686205,
       "avgRating": 4.9,
-      "ratingsCount": 110,
+      "ratingsCount": 111,
       "reviewsCount": 9,
       "images": [
         "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
@@ -2216,7 +2224,7 @@
       "latitude": 47.9956201,
       "longitude": 7.8489425,
       "avgRating": 4.9,
-      "ratingsCount": 78,
+      "ratingsCount": 79,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/195f184c-ea16-4541-ba93-5948b941bbb7/images/d21b4034-a03e-47d2-8cff-2c47e19541d7.jpg",
@@ -2409,7 +2417,7 @@
       "latitude": 47.99495089704629,
       "longitude": 7.849199581840606,
       "avgRating": 4.8,
-      "ratingsCount": 159,
+      "ratingsCount": 160,
       "reviewsCount": 29,
       "images": [
         "https://assets.neotaste.com/restaurants/186a5fc7-6eda-4145-aaf4-80d0c73aecf8/images/998016f2-a42a-4ae2-bc20-e257c28e5c30.jpeg",
@@ -2489,7 +2497,7 @@
       "latitude": 47.99280651443057,
       "longitude": 7.847862672672846,
       "avgRating": 4.9,
-      "ratingsCount": 205,
+      "ratingsCount": 206,
       "reviewsCount": 23,
       "images": [
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
@@ -2808,6 +2816,49 @@
       "priceRange": 2
     },
     {
+      "name": "Cafe Saray",
+      "uuid": "403c55e0-ff51-489a-9789-820169678b08",
+      "deals": [
+        {
+          "uuid": "ba407252-7242-4d37-f2bb-08dc9cef8877",
+          "name": "2for1 Menemen",
+          "conditions": "Order 2 Menemen of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "2b4f52f5-cce6-4321-f2bc-08dc9cef8877",
+          "name": "2for1 Hot Drink",
+          "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Kaiser-Joseph-Straße 165",
+      "zipCode": "79098",
+      "latitude": 47.99679513636755,
+      "longitude": 7.852860979748056,
+      "avgRating": 4.8,
+      "ratingsCount": 51,
+      "reviewsCount": 7,
+      "images": [
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/2b2ec831-fa60-458a-888e-564e945383ea.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/cff169b5-15f8-4955-a0f9-39122a9de556.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/c83cddd5-e411-47ca-919a-d92d9556516c.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/5a7ef0ba-e5e2-4316-8b60-03f750c80186.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/ab652d0a-a75c-4b96-b27b-4e184233967c.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/9d56ea2c-e224-4076-9e08-4ee56b47f2b7.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/352bb351-2963-468d-9691-638a305c327c.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/17331c04-d7c4-4b61-ba4a-dd1cbd2caafc.jpeg",
+        "https://assets.neotaste.com/restaurants/4e9b1cd8-21eb-4e43-9992-04820b7f3ffc/images/e44cdcfb-b894-4b94-8958-8bbf345d87b0.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
       "name": "Vivave - Frische Kiosk am Campus",
       "uuid": "dd6c552d-8082-4a2d-8056-c6b12f2559da",
       "deals": [
@@ -3022,7 +3073,7 @@
       "latitude": 47.99095576933959,
       "longitude": 7.845515258148958,
       "avgRating": 4.8,
-      "ratingsCount": 29,
+      "ratingsCount": 30,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotaste.com/restaurants/ae4cef22-f708-4df2-8f7a-31850eb2e4f6/images/bd9bc549-1022-43ca-a1ad-27801e2283d2.jpeg",
@@ -3061,7 +3112,7 @@
       "latitude": 47.992546557769,
       "longitude": 7.852472618930051,
       "avgRating": 4.9,
-      "ratingsCount": 143,
+      "ratingsCount": 144,
       "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/47db98a3-6dce-41ce-a1a1-c580975119c3.jpeg",
@@ -3414,7 +3465,7 @@
       "latitude": 47.98989469999999,
       "longitude": 7.8442949,
       "avgRating": 4.9,
-      "ratingsCount": 207,
+      "ratingsCount": 209,
       "reviewsCount": 40,
       "images": [
         "https://assets.neotaste.com/restaurants/ba9519b6-34f6-4b54-8f5a-140a702253cf/images/45795250-3e94-49f5-8f01-ab104e98e066.jpeg",
