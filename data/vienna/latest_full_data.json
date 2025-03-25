@@ -1,5 +1,453 @@
 [
   {
+    "uuid": "2562fbbd-112c-428e-8434-54a3ace24d00",
+    "name": "VAPIANO Wien Donau Zentrum",
+    "slug": "vapiano-wien-donau-zentrum",
+    "address": "Wagramer Str. 79, Wien",
+    "addressOptional": null,
+    "zipCode": "1220",
+    "latitude": 48.24235805955424,
+    "longitude": 16.43346501627905,
+    "deals": [
+      {
+        "uuid": "838f2a70-0a46-4ab9-a49a-891f3888166e",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 16,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "8766f5a3-a878-4b56-b4e3-4db2a8cc26de",
+        "name": "FREE Homemade Lemonade",
+        "conditions": "You order a main course of your choice and get a homemade lemonade for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "pasta",
+        "name": "Pasta"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 806,
+    "reviewsCount": 99,
+    "images": [
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/56f33bc7-0d93-4a22-a11d-a69399070395.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/b8e8b0d1-a161-4bf6-be55-f10821e522e7.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/d83c0a88-c65b-45e7-89b5-75e5638975d7.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/74006bc8-9d45-4e51-bf81-478b5eab0a5b.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/f95c9c88-c009-49b7-9228-5dcd4d5c8495.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/4206878e-f0b4-408e-83ee-5f9cbbc67e2e.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/70c71a78-ea81-46f4-8f80-aa39d241e887.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/83e5d72f-d222-480b-b4e5-9455446666b6.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/4e38588e-f1fc-4a69-9219-a7ceacaeea0a.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/a3e62c32-63f6-4c5d-a220-e553dffa77e0.jpg",
+      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/67367c47-431c-4163-bd8c-91a839425ad0.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "50a63f76-62e2-447a-8958-30ca041a6167",
+    "name": "Enzo",
+    "slug": "enzo",
+    "address": "Universitätsring 14",
+    "addressOptional": null,
+    "zipCode": "1010",
+    "latitude": 48.21347795956346,
+    "longitude": 16.36227535392747,
+    "deals": [
+      {
+        "uuid": "0097a0b4-28df-4092-b582-45351cc8ae71",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "e73dae9e-86c9-4877-7fbf-08dcb16127eb",
+        "name": "2for1 Spritz",
+        "conditions": "You order 2 Spritz' of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 936,
+    "reviewsCount": 111,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/6febfb1d-a179-4650-a536-8b06b91d7999.jpeg",
+      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/8e64b5d6-eb8b-47d5-8120-487d58936384.jpg",
+      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/e8f0777a-b14a-472a-ba62-ea63a4ef52cc.jpg",
+      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/e768dd61-9b2d-4fc1-a141-2046aa6fbd22.jpeg",
+      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/ffa25f0d-a08f-4a58-8a06-340f9f5a2827.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "4cff5046-8d40-4acf-aa4c-d99eb140b8ac",
+    "name": "Ramen Makotoya MAHÜ",
+    "slug": "ramen-makotoya-mahue",
+    "address": "Schottenfeldgasse 6",
+    "addressOptional": null,
+    "zipCode": "1070",
+    "latitude": 48.19748329845659,
+    "longitude": 16.34406685739815,
+    "deals": [
+      {
+        "uuid": "c9632420-b951-410e-a60b-6b93f7586171",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "7a19f6df-c876-402e-999c-2f205b8894ee",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "asian",
+        "name": "Asian"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 1101,
+    "reviewsCount": 200,
+    "images": [
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/b5f837cd-8570-4160-88dd-359f6cc6795b.jpg",
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/78f787f3-7349-465b-b8a7-114242293b78.jpg",
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/dbd1c944-fa93-4b7f-ae70-dfd4c7017fd7.jpeg",
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/49b7b1e0-b9b8-4de2-a16a-08b1fed01d74.jpeg",
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/a536b17e-c996-466e-a196-822a49a4f4be.jpeg",
+      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/48903021-d5c6-4586-b8e7-bd4f7d3aea52.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "5b323c4a-f5dc-4053-b054-62019f2be71b",
+    "name": "Shiso Burger 1060",
+    "slug": "shiso-burger-wien",
+    "address": "Theobaldgasse 19",
+    "addressOptional": null,
+    "zipCode": "1060",
+    "latitude": 48.20051376243557,
+    "longitude": 16.35858723326605,
+    "deals": [
+      {
+        "uuid": "9f926e3b-c1a5-428d-b11c-08dcac97c442",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €25, you will receive a €10 discount on your invoice. Cannot be combined with other offers. This deal must be shown before ordering. Only one deal redemption per table valid.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "0e77ea53-7552-46e4-b11d-08dcac97c442",
+        "name": "FREE Homemade Lemonade",
+        "conditions": "You order a main course of your choice and get a homemade lemonade for free. This deal must be shown before ordering. Only one deal redemption per table valid. ",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 390,
+    "reviewsCount": 86,
+    "images": [
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/d82e4aa7-5472-48ed-aba1-ddb5c504f419.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/03bddeb3-bea0-4a41-9827-5a92de800285.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/5df4c55c-961e-40a0-acfd-4c35eb1620b9.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/dfa13d4f-4339-47c9-8bc4-920289db114e.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/35e4f4ed-8b90-4b9a-8da5-e062b53bb741.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/c7537ff1-1521-4b2b-993a-440991ec837c.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/6f7283ed-2681-464f-9e68-9b77e3c1f9ea.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/01e002dd-27ab-484a-b94a-5329b5358a21.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/6911ca98-1dfc-496b-9bb8-6ed59d7f00d6.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/e2ed3188-5d85-4185-b1e7-54d0bae56e39.jpeg",
+      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/d22676d7-c37b-4646-9b9e-fa4e139f8dee.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "8ce408c5-ef0f-46ce-a62f-a439c01e96b7",
+    "name": "SiL - coffee breakfast & more",
+    "slug": "sil-coffee-breakfast-more",
+    "address": "Babenbergerstraße 5",
+    "addressOptional": null,
+    "zipCode": "1010",
+    "latitude": 48.20319885224645,
+    "longitude": 16.36288217731576,
+    "deals": [
+      {
+        "uuid": "1895e116-35e8-442e-98f2-08dcab1053e7",
+        "name": "2for1 Main Course",
+        "conditions": "Order 2 main courses of your choice, the cheaper/equivalent one will not be charged. Not valid on public holidays.",
+        "locationCondition": "onSite",
+        "value": 18,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "b3d012b5-d639-479b-98f3-08dcab1053e7",
+        "name": "FREE Homemade Lemonade or Ice Tea",
+        "conditions": "Order a main course of your choice and get a free homemade lemonade or Ice Tea. Not valid on public holidays.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 412,
+    "reviewsCount": 83,
+    "images": [
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/1fb61b21-9158-4738-80f1-1920c193834d.jpg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/c176840b-d2db-418c-b25e-57d22443e488.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/3a21ecf5-16f9-4b5a-8c02-9a67c43642a0.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/bf40f134-40cb-4cd0-bed9-2b8504a86c99.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/5b519225-7174-48cc-a074-f37919022a83.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/3114ec5c-df11-4743-9b89-81107a867240.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/b6a48206-5db0-45a2-848a-b7cff3e9418c.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/8502956f-f75a-430b-b49f-c5ec2d3a9648.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/80bf044c-6941-4777-973a-9bf593ddcefd.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/2554bc07-e3ab-44a3-9d88-fb8ae42010a1.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/6ddd2f0e-a4ad-43e3-a21c-0f964177c9b6.jpeg",
+      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/40cb21dd-97fb-41ce-a4d6-21a435ea1de1.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "6d242b13-85cc-4089-9fab-7c08340a9e86",
+    "name": "Ramen Makotoya RATHAUS",
+    "slug": "ramen-makotoya-rathaus",
+    "address": "Reichsratsstraße 11",
+    "addressOptional": null,
+    "zipCode": "1010 Wien",
+    "latitude": 48.21285855075646,
+    "longitude": 16.35860998371256,
+    "deals": [
+      {
+        "uuid": "4410f439-1230-48c8-94e5-6f13c928df77",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "42b17725-0fb1-4d69-a3c8-cb27b988c026",
+        "name": "FREE Drink",
+        "conditions": "You order a main course of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "asian",
+        "name": "Asian"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 2180,
+    "reviewsCount": 437,
+    "images": [
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/7103faef-1733-4c95-988f-faa6370c0382.jpg",
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/4f0c1afd-7257-4606-8d42-ebea799287f0.jpg",
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/8f7faca8-e08d-4c15-bb00-7734b901f226.jpg",
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/a659da84-7e2e-457a-b5dd-f1f64c727a52.jpg",
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/9f147323-38b2-4f6d-93af-0e012cf56738.jpg",
+      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/6205d0ca-55cf-4b30-9729-8072cce836eb.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "0e05cd8e-f7e9-48f5-98a8-c316e815cbdb",
+    "name": "JOMA",
+    "slug": "joma",
+    "address": "Hoher Markt 10",
+    "addressOptional": null,
+    "zipCode": "1010",
+    "latitude": 48.21090622165812,
+    "longitude": 16.37332836268137,
+    "deals": [
+      {
+        "uuid": "a0e40925-47fd-4e52-0576-08dcafb3a98e",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 20,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "3d94d96f-c52e-4bdf-0577-08dcafb3a98e",
+        "name": "FREE Aperitif",
+        "conditions": "You order a main course of your choice and get an aperitif for free.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 272,
+    "reviewsCount": 40,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/e6c087f2-b86f-43b0-94c4-eaebf81ecd4d.jpeg",
+      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/b4779be6-925c-42c4-b99b-2f42d3470706.jpeg",
+      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/f58f592c-52ab-49db-9e9e-aea2613e70c3.jpeg",
+      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/d3d3b5ce-7d3b-42c2-b6a9-029041da9017.jpeg"
+    ],
+    "priceRange": 3
+  },
+  {
+    "uuid": "7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6",
+    "name": "Fat Monk - Biz Zwei",
+    "slug": "fat-monk-biz-zwei",
+    "address": "Vorgartenstraße 206",
+    "addressOptional": null,
+    "zipCode": "1020",
+    "latitude": 48.21349479873911,
+    "longitude": 16.41587460090931,
+    "deals": [
+      {
+        "uuid": "41215315-17e5-49fe-a8e2-4ac0d1da58f5",
+        "name": "€10 Discount",
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "aa8faeb4-c1d8-4714-a18a-d50d083418b0",
+        "name": "FREE Cookie ",
+        "conditions": "You order a big bowl of your choice and get a cookie for free.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 144,
+    "reviewsCount": 16,
+    "images": [
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/adbe1222-038e-4ab2-a008-5dafc65a5d7d.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/4735e79f-a34a-44c6-be9c-a4558173d69d.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/e30e45bc-d3a0-4f15-ac8a-03f9cf1a75f1.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/ea9ab0cc-2981-4e57-9032-df80e544c20d.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/49cf1e81-2d6b-462a-944d-38d23bcc32be.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/d8a8379a-0fa4-4cce-8baf-f49e6853e5cf.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/63990030-1a6f-459d-a808-b0044d86edac.png",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/f0559ccf-7f1b-4c7a-998d-ac1547508997.jpg",
+      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/8112f1af-3e66-4463-b449-b9be9a207081.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "7cc995ed-ed13-443a-9ff7-1bb6a48a2b62",
     "name": "PETER PANE Burgergrill & Bar",
     "slug": "peter-pane-burgergrill-bar-mariahilfer-strasse-127",
@@ -39,8 +487,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1280,
-    "reviewsCount": 246,
+    "ratingsCount": 1285,
+    "reviewsCount": 249,
     "images": [
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/93414849-2b9d-46f9-b656-88774bfa02c9.jpeg",
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/bb262f57-4f3c-43b9-aedd-9c72109c118e.jpeg",
@@ -50,6 +498,56 @@
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/24764996-8d22-4082-a78f-a1f2dc4c567d.jpeg",
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/b5d83800-f09e-4b7f-8338-324156eda16e.jpeg",
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/07c0f9b8-d047-4eb5-b97b-1ca715907d92.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "a73c8221-72c8-4028-86ae-cba943c69981",
+    "name": "Zushi Market Plus",
+    "slug": "zushi-market-plus-schottengasse",
+    "address": "Schottengasse 9",
+    "addressOptional": null,
+    "zipCode": "1010",
+    "latitude": 48.21320345060953,
+    "longitude": 16.3628381049878,
+    "deals": [
+      {
+        "uuid": "ea27cd4b-cd46-46a8-8939-21550e6781a7",
+        "name": "2for1 Bowl (M)",
+        "conditions": "You order 2 bowls (M) of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 9,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "606d052d-5915-4b58-8ac9-d3b05c933347",
+        "name": "FREE Soft Drink",
+        "conditions": "You order a bowl of your choice and get a soft drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "asian",
+        "name": "Asian"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 1435,
+    "reviewsCount": 200,
+    "images": [
+      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/28c004fe-0b4e-401e-9eb8-4842995ce223.jpg",
+      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/3fa7c661-345d-4e12-966d-2fb9301a4181.jpg",
+      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/9a4d5a0d-4177-4258-aad9-795ea938d23b.jpg",
+      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/29e94467-b604-4094-bbb9-7ac5066654d8.jpg"
     ],
     "priceRange": 2
   },
@@ -102,54 +600,6 @@
     "images": [
       "https://assets.neotaste.com/restaurants/ce35ef21-81d4-476b-810f-e1f328e4069f/images/842150e2-9871-4e6f-aa79-02db95987d7e.png",
       "https://assets.neotaste.com/restaurants/ce35ef21-81d4-476b-810f-e1f328e4069f/images/016596f7-fed4-4539-815b-9e518533ec57.png"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c",
-    "name": "DUNKIN’ MILLENNIUM CITY",
-    "slug": "dunkin-millennium-city",
-    "address": "Handelskai 94-96, 1. OG",
-    "addressOptional": null,
-    "zipCode": "1200",
-    "latitude": 48.24072066189455,
-    "longitude": 16.3866252902973,
-    "deals": [
-      {
-        "uuid": "f6f64816-79ed-4770-a3df-96be6edc3746",
-        "name": "2for1 Dunkin' Donut",
-        "conditions": "Order 2 Dunkin' Donuts of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "e08a0e32-d63d-452d-97fb-3b32db5e9dbf",
-        "name": "2for1 Dunkin' Drink",
-        "conditions": "Order 2 Dunkin' Drinks of your choice, the cheaper/equivalently priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 60,
-    "reviewsCount": 18,
-    "images": [
-      "https://assets.neotaste.com/restaurants/de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c/images/23fa51ef-663c-4c25-a37f-194c442be3be.png",
-      "https://assets.neotaste.com/restaurants/de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c/images/179f94d8-8680-40bf-b274-d46a745a1d12.png"
     ],
     "priceRange": 2
   },
@@ -210,54 +660,57 @@
     "priceRange": 2
   },
   {
-    "uuid": "0bbef8ec-a3c3-469b-a31d-ec207c9576f5",
-    "name": "Dunkin' G3",
-    "slug": "dunkin-g3",
-    "address": "G3 Platz 1,  Gerasdorf bei Wien, Austria",
+    "uuid": "fcfdac8b-563f-4421-8a06-03d86200acd2",
+    "name": "shin taiwanese eatery",
+    "slug": "shin-taiwanese-eatery",
+    "address": "Praterstraße 22",
     "addressOptional": null,
-    "zipCode": "2201",
-    "latitude": 48.34291143205294,
-    "longitude": 16.46246275454957,
+    "zipCode": "1020",
+    "latitude": 48.21405982101841,
+    "longitude": 16.38446390106544,
     "deals": [
       {
-        "uuid": "e6beecff-3d57-43ef-821f-4749edf0ae2e",
-        "name": "2for1 Dunkin' Donut",
-        "conditions": "You order 2 Dunkin' Donuts of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "f8bf1f90-f0a0-4c1d-b126-08dcac97c442",
+        "name": "2for1 Main Course",
+        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 30,
+        "value": 15,
+        "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "afecaa8f-f2bc-420b-92af-b4c03a6437ae",
-        "name": "2for1 Dunkin' Drink",
-        "conditions": "Order 2 Dunkin' Drinks of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "49275b51-286f-4b4d-b127-08dcac97c442",
+        "name": "2for1 Lemonade, Spritz or Cocktail",
+        "conditions": "You order 2 lemonades, spritzes or cocktails of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 30,
+        "value": 10,
+        "daysToReset": 90,
         "status": "available"
       }
     ],
     "tags": [
       {
-        "slug": "dessert",
-        "name": "Dessert"
+        "slug": "meat",
+        "name": "Meat"
       },
       {
-        "slug": "cafe",
-        "name": "Café"
+        "slug": "asian",
+        "name": "Asian"
       },
       {
-        "slug": "cake",
-        "name": "Cake"
+        "slug": "drinks",
+        "name": "Drinks"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 4,
-    "reviewsCount": 1,
+    "avgRating": 4.9,
+    "ratingsCount": 839,
+    "reviewsCount": 138,
     "images": [
-      "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/810b8a98-4303-492c-9deb-a5a2758fca73.png",
-      "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/e67ad095-89a0-4bdf-b53c-292697cf3955.png"
+      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/33601f81-5128-4633-8a00-5428b0b4c6dd.jpeg",
+      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/7cb1b7b0-dc89-46bd-96a3-ad62a8539aa5.jpeg",
+      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/1ec09f8b-8d90-4a38-a765-625b90b3c0b4.jpeg",
+      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/5c434fe9-89f2-43c8-bae6-0b8538b540af.jpeg",
+      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/f5bd5775-b9d6-41e8-878a-8d8460bfbd67.jpeg"
     ],
     "priceRange": 2
   },
@@ -304,67 +757,12 @@
         "name": "Cake"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 59,
+    "avgRating": 5,
+    "ratingsCount": 61,
     "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/fd7c383f-5472-45b3-9a88-4aeb12813df5/images/399f537f-1d64-49f3-8cde-61d00efe8829.png",
       "https://assets.neotaste.com/restaurants/fd7c383f-5472-45b3-9a88-4aeb12813df5/images/af46245d-5d3b-4f29-95bc-4110e5cf72de.png"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "50a63f76-62e2-447a-8958-30ca041a6167",
-    "name": "Enzo",
-    "slug": "enzo",
-    "address": "Universitätsring 14",
-    "addressOptional": null,
-    "zipCode": "1010",
-    "latitude": 48.21347795956346,
-    "longitude": 16.36227535392747,
-    "deals": [
-      {
-        "uuid": "0097a0b4-28df-4092-b582-45351cc8ae71",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "e73dae9e-86c9-4877-7fbf-08dcb16127eb",
-        "name": "2for1 Spritz",
-        "conditions": "You order 2 Spritz' of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
-        "slug": "pasta",
-        "name": "Pasta"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 934,
-    "reviewsCount": 111,
-    "images": [
-      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/6febfb1d-a179-4650-a536-8b06b91d7999.jpeg",
-      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/8e64b5d6-eb8b-47d5-8120-487d58936384.jpg",
-      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/e8f0777a-b14a-472a-ba62-ea63a4ef52cc.jpg",
-      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/e768dd61-9b2d-4fc1-a141-2046aa6fbd22.jpeg",
-      "https://assets.neotaste.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/ffa25f0d-a08f-4a58-8a06-340f9f5a2827.jpg"
     ],
     "priceRange": 2
   },
@@ -408,8 +806,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 457,
-    "reviewsCount": 85,
+    "ratingsCount": 458,
+    "reviewsCount": 86,
     "images": [
       "https://assets.neotaste.com/restaurants/7ab560ed-4a2c-4f44-b810-ea3b3fc95c49/images/ad58cae8-5655-4ab5-b489-2938fbe6e819.jpg",
       "https://assets.neotaste.com/restaurants/7ab560ed-4a2c-4f44-b810-ea3b3fc95c49/images/0c954091-7c7e-4e0b-b0b8-ec01c7e81324.jpeg",
@@ -423,177 +821,6 @@
       "https://assets.neotaste.com/restaurants/7ab560ed-4a2c-4f44-b810-ea3b3fc95c49/images/42889aa2-ab10-404d-8cae-bb760a0b4444.jpeg"
     ],
     "priceRange": 1
-  },
-  {
-    "uuid": "4cff5046-8d40-4acf-aa4c-d99eb140b8ac",
-    "name": "Ramen Makotoya MAHÜ",
-    "slug": "ramen-makotoya-mahue",
-    "address": "Schottenfeldgasse 6",
-    "addressOptional": null,
-    "zipCode": "1070",
-    "latitude": 48.19748329845659,
-    "longitude": 16.34406685739815,
-    "deals": [
-      {
-        "uuid": "c9632420-b951-410e-a60b-6b93f7586171",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "7a19f6df-c876-402e-999c-2f205b8894ee",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 1100,
-    "reviewsCount": 199,
-    "images": [
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/b5f837cd-8570-4160-88dd-359f6cc6795b.jpg",
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/78f787f3-7349-465b-b8a7-114242293b78.jpg",
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/dbd1c944-fa93-4b7f-ae70-dfd4c7017fd7.jpeg",
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/49b7b1e0-b9b8-4de2-a16a-08b1fed01d74.jpeg",
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/a536b17e-c996-466e-a196-822a49a4f4be.jpeg",
-      "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/48903021-d5c6-4586-b8e7-bd4f7d3aea52.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "8ce408c5-ef0f-46ce-a62f-a439c01e96b7",
-    "name": "SiL - coffee breakfast & more",
-    "slug": "sil-coffee-breakfast-more",
-    "address": "Babenbergerstraße 5",
-    "addressOptional": null,
-    "zipCode": "1010",
-    "latitude": 48.20319885224645,
-    "longitude": 16.36288217731576,
-    "deals": [
-      {
-        "uuid": "1895e116-35e8-442e-98f2-08dcab1053e7",
-        "name": "2for1 Main Course",
-        "conditions": "Order 2 main courses of your choice, the cheaper/equivalent one will not be charged. Not valid on public holidays.",
-        "locationCondition": "onSite",
-        "value": 18,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "b3d012b5-d639-479b-98f3-08dcab1053e7",
-        "name": "FREE Homemade Lemonade or Ice Tea",
-        "conditions": "Order a main course of your choice and get a free homemade lemonade or Ice Tea. Not valid on public holidays.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 404,
-    "reviewsCount": 81,
-    "images": [
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/1fb61b21-9158-4738-80f1-1920c193834d.jpg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/c176840b-d2db-418c-b25e-57d22443e488.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/3a21ecf5-16f9-4b5a-8c02-9a67c43642a0.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/bf40f134-40cb-4cd0-bed9-2b8504a86c99.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/5b519225-7174-48cc-a074-f37919022a83.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/3114ec5c-df11-4743-9b89-81107a867240.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/b6a48206-5db0-45a2-848a-b7cff3e9418c.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/8502956f-f75a-430b-b49f-c5ec2d3a9648.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/80bf044c-6941-4777-973a-9bf593ddcefd.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/2554bc07-e3ab-44a3-9d88-fb8ae42010a1.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/6ddd2f0e-a4ad-43e3-a21c-0f964177c9b6.jpeg",
-      "https://assets.neotaste.com/restaurants/b472381d-2d97-474e-8860-c0641acc06fa/images/40cb21dd-97fb-41ce-a4d6-21a435ea1de1.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "5b323c4a-f5dc-4053-b054-62019f2be71b",
-    "name": "Shiso Burger 1060",
-    "slug": "shiso-burger-wien",
-    "address": "Theobaldgasse 19",
-    "addressOptional": null,
-    "zipCode": "1060",
-    "latitude": 48.20051376243557,
-    "longitude": 16.35858723326605,
-    "deals": [
-      {
-        "uuid": "9f926e3b-c1a5-428d-b11c-08dcac97c442",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25, you will receive a €10 discount on your invoice. Cannot be combined with other offers. This deal must be shown before ordering. Only one deal redemption per table valid.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "0e77ea53-7552-46e4-b11d-08dcac97c442",
-        "name": "FREE Homemade Lemonade",
-        "conditions": "You order a main course of your choice and get a homemade lemonade for free. This deal must be shown before ordering. Only one deal redemption per table valid. ",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "asian",
-        "name": "Asian"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 389,
-    "reviewsCount": 86,
-    "images": [
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/d82e4aa7-5472-48ed-aba1-ddb5c504f419.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/03bddeb3-bea0-4a41-9827-5a92de800285.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/5df4c55c-961e-40a0-acfd-4c35eb1620b9.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/dfa13d4f-4339-47c9-8bc4-920289db114e.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/35e4f4ed-8b90-4b9a-8da5-e062b53bb741.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/c7537ff1-1521-4b2b-993a-440991ec837c.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/6f7283ed-2681-464f-9e68-9b77e3c1f9ea.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/01e002dd-27ab-484a-b94a-5329b5358a21.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/6911ca98-1dfc-496b-9bb8-6ed59d7f00d6.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/e2ed3188-5d85-4185-b1e7-54d0bae56e39.jpeg",
-      "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/d22676d7-c37b-4646-9b9e-fa4e139f8dee.jpeg"
-    ],
-    "priceRange": 2
   },
   {
     "uuid": "de317f12-2f8f-47bc-93c4-4f19ce6e5c49",
@@ -682,7 +909,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 442,
+    "ratingsCount": 444,
     "reviewsCount": 87,
     "images": [
       "https://assets.neotaste.com/restaurants/02194c07-dab7-4ba3-a9ad-bec99d130f75/images/42ecb867-26d4-4190-862d-19391722f2e3.jpeg",
@@ -745,222 +972,6 @@
       "https://assets.neotaste.com/restaurants/9cbdccbb-8b02-45f5-ba05-566abf66fb32/images/d4e82b93-8639-4b14-90cb-3d9ae0270155.jpeg",
       "https://assets.neotaste.com/restaurants/9cbdccbb-8b02-45f5-ba05-566abf66fb32/images/2dd6182c-8469-44ff-91d0-e62e33866eb0.jpeg",
       "https://assets.neotaste.com/restaurants/9cbdccbb-8b02-45f5-ba05-566abf66fb32/images/60bfc1d5-55ae-410e-ab86-ae4f4e59c521.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6",
-    "name": "Fat Monk - Biz Zwei",
-    "slug": "fat-monk-biz-zwei",
-    "address": "Vorgartenstraße 206",
-    "addressOptional": null,
-    "zipCode": "1020",
-    "latitude": 48.21349479873911,
-    "longitude": 16.41587460090931,
-    "deals": [
-      {
-        "uuid": "41215315-17e5-49fe-a8e2-4ac0d1da58f5",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "aa8faeb4-c1d8-4714-a18a-d50d083418b0",
-        "name": "FREE Cookie ",
-        "conditions": "You order a big bowl of your choice and get a cookie for free.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 143,
-    "reviewsCount": 15,
-    "images": [
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/adbe1222-038e-4ab2-a008-5dafc65a5d7d.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/4735e79f-a34a-44c6-be9c-a4558173d69d.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/e30e45bc-d3a0-4f15-ac8a-03f9cf1a75f1.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/ea9ab0cc-2981-4e57-9032-df80e544c20d.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/49cf1e81-2d6b-462a-944d-38d23bcc32be.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/d8a8379a-0fa4-4cce-8baf-f49e6853e5cf.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/63990030-1a6f-459d-a808-b0044d86edac.png",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/f0559ccf-7f1b-4c7a-998d-ac1547508997.jpg",
-      "https://assets.neotaste.com/restaurants/7a0eee7d-4565-4f20-b6d8-d8a3800c2ca6/images/8112f1af-3e66-4463-b449-b9be9a207081.jpg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "fcfdac8b-563f-4421-8a06-03d86200acd2",
-    "name": "shin taiwanese eatery",
-    "slug": "shin-taiwanese-eatery",
-    "address": "Praterstraße 22",
-    "addressOptional": null,
-    "zipCode": "1020",
-    "latitude": 48.21405982101841,
-    "longitude": 16.38446390106544,
-    "deals": [
-      {
-        "uuid": "f8bf1f90-f0a0-4c1d-b126-08dcac97c442",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "49275b51-286f-4b4d-b127-08dcac97c442",
-        "name": "2for1 Lemonade, Spritz or Cocktail",
-        "conditions": "You order 2 lemonades, spritzes or cocktails of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 835,
-    "reviewsCount": 138,
-    "images": [
-      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/33601f81-5128-4633-8a00-5428b0b4c6dd.jpeg",
-      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/7cb1b7b0-dc89-46bd-96a3-ad62a8539aa5.jpeg",
-      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/1ec09f8b-8d90-4a38-a765-625b90b3c0b4.jpeg",
-      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/5c434fe9-89f2-43c8-bae6-0b8538b540af.jpeg",
-      "https://assets.neotaste.com/restaurants/45d4c8c3-4c29-4107-98d1-cdfe9151e1af/images/f5bd5775-b9d6-41e8-878a-8d8460bfbd67.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "0e05cd8e-f7e9-48f5-98a8-c316e815cbdb",
-    "name": "JOMA",
-    "slug": "joma",
-    "address": "Hoher Markt 10",
-    "addressOptional": null,
-    "zipCode": "1010",
-    "latitude": 48.21090622165812,
-    "longitude": 16.37332836268137,
-    "deals": [
-      {
-        "uuid": "a0e40925-47fd-4e52-0576-08dcafb3a98e",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 20,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "3d94d96f-c52e-4bdf-0577-08dcafb3a98e",
-        "name": "FREE Aperitif",
-        "conditions": "You order a main course of your choice and get an aperitif for free.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 272,
-    "reviewsCount": 40,
-    "images": [
-      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/e6c087f2-b86f-43b0-94c4-eaebf81ecd4d.jpeg",
-      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/b4779be6-925c-42c4-b99b-2f42d3470706.jpeg",
-      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/f58f592c-52ab-49db-9e9e-aea2613e70c3.jpeg",
-      "https://assets.neotaste.com/restaurants/d852b77e-b22f-4a64-ad35-a1a738f3651d/images/d3d3b5ce-7d3b-42c2-b6a9-029041da9017.jpeg"
-    ],
-    "priceRange": 3
-  },
-  {
-    "uuid": "6d242b13-85cc-4089-9fab-7c08340a9e86",
-    "name": "Ramen Makotoya RATHAUS",
-    "slug": "ramen-makotoya-rathaus",
-    "address": "Reichsratsstraße 11",
-    "addressOptional": null,
-    "zipCode": "1010 Wien",
-    "latitude": 48.21285855075646,
-    "longitude": 16.35860998371256,
-    "deals": [
-      {
-        "uuid": "4410f439-1230-48c8-94e5-6f13c928df77",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "42b17725-0fb1-4d69-a3c8-cb27b988c026",
-        "name": "FREE Drink",
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 2175,
-    "reviewsCount": 435,
-    "images": [
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/7103faef-1733-4c95-988f-faa6370c0382.jpg",
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/4f0c1afd-7257-4606-8d42-ebea799287f0.jpg",
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/8f7faca8-e08d-4c15-bb00-7734b901f226.jpg",
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/a659da84-7e2e-457a-b5dd-f1f64c727a52.jpg",
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/9f147323-38b2-4f6d-93af-0e012cf56738.jpg",
-      "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/6205d0ca-55cf-4b30-9729-8072cce836eb.jpg"
     ],
     "priceRange": 2
   },
@@ -1055,8 +1066,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 19,
-    "reviewsCount": 8,
+    "ratingsCount": 20,
+    "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/1e0ee65f-a2e9-4662-9d66-2ca192f6c3a3.jpg",
       "https://assets.neotaste.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/e555bb69-8743-45ac-84be-ed6612b2c51b.jpg",
@@ -1161,67 +1172,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "2562fbbd-112c-428e-8434-54a3ace24d00",
-    "name": "VAPIANO Wien Donau Zentrum",
-    "slug": "vapiano-wien-donau-zentrum",
-    "address": "Wagramer Str. 79, Wien",
-    "addressOptional": null,
-    "zipCode": "1220",
-    "latitude": 48.24235805955424,
-    "longitude": 16.43346501627905,
-    "deals": [
-      {
-        "uuid": "838f2a70-0a46-4ab9-a49a-891f3888166e",
-        "name": "2for1 Main Course",
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 16,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "8766f5a3-a878-4b56-b4e3-4db2a8cc26de",
-        "name": "FREE Homemade Lemonade",
-        "conditions": "You order a main course of your choice and get a homemade lemonade for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "pasta",
-        "name": "Pasta"
-      },
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 799,
-    "reviewsCount": 96,
-    "images": [
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/56f33bc7-0d93-4a22-a11d-a69399070395.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/b8e8b0d1-a161-4bf6-be55-f10821e522e7.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/d83c0a88-c65b-45e7-89b5-75e5638975d7.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/74006bc8-9d45-4e51-bf81-478b5eab0a5b.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/f95c9c88-c009-49b7-9228-5dcd4d5c8495.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/4206878e-f0b4-408e-83ee-5f9cbbc67e2e.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/70c71a78-ea81-46f4-8f80-aa39d241e887.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/83e5d72f-d222-480b-b4e5-9455446666b6.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/4e38588e-f1fc-4a69-9219-a7ceacaeea0a.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/a3e62c32-63f6-4c5d-a220-e553dffa77e0.jpg",
-      "https://assets.neotaste.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/67367c47-431c-4163-bd8c-91a839425ad0.jpg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "a48bef24-2223-4b13-9e9c-25e2758c679b",
     "name": "Corleone Restaurant & Lounge",
     "slug": "corleone-restaurant-lounge",
@@ -1266,56 +1216,6 @@
       "https://assets.neotaste.com/restaurants/a48bef24-2223-4b13-9e9c-25e2758c679b/images/71059880-8f12-45f7-b022-b6ae84c374c5.jpeg",
       "https://assets.neotaste.com/restaurants/a48bef24-2223-4b13-9e9c-25e2758c679b/images/adac1c43-a0c8-4eec-a0b5-054921eb6928.jpeg",
       "https://assets.neotaste.com/restaurants/a48bef24-2223-4b13-9e9c-25e2758c679b/images/ecfb9c13-4bdc-45b8-b29f-5edf08963913.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "a73c8221-72c8-4028-86ae-cba943c69981",
-    "name": "Zushi Market Plus",
-    "slug": "zushi-market-plus-schottengasse",
-    "address": "Schottengasse 9",
-    "addressOptional": null,
-    "zipCode": "1010",
-    "latitude": 48.21320345060953,
-    "longitude": 16.3628381049878,
-    "deals": [
-      {
-        "uuid": "ea27cd4b-cd46-46a8-8939-21550e6781a7",
-        "name": "2for1 Bowl (M)",
-        "conditions": "You order 2 bowls (M) of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 9,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "606d052d-5915-4b58-8ac9-d3b05c933347",
-        "name": "FREE Soft Drink",
-        "conditions": "You order a bowl of your choice and get a soft drink for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 1424,
-    "reviewsCount": 197,
-    "images": [
-      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/28c004fe-0b4e-401e-9eb8-4842995ce223.jpg",
-      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/3fa7c661-345d-4e12-966d-2fb9301a4181.jpg",
-      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/9a4d5a0d-4177-4258-aad9-795ea938d23b.jpg",
-      "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/29e94467-b604-4094-bbb9-7ac5066654d8.jpg"
     ],
     "priceRange": 2
   },
@@ -1556,8 +1456,8 @@
         "name": "Breakfast"
       },
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       }
     ],
     "avgRating": 5,
@@ -1606,8 +1506,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 91,
-    "reviewsCount": 17,
+    "ratingsCount": 92,
+    "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/3a48a07c-dd67-42ae-80c8-3029e02aadad/images/29be1445-adec-4823-a898-eade668e47d6.png",
       "https://assets.neotaste.com/restaurants/3a48a07c-dd67-42ae-80c8-3029e02aadad/images/f655e67c-52ae-4abf-bd55-e6bc0ddb3a1c.png"
@@ -2055,9 +1955,9 @@
         "name": "Drinks"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 2,
-    "reviewsCount": 0,
+    "avgRating": 4.7,
+    "ratingsCount": 3,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/cb2eda35-e374-4a0f-90de-2a6c34dcf9f7/images/bf9bb4d9-7588-4bc8-bd0b-137825d4c780.jpg",
       "https://assets.neotaste.com/restaurants/cb2eda35-e374-4a0f-90de-2a6c34dcf9f7/images/ae4e5fa4-e9d0-4676-b4b5-ac1c773f45e8.jpg",
@@ -2403,8 +2303,8 @@
     ],
     "tags": [
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       }
     ],
     "avgRating": 4.9,
@@ -2770,8 +2670,8 @@
     ],
     "tags": [
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       },
       {
         "slug": "bowls",
@@ -2883,8 +2783,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 481,
-    "reviewsCount": 51,
+    "ratingsCount": 486,
+    "reviewsCount": 52,
     "images": [
       "https://assets.neotaste.com/restaurants/7d43e1df-1e14-4a5c-9e9c-a9a5e69ee474/images/30ed2fe9-d581-4ce8-af5c-46513d165141.jpeg",
       "https://assets.neotaste.com/restaurants/7d43e1df-1e14-4a5c-9e9c-a9a5e69ee474/images/8dca1bf5-1348-43e9-bfa9-6965caf72b1f.jpeg",
@@ -2985,8 +2885,8 @@
         "name": "Asian"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 90,
+    "avgRating": 4.8,
+    "ratingsCount": 92,
     "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/e00bbdde-d142-4639-8e11-71e61068cfa7/images/950e3760-8b5a-40ab-aaee-5cfb3fc253ba.jpg",
@@ -3135,7 +3035,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 314,
+    "ratingsCount": 316,
     "reviewsCount": 103,
     "images": [
       "https://assets.neotaste.com/restaurants/786b0325-9764-4472-a376-85570d0420ab/images/06750e2c-4c82-4054-83aa-6b42f6aa5488.jpeg"
@@ -3323,13 +3223,13 @@
     ],
     "tags": [
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 592,
-    "reviewsCount": 87,
+    "ratingsCount": 595,
+    "reviewsCount": 89,
     "images": [
       "https://assets.neotaste.com/restaurants/5d6851f6-6ea5-4ba2-b060-bb3ed26cc753/images/57f0aa24-5c0a-4449-a341-75a6ce59c9ea.jpeg",
       "https://assets.neotaste.com/restaurants/5d6851f6-6ea5-4ba2-b060-bb3ed26cc753/images/2c32cef3-0460-402c-b8e0-745bb00a9600.jpeg",
@@ -3436,7 +3336,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 693,
+    "ratingsCount": 694,
     "reviewsCount": 119,
     "images": [],
     "priceRange": 2
@@ -3634,7 +3534,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 377,
+    "ratingsCount": 378,
     "reviewsCount": 49,
     "images": [
       "https://assets.neotaste.com/restaurants/45b13850-de43-42ef-b899-f1ff3fae38c5/images/9fa7cfbd-c2ba-4035-8ded-383537e74064.jpeg",
@@ -3847,8 +3747,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 50,
-    "reviewsCount": 15,
+    "ratingsCount": 52,
+    "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/ff380013-61c6-40d2-a392-a0fe5b38153a/images/fef743a8-2fd0-40c3-bf5c-20690143bb31.jpeg",
       "https://assets.neotaste.com/restaurants/ff380013-61c6-40d2-a392-a0fe5b38153a/images/e1459f62-c715-4a7b-b7e6-91d542109abb.jpeg",
@@ -3897,8 +3797,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 416,
-    "reviewsCount": 84,
+    "ratingsCount": 420,
+    "reviewsCount": 85,
     "images": [
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/5dd16f88-1468-4ba5-89b9-d4178ae4d43d.jpg",
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/8413bb98-35f4-4e95-bbe0-e178aa07804a.jpeg",
@@ -4007,7 +3907,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 221,
+    "ratingsCount": 222,
     "reviewsCount": 41,
     "images": [
       "https://assets.neotaste.com/restaurants/b1e1d7e4-ef4d-4467-9c19-ad1535b76b0d/images/de8f2164-0081-4a46-a0bd-5c7ceaca630a.png",
@@ -4107,8 +4007,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 734,
-    "reviewsCount": 60,
+    "ratingsCount": 737,
+    "reviewsCount": 61,
     "images": [
       "https://assets.neotaste.com/restaurants/3f823a10-023c-49a1-a059-b235788cabed/images/11e0e863-7e4e-4f94-9482-23388f231b71.jpeg",
       "https://assets.neotaste.com/restaurants/3f823a10-023c-49a1-a059-b235788cabed/images/32c79797-f718-454c-ad06-c6f763214b1e.jpeg",
@@ -4166,8 +4066,8 @@
         "name": "Bowls"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 28,
+    "avgRating": 4.6,
+    "ratingsCount": 30,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/891f46d4-294e-4ff8-b624-d109ab962a9f/images/ee96eab4-3ebb-47bd-b3d7-c57b394ed55d.jpeg",
@@ -4218,7 +4118,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 356,
+    "ratingsCount": 357,
     "reviewsCount": 48,
     "images": [
       "https://assets.neotaste.com/restaurants/51538056-d27b-4a08-8cd3-3e88900156df/images/2896297d-48af-46cb-a2fd-324896cb54ef.jpeg",
@@ -4429,7 +4329,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 726,
+    "ratingsCount": 727,
     "reviewsCount": 178,
     "images": [
       "https://assets.neotaste.com/restaurants/1fd8e553-a66f-41fe-9c30-05bd33f49fc4/images/541118c9-1483-4d62-8641-fddf6cac04ba.png",
@@ -4663,8 +4563,8 @@
         "name": "Asian"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 8,
+    "avgRating": 4.4,
+    "ratingsCount": 9,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/bbacb498-8439-4551-ac43-87f0805c26db/images/0124f8f2-48b7-4c93-b229-795b553a8cf7.jpeg",
@@ -4955,8 +4855,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 73,
-    "reviewsCount": 17,
+    "ratingsCount": 74,
+    "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/1fadda92-928e-48d1-9139-48f5a8abf5e8/images/84fa400b-fdd2-4bc0-a201-774c519764c6.jpg",
       "https://assets.neotaste.com/restaurants/1fadda92-928e-48d1-9139-48f5a8abf5e8/images/bd6c97d4-98bb-4609-9cb7-70d36f6f2dc6.jpg",
@@ -5004,7 +4904,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 605,
+    "ratingsCount": 607,
     "reviewsCount": 36,
     "images": [
       "https://assets.neotaste.com/restaurants/1ab737ff-e112-413c-8421-fe1af8631ea3/images/6ccb3351-edff-4739-aa27-4235539f8fc2.jpg",
@@ -5151,7 +5051,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 16,
+    "ratingsCount": 17,
     "reviewsCount": 6,
     "images": [
       "https://assets.neotaste.com/restaurants/4f044d43-1fd7-46c9-86fe-a9ac6c2ace79/images/fb930091-4488-4740-8a64-e43e17251451.jpg",
@@ -5260,6 +5160,54 @@
       "https://assets.neotaste.com/restaurants/e6ff25b4-ed12-46ef-8f73-5b376c9495e1/images/63007e9d-9cee-4f96-8006-4253a0f7db3f.jpeg",
       "https://assets.neotaste.com/restaurants/e6ff25b4-ed12-46ef-8f73-5b376c9495e1/images/04ccadc6-73c8-4fa2-b34b-0f1ab5e359bf.jpeg",
       "https://assets.neotaste.com/restaurants/e6ff25b4-ed12-46ef-8f73-5b376c9495e1/images/6222f816-c61e-4060-8dfd-67cdb8b7cf13.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c",
+    "name": "DUNKIN’ MILLENNIUM CITY",
+    "slug": "dunkin-millennium-city",
+    "address": "Handelskai 94-96, 1. OG",
+    "addressOptional": null,
+    "zipCode": "1200",
+    "latitude": 48.24072066189455,
+    "longitude": 16.3866252902973,
+    "deals": [
+      {
+        "uuid": "f6f64816-79ed-4770-a3df-96be6edc3746",
+        "name": "2for1 Dunkin' Donut",
+        "conditions": "Order 2 Dunkin' Donuts of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "e08a0e32-d63d-452d-97fb-3b32db5e9dbf",
+        "name": "2for1 Dunkin' Drink",
+        "conditions": "Order 2 Dunkin' Drinks of your choice, the cheaper/equivalently priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 60,
+    "reviewsCount": 18,
+    "images": [
+      "https://assets.neotaste.com/restaurants/de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c/images/23fa51ef-663c-4c25-a37f-194c442be3be.png",
+      "https://assets.neotaste.com/restaurants/de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c/images/179f94d8-8680-40bf-b274-d46a745a1d12.png"
     ],
     "priceRange": 2
   },
@@ -5408,8 +5356,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 765,
-    "reviewsCount": 110,
+    "ratingsCount": 771,
+    "reviewsCount": 112,
     "images": [
       "https://assets.neotaste.com/restaurants/014129aa-e86f-4149-96fb-9483f2fb2f11/images/a034aa4f-f672-4203-a175-17ec26e58338.jpeg",
       "https://assets.neotaste.com/restaurants/014129aa-e86f-4149-96fb-9483f2fb2f11/images/71c971cf-49cc-43df-b0a7-940a0482b521.jpeg",
@@ -5741,8 +5689,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 38,
-    "reviewsCount": 19,
+    "ratingsCount": 39,
+    "reviewsCount": 20,
     "images": [
       "https://assets.neotaste.com/restaurants/b772425f-9991-42d7-9d7b-ff91945ee6d2/images/4582971e-4314-4374-abd6-4b762dba9a14.png",
       "https://assets.neotaste.com/restaurants/b772425f-9991-42d7-9d7b-ff91945ee6d2/images/e17c92be-1f32-4122-8f75-6eae844d7da7.png",
@@ -5786,8 +5734,8 @@
         "name": "Healthy"
       },
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       },
       {
         "slug": "cafe",
@@ -5803,8 +5751,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 71,
-    "reviewsCount": 13,
+    "ratingsCount": 72,
+    "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/ae43eed1-f71c-4ebe-9d1e-e1c1b3211643/images/dcf55ce8-a0f9-4483-ab23-4f2ada62e999.jpeg",
       "https://assets.neotaste.com/restaurants/ae43eed1-f71c-4ebe-9d1e-e1c1b3211643/images/68490394-60b4-4cab-8eca-f77c71b9eb51.jpeg",
@@ -6005,8 +5953,8 @@
         "name": "Vegan"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 959,
+    "avgRating": 4.9,
+    "ratingsCount": 961,
     "reviewsCount": 204,
     "images": [
       "https://assets.neotaste.com/restaurants/936ace79-43e9-4456-bbde-fd8b111c0fe5/images/f66bbdff-6777-4455-83f5-9212a915d451.jpeg",
@@ -6062,8 +6010,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 75,
-    "reviewsCount": 6,
+    "ratingsCount": 77,
+    "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/4d297e10-6807-4dfe-8900-d1cb953621ec/images/b74d4588-06cc-4b8a-bd01-c89277f201dc.png",
       "https://assets.neotaste.com/restaurants/4d297e10-6807-4dfe-8900-d1cb953621ec/images/571c3991-f98d-4fdd-a620-fb02cbd1b424.png",
@@ -6274,8 +6222,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 59,
-    "reviewsCount": 11,
+    "ratingsCount": 61,
+    "reviewsCount": 12,
     "images": [
       "https://assets.neotaste.com/restaurants/cb815d6a-4fee-466b-95db-f54e1d819ef3/images/8fa40f82-f5a2-4dd3-afc9-5697f3fcdfa5.jpeg",
       "https://assets.neotaste.com/restaurants/cb815d6a-4fee-466b-95db-f54e1d819ef3/images/75cbd03b-6126-4e96-8fc0-1b98f1238190.jpeg",
@@ -6421,7 +6369,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 301,
+    "ratingsCount": 303,
     "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/54735bda-6846-4002-ad3c-31b307c2206a/images/95b74d59-cb8f-417f-a1ab-c3eadca804e9.jpeg",
@@ -6477,8 +6425,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 585,
-    "reviewsCount": 136,
+    "ratingsCount": 587,
+    "reviewsCount": 138,
     "images": [
       "https://assets.neotaste.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/37c37d57-2e13-4ec5-84bd-6a9676586a0b.jpeg",
       "https://assets.neotaste.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/948b813e-3cbd-4d8f-a2bd-48a9df48fc7e.jpeg",
@@ -6633,7 +6581,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 55,
+    "ratingsCount": 57,
     "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/4e02f9c4-7b6a-4ce5-bdbd-cd2071c58982/images/00d71890-bb51-4429-8c9e-d4e021cba9b1.png",
@@ -6780,8 +6728,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 152,
-    "reviewsCount": 21,
+    "ratingsCount": 154,
+    "reviewsCount": 22,
     "images": [
       "https://assets.neotaste.com/restaurants/37a02293-87c3-4a7d-83c9-18767bcbd95d/images/c3e12823-0ab3-4886-8a39-bd7ee9d2e40c.jpeg",
       "https://assets.neotaste.com/restaurants/37a02293-87c3-4a7d-83c9-18767bcbd95d/images/eedfa1ab-a09e-431c-84c0-2650a65f767e.jpeg",
@@ -6829,7 +6777,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 174,
+    "ratingsCount": 175,
     "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/cd6843ae-6018-49e8-8f38-e71d4b0a3dd7.jpg",
@@ -6838,6 +6786,58 @@
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/37f534f7-8580-4b7f-8ac8-eb564d4b9005.jpg",
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/62ed6a7b-38b3-44fe-8a5c-bfecbbf953dc.jpg",
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/b56dd9e5-1045-47c8-b4b4-502b22dc9791.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "0bbef8ec-a3c3-469b-a31d-ec207c9576f5",
+    "name": "Dunkin' G3",
+    "slug": "dunkin-g3",
+    "address": "G3 Platz 1,  Gerasdorf bei Wien, Austria",
+    "addressOptional": null,
+    "zipCode": "2201",
+    "latitude": 48.34291143205294,
+    "longitude": 16.46246275454957,
+    "deals": [
+      {
+        "uuid": "e6beecff-3d57-43ef-821f-4749edf0ae2e",
+        "name": "2for1 Dunkin' Donut",
+        "conditions": "You order 2 Dunkin' Donuts of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "afecaa8f-f2bc-420b-92af-b4c03a6437ae",
+        "name": "2for1 Dunkin' Drink",
+        "conditions": "Order 2 Dunkin' Drinks of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "cake",
+        "name": "Cake"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 4,
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/810b8a98-4303-492c-9deb-a5a2758fca73.png",
+      "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/e67ad095-89a0-4bdf-b53c-292697cf3955.png"
     ],
     "priceRange": 2
   },
@@ -7123,7 +7123,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 361,
+    "ratingsCount": 362,
     "reviewsCount": 37,
     "images": [
       "https://assets.neotaste.com/restaurants/38045d8f-0d41-4321-b893-70d7e35e848d/images/8a8ccbc8-d729-4999-9ecc-ec850b2869e7.jpeg",
@@ -7418,7 +7418,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 402,
+    "ratingsCount": 403,
     "reviewsCount": 86,
     "images": [
       "https://assets.neotaste.com/restaurants/3b3b8e48-fd12-4c81-9764-21f935a3753c/images/33cf925f-6b9b-4d11-a520-c7378a09bd95.jpeg",
@@ -7512,8 +7512,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 177,
-    "reviewsCount": 29,
+    "ratingsCount": 178,
+    "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/426a3704-6dfe-44ea-8c2f-5df6db135cd0/images/443fdf35-2eb5-40fc-8eb7-b1bcc4ae74d8.jpg",
       "https://assets.neotaste.com/restaurants/426a3704-6dfe-44ea-8c2f-5df6db135cd0/images/d2b26c67-162a-498c-8261-7ab5c184f14d.jpg",
@@ -7566,8 +7566,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 65,
-    "reviewsCount": 3,
+    "ratingsCount": 66,
+    "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/b923e609-e426-4eec-a132-3b2e7a279a26/images/8db17a8f-c5d6-4d90-a5f7-17cb6e0c3d44.png",
       "https://assets.neotaste.com/restaurants/b923e609-e426-4eec-a132-3b2e7a279a26/images/8c66d627-f5dc-4049-82a4-faff394b6c5e.png",
@@ -7664,8 +7664,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 1,
-    "reviewsCount": 0,
+    "ratingsCount": 2,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/1efc19df-b155-440c-9177-c12e13e1051c/images/588cda0b-992e-4046-bd13-5011779e01c0.jpeg",
       "https://assets.neotaste.com/restaurants/1efc19df-b155-440c-9177-c12e13e1051c/images/e15918e2-0f5d-436d-aed5-24678bf27afc.jpeg",
@@ -7717,7 +7717,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 69,
+    "ratingsCount": 70,
     "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/c2989f93-7e73-4628-851d-a2d38b25ffdb/images/557b4c5c-02a8-4b01-809a-1d5e12bc8b1e.jpeg",
@@ -7766,7 +7766,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 180,
+    "ratingsCount": 181,
     "reviewsCount": 46,
     "images": [
       "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/386ce013-0d88-46b6-9152-757569b054bd.jpeg",
@@ -8171,8 +8171,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 140,
-    "reviewsCount": 34,
+    "ratingsCount": 142,
+    "reviewsCount": 36,
     "images": [
       "https://assets.neotaste.com/restaurants/6222c128-4ea5-40fc-9f9e-2c959f02746b/images/edb19095-5086-4676-9748-e89a8a254eed.jpeg",
       "https://assets.neotaste.com/restaurants/6222c128-4ea5-40fc-9f9e-2c959f02746b/images/4fb810c0-ec5c-47b7-99e9-a97883888df7.jpeg",
@@ -8270,7 +8270,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 203,
+    "ratingsCount": 204,
     "reviewsCount": 64,
     "images": [
       "https://assets.neotaste.com/restaurants/38233fd7-5d5e-4481-9210-27f2241d1eb0/images/0b243ad1-8a25-4f29-a8f6-22b512069498.jpeg",
@@ -8320,7 +8320,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 36,
+    "ratingsCount": 37,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/1f79204f-7876-4b81-ae17-5353188ce4da/images/05310922-2246-4ca3-a048-e6047ed37d0e.jpg",
@@ -8368,8 +8368,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 124,
-    "reviewsCount": 24,
+    "ratingsCount": 125,
+    "reviewsCount": 25,
     "images": [
       "https://assets.neotaste.com/restaurants/c21a6108-b0fa-4991-b587-f5410759134a/images/33bf0412-1096-4d5b-af4e-9015488f4e5e.jpeg",
       "https://assets.neotaste.com/restaurants/c21a6108-b0fa-4991-b587-f5410759134a/images/e96b3c9a-a208-4029-affa-928047efe9a5.jpeg",
@@ -8678,8 +8678,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 215,
-    "reviewsCount": 37,
+    "ratingsCount": 216,
+    "reviewsCount": 38,
     "images": [
       "https://assets.neotaste.com/restaurants/06fe6180-a176-496f-a265-95440b2b7688/images/830424ba-fadd-469d-b667-ef9d19573185.jpeg",
       "https://assets.neotaste.com/restaurants/06fe6180-a176-496f-a265-95440b2b7688/images/6c0dd9e5-b96d-4405-8ea8-2d2fef76278a.jpeg",
@@ -8727,8 +8727,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 345,
-    "reviewsCount": 52,
+    "ratingsCount": 346,
+    "reviewsCount": 53,
     "images": [
       "https://assets.neotaste.com/restaurants/7818cc95-f028-423f-9087-7d46c00d09c9/images/79a179a0-1081-4d43-9da2-0424952d5408.jpeg",
       "https://assets.neotaste.com/restaurants/7818cc95-f028-423f-9087-7d46c00d09c9/images/e5ace055-81c5-4f01-bff5-606ebcdbf719.jpeg",
@@ -8884,8 +8884,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 266,
-    "reviewsCount": 49,
+    "ratingsCount": 268,
+    "reviewsCount": 50,
     "images": [
       "https://assets.neotaste.com/restaurants/51ec6e4e-9d88-4f78-8307-9eb6a136e286/images/fb037261-bcf3-4161-aff4-bae504fffdc5.jpg",
       "https://assets.neotaste.com/restaurants/51ec6e4e-9d88-4f78-8307-9eb6a136e286/images/7027df1e-c90d-4e64-a590-eb3dc364d4c3.jpg",
@@ -9482,7 +9482,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 40,
+    "ratingsCount": 41,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/37c7f6bb-7f11-4e7e-9dcc-a1b45e568f62/images/e8f0040b-5d14-4c67-8b82-ec4e99d862c2.jpeg",
@@ -9735,7 +9735,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 56,
+    "ratingsCount": 57,
     "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/aec7a9ef-61ff-44e3-aa82-8ace792bd90d/images/605d4f8a-267b-452e-85fb-7e200a741ac4.jpeg",
@@ -9786,7 +9786,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 101,
+    "ratingsCount": 102,
     "reviewsCount": 11,
     "images": [
       "https://assets.neotaste.com/restaurants/ec3821ab-4f41-4ffc-a28b-c1e7c828ae18/images/62dff8c0-db97-43dd-ad30-11b9578ac100.jpeg",
@@ -10140,7 +10140,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 176,
+    "ratingsCount": 177,
     "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/9f8ccab1-4441-43d0-b544-568fad0a496b/images/bdc08bf7-b091-4fb8-8915-d65074190662.jpg",
@@ -10190,8 +10190,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 45,
-    "reviewsCount": 9,
+    "ratingsCount": 48,
+    "reviewsCount": 10,
     "images": [
       "https://assets.neotaste.com/restaurants/a6d8c3b6-b7e2-44c2-ba74-7234a51aef98/images/0f1ed750-c0cd-4d1b-98bc-3e47b2d0e904.jpeg",
       "https://assets.neotaste.com/restaurants/a6d8c3b6-b7e2-44c2-ba74-7234a51aef98/images/e897db2e-5540-4208-a82b-f20254ff8382.jpeg"
@@ -10290,7 +10290,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 225,
+    "ratingsCount": 226,
     "reviewsCount": 74,
     "images": [
       "https://assets.neotaste.com/restaurants/60b53f2a-2227-463a-8ad9-1c59da6edae8/images/1f7a3719-e9e4-4253-a98e-75d07ae547b1.jpeg",
@@ -10599,7 +10599,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 131,
+    "ratingsCount": 132,
     "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/a10cd5f4-74e2-4b36-8ec5-9ad680d3110f/images/bd1c2a49-fd5f-4b85-9fed-fdf002e1ab0d.jpeg",
@@ -11003,7 +11003,7 @@
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 54,
+    "ratingsCount": 55,
     "reviewsCount": 6,
     "images": [
       "https://assets.neotaste.com/restaurants/471ca0a6-3750-40dd-bb4f-c9d301a1d77b/images/b8c6e26b-0e62-40f6-91aa-cd1def22f9b6.jpg",
@@ -11152,7 +11152,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 410,
+    "ratingsCount": 411,
     "reviewsCount": 51,
     "images": [
       "https://assets.neotaste.com/restaurants/562d0081-e4ce-4f31-a55a-b6f2467368cc/images/44f04548-d4a1-4d83-b6c0-579dd7e3bc3f.jpeg",
@@ -11785,7 +11785,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 5,
+    "ratingsCount": 6,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/f5e1da29-82ad-47b2-b7c7-0148e0cca293/images/166b037a-9c9e-41ec-9ba1-4ec63b190b56.jpeg",
@@ -11882,7 +11882,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 90,
+    "ratingsCount": 91,
     "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/72a8aa81-859f-4513-8e75-b5204f5699e0/images/bf98de6e-2695-406a-919a-03d47cdea7cd.jpeg",
@@ -12173,8 +12173,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 178,
-    "reviewsCount": 36,
+    "ratingsCount": 179,
+    "reviewsCount": 37,
     "images": [
       "https://assets.neotaste.com/restaurants/b0f1b1ab-527f-4c80-b88e-c0234ea1bad0/images/353c0a2e-c1ee-4de8-b5b0-e654c8d0dcab.jpg",
       "https://assets.neotaste.com/restaurants/b0f1b1ab-527f-4c80-b88e-c0234ea1bad0/images/ccf5dcc3-24c0-4b25-8bea-0bc3b81666f2.jpg",
@@ -12565,9 +12565,9 @@
         "name": "Drinks"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 59,
-    "reviewsCount": 10,
+    "avgRating": 5,
+    "ratingsCount": 62,
+    "reviewsCount": 11,
     "images": [
       "https://assets.neotaste.com/restaurants/4c50fd92-92f6-401a-a6ca-275be37b58f9/images/333cd510-6b77-43e0-8a13-5937014aa691.jpeg",
       "https://assets.neotaste.com/restaurants/4c50fd92-92f6-401a-a6ca-275be37b58f9/images/5d6dceb1-0ac9-4ed6-9f39-325e3e5b524b.jpeg",
@@ -12709,8 +12709,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 17,
-    "reviewsCount": 6,
+    "ratingsCount": 18,
+    "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/8ae63a5b-e364-44cd-94c0-8bd545b42a24/images/741fc9d4-27bd-4445-a17d-924d5febfdae.jpeg",
       "https://assets.neotaste.com/restaurants/8ae63a5b-e364-44cd-94c0-8bd545b42a24/images/542b2406-f06a-4d5c-b0f0-b22edeb87d03.jpeg",
@@ -13099,8 +13099,8 @@
       }
     ],
     "avgRating": 4.4,
-    "ratingsCount": 9,
-    "reviewsCount": 0,
+    "ratingsCount": 10,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/e0463e50-e1eb-468f-96be-81d1154228fa/images/ac6a2b58-75ca-4413-a1f1-12fce8cb84aa.png",
       "https://assets.neotaste.com/restaurants/e0463e50-e1eb-468f-96be-81d1154228fa/images/30f82a62-4ca9-458a-b97f-16e04c99bbc5.png",
@@ -13393,8 +13393,8 @@
     ],
     "tags": [
       {
-        "slug": "oriental",
-        "name": "Oriental"
+        "slug": "east-asian",
+        "name": "East Asian"
       }
     ],
     "avgRating": 4.7,
@@ -14019,7 +14019,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 65,
+    "ratingsCount": 66,
     "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/bff534b6-08c4-4335-9edc-bded4ac65517/images/236beb67-597b-4fea-b110-81eea3b0049f.jpeg",
@@ -14119,8 +14119,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 544,
-    "reviewsCount": 63,
+    "ratingsCount": 547,
+    "reviewsCount": 64,
     "images": [
       "https://assets.neotaste.com/restaurants/1bba8aa8-12f0-40e7-bc54-86b6ef8ce1e4/images/94f214f8-69fd-4a80-9c38-417ce5c5e8a1.jpg",
       "https://assets.neotaste.com/restaurants/1bba8aa8-12f0-40e7-bc54-86b6ef8ce1e4/images/1dc8f638-ed60-4532-a505-7b32d2e140f2.jpeg",
@@ -14178,7 +14178,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 95,
+    "ratingsCount": 96,
     "reviewsCount": 28,
     "images": [
       "https://assets.neotaste.com/restaurants/6917fa36-4901-434d-b0a8-4a8c8f84b907/images/2184bf8f-1ea3-4120-93d7-4d584bbf68d4.jpg",
@@ -14328,8 +14328,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 323,
-    "reviewsCount": 42,
+    "ratingsCount": 325,
+    "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/78fac2a7-f58d-419b-a0b1-ddd663c3c87c/images/d0bdf41c-df68-4ca8-a314-a8f97030f8a0.jpg",
       "https://assets.neotaste.com/restaurants/78fac2a7-f58d-419b-a0b1-ddd663c3c87c/images/237b57b6-45f1-4a7f-a886-79a6c4d524c6.png",
@@ -14379,7 +14379,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 164,
+    "ratingsCount": 165,
     "reviewsCount": 26,
     "images": [
       "https://assets.neotaste.com/restaurants/4c91016c-7875-40ce-b552-c807f4e7cd7c/images/4b4d1a2e-9088-4d84-bd00-1ba1cbfb2ddc.jpg",
@@ -14586,7 +14586,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 417,
+    "ratingsCount": 418,
     "reviewsCount": 32,
     "images": [
       "https://assets.neotaste.com/restaurants/a8fd30de-1357-4a08-84f8-02be0211f55e/images/dfa9c146-d661-483b-9b5b-98bcfa966f0e.jpg",
@@ -14676,9 +14676,9 @@
         "name": "Vegan"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 112,
-    "reviewsCount": 25,
+    "avgRating": 4.6,
+    "ratingsCount": 114,
+    "reviewsCount": 26,
     "images": [
       "https://assets.neotaste.com/restaurants/8e7ad5ed-2055-4d6f-8074-01295fa07f1e/images/a81dcae4-e264-46f4-b60a-d838b54014cb.jpeg",
       "https://assets.neotaste.com/restaurants/8e7ad5ed-2055-4d6f-8074-01295fa07f1e/images/eab92976-d243-4d8a-a2e4-1e9d58585368.jpeg",
@@ -14723,7 +14723,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 52,
+    "ratingsCount": 53,
     "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/1a49549a-b160-4009-a5ff-4c4174d010cf/images/39ffcc70-adf3-4625-b533-d21a3d53b2a5.jpg",
@@ -14829,7 +14829,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 340,
+    "ratingsCount": 341,
     "reviewsCount": 56,
     "images": [
       "https://assets.neotaste.com/restaurants/b8407f63-069a-4d8e-8b40-04146dc8e83b/images/6c69e020-fd18-4d51-96a0-05424820af99.jpeg",
@@ -14896,7 +14896,7 @@
   },
   {
     "uuid": "ba7e2c8d-0a1a-4edc-9e54-d605b10d95a9",
-    "name": "Onu Pho House",
+    "name": "Ivy‘s Pho House",
     "slug": "ivys-pho-house",
     "address": "Mariahilfer Str. 103",
     "addressOptional": null,
@@ -15091,7 +15091,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 120,
+    "ratingsCount": 121,
     "reviewsCount": 34,
     "images": [
       "https://assets.neotaste.com/restaurants/6778b9dd-8656-48ea-ae10-9a14a5d04523/images/90191277-0faf-48b9-a774-771264512553.jpeg",
@@ -15306,8 +15306,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 349,
-    "reviewsCount": 59,
+    "ratingsCount": 350,
+    "reviewsCount": 60,
     "images": [
       "https://assets.neotaste.com/restaurants/ef3f7aa0-cfcc-4c43-a90f-89191312183c/images/9a66d2b1-1b73-43f6-8398-1e00be5b3de6.jpg",
       "https://assets.neotaste.com/restaurants/ef3f7aa0-cfcc-4c43-a90f-89191312183c/images/c98aa269-3e00-4b02-9211-6ff0de48f3d9.jpg",
@@ -15417,7 +15417,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 711,
+    "ratingsCount": 712,
     "reviewsCount": 94,
     "images": [
       "https://assets.neotaste.com/restaurants/24021e66-f93d-4a5f-aaa6-56f50f5fc817/images/51bfc81b-6799-41a3-b6c8-78f73db9d471.jpg",
@@ -15477,7 +15477,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1348,
+    "ratingsCount": 1352,
     "reviewsCount": 177,
     "images": [
       "https://assets.neotaste.com/restaurants/06ac908a-a6eb-4ddf-96f0-d895a83accd6/images/284fb426-6330-436f-a2f0-1c75fc0acdd6.jpg",
@@ -15536,8 +15536,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 859,
-    "reviewsCount": 92,
+    "ratingsCount": 867,
+    "reviewsCount": 95,
     "images": [
       "https://assets.neotaste.com/restaurants/13a2189c-be94-4cf1-b5e0-4174539a0181/images/2691b28c-26b5-4bc6-bfbd-1778262710f4.jpg",
       "https://assets.neotaste.com/restaurants/13a2189c-be94-4cf1-b5e0-4174539a0181/images/b4774087-b5db-43ef-a264-6d89c2083ccc.jpg",
@@ -15844,7 +15844,7 @@
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 856,
+    "ratingsCount": 859,
     "reviewsCount": 84,
     "images": [
       "https://assets.neotaste.com/restaurants/3a38c611-973c-4c1c-b51f-17e8a37526ae/images/26e55831-6b79-4524-af05-5235f3d47d27.jpg",
@@ -15951,8 +15951,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 461,
-    "reviewsCount": 56,
+    "ratingsCount": 463,
+    "reviewsCount": 57,
     "images": [
       "https://assets.neotaste.com/restaurants/45d86180-2cef-4cc8-9454-d9ada4774815/images/5f82a7b6-bb0f-4fe2-85dd-2b2d65030d4f.jpeg",
       "https://assets.neotaste.com/restaurants/45d86180-2cef-4cc8-9454-d9ada4774815/images/e3daf3a2-b9d3-40cc-928e-9ad0681e8196.jpeg",
@@ -16008,8 +16008,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 363,
-    "reviewsCount": 49,
+    "ratingsCount": 366,
+    "reviewsCount": 51,
     "images": [
       "https://assets.neotaste.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/0c63f441-02ad-44cc-aaf6-21ab948d3a5b.jpeg",
       "https://assets.neotaste.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/b89a4065-640d-4c82-a07c-cb3b8a5e161e.jpeg",
@@ -16068,7 +16068,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 783,
+    "ratingsCount": 786,
     "reviewsCount": 99,
     "images": [
       "https://assets.neotaste.com/restaurants/bbb90d23-0eb9-4fc2-9ba0-a439e47b1c49/images/ffb9e02b-d7b9-43e5-95d7-137c31c27375.jpg",
@@ -16128,8 +16128,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 574,
-    "reviewsCount": 80,
+    "ratingsCount": 577,
+    "reviewsCount": 81,
     "images": [
       "https://assets.neotaste.com/restaurants/b7df58c0-0365-4d74-8605-3942514e62f0/images/0560841d-8cb2-4d3a-a7ef-1684e325f95d.jpg",
       "https://assets.neotaste.com/restaurants/b7df58c0-0365-4d74-8605-3942514e62f0/images/d7bb460b-5bbb-46cf-90a3-dccfb2510e0f.jpg",
@@ -16184,8 +16184,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 839,
-    "reviewsCount": 44,
+    "ratingsCount": 842,
+    "reviewsCount": 45,
     "images": [
       "https://assets.neotaste.com/restaurants/018b212b-36d6-4889-9a13-8aef4e0c425e/images/21dce77f-8e6f-4d88-8132-1fb02a1e05c8.jpg",
       "https://assets.neotaste.com/restaurants/018b212b-36d6-4889-9a13-8aef4e0c425e/images/6013a710-0b7a-4f0d-bc21-1646e28bb8f6.jpg",
@@ -16492,8 +16492,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 774,
-    "reviewsCount": 79,
+    "ratingsCount": 776,
+    "reviewsCount": 80,
     "images": [
       "https://assets.neotaste.com/restaurants/4e0d7a61-17c2-4d16-b3eb-99f3779b09ef/images/b1847c2c-c64d-470a-8602-a05f3e45eca8.jpg",
       "https://assets.neotaste.com/restaurants/4e0d7a61-17c2-4d16-b3eb-99f3779b09ef/images/386d0d1f-10f2-4538-a9a6-ff8a0f9fca18.jpg",
@@ -16616,7 +16616,7 @@
   },
   {
     "uuid": "a4e61846-d682-49de-9bf2-426cd8656ecb",
-    "name": "Loving Hut Vienna Neubau",
+    "name": "Loving Hut Neubau",
     "slug": "loving-hut-vienna-neubau",
     "address": "Neubaugürtel 38/5, 1070 Wien",
     "addressOptional": null,
@@ -16977,7 +16977,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 75,
+    "ratingsCount": 80,
     "reviewsCount": 16,
     "images": [
       "https://assets.neotaste.com/restaurants/ff81f996-ab14-452e-916b-e0b7181689f3/images/d1961f74-ffa8-4925-8fff-198424a988be.jpeg",
