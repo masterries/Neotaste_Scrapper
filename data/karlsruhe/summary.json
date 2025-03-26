@@ -1695,9 +1695,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 124
+    },
+    {
+      "date": "2025-03-26",
+      "total_restaurants": 63,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 126
     }
   ],
-  "last_updated": "2025-03-25",
+  "last_updated": "2025-03-26",
   "restaurants": [
     {
       "name": "Dunkin´ Karlsruhe ETK",
@@ -1962,8 +1970,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1140,
-      "reviewsCount": 216,
+      "ratingsCount": 1141,
+      "reviewsCount": 217,
       "images": [
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -2079,8 +2087,8 @@
       "latitude": 49.00878525342304,
       "longitude": 8.404225110851845,
       "avgRating": 4.7,
-      "ratingsCount": 671,
-      "reviewsCount": 154,
+      "ratingsCount": 674,
+      "reviewsCount": 156,
       "images": [
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/a0a4c823-ee2f-4113-84ef-67017d3bb6a7.jpeg",
@@ -2121,7 +2129,7 @@
       "latitude": 48.99193828988366,
       "longitude": 8.37443173511256,
       "avgRating": 4.9,
-      "ratingsCount": 133,
+      "ratingsCount": 134,
       "reviewsCount": 33,
       "images": [
         "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/a4970979-7aa8-4807-8820-4fcdf1fc28ff.jpeg",
@@ -2850,7 +2858,7 @@
       "latitude": 49.00964741991798,
       "longitude": 8.394573976307528,
       "avgRating": 4.9,
-      "ratingsCount": 195,
+      "ratingsCount": 196,
       "reviewsCount": 62,
       "images": [
         "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/d5771fe7-0377-4b16-a47e-06ce3eb0d146.jpeg",
@@ -3801,7 +3809,7 @@
       "latitude": 49.0077618,
       "longitude": 8.4074139,
       "avgRating": 4.9,
-      "ratingsCount": 46,
+      "ratingsCount": 47,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
@@ -4086,8 +4094,8 @@
       "latitude": 49.0127923,
       "longitude": 8.3943821,
       "avgRating": 4.7,
-      "ratingsCount": 6,
-      "reviewsCount": 3,
+      "ratingsCount": 7,
+      "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/9346cf3d-e4fa-4066-9a73-1646d5a6ded3.jpg",
         "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/63a28df6-59c6-48cd-88f5-3110fa6d4af8.jpg",
@@ -4103,6 +4111,48 @@
         "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/96a6a64b-d048-4305-b1b7-ebd6386b5977.jpg",
         "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/f391d37e-2138-43b5-be50-7465e502600d.jpg",
         "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/5045715c-0d38-404c-b06c-069f94468da7.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Die Pinte Pub-Bar",
+      "uuid": "c24bc920-ba9d-429f-995a-0107463a86fd",
+      "deals": [
+        {
+          "uuid": "ec301ef1-8099-48f7-a157-b3b7b703c70c",
+          "name": "2for1 Tarte Flambée",
+          "conditions": "You order 2 flammkuchen of your choice, the cheaper/equally priced one will not be charged.\n\nNO DEAL REDEMPTION POSSIBLE DURING EVENTS.\nEvents are visible on the website.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "1400656e-ff99-407b-98bc-a3a341515488",
+          "name": "FREE Shot",
+          "conditions": "Order a drink of your choice, receive a free shot of the day.\n\nNO DEAL REDEMPTION POSSIBLE DURING EVENTS.\nEvents can be viewed on the website.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Leopoldstraße 15",
+      "zipCode": "76133",
+      "latitude": 49.0079435,
+      "longitude": 8.389689700000002,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/26b1b874-39b0-4d97-ba1d-81a1a40503c7.jpg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/625e4e44-e897-412d-b244-74c87f5760c7.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/861cc046-fa6b-4cb5-b637-d501c25bb4e0.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/7ee64841-bd10-4103-9719-6098c5337a34.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/7add8e32-ec6a-49f6-a81a-ac439421cb4b.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/8fe3f967-5840-4018-9754-449ddd2bbf87.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/95390eb2-ec7b-411c-8021-84a566e828c4.jpeg",
+        "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/15636026-cb02-4b2e-b975-0fe55b77f2d6.jpeg"
       ],
       "priceRange": 2
     }
