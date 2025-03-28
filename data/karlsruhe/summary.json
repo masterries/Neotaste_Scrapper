@@ -1711,9 +1711,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 126
+    },
+    {
+      "date": "2025-03-28",
+      "total_restaurants": 64,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 128
     }
   ],
-  "last_updated": "2025-03-27",
+  "last_updated": "2025-03-28",
   "restaurants": [
     {
       "name": "Dunkin´ Karlsruhe ETK",
@@ -1820,7 +1828,7 @@
       "latitude": 49.0046508961271,
       "longitude": 8.429005526606517,
       "avgRating": 4.9,
-      "ratingsCount": 378,
+      "ratingsCount": 379,
       "reviewsCount": 53,
       "images": [
         "https://assets.neotaste.com/restaurants/124422c7-1d0a-44f7-b527-fec0589ae750/images/1d5f647e-d79c-4bf2-bc39-1ffa167febdd.jpeg",
@@ -1940,52 +1948,13 @@
       "latitude": 49.00923406335475,
       "longitude": 8.409084393595768,
       "avgRating": 4.9,
-      "ratingsCount": 360,
+      "ratingsCount": 362,
       "reviewsCount": 76,
       "images": [
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/3874c809-00ae-4d31-aed3-17af97f0e921.jpeg",
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/67619d5f-cbb6-4155-86c0-d8e652cba475.jpeg",
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/6170c6ca-108e-474b-af2b-122ecd9643ab.jpeg",
         "https://assets.neotaste.com/restaurants/c7bbafbb-092b-4cad-8027-9ba5c351f1c8/images/ef2082ed-8b70-4b3b-a861-447bd5c83455.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Burgerheart",
-      "uuid": "35cf90c0-3685-430f-a6f4-cc3df91dcbcb",
-      "deals": [
-        {
-          "uuid": "c4ca47d5-33e3-43d0-9495-08dc57a6097f",
-          "name": "2for1 Burger",
-          "conditions": "Order 2 burgers of your choice, the cheaper/equally priced one will not be charged. (Double Burgers and additional toppings will be charged extra.)",
-          "locationCondition": "onSite",
-          "value": 16,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "09527118-0b7d-488d-9496-08dc57a6097f",
-          "name": "2for1 Cocktail",
-          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Kaiserstraße 134",
-      "zipCode": "76133",
-      "latitude": 49.01012728176009,
-      "longitude": 8.396175093865812,
-      "avgRating": 4.8,
-      "ratingsCount": 1143,
-      "reviewsCount": 217,
-      "images": [
-        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
-        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
-        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/aa40b91c-a2e0-4f4a-a814-7f6d785794a5.jpeg",
-        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/5966d46f-10f5-4edf-b2ae-d3a996fb44da.jpeg",
-        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/d2e04c4a-6b55-4200-a670-6e62f9e8a701.jpeg"
       ],
       "priceRange": 2
     },
@@ -2095,8 +2064,8 @@
       "latitude": 49.00878525342304,
       "longitude": 8.404225110851845,
       "avgRating": 4.7,
-      "ratingsCount": 675,
-      "reviewsCount": 156,
+      "ratingsCount": 679,
+      "reviewsCount": 158,
       "images": [
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/a0a4c823-ee2f-4113-84ef-67017d3bb6a7.jpeg",
@@ -2106,6 +2075,45 @@
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/0057f181-f7d4-4aae-941d-2801744fe967.jpeg",
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/1d14de55-8882-40bf-b813-6f8854edec27.jpeg",
         "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/ea15a014-edd6-40b6-92c4-6c06ac7554a3.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Burgerheart",
+      "uuid": "35cf90c0-3685-430f-a6f4-cc3df91dcbcb",
+      "deals": [
+        {
+          "uuid": "8125f0c6-f057-4d30-8cd4-e83ae10fd9d3",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "09527118-0b7d-488d-9496-08dc57a6097f",
+          "name": "2for1 Cocktail",
+          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 13,
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Kaiserstraße 134",
+      "zipCode": "76133",
+      "latitude": 49.01012728176009,
+      "longitude": 8.396175093865812,
+      "avgRating": 4.8,
+      "ratingsCount": 1145,
+      "reviewsCount": 218,
+      "images": [
+        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
+        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
+        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/aa40b91c-a2e0-4f4a-a814-7f6d785794a5.jpeg",
+        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/5966d46f-10f5-4edf-b2ae-d3a996fb44da.jpeg",
+        "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/d2e04c4a-6b55-4200-a670-6e62f9e8a701.jpeg"
       ],
       "priceRange": 2
     },
@@ -2547,7 +2555,7 @@
       "latitude": 49.00900466252355,
       "longitude": 8.414438352148224,
       "avgRating": 4.9,
-      "ratingsCount": 380,
+      "ratingsCount": 382,
       "reviewsCount": 85,
       "images": [
         "https://assets.neotaste.com/restaurants/88cf1c14-c639-4f22-b93f-8cd144719b06/images/abe963c1-c080-42a5-9f20-3750e36e39c3.jpeg",
@@ -2627,8 +2635,8 @@
       "latitude": 49.00096131061614,
       "longitude": 8.3943422856344,
       "avgRating": 4.8,
-      "ratingsCount": 120,
-      "reviewsCount": 26,
+      "ratingsCount": 121,
+      "reviewsCount": 27,
       "images": [
         "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6e890239-63f9-4684-9d7d-226aef05fe0f.jpeg",
         "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/2af0b526-a5be-4803-8a46-6568f47d2324.jpeg",
@@ -2942,7 +2950,7 @@
       "latitude": 49.00726713061405,
       "longitude": 8.39269658322028,
       "avgRating": 4.9,
-      "ratingsCount": 36,
+      "ratingsCount": 37,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/7b97eaa2-0e3c-4997-b4ce-e8c539b1bc90/images/609ebecc-c766-4999-aec8-9ee98f78f2ea.jpeg",
@@ -3933,7 +3941,7 @@
       "latitude": 49.01087310130616,
       "longitude": 8.39427486519315,
       "avgRating": 4.8,
-      "ratingsCount": 112,
+      "ratingsCount": 113,
       "reviewsCount": 29,
       "images": [
         "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
@@ -4149,8 +4157,8 @@
       "zipCode": "76133",
       "latitude": 49.0079435,
       "longitude": 8.389689700000002,
-      "avgRating": 0,
-      "ratingsCount": 0,
+      "avgRating": 5,
+      "ratingsCount": 1,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/26b1b874-39b0-4d97-ba1d-81a1a40503c7.jpg",
@@ -4161,6 +4169,45 @@
         "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/8fe3f967-5840-4018-9754-449ddd2bbf87.jpeg",
         "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/95390eb2-ec7b-411c-8021-84a566e828c4.jpeg",
         "https://assets.neotaste.com/restaurants/c24bc920-ba9d-429f-995a-0107463a86fd/images/15636026-cb02-4b2e-b975-0fe55b77f2d6.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Hemingway Lounge",
+      "uuid": "c6d3274a-9a07-4050-b33f-aaf05e38e9b4",
+      "deals": [
+        {
+          "uuid": "17f62817-b898-45e8-8ef2-163325e5c76e",
+          "name": "2for1 Spritzer",
+          "conditions": "Order 2 Spritzers of your choice, the cheaper/equivalent one will not be charged. Choice of drinks from the \"Aperitif\" menu.\n\nON WEDNESDAY, FRIDAY AND SATURDAY EVENING EVENTS TAKE PLACE, ADMISSION IS CHARGED.",
+          "locationCondition": "onSite",
+          "value": 8,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "a02b2acf-e476-4726-b7ff-d11c6bd419e7",
+          "name": "2for1 Tapas",
+          "conditions": "You order 2 tapas of your choice, the cheaper/equally priced one will not be charged. Choice of tapas from the \"For the small appetite\" menu.\n\nON WEDNESDAY, FRIDAY AND SATURDAY EVENING EVENTS TAKE PLACE, ENTRY IS CHARGED.",
+          "locationCondition": "onSite",
+          "value": 12,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Uhlandstraße 26",
+      "zipCode": "76135",
+      "latitude": 49.0093533,
+      "longitude": 8.374763399999999,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/96412bc3-749a-4609-994f-3b8369cc1daa.jpeg",
+        "https://assets.neotaste.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/dcabbab9-393a-421d-87b4-5cf48729b38e.jpeg",
+        "https://assets.neotaste.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/bf22236d-8dea-4b46-9caf-dec5916cfc8a.jpeg",
+        "https://assets.neotaste.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/0125ee63-abd0-4ae5-aac2-46d7d9c4f2f3.jpeg",
+        "https://assets.neotaste.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/c810c05e-0fed-45bb-ab06-f1de445d5a58.jpeg"
       ],
       "priceRange": 2
     }
