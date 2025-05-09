@@ -2047,9 +2047,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 62
+    },
+    {
+      "date": "2025-05-09",
+      "total_restaurants": 32,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 64
     }
   ],
-  "last_updated": "2025-05-08",
+  "last_updated": "2025-05-09",
   "restaurants": [
     {
       "name": "Wilma Wunder am Markt",
@@ -2079,8 +2087,8 @@
       "latitude": 49.99982870133544,
       "longitude": 8.27372691427238,
       "avgRating": 4.8,
-      "ratingsCount": 578,
-      "reviewsCount": 121,
+      "ratingsCount": 580,
+      "reviewsCount": 122,
       "images": [
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
@@ -2121,8 +2129,8 @@
       "latitude": 49.99867599138207,
       "longitude": 8.277129470552216,
       "avgRating": 4.7,
-      "ratingsCount": 185,
-      "reviewsCount": 57,
+      "ratingsCount": 187,
+      "reviewsCount": 58,
       "images": [
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/83dcb137-3785-4cf2-936f-2f08c599021e.jpeg",
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/390c7b5e-32ed-428e-9b2d-d93276947e3c.jpeg",
@@ -2273,8 +2281,8 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.8,
-      "ratingsCount": 668,
-      "reviewsCount": 109,
+      "ratingsCount": 669,
+      "reviewsCount": 110,
       "images": [
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/5b9c298c-dedc-4c71-87a1-965c1be5a1ee.jpeg",
@@ -2391,8 +2399,8 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 839,
-      "reviewsCount": 155,
+      "ratingsCount": 840,
+      "reviewsCount": 156,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/fc3f7896-8bf2-4992-b3e6-cf5372380dac.jpeg",
@@ -2502,8 +2510,8 @@
       "latitude": 50.00178071124446,
       "longitude": 8.264891912193557,
       "avgRating": 4.9,
-      "ratingsCount": 263,
-      "reviewsCount": 61,
+      "ratingsCount": 264,
+      "reviewsCount": 62,
       "images": [
         "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
         "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/cfa85514-27a2-422e-965b-efa2c893bbe0.png",
@@ -2735,8 +2743,8 @@
       "zipCode": "55116",
       "latitude": 50.00076555668208,
       "longitude": 8.271083735276106,
-      "avgRating": 4.6,
-      "ratingsCount": 88,
+      "avgRating": 4.7,
+      "ratingsCount": 89,
       "reviewsCount": 30,
       "images": [
         "https://assets.neotaste.com/restaurants/f6f2b909-8b49-4f97-ab9b-1177c9bea660/images/b00136dd-18d3-47b9-b763-1aeef10d2e44.jpeg"
@@ -2927,7 +2935,7 @@
       "latitude": 49.97462545073654,
       "longitude": 8.237424780932672,
       "avgRating": 4.9,
-      "ratingsCount": 54,
+      "ratingsCount": 55,
       "reviewsCount": 15,
       "images": [
         "https://assets.neotaste.com/restaurants/76a12817-009c-4962-99eb-df37a9e18572/images/7296b980-c72c-458b-a212-87116b96acd0.jpeg",
@@ -3085,15 +3093,38 @@
     {
       "name": "Misaki - Sushi Grill Bar",
       "uuid": "7677f70d-50f3-4a25-b475-aafb22721c18",
-      "deals": [],
-      "address": "",
-      "zipCode": "",
+      "deals": [
+        {
+          "uuid": "87c91440-17be-45bb-f021-08dc1b26f2da",
+          "name": "2for1 Sushi Menu",
+          "conditions": "You order 2 sushi menus of your choice (excluding P5, P7, P11, P12) and/or salad, soup, etc. (excluding 208, 212), the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "db818aa7-c313-4fd7-4576-08dc1a639f8e",
+          "name": "Free Dessert",
+          "conditions": "Order a main course of your choice and receive a free dessert.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Rheinstraße 4",
+      "zipCode": "55116",
       "latitude": 49.99611164683669,
       "longitude": 8.279427615916552,
       "avgRating": 4.7,
       "ratingsCount": 166,
-      "reviewsCount": null,
-      "images": [],
+      "reviewsCount": 34,
+      "images": [
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/4e7a7309-b765-4768-8821-da14ee06f373.jpeg",
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/3058e130-98ba-451c-933c-30346a74f15f.jpeg",
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/2c97f8e3-a81b-4463-8f84-8c10d2e7a21e.jpeg"
+      ],
       "priceRange": 2
     },
     {
