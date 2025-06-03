@@ -1,5 +1,60 @@
 [
   {
+    "uuid": "b48a4ba5-22f3-4fce-8137-ca6648f7130d",
+    "name": "PETER PANE Burgergrill & Bar - Eschenheimer Anlage",
+    "slug": "peter-pane-burgergrill-bar-eschenheimer-anlage",
+    "address": "Eschenheimer Anlage 40",
+    "addressOptional": null,
+    "zipCode": "60318",
+    "latitude": 50.11827935753266,
+    "longitude": 8.679354793038376,
+    "deals": [
+      {
+        "uuid": "a7653966-b377-4371-90d7-89007d0ca73d",
+        "name": "🌟 1€ Bundle Deal 🌟",
+        "conditions": "🍰☕ €1 Bundle Deal ☕🍰\n\nOrder a Sweet and a coffee speciality of your choice and pay only €1!\nFrozen yoghurt is not included in this offer.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "be5190b3-1f1a-468b-3008-08db4586df23",
+        "name": "2for1 Burger",
+        "conditions": "You order 2 burgers of your choice and you get a 50% discount on both. (The deal must be shown before ordering) Not to be combined with menus.",
+        "locationCondition": "onSite",
+        "value": 25,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "meat",
+        "name": "Meat"
+      }
+    ],
+    "avgRating": 4.7,
+    "ratingsCount": 1850,
+    "reviewsCount": 312,
+    "images": [
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/74e988b9-653d-4219-ada4-784c379dc151.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/101d8896-0afc-4580-be60-77a2e13dca0e.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/ef612f20-95ec-4d46-9163-c1616dde6764.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/bb623186-550d-4c5a-9b10-67a33726d393.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/78782ed7-c012-4078-8372-7fdf7d61e247.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/61840867-eddf-48e7-a293-393661c09b66.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/0b67f047-e611-40a6-ad56-bd74e3330a10.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/8c8e44a6-54bc-4c3a-a554-b7d6e6cd3504.jpeg",
+      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/fa29cc81-cb55-4925-a75c-e168b4b4dd99.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "fc56c998-5eaf-4be2-81b2-7fce2471ec6a",
     "name": "Streetfood 269",
     "slug": "streetfood-269",
@@ -91,7 +146,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 2411,
+    "ratingsCount": 2412,
     "reviewsCount": 519,
     "images": [
       "https://assets.neotaste.com/restaurants/b6d492f7-ac42-4774-8847-1d8fdda11783/images/803950a9-be17-4807-97b1-10d6f48a5b81.jpeg",
@@ -196,7 +251,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 2098,
+    "ratingsCount": 2102,
     "reviewsCount": 473,
     "images": [
       "https://assets.neotaste.com/restaurants/2ac46703-5539-41e8-b85e-2651a300e713/images/7ef11ffa-3ece-4444-804b-65401df16e89.jpeg",
@@ -245,7 +300,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1421,
+    "ratingsCount": 1422,
     "reviewsCount": 193,
     "images": [
       "https://assets.neotaste.com/restaurants/a88e59a5-6a76-4804-8034-d3d6d1154474/images/8fe9cb2d-84bb-4ceb-9c88-4817de13b1c4.jpeg",
@@ -258,65 +313,6 @@
       "https://assets.neotaste.com/restaurants/a88e59a5-6a76-4804-8034-d3d6d1154474/images/333fd3b6-6729-41a8-9a0f-e6b6d1024680.jpeg",
       "https://assets.neotaste.com/restaurants/a88e59a5-6a76-4804-8034-d3d6d1154474/images/af58fadd-e89d-403a-ad43-b805cd1c3140.jpeg",
       "https://assets.neotaste.com/restaurants/a88e59a5-6a76-4804-8034-d3d6d1154474/images/93553b95-0634-483e-ba19-4e1192efc07f.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "b48a4ba5-22f3-4fce-8137-ca6648f7130d",
-    "name": "PETER PANE Burgergrill & Bar - Eschenheimer Anlage",
-    "slug": "peter-pane-burgergrill-bar-eschenheimer-anlage",
-    "address": "Eschenheimer Anlage 40",
-    "addressOptional": null,
-    "zipCode": "60318",
-    "latitude": 50.11827935753266,
-    "longitude": 8.679354793038376,
-    "deals": [
-      {
-        "uuid": "5586890d-da2f-423b-3009-08db4586df23",
-        "name": "🌟 €1 Dessert Menu 🌟",
-        "conditions": "🍰☕ €1 Dessert Menu ☕🍰\n\nOrder a dessert menu (Cheesecake & Coffee Drink) of your choice and pay only €1!",
-        "locationCondition": "onSite",
-        "value": 6,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "eb403a75-3584-4080-7a1e-08dca240e941",
-        "name": "2for1 Aperitif",
-        "conditions": "Order 2 aperitifs of your choice and receive 50% discount on both. (The deal must be shown before ordering).",
-        "locationCondition": "onSite",
-        "value": 8,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
-        "slug": "event-deal",
-        "name": "Event Deal"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 1844,
-    "reviewsCount": 309,
-    "images": [
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/74e988b9-653d-4219-ada4-784c379dc151.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/101d8896-0afc-4580-be60-77a2e13dca0e.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/ef612f20-95ec-4d46-9163-c1616dde6764.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/bb623186-550d-4c5a-9b10-67a33726d393.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/78782ed7-c012-4078-8372-7fdf7d61e247.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/61840867-eddf-48e7-a293-393661c09b66.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/0b67f047-e611-40a6-ad56-bd74e3330a10.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/8c8e44a6-54bc-4c3a-a554-b7d6e6cd3504.jpeg",
-      "https://assets.neotaste.com/restaurants/a66222e0-fc18-42c2-a0cc-fe2a76190fa3/images/fa29cc81-cb55-4925-a75c-e168b4b4dd99.jpeg"
     ],
     "priceRange": 2
   },
@@ -417,7 +413,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 2408,
+    "ratingsCount": 2409,
     "reviewsCount": 373,
     "images": [
       "https://assets.neotaste.com/restaurants/d2887d30-7fb0-441d-a91b-9fba5e0e2011/images/84c9dd78-41a6-4f4b-bdac-a9177b8b5e45.jpg",
@@ -524,8 +520,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1718,
-    "reviewsCount": 296,
+    "ratingsCount": 1720,
+    "reviewsCount": 297,
     "images": [
       "https://assets.neotaste.com/restaurants/30fc9fd4-b566-46b3-829c-fa30da5d34e8/images/e5f5a778-7983-49f1-a1ce-0a2c048b4616.jpeg",
       "https://assets.neotaste.com/restaurants/30fc9fd4-b566-46b3-829c-fa30da5d34e8/images/4933baf4-e314-419b-9977-2d3c4f5dab06.jpeg"
@@ -680,8 +676,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 537,
-    "reviewsCount": 139,
+    "ratingsCount": 538,
+    "reviewsCount": 140,
     "images": [
       "https://assets.neotaste.com/restaurants/ff7660be-bb9c-40bf-ac6e-304cbb908871/images/7b58b8f5-7298-43e5-8472-f61497300d3a.jpeg",
       "https://assets.neotaste.com/restaurants/ff7660be-bb9c-40bf-ac6e-304cbb908871/images/e2eb913b-ff1f-442d-a780-61b1da2ca770.jpeg",
@@ -891,8 +887,8 @@
       }
     ],
     "avgRating": 4.5,
-    "ratingsCount": 371,
-    "reviewsCount": 58,
+    "ratingsCount": 373,
+    "reviewsCount": 60,
     "images": [
       "https://assets.neotaste.com/restaurants/840fe3bd-452e-4b05-92c9-32fa60ef0b18/images/2b165eb4-e961-4bbd-ab13-153d9aafbcd7.jpeg",
       "https://assets.neotaste.com/restaurants/840fe3bd-452e-4b05-92c9-32fa60ef0b18/images/04336def-a660-4f19-a5bd-c1e104867496.jpeg",
@@ -1099,7 +1095,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 859,
+    "ratingsCount": 861,
     "reviewsCount": 204,
     "images": [
       "https://assets.neotaste.com/restaurants/052c4e8d-5b48-4f76-9f9d-585fc6d8e1ab/images/fb37dcde-ce81-4998-a27c-f22cc1ddf785.jpeg",
@@ -1154,7 +1150,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1522,
+    "ratingsCount": 1523,
     "reviewsCount": 211,
     "images": [
       "https://assets.neotaste.com/restaurants/b82695b9-b4b3-4600-9905-ff3d680639f0/images/bd84f260-c7a6-4d48-9412-ad346b19cb4b.jpeg",
@@ -1470,7 +1466,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 764,
+    "ratingsCount": 765,
     "reviewsCount": 154,
     "images": [
       "https://assets.neotaste.com/restaurants/82866d4e-eb33-40c1-9484-5b680247c815/images/486524bb-537b-4748-9a68-4a83b5494ecc.jpeg",
@@ -1575,7 +1571,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 81,
+    "ratingsCount": 82,
     "reviewsCount": 11,
     "images": [
       "https://assets.neotaste.com/restaurants/27e64831-6d59-437a-beba-11f33279e4e4/images/42c59b40-1fec-4162-9c76-394156bd36d1.jpeg",
@@ -1881,7 +1877,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 224,
+    "ratingsCount": 225,
     "reviewsCount": 34,
     "images": [
       "https://assets.neotaste.com/restaurants/29a6ef15-fca1-4898-9f05-0293068643bb/images/3e5e31c2-2716-46b4-b05f-ebd7e49889c5.jpeg",
@@ -2183,8 +2179,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 887,
-    "reviewsCount": 167,
+    "ratingsCount": 888,
+    "reviewsCount": 168,
     "images": [
       "https://assets.neotaste.com/restaurants/187434ce-a3e9-442e-8100-2268d3656625/images/5ffe7bd0-44a9-4271-9c78-3424d5648c04.jpeg",
       "https://assets.neotaste.com/restaurants/187434ce-a3e9-442e-8100-2268d3656625/images/3ddf84da-b07e-4aa3-bd35-0cc1124dffad.jpeg",
@@ -2391,8 +2387,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 183,
-    "reviewsCount": 26,
+    "ratingsCount": 184,
+    "reviewsCount": 27,
     "images": [
       "https://assets.neotaste.com/restaurants/bb5cacbf-399a-489e-8d33-202eb135c279/images/133a80ae-f168-49aa-b24f-6729692b37c2.jpeg",
       "https://assets.neotaste.com/restaurants/bb5cacbf-399a-489e-8d33-202eb135c279/images/d8438e27-472b-4f60-969d-1766e858543f.jpeg",
@@ -3057,7 +3053,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 258,
+    "ratingsCount": 259,
     "reviewsCount": 69,
     "images": [
       "https://assets.neotaste.com/restaurants/a56d8205-be63-4a23-94aa-0669c1e2f15a/images/a0597afa-230a-4deb-9bcf-8beaa5697ac6.jpeg",
@@ -3499,8 +3495,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 883,
-    "reviewsCount": 137,
+    "ratingsCount": 885,
+    "reviewsCount": 138,
     "images": [
       "https://assets.neotaste.com/restaurants/b7cbfc24-880f-4cc2-944c-88c59c52130a/images/4b0a7dce-9c5d-46b6-af0c-0574931caf36.jpeg",
       "https://assets.neotaste.com/restaurants/b7cbfc24-880f-4cc2-944c-88c59c52130a/images/da90eacf-6c70-4ec4-8211-a9cecfa95e51.png",
@@ -3648,8 +3644,8 @@
         "name": "Cake"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 21,
+    "avgRating": 4.7,
+    "ratingsCount": 22,
     "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/ebf2b1c3-94f0-4ba6-bce6-69d17f9f94d6/images/6bfb42fe-c60e-4d3a-a45f-3da66eb0639b.jpeg",
@@ -3989,7 +3985,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 125,
+    "ratingsCount": 126,
     "reviewsCount": 19,
     "images": [
       "https://assets.neotaste.com/restaurants/24a12561-ce68-45cd-a940-84261e19d2e0/images/beb48ae6-d076-4534-bc1d-4affa10080c2.png",
@@ -4387,7 +4383,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 506,
+    "ratingsCount": 509,
     "reviewsCount": 82,
     "images": [
       "https://assets.neotaste.com/restaurants/51fd5566-b555-4b33-925a-6ec57238f0ff/images/a40bfd34-e795-452d-87ce-35a80429bedc.jpeg"
@@ -4779,7 +4775,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1185,
+    "ratingsCount": 1186,
     "reviewsCount": 180,
     "images": [
       "https://assets.neotaste.com/restaurants/5213c156-d8e2-45c6-9261-7ba72e9fbdab/images/90b3504d-c434-4ba7-97cc-a13f09917c07.jpeg",
@@ -4969,7 +4965,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 734,
+    "ratingsCount": 735,
     "reviewsCount": 122,
     "images": [
       "https://assets.neotaste.com/restaurants/07945257-dc20-4cdc-b612-dbe2f5f6c515/images/ae69a0f5-33d6-4ebd-8fe8-e7ed6d639c47.jpeg",
@@ -5529,8 +5525,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 365,
-    "reviewsCount": 111,
+    "ratingsCount": 366,
+    "reviewsCount": 112,
     "images": [
       "https://assets.neotaste.com/restaurants/a6cca7cf-4301-4b12-8e21-89ccc2c0a23f/images/2e3bce19-f3e6-499e-be91-cbc45b333ce3.jpeg"
     ],
@@ -5913,8 +5909,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 232,
-    "reviewsCount": 29,
+    "ratingsCount": 234,
+    "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/5b587687-2e4b-4e9b-8875-a3f00c75f600/images/cd975502-4cfc-4d60-903f-6dcf7eafdc06.jpeg",
       "https://assets.neotaste.com/restaurants/5b587687-2e4b-4e9b-8875-a3f00c75f600/images/a3305340-c68b-4cf1-87ab-5c301e21b922.jpeg"
@@ -6483,8 +6479,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 236,
-    "reviewsCount": 39,
+    "ratingsCount": 237,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/bff27faf-38a6-42ca-8080-5563ed94b723/images/dd1b121a-2cfd-4e4c-981d-a248255a281a.jpeg",
       "https://assets.neotaste.com/restaurants/bff27faf-38a6-42ca-8080-5563ed94b723/images/72d8eb80-6feb-4eb4-be8e-19ff106a4864.jpeg"
@@ -6691,55 +6687,6 @@
     "priceRange": 3
   },
   {
-    "uuid": "11bf5f41-2bb5-4519-92bc-c7630667afca",
-    "name": "Okka Turkish Bakery",
-    "slug": "okka-turkish-bakery",
-    "address": "Hanauer Landstraße 21 a",
-    "addressOptional": null,
-    "zipCode": "60314",
-    "latitude": 50.11334921500244,
-    "longitude": 8.697938735204913,
-    "deals": [
-      {
-        "uuid": "e2afbf59-9012-4f16-4838-08dca63fa640",
-        "name": "€10 Discount",
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "84969944-3149-45dc-4839-08dca63fa640",
-        "name": "FREE Turkish Mocha",
-        "conditions": "Order a portion of baklava of your choice and receive a free Turkish mocha.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 30,
-    "reviewsCount": 8,
-    "images": [
-      "https://assets.neotaste.com/restaurants/a431c69b-4d55-4056-bce4-094acd05ac8b/images/fd7f6fae-15cf-4687-b622-363c0b55e4c4.png",
-      "https://assets.neotaste.com/restaurants/a431c69b-4d55-4056-bce4-094acd05ac8b/images/1355bd69-7f16-49c7-8714-4553e8034e4d.png",
-      "https://assets.neotaste.com/restaurants/a431c69b-4d55-4056-bce4-094acd05ac8b/images/7868e771-7172-4ec8-914c-d462a604e9bc.png"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "06601fa5-400e-41bd-b237-6e5d32c477b5",
     "name": "L'Osteria Hanau Freiheitsplatz",
     "slug": "losteria-hanau-freiheitsplatz",
@@ -6935,7 +6882,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 645,
+    "ratingsCount": 646,
     "reviewsCount": 79,
     "images": [
       "https://assets.neotaste.com/restaurants/b6076b2c-7f6b-4712-bdc8-0ef9c2c0ce2d/images/8f1f6721-211d-47f8-ae40-eb30a6cd97f1.jpeg",
@@ -7147,31 +7094,82 @@
     "priceRange": 1
   },
   {
-    "uuid": "cb5854d3-828a-4b1a-8fb5-913023c0cf37",
-    "name": "Food Busters",
-    "slug": "food-busters",
-    "address": "Zuckschwerdtstraße 29",
+    "uuid": "14c5ba6c-be19-4235-8086-398bd7c2f345",
+    "name": "gutviertel",
+    "slug": "gutviertel",
+    "address": "Wiesenhüttenstraße 39",
     "addressOptional": null,
-    "zipCode": "65929",
-    "latitude": 50.10553593967752,
-    "longitude": 8.551167697114638,
+    "zipCode": "60329",
+    "latitude": 50.1058355,
+    "longitude": 8.6656876,
     "deals": [
       {
-        "uuid": "dcc3d1b8-6484-43f6-b24c-78ea27e14aed",
-        "name": "2for1 Burger",
-        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "712d7ca0-ee36-40f5-b78c-be3b830ccbd7",
+        "name": "2for1 Coffee Specialty",
+        "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 15,
+        "value": 4,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "6e51f69b-7081-4837-b634-e05654080f82",
-        "name": "FREE Soft Drink",
-        "conditions": "You order a burger of your choice and get a free soft drink.",
+        "uuid": "7b881fb4-c9e9-47f7-a188-39cc98101030",
+        "name": "2for1 Pastry",
+        "conditions": "You order 2 pastries of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "cake",
+        "name": "Cake"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 10,
+    "reviewsCount": 2,
+    "images": [
+      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/8a32ebab-aa21-4e4d-babe-de67194643a9.jpg",
+      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/0b66d8df-88bf-48cf-ad4e-3c62fbcc501c.jpg",
+      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/1530abd4-8e39-4408-ad41-b00fbb4727d1.jpg",
+      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/0e514e2b-ad0e-4581-af3a-9e43ad13f7ee.jpg",
+      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/39f5bf18-1614-4c9d-b480-328b8abaa030.jpg"
+    ],
+    "priceRange": 1
+  },
+  {
+    "uuid": "11fc24dd-97d5-497a-8f67-adabcc80b0cf",
+    "name": "Fryer and Flame",
+    "slug": "fryer-and-flame",
+    "address": "Taunusstraße 25",
+    "addressOptional": null,
+    "zipCode": "60329",
+    "latitude": 50.1093529,
+    "longitude": 8.667472999999998,
+    "deals": [
+      {
+        "uuid": "6fdac0f3-672e-4fab-97dd-dbb16db9f333",
+        "name": "2for1 Taco",
+        "conditions": "You order 2 tacos of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 20,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "a6592282-80a2-46f7-8d53-f9fa77ec9fcc",
+        "name": "2for1 Chicken Wings",
+        "conditions": "You order 2 chicken wings (6 Stück) of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 13,
+        "daysToReset": 13,
         "status": "available"
       }
     ],
@@ -7185,18 +7183,19 @@
         "name": "Meat"
       },
       {
-        "slug": "german",
-        "name": "German"
+        "slug": "vegan",
+        "name": "Vegan"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 13,
-    "reviewsCount": 4,
+    "avgRating": 4.9,
+    "ratingsCount": 8,
+    "reviewsCount": 3,
     "images": [
-      "https://assets.neotaste.com/restaurants/cb5854d3-828a-4b1a-8fb5-913023c0cf37/images/4f315def-05f8-4eb6-b040-a246d9668ad6.png",
-      "https://assets.neotaste.com/restaurants/cb5854d3-828a-4b1a-8fb5-913023c0cf37/images/cdaf5072-9150-4756-b97c-6913c0bf5ead.png"
+      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/2115780c-f4da-4387-a415-15be8ce74fad.jpeg",
+      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/b2b7a90b-8fe4-478d-9c04-7609b3f887fe.jpeg",
+      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/65464808-5e88-4021-a5e1-856790d5cde2.png"
     ],
-    "priceRange": 2
+    "priceRange": 1
   },
   {
     "uuid": "d6a3995c-23f4-4979-9f45-7f45e7b312cd",
@@ -7253,30 +7252,30 @@
     "priceRange": 2
   },
   {
-    "uuid": "69dc53bd-d736-4ddd-a8f2-68e33358269d",
-    "name": "Kaffeegenuss",
-    "slug": "kaffeegenuss",
-    "address": "Carl-Theodor-Reiffenstein-Platz 5",
+    "uuid": "dc22474d-635a-4a41-aab4-54df2bfd1e27",
+    "name": "Richard Diana Patisserie",
+    "slug": "richard-diana-patisserie",
+    "address": "Friedberger Anlage 14",
     "addressOptional": null,
-    "zipCode": "60313",
-    "latitude": 50.1139428,
-    "longitude": 8.6842296,
+    "zipCode": "60316",
+    "latitude": 50.11632299999999,
+    "longitude": 8.6948799,
     "deals": [
       {
-        "uuid": "b074b6e2-464b-424d-b5b9-9279a4211ea8",
-        "name": "2for1 Hot Drink + Cake",
-        "conditions": "You order 2 hot drinks and 2 cakes of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "9cf81924-03c9-4b95-ba84-42928b5efd3e",
+        "name": "2for1 Croffle",
+        "conditions": "You order 2 croffles of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 8,
+        "value": 14,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "2f38539a-dea3-4552-8131-9beaed748159",
-        "name": "2for1 Aperitif",
-        "conditions": "You order two aperitifs of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "7c6c831f-e98d-4c48-9998-9beb2bd99563",
+        "name": "FREE Drink",
+        "conditions": "You order a tart of your choice and get an iced coffee for free.",
         "locationCondition": "onSite",
-        "value": 10,
+        "value": 4,
         "daysToReset": 90,
         "status": "available"
       }
@@ -7285,77 +7284,67 @@
       {
         "slug": "cafe",
         "name": "Café"
-      },
-      {
-        "slug": "cake",
-        "name": "Cake"
       }
     ],
-    "avgRating": 4.8,
+    "avgRating": 5,
     "ratingsCount": 5,
-    "reviewsCount": 1,
+    "reviewsCount": 2,
     "images": [
-      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/445ed913-ba05-4794-a9ed-3380e7f59c0b.jpg",
-      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/14f16c1b-cf35-47a2-9c98-f230018831f9.jpg",
-      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/68e11e62-e069-4d36-954e-cc5eefc8983b.jpg",
-      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/af5c9748-bc12-4a8b-b67b-8ea78fb24ed5.jpg"
+      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/d5a10186-f1f4-465c-97bd-44683a6684b6.jpg",
+      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/11d2e74b-de2c-4986-a954-ff9809c5cbf8.jpg",
+      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/345d5760-b45a-4850-ab3d-fe7cc7736f6d.jpg"
     ],
     "priceRange": 1
   },
   {
-    "uuid": "7e325544-0493-4509-8c4f-db692cf55276",
-    "name": "Ciccione",
-    "slug": "ciccione",
-    "address": "Münchener Straße 41",
+    "uuid": "dd40f456-72e4-4966-a64b-7087eccafc88",
+    "name": "Ohm Street Burger",
+    "slug": "ohm-street-burger",
+    "address": "Ohmstraße 57",
     "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.10711430000001,
-    "longitude": 8.6679979,
+    "zipCode": "60486",
+    "latitude": 50.11731450000001,
+    "longitude": 8.634235300000002,
     "deals": [
       {
-        "uuid": "19ae737c-8592-488c-8dfe-086a46b16412",
-        "name": "2for1 Pizza",
-        "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "69bf66ca-5ffc-4725-b6d2-f37e711423b5",
+        "name": "2for1 Burger",
+        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 7,
+        "value": 15,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "62b707ff-2ec0-49f3-9a1e-dd9087a65067",
-        "name": "FREE Espresso",
-        "conditions": "You order any item of your choice and get an espresso for free.",
+        "uuid": "f7ace711-74a8-4187-9172-b69b432c465b",
+        "name": "FREE Fries",
+        "conditions": "You order a burger of your choice and get a fries for free.",
         "locationCondition": "onSite",
-        "value": 3,
+        "value": 5,
         "daysToReset": 90,
         "status": "available"
       }
     ],
     "tags": [
       {
-        "slug": "pizza",
-        "name": "Pizza"
+        "slug": "burgers",
+        "name": "Burgers"
       },
       {
-        "slug": "italian",
-        "name": "Italian"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
+        "slug": "drinks",
+        "name": "Drinks"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "reviewsCount": 1,
     "images": [
-      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/449b13e4-8f1e-4c43-8bc0-2c934d4290e0.jpg",
-      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/b5010984-2837-426c-8caf-f3af765a1837.jpg",
-      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/8d19502b-1833-47dc-ae21-786741702bfb.jpg",
-      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/50ce5134-7b21-460b-aecd-5e71d3832fd1.jpg",
-      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/ce7303c2-70bb-4809-86c9-04a176bafd55.jpg"
+      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/9d6d9b25-ddb1-4964-aef4-3ec042e65732.jpg",
+      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/3b0aa396-6c02-4fca-ba03-45f7759fa022.jpg",
+      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/43d23ee4-221c-41b8-8fcd-7d8dcb85228b.jpg",
+      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/0352edca-bcdf-4b3e-8ecf-06a61de53b2b.jpg"
     ],
-    "priceRange": 1
+    "priceRange": 2
   },
   {
     "uuid": "e9a1d948-f52d-40ff-84c2-76458e4a7c4f",
@@ -7412,17 +7401,170 @@
     "priceRange": 1
   },
   {
-    "uuid": "dd40f456-72e4-4966-a64b-7087eccafc88",
-    "name": "Ohm Street Burger",
-    "slug": "ohm-street-burger",
-    "address": "Ohmstraße 57",
+    "uuid": "0588efa9-4283-4fba-8227-04d4074389b5",
+    "name": "Basak Korean Corndogs",
+    "slug": "basak-korean-corndogs",
+    "address": "Kaiserstraße 81",
     "addressOptional": null,
-    "zipCode": "60486",
-    "latitude": 50.11731450000001,
-    "longitude": 8.634235300000002,
+    "zipCode": "60329",
+    "latitude": 50.1075282,
+    "longitude": 8.665828999999999,
     "deals": [
       {
-        "uuid": "69bf66ca-5ffc-4725-b6d2-f37e711423b5",
+        "uuid": "45eb4c4b-a7dd-4952-b08f-208cae87e778",
+        "name": "2for1 Corndog",
+        "conditions": "You order 2 corndogs of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "9fb36477-be5c-4ed8-9e90-f4144befc178",
+        "name": "FREE SoftDrink",
+        "conditions": "You order any items of your choice and get a softdrink for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 4,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/f08aadd2-e939-4699-8d46-8baf3eb089f8.jpg",
+      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/35c68bd7-2a30-4e86-a2bd-0863a3eb8eaf.jpg",
+      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/4f105ba9-d160-4fd9-9277-bc788eac494c.jpg"
+    ],
+    "priceRange": 1
+  },
+  {
+    "uuid": "f0594f23-b08f-4a37-96ad-893953cdf3db",
+    "name": "Bagery",
+    "slug": "bagery",
+    "address": "Voltastraße 82",
+    "addressOptional": null,
+    "zipCode": "60486",
+    "latitude": 50.1174153,
+    "longitude": 8.630956,
+    "deals": [
+      {
+        "uuid": "7c0076ea-97e9-4e29-a969-a4545ce30e76",
+        "name": "2for1 Bagel",
+        "conditions": "You order 2 bagels of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 9,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "13e55bd5-c619-4342-b717-237db1ae55f6",
+        "name": "FREE Hot Drink",
+        "conditions": "You order a panini of your choice and get a hot drink for free.",
+        "locationCondition": "onSite",
+        "value": 51,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "dessert",
+        "name": "Dessert"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 3,
+    "reviewsCount": 2,
+    "images": [
+      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/c60644a2-a260-4a85-a68f-33f9968d582d.jpeg",
+      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/1a99dba0-7636-461a-8670-899ec852b2df.jpeg",
+      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/3b08bd42-b1be-49fb-9f2e-16a0ca598e47.jpeg",
+      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/f68fbd38-1a6a-4987-97d2-aea512ed6394.jpeg",
+      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/925730f1-1092-47cd-837c-533de4be4e9e.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "a68a9b6c-37d5-4519-84e4-fc12b9823db4",
+    "name": "Black Beat Cocktailbar",
+    "slug": "black-beat-cocktailbar",
+    "address": "Elbestraße 29",
+    "addressOptional": null,
+    "zipCode": "60329",
+    "latitude": 50.1088531,
+    "longitude": 8.6673651,
+    "deals": [
+      {
+        "uuid": "927e95a1-a8f2-4f88-8616-9a49c8b1bfac",
+        "name": "2for1 Cocktail",
+        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 13,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "33030e44-d171-4c49-be3a-1480552083bc",
+        "name": "2for1 Spritz",
+        "conditions": "You order 2 Spritz' of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 3,
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/81be639d-028f-4192-b045-c255c9cb9d76.jpg",
+      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/7b3740d6-c4bf-4cfe-9b60-94eb3675f8db.jpg",
+      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/a8dcf454-0643-41e0-9479-5d22d3580aa2.jpg"
+    ],
+    "priceRange": 4
+  },
+  {
+    "uuid": "cb5854d3-828a-4b1a-8fb5-913023c0cf37",
+    "name": "Food Busters",
+    "slug": "food-busters",
+    "address": "Zuckschwerdtstraße 29",
+    "addressOptional": null,
+    "zipCode": "65929",
+    "latitude": 50.10553593967752,
+    "longitude": 8.551167697114638,
+    "deals": [
+      {
+        "uuid": "dcc3d1b8-6484-43f6-b24c-78ea27e14aed",
         "name": "2for1 Burger",
         "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
@@ -7431,11 +7573,11 @@
         "status": "available"
       },
       {
-        "uuid": "f7ace711-74a8-4187-9172-b69b432c465b",
-        "name": "FREE Fries",
-        "conditions": "You order a burger of your choice and get a fries for free.",
+        "uuid": "6e51f69b-7081-4837-b634-e05654080f82",
+        "name": "FREE Soft Drink",
+        "conditions": "You order a burger of your choice and get a free soft drink.",
         "locationCondition": "onSite",
-        "value": 5,
+        "value": 3,
         "daysToReset": 90,
         "status": "available"
       }
@@ -7446,20 +7588,172 @@
         "name": "Burgers"
       },
       {
+        "slug": "meat",
+        "name": "Meat"
+      },
+      {
+        "slug": "german",
+        "name": "German"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 13,
+    "reviewsCount": 4,
+    "images": [
+      "https://assets.neotaste.com/restaurants/cb5854d3-828a-4b1a-8fb5-913023c0cf37/images/4f315def-05f8-4eb6-b040-a246d9668ad6.png",
+      "https://assets.neotaste.com/restaurants/cb5854d3-828a-4b1a-8fb5-913023c0cf37/images/cdaf5072-9150-4756-b97c-6913c0bf5ead.png"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "94398cf6-ef03-47af-bd92-766a31c8e360",
+    "name": "Jambo Bar",
+    "slug": "jambo-bar",
+    "address": "Elbestraße 20",
+    "addressOptional": null,
+    "zipCode": "60329",
+    "latitude": 50.1079145,
+    "longitude": 8.668828899999998,
+    "deals": [
+      {
+        "uuid": "25b09249-71b0-4c39-8161-0ef759dd90f0",
+        "name": "2for1 Drink",
+        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 13,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "868923b6-1ad1-4773-93d7-a1e4979a0ab0",
+        "name": "2for1 Drink",
+        "conditions": "You order 2 non-alcoholic cocktails of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 9,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
         "slug": "drinks",
         "name": "Drinks"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 1,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/3a0f4606-a3b9-4cde-b3b1-d6c4c26b762a.jpeg",
+      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/82d11d20-8cf8-45b8-8e6c-0a822e87b805.jpeg",
+      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/5e6ffcc4-a975-4147-9131-a6b46259da5a.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "7e325544-0493-4509-8c4f-db692cf55276",
+    "name": "Ciccione",
+    "slug": "ciccione",
+    "address": "Münchener Straße 41",
+    "addressOptional": null,
+    "zipCode": "60329",
+    "latitude": 50.10711430000001,
+    "longitude": 8.6679979,
+    "deals": [
+      {
+        "uuid": "19ae737c-8592-488c-8dfe-086a46b16412",
+        "name": "2for1 Pizza",
+        "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "62b707ff-2ec0-49f3-9a1e-dd9087a65067",
+        "name": "FREE Espresso",
+        "conditions": "You order any item of your choice and get an espresso for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
       }
     ],
     "avgRating": 5,
     "ratingsCount": 5,
     "reviewsCount": 1,
     "images": [
-      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/9d6d9b25-ddb1-4964-aef4-3ec042e65732.jpg",
-      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/3b0aa396-6c02-4fca-ba03-45f7759fa022.jpg",
-      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/43d23ee4-221c-41b8-8fcd-7d8dcb85228b.jpg",
-      "https://assets.neotaste.com/restaurants/dd40f456-72e4-4966-a64b-7087eccafc88/images/0352edca-bcdf-4b3e-8ecf-06a61de53b2b.jpg"
+      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/449b13e4-8f1e-4c43-8bc0-2c934d4290e0.jpg",
+      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/b5010984-2837-426c-8caf-f3af765a1837.jpg",
+      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/8d19502b-1833-47dc-ae21-786741702bfb.jpg",
+      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/50ce5134-7b21-460b-aecd-5e71d3832fd1.jpg",
+      "https://assets.neotaste.com/restaurants/7e325544-0493-4509-8c4f-db692cf55276/images/ce7303c2-70bb-4809-86c9-04a176bafd55.jpg"
     ],
-    "priceRange": 2
+    "priceRange": 1
+  },
+  {
+    "uuid": "69dc53bd-d736-4ddd-a8f2-68e33358269d",
+    "name": "Kaffeegenuss",
+    "slug": "kaffeegenuss",
+    "address": "Carl-Theodor-Reiffenstein-Platz 5",
+    "addressOptional": null,
+    "zipCode": "60313",
+    "latitude": 50.1139428,
+    "longitude": 8.6842296,
+    "deals": [
+      {
+        "uuid": "b074b6e2-464b-424d-b5b9-9279a4211ea8",
+        "name": "2for1 Hot Drink + Cake",
+        "conditions": "You order 2 hot drinks and 2 cakes of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "2f38539a-dea3-4552-8131-9beaed748159",
+        "name": "2for1 Aperitif",
+        "conditions": "You order two aperitifs of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "cake",
+        "name": "Cake"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 5,
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/445ed913-ba05-4794-a9ed-3380e7f59c0b.jpg",
+      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/14f16c1b-cf35-47a2-9c98-f230018831f9.jpg",
+      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/68e11e62-e069-4d36-954e-cc5eefc8983b.jpg",
+      "https://assets.neotaste.com/restaurants/69dc53bd-d736-4ddd-a8f2-68e33358269d/images/af5c9748-bc12-4a8b-b67b-8ea78fb24ed5.jpg"
+    ],
+    "priceRange": 1
   },
   {
     "uuid": "63ceb4e3-d885-4fb7-8b47-4dd906f6d59d",
@@ -7515,165 +7809,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "f0594f23-b08f-4a37-96ad-893953cdf3db",
-    "name": "Bagery",
-    "slug": "bagery",
-    "address": "Voltastraße 82",
-    "addressOptional": null,
-    "zipCode": "60486",
-    "latitude": 50.1174153,
-    "longitude": 8.630956,
-    "deals": [
-      {
-        "uuid": "7c0076ea-97e9-4e29-a969-a4545ce30e76",
-        "name": "2for1 Bagel",
-        "conditions": "You order 2 bagels of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 9,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "13e55bd5-c619-4342-b717-237db1ae55f6",
-        "name": "FREE Hot Drink",
-        "conditions": "You order a panini of your choice and get a hot drink for free.",
-        "locationCondition": "onSite",
-        "value": 51,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "dessert",
-        "name": "Dessert"
-      },
-      {
-        "slug": "breakfast",
-        "name": "Breakfast"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 2,
-    "reviewsCount": 1,
-    "images": [
-      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/c60644a2-a260-4a85-a68f-33f9968d582d.jpeg",
-      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/1a99dba0-7636-461a-8670-899ec852b2df.jpeg",
-      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/3b08bd42-b1be-49fb-9f2e-16a0ca598e47.jpeg",
-      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/f68fbd38-1a6a-4987-97d2-aea512ed6394.jpeg",
-      "https://assets.neotaste.com/restaurants/f0594f23-b08f-4a37-96ad-893953cdf3db/images/925730f1-1092-47cd-837c-533de4be4e9e.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "11fc24dd-97d5-497a-8f67-adabcc80b0cf",
-    "name": "Fryer and Flame",
-    "slug": "fryer-and-flame",
-    "address": "Taunusstraße 25",
-    "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.1093529,
-    "longitude": 8.667472999999998,
-    "deals": [
-      {
-        "uuid": "6fdac0f3-672e-4fab-97dd-dbb16db9f333",
-        "name": "2for1 Taco",
-        "conditions": "You order 2 tacos of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 20,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "a6592282-80a2-46f7-8d53-f9fa77ec9fcc",
-        "name": "2for1 Chicken Wings",
-        "conditions": "You order 2 chicken wings (6 Stück) of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 13,
-        "daysToReset": 13,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "meat",
-        "name": "Meat"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 6,
-    "reviewsCount": 3,
-    "images": [
-      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/2115780c-f4da-4387-a415-15be8ce74fad.jpeg",
-      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/b2b7a90b-8fe4-478d-9c04-7609b3f887fe.jpeg",
-      "https://assets.neotaste.com/restaurants/11fc24dd-97d5-497a-8f67-adabcc80b0cf/images/65464808-5e88-4021-a5e1-856790d5cde2.png"
-    ],
-    "priceRange": 1
-  },
-  {
-    "uuid": "14c5ba6c-be19-4235-8086-398bd7c2f345",
-    "name": "gutviertel",
-    "slug": "gutviertel",
-    "address": "Wiesenhüttenstraße 39",
-    "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.1058355,
-    "longitude": 8.6656876,
-    "deals": [
-      {
-        "uuid": "712d7ca0-ee36-40f5-b78c-be3b830ccbd7",
-        "name": "2for1 Coffee Specialty",
-        "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "7b881fb4-c9e9-47f7-a188-39cc98101030",
-        "name": "2for1 Pastry",
-        "conditions": "You order 2 pastries of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "cake",
-        "name": "Cake"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 10,
-    "reviewsCount": 2,
-    "images": [
-      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/8a32ebab-aa21-4e4d-babe-de67194643a9.jpg",
-      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/0b66d8df-88bf-48cf-ad4e-3c62fbcc501c.jpg",
-      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/1530abd4-8e39-4408-ad41-b00fbb4727d1.jpg",
-      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/0e514e2b-ad0e-4581-af3a-9e43ad13f7ee.jpg",
-      "https://assets.neotaste.com/restaurants/14c5ba6c-be19-4235-8086-398bd7c2f345/images/39f5bf18-1614-4c9d-b480-328b8abaa030.jpg"
-    ],
-    "priceRange": 1
-  },
-  {
     "uuid": "5265ca03-f0ea-448b-91c8-f28de8beb695",
     "name": "Silk Bowls",
     "slug": "silk-bowls",
@@ -7717,8 +7852,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 20,
-    "reviewsCount": 8,
+    "ratingsCount": 27,
+    "reviewsCount": 10,
     "images": [
       "https://assets.neotaste.com/restaurants/5265ca03-f0ea-448b-91c8-f28de8beb695/images/c0b53be3-2dea-4ad3-b870-97f3882c2ebe.jpg",
       "https://assets.neotaste.com/restaurants/5265ca03-f0ea-448b-91c8-f28de8beb695/images/e891806b-f8df-49bd-a46e-b539788cc87a.jpg",
@@ -7727,246 +7862,6 @@
       "https://assets.neotaste.com/restaurants/5265ca03-f0ea-448b-91c8-f28de8beb695/images/ab2d01da-40c6-4c85-b4e6-c29a4d33ef0e.jpg"
     ],
     "priceRange": 2
-  },
-  {
-    "uuid": "94398cf6-ef03-47af-bd92-766a31c8e360",
-    "name": "Jambo Bar",
-    "slug": "jambo-bar",
-    "address": "Elbestraße 20",
-    "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.1079145,
-    "longitude": 8.668828899999998,
-    "deals": [
-      {
-        "uuid": "25b09249-71b0-4c39-8161-0ef759dd90f0",
-        "name": "2for1 Drink",
-        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 13,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "868923b6-1ad1-4773-93d7-a1e4979a0ab0",
-        "name": "2for1 Drink",
-        "conditions": "You order 2 non-alcoholic cocktails of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 9,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 1,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/3a0f4606-a3b9-4cde-b3b1-d6c4c26b762a.jpeg",
-      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/82d11d20-8cf8-45b8-8e6c-0a822e87b805.jpeg",
-      "https://assets.neotaste.com/restaurants/94398cf6-ef03-47af-bd92-766a31c8e360/images/5e6ffcc4-a975-4147-9131-a6b46259da5a.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "a68a9b6c-37d5-4519-84e4-fc12b9823db4",
-    "name": "Black Beat Cocktailbar",
-    "slug": "black-beat-cocktailbar",
-    "address": "Elbestraße 29",
-    "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.1088531,
-    "longitude": 8.6673651,
-    "deals": [
-      {
-        "uuid": "927e95a1-a8f2-4f88-8616-9a49c8b1bfac",
-        "name": "2for1 Cocktail",
-        "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 13,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "33030e44-d171-4c49-be3a-1480552083bc",
-        "name": "2for1 Spritz",
-        "conditions": "You order 2 Spritz' of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 8,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 3,
-    "reviewsCount": 1,
-    "images": [
-      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/81be639d-028f-4192-b045-c255c9cb9d76.jpg",
-      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/7b3740d6-c4bf-4cfe-9b60-94eb3675f8db.jpg",
-      "https://assets.neotaste.com/restaurants/a68a9b6c-37d5-4519-84e4-fc12b9823db4/images/a8dcf454-0643-41e0-9479-5d22d3580aa2.jpg"
-    ],
-    "priceRange": 4
-  },
-  {
-    "uuid": "dc22474d-635a-4a41-aab4-54df2bfd1e27",
-    "name": "Richard Diana Patisserie",
-    "slug": "richard-diana-patisserie",
-    "address": "Friedberger Anlage 14",
-    "addressOptional": null,
-    "zipCode": "60316",
-    "latitude": 50.11632299999999,
-    "longitude": 8.6948799,
-    "deals": [
-      {
-        "uuid": "9cf81924-03c9-4b95-ba84-42928b5efd3e",
-        "name": "2for1 Croffle",
-        "conditions": "You order 2 croffles of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 14,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "7c6c831f-e98d-4c48-9998-9beb2bd99563",
-        "name": "FREE Drink",
-        "conditions": "You order a tart of your choice and get an iced coffee for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 5,
-    "reviewsCount": 2,
-    "images": [
-      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/d5a10186-f1f4-465c-97bd-44683a6684b6.jpg",
-      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/11d2e74b-de2c-4986-a954-ff9809c5cbf8.jpg",
-      "https://assets.neotaste.com/restaurants/dc22474d-635a-4a41-aab4-54df2bfd1e27/images/345d5760-b45a-4850-ab3d-fe7cc7736f6d.jpg"
-    ],
-    "priceRange": 1
-  },
-  {
-    "uuid": "d1909b8e-d1a7-446c-9151-36fe7bc88953",
-    "name": "Tr3iminuti",
-    "slug": "tr3minuti",
-    "address": "Sandweg 30-32",
-    "addressOptional": null,
-    "zipCode": "60316",
-    "latitude": 50.11785349999999,
-    "longitude": 8.6967997,
-    "deals": [
-      {
-        "uuid": "594a41f1-d95e-4820-a6d1-47ea632b5178",
-        "name": "2for1 Pizza",
-        "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "6f0c7ebb-d140-48f3-b931-dc641be26d41",
-        "name": "FREE Drink",
-        "conditions": "You order a pizza of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
-        "slug": "italian",
-        "name": "Italian"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 16,
-    "reviewsCount": 7,
-    "images": [
-      "https://assets.neotaste.com/restaurants/d1909b8e-d1a7-446c-9151-36fe7bc88953/images/bd83369f-84fa-44eb-884f-8e02c246d586.jpg",
-      "https://assets.neotaste.com/restaurants/d1909b8e-d1a7-446c-9151-36fe7bc88953/images/dc681aa9-4615-4e4b-9a7b-ca9835211b2e.jpg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "5206f08f-fe3a-455e-aa2c-eae28d40b843",
-    "name": "The Dragon‘s Sushi Ramen Bowl",
-    "slug": "the-dragons-sushi-ramen-bowls-vietnamesische-restaurant",
-    "address": "Wielandstraße 61",
-    "addressOptional": null,
-    "zipCode": "60318",
-    "latitude": 50.1243764,
-    "longitude": 8.6865911,
-    "deals": [
-      {
-        "uuid": "e64e6c8f-4ef7-44ca-bccd-a619e22d8623",
-        "name": "2for1 Main Item",
-        "conditions": "You order 2 main items start from 20€ of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 22,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "49b9890d-5f01-4873-834e-6628977913de",
-        "name": "2for1 Crunchy Sushi Roll",
-        "conditions": "You order 2 crunchy sushi rolls start from 20€ of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 22,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "sushi",
-        "name": "Sushi"
-      },
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      }
-    ],
-    "avgRating": 3.8,
-    "ratingsCount": 4,
-    "reviewsCount": 1,
-    "images": [
-      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/6e78bd62-430d-45b2-8c14-6fef9037ecab.jpg",
-      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/2f2510b8-5207-4a1f-a7af-11780e463a05.jpg",
-      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/cd7675b0-7233-4aa6-813b-7ed0047eed39.jpg"
-    ],
-    "priceRange": 4
   },
   {
     "uuid": "609fd023-331a-4127-a3ec-401ecf6c9d46",
@@ -8011,9 +7906,9 @@
         "name": "Seafood"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 4,
-    "reviewsCount": 0,
+    "avgRating": 4.7,
+    "ratingsCount": 6,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/609fd023-331a-4127-a3ec-401ecf6c9d46/images/2ab63f9d-c081-43f3-8f89-2197b9d692a7.jpg",
       "https://assets.neotaste.com/restaurants/609fd023-331a-4127-a3ec-401ecf6c9d46/images/bbdcef13-6210-4f20-a208-629975c36a40.jpg",
@@ -8025,28 +7920,81 @@
     "priceRange": 4
   },
   {
-    "uuid": "0588efa9-4283-4fba-8227-04d4074389b5",
-    "name": "Basak Korean Corndogs",
-    "slug": "basak-korean-corndogs",
-    "address": "Kaiserstraße 81",
+    "uuid": "5206f08f-fe3a-455e-aa2c-eae28d40b843",
+    "name": "The Dragon‘s Sushi Ramen Bowl",
+    "slug": "the-dragons-sushi-ramen-bowls-vietnamesische-restaurant",
+    "address": "Wielandstraße 61",
     "addressOptional": null,
-    "zipCode": "60329",
-    "latitude": 50.1075282,
-    "longitude": 8.665828999999999,
+    "zipCode": "60318",
+    "latitude": 50.1243764,
+    "longitude": 8.6865911,
     "deals": [
       {
-        "uuid": "45eb4c4b-a7dd-4952-b08f-208cae87e778",
-        "name": "2for1 Corndog",
-        "conditions": "You order 2 corndogs of your choice, the cheaper/equally priced one will not be charged.",
+        "uuid": "e64e6c8f-4ef7-44ca-bccd-a619e22d8623",
+        "name": "2for1 Main Item",
+        "conditions": "You order 2 main items start from 20€ of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 7,
+        "value": 22,
         "daysToReset": 90,
         "status": "available"
       },
       {
-        "uuid": "9fb36477-be5c-4ed8-9e90-f4144befc178",
-        "name": "FREE SoftDrink",
-        "conditions": "You order any items of your choice and get a softdrink for free.",
+        "uuid": "49b9890d-5f01-4873-834e-6628977913de",
+        "name": "2for1 Crunchy Sushi Roll",
+        "conditions": "You order 2 crunchy sushi rolls start from 20€ of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 22,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "sushi",
+        "name": "Sushi"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      }
+    ],
+    "avgRating": 4,
+    "ratingsCount": 5,
+    "reviewsCount": 1,
+    "images": [
+      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/6e78bd62-430d-45b2-8c14-6fef9037ecab.jpg",
+      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/2f2510b8-5207-4a1f-a7af-11780e463a05.jpg",
+      "https://assets.neotaste.com/restaurants/5206f08f-fe3a-455e-aa2c-eae28d40b843/images/cd7675b0-7233-4aa6-813b-7ed0047eed39.jpg"
+    ],
+    "priceRange": 4
+  },
+  {
+    "uuid": "d1909b8e-d1a7-446c-9151-36fe7bc88953",
+    "name": "Tr3minuti",
+    "slug": "tr3minuti",
+    "address": "Sandweg 30-32",
+    "addressOptional": null,
+    "zipCode": "60316",
+    "latitude": 50.11785349999999,
+    "longitude": 8.6967997,
+    "deals": [
+      {
+        "uuid": "594a41f1-d95e-4820-a6d1-47ea632b5178",
+        "name": "2for1 Pizza",
+        "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "6f0c7ebb-d140-48f3-b931-dc641be26d41",
+        "name": "FREE Drink",
+        "conditions": "You order a pizza of your choice and get a drink for free.",
         "locationCondition": "onSite",
         "value": 3,
         "daysToReset": 90,
@@ -8055,25 +8003,77 @@
     ],
     "tags": [
       {
-        "slug": "dessert",
-        "name": "Dessert"
+        "slug": "pizza",
+        "name": "Pizza"
       },
       {
-        "slug": "drinks",
-        "name": "Drinks"
+        "slug": "italian",
+        "name": "Italian"
       },
       {
-        "slug": "healthy",
-        "name": "Healthy"
+        "slug": "vegan",
+        "name": "Vegan"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 4,
+    "ratingsCount": 18,
+    "reviewsCount": 8,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d1909b8e-d1a7-446c-9151-36fe7bc88953/images/bd83369f-84fa-44eb-884f-8e02c246d586.jpg",
+      "https://assets.neotaste.com/restaurants/d1909b8e-d1a7-446c-9151-36fe7bc88953/images/dc681aa9-4615-4e4b-9a7b-ca9835211b2e.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "0adbbdff-a4ac-46e8-bab5-41f84dd1413d",
+    "name": "Cafè Rochade",
+    "slug": "rochade-cafe",
+    "address": "Eckenheimer Landstraße 74",
+    "addressOptional": null,
+    "zipCode": "60318",
+    "latitude": 50.1242685,
+    "longitude": 8.6866247,
+    "deals": [
+      {
+        "uuid": "177106f5-acf1-4afd-8796-7978a9bd4965",
+        "name": "2for1 Main Item",
+        "conditions": "You order 2 breakfast of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "28f6658d-d33a-4ad7-b94b-891171f266bc",
+        "name": "FREE Drink",
+        "conditions": "You order a breakfast of your choice and get a hot drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "quick",
+        "name": "Quick"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
     "reviewsCount": 0,
     "images": [
-      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/f08aadd2-e939-4699-8d46-8baf3eb089f8.jpg",
-      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/35c68bd7-2a30-4e86-a2bd-0863a3eb8eaf.jpg",
-      "https://assets.neotaste.com/restaurants/0588efa9-4283-4fba-8227-04d4074389b5/images/4f105ba9-d160-4fd9-9277-bc788eac494c.jpg"
+      "https://assets.neotaste.com/restaurants/0adbbdff-a4ac-46e8-bab5-41f84dd1413d/images/5ae5d62e-5e4d-4ce3-b134-3676d3b699e8.jpg",
+      "https://assets.neotaste.com/restaurants/0adbbdff-a4ac-46e8-bab5-41f84dd1413d/images/dbc39182-d70b-4094-8855-f1529f42d13b.jpg",
+      "https://assets.neotaste.com/restaurants/0adbbdff-a4ac-46e8-bab5-41f84dd1413d/images/6c09b196-b6b5-49a8-8079-7817ca6ba1c5.jpg"
     ],
     "priceRange": 1
   }

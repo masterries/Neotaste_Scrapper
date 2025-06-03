@@ -2247,9 +2247,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 62
+    },
+    {
+      "date": "2025-06-03",
+      "total_restaurants": 31,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 62
     }
   ],
-  "last_updated": "2025-06-02",
+  "last_updated": "2025-06-03",
   "restaurants": [
     {
       "name": "Wilma Wunder am Markt",
@@ -2265,11 +2273,11 @@
           "status": "available"
         },
         {
-          "uuid": "9aa13767-b30d-4b47-9490-08dc57a6097f",
-          "name": "2for1 Coffee + Pastry",
-          "conditions": "Order 2 coffees and 2 cakes of your choice, the respective cheaper/equally priced one will not be charged.",
+          "uuid": "863c07f0-f813-4134-9c3c-cbda064fa050",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount.\n(The deal is not available on public holidays).",
           "locationCondition": "onSite",
-          "value": 7,
+          "value": 10,
           "daysToReset": 90,
           "status": "available"
         }
@@ -2360,7 +2368,7 @@
       "latitude": 50.00836722611069,
       "longitude": 8.261523499961315,
       "avgRating": 4.9,
-      "ratingsCount": 270,
+      "ratingsCount": 271,
       "reviewsCount": 43,
       "images": [
         "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
@@ -2433,8 +2441,8 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 817,
-      "reviewsCount": 149,
+      "ratingsCount": 820,
+      "reviewsCount": 150,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
         "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/b8ece6ab-ab51-491b-89a1-93441ff35df8.jpeg",
@@ -2475,7 +2483,7 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.9,
-      "ratingsCount": 718,
+      "ratingsCount": 719,
       "reviewsCount": 124,
       "images": [
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
@@ -2515,8 +2523,8 @@
       "latitude": 50.00097159781512,
       "longitude": 8.268178958895566,
       "avgRating": 4.8,
-      "ratingsCount": 571,
-      "reviewsCount": 94,
+      "ratingsCount": 573,
+      "reviewsCount": 95,
       "images": [
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/38a81659-5ab2-47ed-acce-37b29c25ef76.png",
@@ -2593,7 +2601,7 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 896,
+      "ratingsCount": 897,
       "reviewsCount": 172,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
@@ -2669,7 +2677,7 @@
       "latitude": 49.99686052603381,
       "longitude": 8.278237976686702,
       "avgRating": 4.7,
-      "ratingsCount": 142,
+      "ratingsCount": 144,
       "reviewsCount": 45,
       "images": [
         "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
@@ -3411,11 +3419,11 @@
           "status": "available"
         },
         {
-          "uuid": "c571a6f2-86ee-45a9-b963-d01535f10e49",
-          "name": "2for1 Coffee + Cake",
-          "conditions": "You order 2 coffees and 2 cakes of your choice, the cheaper/equally priced one will not be charged.",
+          "uuid": "7e4530a5-e0f0-4ebb-b462-4c6843b345fe",
+          "name": "€10 Discount",
+          "conditions": "From a minimum order value of €25 you get €10 discount. Not valid on public holidays.",
           "locationCondition": "onSite",
-          "value": 6,
+          "value": 10,
           "daysToReset": 90,
           "status": "available"
         }
