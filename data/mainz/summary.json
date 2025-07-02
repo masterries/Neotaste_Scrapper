@@ -2479,169 +2479,56 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 61
+    },
+    {
+      "date": "2025-07-02",
+      "total_restaurants": 30,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 61
     }
   ],
-  "last_updated": "2025-07-01",
+  "last_updated": "2025-07-02",
   "restaurants": [
     {
-      "name": "Wilma Wunder am Markt",
-      "uuid": "eb23a4a2-06a3-40a6-937e-2ba552237b2f",
+      "name": "Burgerheart Mainz",
+      "uuid": "cf2531d7-2bec-44bb-8b7f-b8a07f7e9667",
       "deals": [
         {
-          "uuid": "0026ef81-ea93-45eb-948f-08dc57a6097f",
-          "name": "2for1 Main or Breakfast Dish",
+          "uuid": "9f27be39-c324-4f22-f5e0-08dc3206e478",
+          "name": "2for1 Burger",
           "remainingDaysToReset": null,
-          "conditions": "You order 2 main (from 12 PM) or breakfast dishes (until 12 PM) of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "You order 2 burgers of your choice (up to €16, if you choose a more expensive burger, the difference must be paid), the cheaper/equally priced will not be charged.",
           "locationCondition": "onSite",
-          "value": 23,
+          "value": 15,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "863c07f0-f813-4134-9c3c-cbda064fa050",
-          "name": "€10 Discount",
+          "uuid": "c4a752db-7ef2-42b0-f5e1-08dc3206e478",
+          "name": "2for1 Cocktail",
           "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.\n(This deal can only be redeemed once per table and is not valid on public holidays).",
+          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
+          "value": 9,
+          "daysToReset": 30,
           "status": "available"
         }
       ],
-      "address": "Markt 11",
+      "address": "Jockel-Fuchs Pl. 3",
       "zipCode": "55116",
-      "latitude": 49.99982870133544,
-      "longitude": 8.27372691427238,
+      "latitude": 50.0017675875837,
+      "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 658,
-      "reviewsCount": 141,
+      "ratingsCount": 953,
+      "reviewsCount": 189,
       "images": [
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/ff43bae8-7d1d-4dbc-95f3-71206f382950.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/788e46d2-5418-4d5d-8f28-51db25dc6de2.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/6e5f78b4-3043-42e0-a853-2400ed4f75d4.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/96b7840c-39b0-442a-8b45-afcec21bf289.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/3ac2c3dd-a5d6-443e-ae43-3d13e8a1324d.jpeg",
-        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/24874c6a-2a34-454d-8c08-83bccdb599bf.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Madiba Afrika Mainz",
-      "uuid": "b3cad959-6588-4064-84b5-8c0d5c576219",
-      "deals": [
-        {
-          "uuid": "68ab6d02-e2e2-4353-f2f6-08dc0d5e9ff9",
-          "name": "2for1 Main Course",
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. (excluding Zonder meadi-mix & Ghana specialities).",
-          "locationCondition": "onSite",
-          "value": 14,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "a2dfcd57-fa5f-4966-f2f7-08dc0d5e9ff9",
-          "name": "FREE Drink or Non-alcoholic Cocktail",
-          "remainingDaysToReset": null,
-          "conditions": "Order a main dish of your choice and receive a drink or a non-alcoholic cocktail for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Heugasse 6",
-      "zipCode": "55116",
-      "latitude": 49.99867599138207,
-      "longitude": 8.277129470552216,
-      "avgRating": 4.6,
-      "ratingsCount": 204,
-      "reviewsCount": 64,
-      "images": [
-        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/83dcb137-3785-4cf2-936f-2f08c599021e.jpeg",
-        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/390c7b5e-32ed-428e-9b2d-d93276947e3c.jpeg",
-        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8a6f56c2-9f25-4a3e-903e-a37c3ce2bf7e.jpeg",
-        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8b20fbc0-295c-445d-b3a3-e7b286d76f06.jpeg",
-        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/d4e8065d-c3aa-4552-9482-2506f4ae0799.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Nanami",
-      "uuid": "d132c94b-e9bd-48da-b6f5-cb0ee1975b2f",
-      "deals": [
-        {
-          "uuid": "f55d14c0-5f8f-4e55-1f4d-08dcb847901d",
-          "name": "€10 Discount",
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "917dbf1b-0059-4a92-2337-08dc95020c54",
-          "name": "FREE Soft Drink",
-          "remainingDaysToReset": null,
-          "conditions": "Order a main course of your choice and receive a free bottle of soft drink.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kurfürstenstraße 49",
-      "zipCode": "55118",
-      "latitude": 50.00836722611069,
-      "longitude": 8.261523499961315,
-      "avgRating": 4.9,
-      "ratingsCount": 294,
-      "reviewsCount": 47,
-      "images": [
-        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
-        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/fd254bc0-8f0f-4778-8abf-9ffd93771eec.png",
-        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/9c179c8c-618d-45cb-bdf6-f3292a02b66f.png",
-        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/1f36721b-9cac-4c65-a2f2-31720842f4d1.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Pho Viet",
-      "uuid": "3096d0fb-08cd-4ff7-8866-a51ef1ec6dea",
-      "deals": [
-        {
-          "uuid": "ac593f02-3784-49b0-f301-08dc0d5e9ff9",
-          "name": "2for1 Main Course",
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 180,
-          "status": "available"
-        },
-        {
-          "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
-          "name": "FREE Soft Drinks..",
-          "remainingDaysToReset": null,
-          "conditions": "Order a main course of your choice and receive a free drink. This deal is not valid for takeaway orders.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Franziskanerstraße 5",
-      "zipCode": "55116",
-      "latitude": 50.00082672190576,
-      "longitude": 8.26955109417166,
-      "avgRating": 4.8,
-      "ratingsCount": 606,
-      "reviewsCount": 152,
-      "images": [
-        "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
+        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
+        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/fc3f7896-8bf2-4992-b3e6-cf5372380dac.jpeg",
+        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/3abc69fd-bcce-4063-ad36-1c88278e02ec.jpeg",
+        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/43f341ed-98a0-4494-a3bb-0fd7c8ef519c.jpeg",
+        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/7f0f4d65-8613-49cd-b732-7d829146fb1a.jpeg"
       ],
       "priceRange": 2
     },
@@ -2675,8 +2562,8 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 858,
-      "reviewsCount": 161,
+      "ratingsCount": 859,
+      "reviewsCount": 162,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
         "https://assets.neotaste.com/restaurants/eb9d7881-c4b8-4b1a-9f7d-29bf37c3f4bc/images/b8ece6ab-ab51-491b-89a1-93441ff35df8.jpeg",
@@ -2719,8 +2606,8 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.8,
-      "ratingsCount": 761,
-      "reviewsCount": 144,
+      "ratingsCount": 765,
+      "reviewsCount": 147,
       "images": [
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/5b9c298c-dedc-4c71-87a1-965c1be5a1ee.jpeg",
@@ -2728,6 +2615,87 @@
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/1dd40d93-2a00-4a0d-8ea2-ebc92db30878.jpeg",
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/bfa63fc6-b7e4-45de-b7ba-6779c4742625.jpeg",
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/59762362-c7e9-407a-8dee-a12b9d90f0e8.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Wilma Wunder am Markt",
+      "uuid": "eb23a4a2-06a3-40a6-937e-2ba552237b2f",
+      "deals": [
+        {
+          "uuid": "0026ef81-ea93-45eb-948f-08dc57a6097f",
+          "name": "2for1 Main or Breakfast Dish",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main (from 12 PM) or breakfast dishes (until 12 PM) of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 23,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "863c07f0-f813-4134-9c3c-cbda064fa050",
+          "name": "€10 Discount",
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.\n(This deal can only be redeemed once per table and is not valid on public holidays).",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Markt 11",
+      "zipCode": "55116",
+      "latitude": 49.99982870133544,
+      "longitude": 8.27372691427238,
+      "avgRating": 4.8,
+      "ratingsCount": 660,
+      "reviewsCount": 142,
+      "images": [
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/ff43bae8-7d1d-4dbc-95f3-71206f382950.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/788e46d2-5418-4d5d-8f28-51db25dc6de2.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/6e5f78b4-3043-42e0-a853-2400ed4f75d4.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/96b7840c-39b0-442a-8b45-afcec21bf289.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/3ac2c3dd-a5d6-443e-ae43-3d13e8a1324d.jpeg",
+        "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/24874c6a-2a34-454d-8c08-83bccdb599bf.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Pho Viet",
+      "uuid": "3096d0fb-08cd-4ff7-8866-a51ef1ec6dea",
+      "deals": [
+        {
+          "uuid": "ac593f02-3784-49b0-f301-08dc0d5e9ff9",
+          "name": "2for1 Main Course",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 180,
+          "status": "available"
+        },
+        {
+          "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
+          "name": "FREE Soft Drinks..",
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and receive a free drink. This deal is not valid for takeaway orders.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Franziskanerstraße 5",
+      "zipCode": "55116",
+      "latitude": 50.00082672190576,
+      "longitude": 8.26955109417166,
+      "avgRating": 4.8,
+      "ratingsCount": 606,
+      "reviewsCount": 152,
+      "images": [
+        "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
       ],
       "priceRange": 2
     },
@@ -2761,7 +2729,7 @@
       "latitude": 50.00097159781512,
       "longitude": 8.268178958895566,
       "avgRating": 4.8,
-      "ratingsCount": 609,
+      "ratingsCount": 610,
       "reviewsCount": 105,
       "images": [
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
@@ -2769,6 +2737,48 @@
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/374c0133-0fd6-4816-ac71-21b613665b77.png"
       ],
       "priceRange": 2
+    },
+    {
+      "name": "Kōnā",
+      "uuid": "e89fbe1e-0ba3-4609-a285-3d0388358834",
+      "deals": [
+        {
+          "uuid": "4a5f7679-d2ef-41d1-f308-08dc8aa5fd0a",
+          "name": "€10 Discount",
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "8542a0b4-049c-4d74-f309-08dc8aa5fd0a",
+          "name": "FREE Soft Drink",
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Mittlere Bleiche 16",
+      "zipCode": "55116",
+      "latitude": 50.00178071124446,
+      "longitude": 8.264891912193557,
+      "avgRating": 4.9,
+      "ratingsCount": 303,
+      "reviewsCount": 79,
+      "images": [
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/cfa85514-27a2-422e-965b-efa2c893bbe0.png",
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/add8d496-4af7-4272-b52b-b5c9116b7840.png",
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/45bc71a6-c01b-4b53-8246-89b38938419c.jpeg",
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/0eb74ab7-08b8-413d-a60f-c1c75b13c523.jpeg",
+        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/b226cb12-20c2-47b5-be76-74d2feced302.jpeg"
+      ],
+      "priceRange": 3
     },
     {
       "name": "An O Ban",
@@ -2814,43 +2824,200 @@
       "priceRange": 2
     },
     {
-      "name": "Burgerheart Mainz",
-      "uuid": "cf2531d7-2bec-44bb-8b7f-b8a07f7e9667",
+      "name": "Nanami",
+      "uuid": "d132c94b-e9bd-48da-b6f5-cb0ee1975b2f",
       "deals": [
         {
-          "uuid": "9f27be39-c324-4f22-f5e0-08dc3206e478",
-          "name": "2for1 Burger",
+          "uuid": "f55d14c0-5f8f-4e55-1f4d-08dcb847901d",
+          "name": "€10 Discount",
           "remainingDaysToReset": null,
-          "conditions": "You order 2 burgers of your choice (up to €16, if you choose a more expensive burger, the difference must be paid), the cheaper/equally priced will not be charged.",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "917dbf1b-0059-4a92-2337-08dc95020c54",
+          "name": "FREE Soft Drink",
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and receive a free bottle of soft drink.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Kurfürstenstraße 49",
+      "zipCode": "55118",
+      "latitude": 50.00836722611069,
+      "longitude": 8.261523499961315,
+      "avgRating": 4.9,
+      "ratingsCount": 296,
+      "reviewsCount": 48,
+      "images": [
+        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/c13c0420-526a-4941-aeb2-cb111d78905f.jpeg",
+        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/fd254bc0-8f0f-4778-8abf-9ffd93771eec.png",
+        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/9c179c8c-618d-45cb-bdf6-f3292a02b66f.png",
+        "https://assets.neotaste.com/restaurants/93491a24-7a05-4895-9da2-36063b6c8dbf/images/1f36721b-9cac-4c65-a2f2-31720842f4d1.png"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Misaki - Sushi Grill Bar",
+      "uuid": "7677f70d-50f3-4a25-b475-aafb22721c18",
+      "deals": [
+        {
+          "uuid": "87c91440-17be-45bb-f021-08dc1b26f2da",
+          "name": "2for1 Sushi Menu",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 sushi menus of your choice (excluding P5, P7, P11, P12) and/or salad, soup, etc. (excluding 208, 212), the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 15,
           "daysToReset": 90,
           "status": "available"
         },
         {
-          "uuid": "c4a752db-7ef2-42b0-f5e1-08dc3206e478",
-          "name": "2for1 Cocktail",
+          "uuid": "db818aa7-c313-4fd7-4576-08dc1a639f8e",
+          "name": "Free Dessert",
           "remainingDaysToReset": null,
-          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "Order a main course of your choice and receive a free dessert.",
           "locationCondition": "onSite",
-          "value": 9,
-          "daysToReset": 30,
+          "value": 6,
+          "daysToReset": 6,
           "status": "available"
         }
       ],
-      "address": "Jockel-Fuchs Pl. 3",
+      "address": "Rheinstraße 4",
       "zipCode": "55116",
-      "latitude": 50.0017675875837,
-      "longitude": 8.276838504380981,
-      "avgRating": 4.8,
-      "ratingsCount": 952,
-      "reviewsCount": 188,
+      "latitude": 49.99611164683669,
+      "longitude": 8.279427615916552,
+      "avgRating": 4.7,
+      "ratingsCount": 188,
+      "reviewsCount": 40,
       "images": [
-        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
-        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/fc3f7896-8bf2-4992-b3e6-cf5372380dac.jpeg",
-        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/3abc69fd-bcce-4063-ad36-1c88278e02ec.jpeg",
-        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/43f341ed-98a0-4494-a3bb-0fd7c8ef519c.jpeg",
-        "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/7f0f4d65-8613-49cd-b732-7d829146fb1a.jpeg"
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/4e7a7309-b765-4768-8821-da14ee06f373.jpeg",
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/3058e130-98ba-451c-933c-30346a74f15f.jpeg",
+        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/2c97f8e3-a81b-4463-8f84-8c10d2e7a21e.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Happy Sumo",
+      "uuid": "141ea241-13dd-4429-8b43-82fb3571730f",
+      "deals": [
+        {
+          "uuid": "3284ad14-3c4f-451d-a7ee-08dc02dbf4da",
+          "name": "2for1 Main Course",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "999ac301-a1ba-433c-a7ef-08dc02dbf4da",
+          "name": "FREE Starter",
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a starter for free.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Holzhofstraße 5",
+      "zipCode": "55116",
+      "latitude": 49.99375812283927,
+      "longitude": 8.277788115656897,
+      "avgRating": 4.7,
+      "ratingsCount": 199,
+      "reviewsCount": 61,
+      "images": [
+        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/a9d18810-c33e-466e-b985-234014b9fe70.jpeg",
+        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/57d1bf95-f432-4684-97ee-a5607ba1c3c8.jpeg",
+        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/da3c2976-e647-42d1-b682-66d577e708d8.jpeg",
+        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/eb1d96ca-21da-436e-be41-2d9f523eda3a.jpeg",
+        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/92f38a22-1176-445e-ac37-fc6f494c6d44.png"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Madiba Afrika Mainz",
+      "uuid": "b3cad959-6588-4064-84b5-8c0d5c576219",
+      "deals": [
+        {
+          "uuid": "68ab6d02-e2e2-4353-f2f6-08dc0d5e9ff9",
+          "name": "2for1 Main Course",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. (excluding Zonder meadi-mix & Ghana specialities).",
+          "locationCondition": "onSite",
+          "value": 14,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "a2dfcd57-fa5f-4966-f2f7-08dc0d5e9ff9",
+          "name": "FREE Drink or Non-alcoholic Cocktail",
+          "remainingDaysToReset": null,
+          "conditions": "Order a main dish of your choice and receive a drink or a non-alcoholic cocktail for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Heugasse 6",
+      "zipCode": "55116",
+      "latitude": 49.99867599138207,
+      "longitude": 8.277129470552216,
+      "avgRating": 4.6,
+      "ratingsCount": 204,
+      "reviewsCount": 64,
+      "images": [
+        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/83dcb137-3785-4cf2-936f-2f08c599021e.jpeg",
+        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/390c7b5e-32ed-428e-9b2d-d93276947e3c.jpeg",
+        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8a6f56c2-9f25-4a3e-903e-a37c3ce2bf7e.jpeg",
+        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/8b20fbc0-295c-445d-b3a3-e7b286d76f06.jpeg",
+        "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/d4e8065d-c3aa-4552-9482-2506f4ae0799.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Restaurant Damas Mainz",
+      "uuid": "f7e224c4-c9a7-494e-a6e3-c1c074a22b7e",
+      "deals": [
+        {
+          "uuid": "16e9512c-515b-4fb9-093c-08dc0de911ca",
+          "name": "2for1 Main Course",
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Valid for all main courses up to €20. Deals cannot be combined.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
+          "name": "FREE Non-Alcoholic Beverage",
+          "remainingDaysToReset": null,
+          "conditions": "Order a main dish of your choice and receive a free non-alcoholic drink (0.2l). Deals cannot be combined.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 6,
+          "status": "available"
+        }
+      ],
+      "address": "Holzstraße 34",
+      "zipCode": "55116",
+      "latitude": 49.99686052603381,
+      "longitude": 8.278237976686702,
+      "avgRating": 4.7,
+      "ratingsCount": 156,
+      "reviewsCount": 48,
+      "images": [
+        "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
       ],
       "priceRange": 2
     },
@@ -2892,85 +3059,6 @@
         "https://assets.neotaste.com/restaurants/d91c54a9-f88c-46a5-bc29-325f9c8afb0c/images/7162b17c-74d1-4868-bd65-05576947f965.jpeg"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "Restaurant Damas Mainz",
-      "uuid": "f7e224c4-c9a7-494e-a6e3-c1c074a22b7e",
-      "deals": [
-        {
-          "uuid": "16e9512c-515b-4fb9-093c-08dc0de911ca",
-          "name": "2for1 Main Course",
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Valid for all main courses up to €20. Deals cannot be combined.",
-          "locationCondition": "onSite",
-          "value": 17,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
-          "name": "FREE Non-Alcoholic Beverage",
-          "remainingDaysToReset": null,
-          "conditions": "Order a main dish of your choice and receive a free non-alcoholic drink (0.2l). Deals cannot be combined.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Holzstraße 34",
-      "zipCode": "55116",
-      "latitude": 49.99686052603381,
-      "longitude": 8.278237976686702,
-      "avgRating": 4.7,
-      "ratingsCount": 155,
-      "reviewsCount": 48,
-      "images": [
-        "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Kōnā",
-      "uuid": "e89fbe1e-0ba3-4609-a285-3d0388358834",
-      "deals": [
-        {
-          "uuid": "4a5f7679-d2ef-41d1-f308-08dc8aa5fd0a",
-          "name": "€10 Discount",
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "8542a0b4-049c-4d74-f309-08dc8aa5fd0a",
-          "name": "FREE Soft Drink",
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a soft drink for free.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Mittlere Bleiche 16",
-      "zipCode": "55116",
-      "latitude": 50.00178071124446,
-      "longitude": 8.264891912193557,
-      "avgRating": 4.9,
-      "ratingsCount": 303,
-      "reviewsCount": 79,
-      "images": [
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/cfa85514-27a2-422e-965b-efa2c893bbe0.png",
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/add8d496-4af7-4272-b52b-b5c9116b7840.png",
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/45bc71a6-c01b-4b53-8246-89b38938419c.jpeg",
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/0eb74ab7-08b8-413d-a60f-c1c75b13c523.jpeg",
-        "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/b226cb12-20c2-47b5-be76-74d2feced302.jpeg"
-      ],
-      "priceRange": 3
     },
     {
       "name": "Trattoria & Pizzeria L´Arcino",
@@ -3055,47 +3143,6 @@
         "https://assets.neotaste.com/restaurants/d50afe18-46a0-47b1-9c88-65e48531baf9/images/fde467bb-1a61-4df4-a8cc-27960a58cfe9.jpeg",
         "https://assets.neotaste.com/restaurants/d50afe18-46a0-47b1-9c88-65e48531baf9/images/212777a5-33ae-49b0-b056-cec1bb3ca57c.jpeg",
         "https://assets.neotaste.com/restaurants/d50afe18-46a0-47b1-9c88-65e48531baf9/images/ed40d245-d5f2-4f87-bce9-fbe0e0ccd9ce.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Happy Sumo",
-      "uuid": "141ea241-13dd-4429-8b43-82fb3571730f",
-      "deals": [
-        {
-          "uuid": "3284ad14-3c4f-451d-a7ee-08dc02dbf4da",
-          "name": "2for1 Main Course",
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 15,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "999ac301-a1ba-433c-a7ef-08dc02dbf4da",
-          "name": "FREE Starter",
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a starter for free.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Holzhofstraße 5",
-      "zipCode": "55116",
-      "latitude": 49.99375812283927,
-      "longitude": 8.277788115656897,
-      "avgRating": 4.7,
-      "ratingsCount": 199,
-      "reviewsCount": 61,
-      "images": [
-        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/a9d18810-c33e-466e-b985-234014b9fe70.jpeg",
-        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/57d1bf95-f432-4684-97ee-a5607ba1c3c8.jpeg",
-        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/da3c2976-e647-42d1-b682-66d577e708d8.jpeg",
-        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/eb1d96ca-21da-436e-be41-2d9f523eda3a.jpeg",
-        "https://assets.neotaste.com/restaurants/bf98f087-6161-4266-a311-eb8f6a38b3cf/images/92f38a22-1176-445e-ac37-fc6f494c6d44.png"
       ],
       "priceRange": 2
     },
@@ -3294,9 +3341,9 @@
       "zipCode": "55116",
       "latitude": 49.99390542898702,
       "longitude": 8.277178202536128,
-      "avgRating": 4.8,
-      "ratingsCount": 60,
-      "reviewsCount": 12,
+      "avgRating": 4.7,
+      "ratingsCount": 61,
+      "reviewsCount": 13,
       "images": [
         "https://assets.neotaste.com/restaurants/cce015e4-05e5-4a6b-bdcf-88afc8b96f98/images/3a0a4c85-5e67-4d6b-9055-7540ac0946c4.jpeg",
         "https://assets.neotaste.com/restaurants/cce015e4-05e5-4a6b-bdcf-88afc8b96f98/images/6ce063bd-6619-4916-b9ec-8a74f9bfaefe.jpeg",
@@ -3378,7 +3425,7 @@
       "latitude": 49.9999924669898,
       "longitude": 8.270244500306209,
       "avgRating": 4.7,
-      "ratingsCount": 46,
+      "ratingsCount": 47,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/45318c1e-4369-4ebb-92e2-b8c26df38ec2/images/8291359d-d69e-4778-bac4-8e6c0e927293.jpeg",
@@ -3499,45 +3546,6 @@
         "https://assets.neotaste.com/restaurants/68d503a1-c8b9-4b97-887e-2721a351cb45/images/e5e27b76-2c0a-4dcc-937a-c07408cd7eed.jpeg"
       ],
       "priceRange": 1
-    },
-    {
-      "name": "Misaki - Sushi Grill Bar",
-      "uuid": "7677f70d-50f3-4a25-b475-aafb22721c18",
-      "deals": [
-        {
-          "uuid": "87c91440-17be-45bb-f021-08dc1b26f2da",
-          "name": "2for1 Sushi Menu",
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 sushi menus of your choice (excluding P5, P7, P11, P12) and/or salad, soup, etc. (excluding 208, 212), the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 15,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "db818aa7-c313-4fd7-4576-08dc1a639f8e",
-          "name": "Free Dessert",
-          "remainingDaysToReset": null,
-          "conditions": "Order a main course of your choice and receive a free dessert.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 6,
-          "status": "available"
-        }
-      ],
-      "address": "Rheinstraße 4",
-      "zipCode": "55116",
-      "latitude": 49.99611164683669,
-      "longitude": 8.279427615916552,
-      "avgRating": 4.7,
-      "ratingsCount": 188,
-      "reviewsCount": 40,
-      "images": [
-        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/4e7a7309-b765-4768-8821-da14ee06f373.jpeg",
-        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/3058e130-98ba-451c-933c-30346a74f15f.jpeg",
-        "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/2c97f8e3-a81b-4463-8f84-8c10d2e7a21e.jpeg"
-      ],
-      "priceRange": 2
     },
     {
       "name": "mutter holunder",
@@ -3689,7 +3697,7 @@
       "latitude": 49.99763799999999,
       "longitude": 8.269576,
       "avgRating": 4.9,
-      "ratingsCount": 66,
+      "ratingsCount": 68,
       "reviewsCount": 32,
       "images": [
         "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/64c319b9-1e9b-4c79-812b-3a2b0ecf3100.jpg",

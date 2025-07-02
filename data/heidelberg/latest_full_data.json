@@ -1,5 +1,508 @@
 [
   {
+    "uuid": "357cd449-443e-45dc-aea0-63e1b10cb5fe",
+    "name": "HANS IM GLÜCK - Heiliggeistkirche",
+    "slug": "hans-im-glueck-heiliggeistkirche",
+    "address": "Hauptstraße 187",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.41189263773346,
+    "longitude": 8.709023034553123,
+    "deals": [
+      {
+        "uuid": "3d2aed19-587d-4a90-a89c-08dc6b82761c",
+        "name": "2for1 Burger",
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 18,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "e7bd4698-d467-4955-8b9a-eae2078895f7",
+        "name": "FREE Side Dish",
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a side dish for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bbq",
+        "name": "BBQ"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 982,
+    "reviewsCount": 167,
+    "images": [
+      "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/62d0e55f-16d0-444c-8d86-c655b121af06.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/15002c77-3dd3-43e9-aab8-0255c37891ff.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/72a325e1-8694-4b5a-8bfe-c5609d5825b0.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/692c9c6c-90eb-49aa-81fb-5078812cf75c.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/afd09973-b3b6-43ae-91b6-cceeb078adf5.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "87d63154-435f-42c2-96b8-06538d3dbe0f",
+    "name": "Compleat Bismarckplatz",
+    "slug": "compleat-bismarckplatz",
+    "address": "Rohrbacher Str. 2",
+    "addressOptional": null,
+    "zipCode": "69115",
+    "latitude": 49.40892330591613,
+    "longitude": 8.692200507807478,
+    "deals": [
+      {
+        "uuid": "f0e02642-816d-432b-bdc9-a65fed640a90",
+        "name": "€10 Discount",
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "9c18b0ca-b07c-4fbf-a668-e1e7395ac891",
+        "name": "FREE Add-Ons",
+        "remainingDaysToReset": null,
+        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 841,
+    "reviewsCount": 129,
+    "images": [
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/b477e4ac-37dc-4cc8-bcb0-503c81dfd396.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/5e772c11-361b-4007-82d1-954d371ab8d2.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/9a205c57-84a5-4549-a4df-2f750ca8ca6c.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "87d9756c-9f83-4897-9233-8c36c5fa48ba",
+    "name": "ok kool Marstallstraße",
+    "slug": "ok-kool-marstallstrasse",
+    "address": "Marstallstraße 7",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.41269372285168,
+    "longitude": 8.705578788779384,
+    "deals": [
+      {
+        "uuid": "c8c816eb-fb9c-4dbf-3fd9-08dc6b86fbfb",
+        "name": "2for1 Ice Cream Scoop",
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 ice cream scoops of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "93c61c7c-039c-48c2-3fda-08dc6b86fbfb",
+        "name": "2for1 Hot Drink",
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "desserts",
+        "name": "Desserts"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 477,
+    "reviewsCount": 91,
+    "images": [
+      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/dbcc5048-e1c8-4578-89c1-6793a903a8b3.jpeg",
+      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/ca402d1a-c0ae-4366-b990-13cd97e4edaf.jpeg",
+      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/637fc7c3-1696-4e8a-b060-a4de05c67e17.jpeg",
+      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/93058d75-1992-45fe-8008-a6edc14c56fb.jpeg",
+      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/bacc20eb-7247-4a71-9d28-7df45a1f417d.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "abdf0247-a169-4e83-b02b-e40946cd723e",
+    "name": "Zino's Spritz",
+    "slug": "zinos-spritz-heidelberg",
+    "address": "Brückenkopfstraße 1/2",
+    "addressOptional": null,
+    "zipCode": "69120",
+    "latitude": 49.41379908954332,
+    "longitude": 8.692495502696648,
+    "deals": [
+      {
+        "uuid": "c022a427-18a9-4c8e-ca42-08dc91225704",
+        "name": "2for1 Spritz",
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 Spritz drinks of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "854cb8da-6438-4912-ca43-08dc91225704",
+        "name": "FREE Limoncello Shot",
+        "remainingDaysToReset": null,
+        "conditions": "Order an Aperol of your choice and receive a free Limoncello shot.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 300,
+    "reviewsCount": 55,
+    "images": [
+      "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
+      "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/fb339d90-4c90-438e-9100-3c4b2de12f95.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "72dee0cd-6cda-4861-8b00-77a0f1cae34e",
+    "name": "Choa Restaurant",
+    "slug": "choa-restaurant",
+    "address": "Zwingerstraße 20",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.41131614369048,
+    "longitude": 8.711970070552214,
+    "deals": [
+      {
+        "uuid": "5b4f69c2-ca46-49eb-a875-08dc6b82761c",
+        "name": "€10 Discount",
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "f81f748e-887d-4d66-a876-08dc6b82761c",
+        "name": "FREE Dessert",
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a dessert for free.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bbq",
+        "name": "BBQ"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian"
+      },
+      {
+        "slug": "sushi",
+        "name": "Sushi"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 248,
+    "reviewsCount": 48,
+    "images": [
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/235f3980-3676-40ab-8407-53ea81216c3f.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/594f058b-e77e-4d0e-92ba-700e7e452e4b.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/eb13896c-e7ce-4c94-b01c-282abdc6f3e7.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/3c584495-9dce-4328-a8a9-610e942c78df.jpeg"
+    ],
+    "priceRange": 3
+  },
+  {
+    "uuid": "269aa733-68f2-4a8f-9c97-372f39d3908f",
+    "name": "Ornée Store & Café",
+    "slug": "ornee-store-cafe",
+    "address": "Marktpl. 4",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.41236752075998,
+    "longitude": 8.710204230365,
+    "deals": [
+      {
+        "uuid": "0fafda8a-f8ae-4fb1-3ffe-08dc6b86fbfb",
+        "name": "2for1 Bubble Tea",
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 bubble teas of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "5adecdfd-3718-4458-3fff-08dc6b86fbfb",
+        "name": "FREE Topping Bubble Tea",
+        "remainingDaysToReset": null,
+        "conditions": "Order a Bubble Tea of your choice and receive a free topping.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 1,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "desserts",
+        "name": "Desserts"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 241,
+    "reviewsCount": 56,
+    "images": [
+      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/7ad53322-c201-481e-bce7-ab63684d1781.jpeg",
+      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/47ec4621-8cc6-4fc4-a8e0-8d8528055983.jpeg",
+      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/9f9360cf-ffbe-4e41-8f9c-01bf7e126a26.jpeg",
+      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/84a1be3a-2a2c-4050-bcb1-4043604ec507.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "78c8127e-0a79-40e0-857e-c38d7dacf9e9",
+    "name": "L'Osteria Heidelberg",
+    "slug": "losteria-hauptstrasse-111",
+    "address": "Hauptstraße 111",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.41152838095729,
+    "longitude": 8.703814588406802,
+    "deals": [
+      {
+        "uuid": "edeade65-74f0-4291-69da-08dcb06e4b82",
+        "name": "2for1 Aperitifs",
+        "remainingDaysToReset": null,
+        "conditions": "Order two aperitifs of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 6,
+        "status": "available"
+      },
+      {
+        "uuid": "1c03973d-2247-4d91-69db-08dcb06e4b82",
+        "name": "FREE Piccolo Dolci",
+        "remainingDaysToReset": null,
+        "conditions": "Order a main course of your choice and receive a free Piccolo Dolci. This deal must be shown before ordering.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 6,
+        "status": "available"
+      },
+      {
+        "uuid": "3e9beefa-5695-42af-af55-d4bf7787ffe0",
+        "name": "2for1 Anniversary Brew",
+        "remainingDaysToReset": null,
+        "conditions": "You buy an Anniversary Brew and get the second one for free.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 204,
+    "reviewsCount": 38,
+    "images": [
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/d82b016c-2866-4d0d-90d7-f819606754f4.jpeg",
+      "https://assets.neotaste.com/restaurants/78c8127e-0a79-40e0-857e-c38d7dacf9e9/images/db80bff3-955d-4ada-8b31-ea70dd9c06b5.jpg",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/0fb60d18-b462-496c-b301-f2330be0b006.jpeg",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/b5ab4b56-1b1a-4d3b-b9dc-6eae7e9a9bc4.png",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/973bf59b-2c54-436f-bd1f-9957151510ec.jpeg",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/c6209aa3-7b86-4ad1-9a02-699cb3a0caf0.jpeg",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/fe370ea5-5507-43b3-8c3d-5eaea51dd058.jpeg",
+      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/7fd6076a-19b9-4caa-a0c2-d76b1fae7efa.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "d9d3a960-5c0f-413f-b52e-cdedc7144d96",
+    "name": "MyCurrywurst Bismarckplatz",
+    "slug": "mycurrywurst-bismarckplatz",
+    "address": "Rohrbacher Str. 2",
+    "addressOptional": null,
+    "zipCode": "69115",
+    "latitude": 49.40884059964738,
+    "longitude": 8.692244170174977,
+    "deals": [
+      {
+        "uuid": "d36b7e77-eeb0-4581-6e40-08dc6aa78c82",
+        "name": "2for1 Currywurst",
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 portions of Currywurst of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 7,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "a5ffa0e9-42fa-437e-6e41-08dc6aa78c82",
+        "name": "FREE Fries",
+        "remainingDaysToReset": null,
+        "conditions": "Order a currywurst of your choice and get a free portion of fries.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bbq",
+        "name": "BBQ"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "fast-food",
+        "name": "Fast Food"
+      }
+    ],
+    "avgRating": 4.7,
+    "ratingsCount": 224,
+    "reviewsCount": 38,
+    "images": [
+      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/d8ebff84-9778-4d16-a0d2-2f5cc32976b1.jpeg",
+      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/654f5b8e-776d-400d-9d16-820b23023669.jpeg",
+      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/becc389e-4606-4ab7-b812-e22ebaac0641.jpeg",
+      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/4818e2dd-a42f-45dd-991b-e6345d9ada7d.jpeg",
+      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/97b89572-0dce-4050-80bf-c92d0cc91da0.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "1abb453a-1b23-47f0-bc90-e56f05c5c93f",
+    "name": "Schmelzpunkt Campbell",
+    "slug": "schmelzpunkt-campbell",
+    "address": "Adelheid-Straße 3",
+    "addressOptional": null,
+    "zipCode": "69126",
+    "latitude": 49.38516364778641,
+    "longitude": 8.682832953799672,
+    "deals": [
+      {
+        "uuid": "2f75d72a-7d3f-4391-a879-08dc6b82761c",
+        "name": "2for1 Belgian Waffle",
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 Belgian waffles of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "5defa503-2ef3-4df4-a87a-08dc6b82761c",
+        "name": "2for1 Ice Cream Scoop",
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 ice cream scoops of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "desserts",
+        "name": "Desserts"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 155,
+    "reviewsCount": 32,
+    "images": [
+      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
+      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/019f577c-f13e-4c3b-8c7c-ddb6b718a633.jpeg",
+      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/14092400-2de4-4a86-88dd-c9bf8c2feb8b.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "2f53564d-2c9f-4e0d-b868-7dacd2135e1e",
     "name": "uuuhmami",
     "slug": "uuuhmami",
@@ -109,118 +612,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "87d9756c-9f83-4897-9233-8c36c5fa48ba",
-    "name": "ok kool Marstallstraße",
-    "slug": "ok-kool-marstallstrasse",
-    "address": "Marstallstraße 7",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.41269372285168,
-    "longitude": 8.705578788779384,
-    "deals": [
-      {
-        "uuid": "c8c816eb-fb9c-4dbf-3fd9-08dc6b86fbfb",
-        "name": "2for1 Ice Cream Scoop",
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 ice cream scoops of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "93c61c7c-039c-48c2-3fda-08dc6b86fbfb",
-        "name": "2for1 Hot Drink",
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "desserts",
-        "name": "Desserts"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 474,
-    "reviewsCount": 91,
-    "images": [
-      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/dbcc5048-e1c8-4578-89c1-6793a903a8b3.jpeg",
-      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/ca402d1a-c0ae-4366-b990-13cd97e4edaf.jpeg",
-      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/637fc7c3-1696-4e8a-b060-a4de05c67e17.jpeg",
-      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/93058d75-1992-45fe-8008-a6edc14c56fb.jpeg",
-      "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/bacc20eb-7247-4a71-9d28-7df45a1f417d.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "357cd449-443e-45dc-aea0-63e1b10cb5fe",
-    "name": "HANS IM GLÜCK - Heiliggeistkirche",
-    "slug": "hans-im-glueck-heiliggeistkirche",
-    "address": "Hauptstraße 187",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.41189263773346,
-    "longitude": 8.709023034553123,
-    "deals": [
-      {
-        "uuid": "3d2aed19-587d-4a90-a89c-08dc6b82761c",
-        "name": "2for1 Burger",
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 18,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "e7bd4698-d467-4955-8b9a-eae2078895f7",
-        "name": "FREE Side Dish",
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and get a side dish for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bbq",
-        "name": "BBQ"
-      },
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 982,
-    "reviewsCount": 167,
-    "images": [
-      "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/62d0e55f-16d0-444c-8d86-c655b121af06.jpeg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/15002c77-3dd3-43e9-aab8-0255c37891ff.jpeg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/72a325e1-8694-4b5a-8bfe-c5609d5825b0.jpeg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/692c9c6c-90eb-49aa-81fb-5078812cf75c.jpeg",
-      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/afd09973-b3b6-43ae-91b6-cceeb078adf5.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "48ad660d-2549-4860-8838-6b48e12c9f97",
     "name": "Goldener Anker GmbH",
     "slug": "goldener-anker-gmbh",
@@ -274,63 +665,6 @@
     "priceRange": 3
   },
   {
-    "uuid": "87d63154-435f-42c2-96b8-06538d3dbe0f",
-    "name": "Compleat Bismarckplatz",
-    "slug": "compleat-bismarckplatz",
-    "address": "Rohrbacher Str. 2",
-    "addressOptional": null,
-    "zipCode": "69115",
-    "latitude": 49.40892330591613,
-    "longitude": 8.692200507807478,
-    "deals": [
-      {
-        "uuid": "f0e02642-816d-432b-bdc9-a65fed640a90",
-        "name": "€10 Discount",
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "9c18b0ca-b07c-4fbf-a668-e1e7395ac891",
-        "name": "FREE Add-Ons",
-        "remainingDaysToReset": null,
-        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      },
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 840,
-    "reviewsCount": 129,
-    "images": [
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/b477e4ac-37dc-4cc8-bcb0-503c81dfd396.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/5e772c11-361b-4007-82d1-954d371ab8d2.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/9a205c57-84a5-4549-a4df-2f750ca8ca6c.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "af11cb47-9db7-45ee-8694-048fe2902f91",
     "name": "HANS IM GLÜCK - Westarkaden",
     "slug": "hans-im-glueck-westarkaden",
@@ -376,7 +710,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 658,
+    "ratingsCount": 659,
     "reviewsCount": 106,
     "images": [
       "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -445,52 +779,6 @@
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/1694f283-4efa-460e-880b-9a5d1d3d4646.jpeg",
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/ca8102fb-d9ce-40e6-a045-27573ebc3553.jpeg",
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/d2587bc4-55af-4ba5-98b4-fba6364eaf08.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "abdf0247-a169-4e83-b02b-e40946cd723e",
-    "name": "Zino's Spritz",
-    "slug": "zinos-spritz-heidelberg",
-    "address": "Brückenkopfstraße 1/2",
-    "addressOptional": null,
-    "zipCode": "69120",
-    "latitude": 49.41379908954332,
-    "longitude": 8.692495502696648,
-    "deals": [
-      {
-        "uuid": "c022a427-18a9-4c8e-ca42-08dc91225704",
-        "name": "2for1 Spritz",
-        "remainingDaysToReset": null,
-        "conditions": "Order 2 Spritz drinks of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "854cb8da-6438-4912-ca43-08dc91225704",
-        "name": "FREE Limoncello Shot",
-        "remainingDaysToReset": null,
-        "conditions": "Order an Aperol of your choice and receive a free Limoncello shot.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 299,
-    "reviewsCount": 55,
-    "images": [
-      "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
-      "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/fb339d90-4c90-438e-9100-3c4b2de12f95.jpeg"
     ],
     "priceRange": 2
   },
@@ -750,58 +1038,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "269aa733-68f2-4a8f-9c97-372f39d3908f",
-    "name": "Ornée Store & Café",
-    "slug": "ornee-store-cafe",
-    "address": "Marktpl. 4",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.41236752075998,
-    "longitude": 8.710204230365,
-    "deals": [
-      {
-        "uuid": "0fafda8a-f8ae-4fb1-3ffe-08dc6b86fbfb",
-        "name": "2for1 Bubble Tea",
-        "remainingDaysToReset": null,
-        "conditions": "Order 2 bubble teas of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 30,
-        "status": "available"
-      },
-      {
-        "uuid": "5adecdfd-3718-4458-3fff-08dc6b86fbfb",
-        "name": "FREE Topping Bubble Tea",
-        "remainingDaysToReset": null,
-        "conditions": "Order a Bubble Tea of your choice and receive a free topping.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 1,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "desserts",
-        "name": "Desserts"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 241,
-    "reviewsCount": 56,
-    "images": [
-      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/7ad53322-c201-481e-bce7-ab63684d1781.jpeg",
-      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/47ec4621-8cc6-4fc4-a8e0-8d8528055983.jpeg",
-      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/9f9360cf-ffbe-4e41-8f9c-01bf7e126a26.jpeg",
-      "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/84a1be3a-2a2c-4050-bcb1-4043604ec507.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "a5ee3006-9c39-463d-9c44-8527836175fb",
     "name": "ok kool Wallstraße",
     "slug": "ok-kool-wallstrasse",
@@ -1054,114 +1290,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "1abb453a-1b23-47f0-bc90-e56f05c5c93f",
-    "name": "Schmelzpunkt Campbell",
-    "slug": "schmelzpunkt-campbell",
-    "address": "Adelheid-Straße 3",
-    "addressOptional": null,
-    "zipCode": "69126",
-    "latitude": 49.38516364778641,
-    "longitude": 8.682832953799672,
-    "deals": [
-      {
-        "uuid": "2f75d72a-7d3f-4391-a879-08dc6b82761c",
-        "name": "2for1 Belgian Waffle",
-        "remainingDaysToReset": null,
-        "conditions": "Order 2 Belgian waffles of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 8,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "5defa503-2ef3-4df4-a87a-08dc6b82761c",
-        "name": "2for1 Ice Cream Scoop",
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 ice cream scoops of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café"
-      },
-      {
-        "slug": "desserts",
-        "name": "Desserts"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 155,
-    "reviewsCount": 32,
-    "images": [
-      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
-      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/019f577c-f13e-4c3b-8c7c-ddb6b718a633.jpeg",
-      "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/14092400-2de4-4a86-88dd-c9bf8c2feb8b.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "d9d3a960-5c0f-413f-b52e-cdedc7144d96",
-    "name": "MyCurrywurst Bismarckplatz",
-    "slug": "mycurrywurst-bismarckplatz",
-    "address": "Rohrbacher Str. 2",
-    "addressOptional": null,
-    "zipCode": "69115",
-    "latitude": 49.40884059964738,
-    "longitude": 8.692244170174977,
-    "deals": [
-      {
-        "uuid": "d36b7e77-eeb0-4581-6e40-08dc6aa78c82",
-        "name": "2for1 Currywurst",
-        "remainingDaysToReset": null,
-        "conditions": "Order 2 portions of Currywurst of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "a5ffa0e9-42fa-437e-6e41-08dc6aa78c82",
-        "name": "FREE Fries",
-        "remainingDaysToReset": null,
-        "conditions": "Order a currywurst of your choice and get a free portion of fries.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bbq",
-        "name": "BBQ"
-      },
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "fast-food",
-        "name": "Fast Food"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 224,
-    "reviewsCount": 38,
-    "images": [
-      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/d8ebff84-9778-4d16-a0d2-2f5cc32976b1.jpeg",
-      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/654f5b8e-776d-400d-9d16-820b23023669.jpeg",
-      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/becc389e-4606-4ab7-b812-e22ebaac0641.jpeg",
-      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/4818e2dd-a42f-45dd-991b-e6345d9ada7d.jpeg",
-      "https://assets.neotaste.com/restaurants/111482fb-30de-49d4-9d18-b4afbde90303/images/97b89572-0dce-4050-80bf-c92d0cc91da0.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "e3df701d-52d5-4e11-8552-f5ab70a1dffa",
     "name": "Zekis Uni Café Heidelberg",
     "slug": "zekis-uni-cafe-heidelberg",
@@ -1381,134 +1509,6 @@
       "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/48210b8a-66ab-4a82-8dc0-094b2b2e10b0.jpeg",
       "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/18c16aa1-0f77-4491-8640-b18e4dbd2a27.jpeg",
       "https://assets.neotaste.com/restaurants/05b91775-a3ce-403d-9143-730a520c3f4d/images/87167f6f-585f-49fc-9f9e-1331ecca2d97.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "72dee0cd-6cda-4861-8b00-77a0f1cae34e",
-    "name": "Choa Restaurant",
-    "slug": "choa-restaurant",
-    "address": "Zwingerstraße 20",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.41131614369048,
-    "longitude": 8.711970070552214,
-    "deals": [
-      {
-        "uuid": "5b4f69c2-ca46-49eb-a875-08dc6b82761c",
-        "name": "€10 Discount",
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "f81f748e-887d-4d66-a876-08dc6b82761c",
-        "name": "FREE Dessert",
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and get a dessert for free.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bbq",
-        "name": "BBQ"
-      },
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "sushi",
-        "name": "Sushi"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 248,
-    "reviewsCount": 48,
-    "images": [
-      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
-      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/235f3980-3676-40ab-8407-53ea81216c3f.jpeg",
-      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/594f058b-e77e-4d0e-92ba-700e7e452e4b.jpeg",
-      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/eb13896c-e7ce-4c94-b01c-282abdc6f3e7.jpeg",
-      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/3c584495-9dce-4328-a8a9-610e942c78df.jpeg"
-    ],
-    "priceRange": 3
-  },
-  {
-    "uuid": "78c8127e-0a79-40e0-857e-c38d7dacf9e9",
-    "name": "L'Osteria Heidelberg",
-    "slug": "losteria-hauptstrasse-111",
-    "address": "Hauptstraße 111",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.41152838095729,
-    "longitude": 8.703814588406802,
-    "deals": [
-      {
-        "uuid": "edeade65-74f0-4291-69da-08dcb06e4b82",
-        "name": "2for1 Aperitifs",
-        "remainingDaysToReset": null,
-        "conditions": "Order two aperitifs of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 6,
-        "status": "available"
-      },
-      {
-        "uuid": "1c03973d-2247-4d91-69db-08dcb06e4b82",
-        "name": "FREE Piccolo Dolci",
-        "remainingDaysToReset": null,
-        "conditions": "Order a main course of your choice and receive a free Piccolo Dolci. This deal must be shown before ordering.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "daysToReset": 6,
-        "status": "available"
-      },
-      {
-        "uuid": "3e9beefa-5695-42af-af55-d4bf7787ffe0",
-        "name": "2for1 Anniversary Brew",
-        "remainingDaysToReset": null,
-        "conditions": "You buy an Anniversary Brew and get the second one for free.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      },
-      {
-        "slug": "pizza",
-        "name": "Pizza"
-      },
-      {
-        "slug": "italian",
-        "name": "Italian"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 204,
-    "reviewsCount": 38,
-    "images": [
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/d82b016c-2866-4d0d-90d7-f819606754f4.jpeg",
-      "https://assets.neotaste.com/restaurants/78c8127e-0a79-40e0-857e-c38d7dacf9e9/images/db80bff3-955d-4ada-8b31-ea70dd9c06b5.jpg",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/0fb60d18-b462-496c-b301-f2330be0b006.jpeg",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/b5ab4b56-1b1a-4d3b-b9dc-6eae7e9a9bc4.png",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/973bf59b-2c54-436f-bd1f-9957151510ec.jpeg",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/c6209aa3-7b86-4ad1-9a02-699cb3a0caf0.jpeg",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/fe370ea5-5507-43b3-8c3d-5eaea51dd058.jpeg",
-      "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/7fd6076a-19b9-4caa-a0c2-d76b1fae7efa.jpeg"
     ],
     "priceRange": 2
   },
@@ -1972,6 +1972,55 @@
     "priceRange": 2
   },
   {
+    "uuid": "9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9",
+    "name": "Heerlijk Craft Beer Store",
+    "slug": "heerlijk-heidelberg-local-craft-beer-shop",
+    "address": "Plöck 14",
+    "addressOptional": null,
+    "zipCode": "69117",
+    "latitude": 49.4088838,
+    "longitude": 8.6968071,
+    "deals": [
+      {
+        "uuid": "1ff39651-ec29-4199-85a3-bd7d30308a9a",
+        "name": "€10 Discount",
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €35 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "ee20565e-d6da-433c-8e08-e0f8cf6fa3e8",
+        "name": "FREE Mini Beer",
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and receive a free mini beer (0.1l) with it.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/25a3db2a-c39f-4add-9ea8-29d0995fb746.jpg",
+      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/b458e148-5c8a-4937-9a35-cbc48c916cad.jpg",
+      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/66254633-58c2-4d3f-9d7f-c7aa43becc66.jpg",
+      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/a67a918e-93c3-4c46-bd2b-a74cb2660085.jpg",
+      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/303aa3ac-b8e8-442e-afc4-6cdfb89fd86a.jpg"
+    ],
+    "priceRange": 1
+  },
+  {
     "uuid": "cf50e678-82f6-48ef-8499-54a581c66a93",
     "name": "Heerlijk 25 - Local Beer & Drinks",
     "slug": "heerlijk-25-local-beer-drinks",
@@ -2023,54 +2072,5 @@
       "https://assets.neotaste.com/restaurants/cf50e678-82f6-48ef-8499-54a581c66a93/images/ee65c4ab-2357-4ee1-aeec-0e2649901570.jpg"
     ],
     "priceRange": 3
-  },
-  {
-    "uuid": "9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9",
-    "name": "Heerlijk Craft Beer Store",
-    "slug": "heerlijk-heidelberg-local-craft-beer-shop",
-    "address": "Plöck 14",
-    "addressOptional": null,
-    "zipCode": "69117",
-    "latitude": 49.4088838,
-    "longitude": 8.6968071,
-    "deals": [
-      {
-        "uuid": "1ff39651-ec29-4199-85a3-bd7d30308a9a",
-        "name": "€10 Discount",
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €35 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "ee20565e-d6da-433c-8e08-e0f8cf6fa3e8",
-        "name": "FREE Mini Beer",
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and receive a free mini beer (0.1l) with it.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks"
-      }
-    ],
-    "avgRating": 0,
-    "ratingsCount": 0,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/25a3db2a-c39f-4add-9ea8-29d0995fb746.jpg",
-      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/b458e148-5c8a-4937-9a35-cbc48c916cad.jpg",
-      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/66254633-58c2-4d3f-9d7f-c7aa43becc66.jpg",
-      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/a67a918e-93c3-4c46-bd2b-a74cb2660085.jpg",
-      "https://assets.neotaste.com/restaurants/9a7cc8e2-3f27-4bc4-b4ea-3d09db945cf9/images/303aa3ac-b8e8-442e-afc4-6cdfb89fd86a.jpg"
-    ],
-    "priceRange": 1
   }
 ]
