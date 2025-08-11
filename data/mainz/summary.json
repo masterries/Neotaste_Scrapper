@@ -2799,10 +2799,63 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 57
+    },
+    {
+      "date": "2025-08-11",
+      "total_restaurants": 28,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 57
     }
   ],
-  "last_updated": "2025-08-10",
+  "last_updated": "2025-08-11",
   "restaurants": [
+    {
+      "name": "Wilma Wunder Ballplatz",
+      "uuid": "9e3732dc-72e5-49df-a48d-8b71cbee6144",
+      "deals": [
+        {
+          "uuid": "c571a6f2-86ee-45a9-b963-d01535f10e49",
+          "name": "🌟 €3 Cocktail 🌟",
+          "eventDeal": true,
+          "remainingDaysToReset": null,
+          "conditions": "🍸 Order any cocktail of your choice (\"Marrakesch for Two\" is excluded from the deal) and pay just €3! 🍸",
+          "locationCondition": "onSite",
+          "value": 7,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "7e4530a5-e0f0-4ebb-b462-4c6843b345fe",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount. (This deal can only be redeemed once per table and is not valid on public holidays).",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Ballplatz 2",
+      "zipCode": "55116",
+      "latitude": 49.99763799999999,
+      "longitude": 8.269576,
+      "avgRating": 4.9,
+      "ratingsCount": 84,
+      "reviewsCount": 35,
+      "images": [
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/64c319b9-1e9b-4c79-812b-3a2b0ecf3100.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/5446a1fc-da91-4df2-957e-c2c6cdb4814c.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/50235e85-9be3-4bab-849e-a4cf2738e268.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/e6c85287-a3dd-42f0-a3fb-3bc1108f14ba.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/a18f78a7-d6c6-45a0-abeb-2b7ab6dcc636.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/636d9835-49a6-4cfb-839c-5be28cb248c7.jpg",
+        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/ea0456b9-d69f-4f85-9747-e51bc3e12b61.jpg"
+      ],
+      "priceRange": 2
+    },
     {
       "name": "Burgerheart Mainz",
       "uuid": "cf2531d7-2bec-44bb-8b7f-b8a07f7e9667",
@@ -2835,8 +2888,8 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 1018,
-      "reviewsCount": 206,
+      "ratingsCount": 1022,
+      "reviewsCount": 207,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/fc3f7896-8bf2-4992-b3e6-cf5372380dac.jpeg",
@@ -2878,7 +2931,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 912,
+      "ratingsCount": 913,
       "reviewsCount": 184,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
@@ -2924,7 +2977,7 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.8,
-      "ratingsCount": 820,
+      "ratingsCount": 822,
       "reviewsCount": 166,
       "images": [
         "https://assets.neotaste.com/restaurants/428c0eed-4aaf-420b-8ec8-4e015a3a2cfc/images/c7b5277d-c98c-46fa-ac4f-d02044062283.jpeg",
@@ -2968,7 +3021,7 @@
       "latitude": 49.99982870133544,
       "longitude": 8.27372691427238,
       "avgRating": 4.8,
-      "ratingsCount": 707,
+      "ratingsCount": 708,
       "reviewsCount": 157,
       "images": [
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
@@ -3014,7 +3067,7 @@
       "latitude": 50.00082672190576,
       "longitude": 8.26955109417166,
       "avgRating": 4.8,
-      "ratingsCount": 641,
+      "ratingsCount": 642,
       "reviewsCount": 158,
       "images": [
         "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
@@ -3053,8 +3106,8 @@
       "latitude": 50.00097159781512,
       "longitude": 8.268178958895566,
       "avgRating": 4.8,
-      "ratingsCount": 656,
-      "reviewsCount": 115,
+      "ratingsCount": 658,
+      "reviewsCount": 116,
       "images": [
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/8d6521db-ab70-43c2-8663-8bc952e5e744.jpeg",
         "https://assets.neotaste.com/restaurants/e14f7518-c357-48a6-915b-2347825b1edd/images/38a81659-5ab2-47ed-acce-37b29c25ef76.png",
@@ -3225,8 +3278,8 @@
       "latitude": 49.99611164683669,
       "longitude": 8.279427615916552,
       "avgRating": 4.6,
-      "ratingsCount": 206,
-      "reviewsCount": 47,
+      "ratingsCount": 208,
+      "reviewsCount": 48,
       "images": [
         "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/4e7a7309-b765-4768-8821-da14ee06f373.jpeg",
         "https://assets.neotaste.com/restaurants/053f0907-0d5c-4c69-80df-e3875fb1455c/images/3058e130-98ba-451c-933c-30346a74f15f.jpeg",
@@ -3266,7 +3319,7 @@
       "latitude": 49.99867599138207,
       "longitude": 8.277129470552216,
       "avgRating": 4.7,
-      "ratingsCount": 210,
+      "ratingsCount": 211,
       "reviewsCount": 65,
       "images": [
         "https://assets.neotaste.com/restaurants/cfc73734-0835-4182-bd68-b010f591c505/images/83dcb137-3785-4cf2-936f-2f08c599021e.jpeg",
@@ -3309,8 +3362,8 @@
       "latitude": 49.99686052603381,
       "longitude": 8.278237976686702,
       "avgRating": 4.7,
-      "ratingsCount": 166,
-      "reviewsCount": 51,
+      "ratingsCount": 167,
+      "reviewsCount": 52,
       "images": [
         "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
       ],
@@ -3953,51 +4006,6 @@
         "https://assets.neotaste.com/restaurants/dada4362-de1f-41ce-b1f8-2eb90cc272be/images/aec3e472-1d27-41f4-933c-e124e84d914f.jpeg",
         "https://assets.neotaste.com/restaurants/dada4362-de1f-41ce-b1f8-2eb90cc272be/images/ec794aa1-68c3-41b8-9b3e-81487d99b85c.jpeg",
         "https://assets.neotaste.com/restaurants/dada4362-de1f-41ce-b1f8-2eb90cc272be/images/14e05dac-6c98-4273-bddf-38d84c1f0ff2.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Wilma Wunder Ballplatz",
-      "uuid": "9e3732dc-72e5-49df-a48d-8b71cbee6144",
-      "deals": [
-        {
-          "uuid": "596b05cf-f5c2-473e-b95b-1fd283f0f121",
-          "name": "2for1 Main or Breakfast Dish",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 main courses (from 12pm) or breakfast dishes (until 12pm) of your choice, the cheaper/equivalent one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 14,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "7e4530a5-e0f0-4ebb-b462-4c6843b345fe",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount. (This deal can only be redeemed once per table and is not valid on public holidays).",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Ballplatz 2",
-      "zipCode": "55116",
-      "latitude": 49.99763799999999,
-      "longitude": 8.269576,
-      "avgRating": 4.9,
-      "ratingsCount": 83,
-      "reviewsCount": 35,
-      "images": [
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/64c319b9-1e9b-4c79-812b-3a2b0ecf3100.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/5446a1fc-da91-4df2-957e-c2c6cdb4814c.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/50235e85-9be3-4bab-849e-a4cf2738e268.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/e6c85287-a3dd-42f0-a3fb-3bc1108f14ba.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/a18f78a7-d6c6-45a0-abeb-2b7ab6dcc636.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/636d9835-49a6-4cfb-839c-5be28cb248c7.jpg",
-        "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/ea0456b9-d69f-4f85-9747-e51bc3e12b61.jpg"
       ],
       "priceRange": 2
     }
