@@ -2927,9 +2927,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2025-08-27",
+      "total_restaurants": 36,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 74
     }
   ],
-  "last_updated": "2025-08-26",
+  "last_updated": "2025-08-27",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -2974,8 +2982,8 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 1326,
-      "reviewsCount": 264,
+      "ratingsCount": 1329,
+      "reviewsCount": 265,
       "images": [
         "https://assets.neotaste.com/restaurants/807855e8-cb4c-4031-b5a7-04680d265edc/images/e15050de-f62b-46de-a038-5b389d056fd2.jpg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -3022,7 +3030,7 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.7,
-      "ratingsCount": 747,
+      "ratingsCount": 748,
       "reviewsCount": 215,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -3068,7 +3076,7 @@
       "latitude": 47.99414363899047,
       "longitude": 7.848129837891096,
       "avgRating": 4.8,
-      "ratingsCount": 730,
+      "ratingsCount": 731,
       "reviewsCount": 164,
       "images": [
         "https://assets.neotaste.com/restaurants/a0b06e1f-0c46-4197-9ae5-b694277eb6c0/images/ac77173f-d432-4f46-916c-c3be1b1c4102.jpeg",
@@ -3111,7 +3119,7 @@
       "latitude": 47.99784479394619,
       "longitude": 7.850253947282228,
       "avgRating": 4.9,
-      "ratingsCount": 781,
+      "ratingsCount": 785,
       "reviewsCount": 193,
       "images": [
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
@@ -3240,8 +3248,8 @@
       "latitude": 47.99280651443057,
       "longitude": 7.847862672672846,
       "avgRating": 4.9,
-      "ratingsCount": 288,
-      "reviewsCount": 46,
+      "ratingsCount": 289,
+      "reviewsCount": 47,
       "images": [
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/bccdfa40-b3dd-4806-9b9a-6d1289f2640f.jpeg",
@@ -3790,8 +3798,8 @@
       "latitude": 47.99149895600557,
       "longitude": 7.85490256509156,
       "avgRating": 4.8,
-      "ratingsCount": 63,
-      "reviewsCount": 13,
+      "ratingsCount": 64,
+      "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/03615e85-b117-4513-9fee-a43faa5b38ff.jpeg",
         "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/0379f5c8-3ad2-4db0-9253-d7fd131b8164.jpeg",
@@ -4109,45 +4117,6 @@
       "priceRange": 2
     },
     {
-      "name": "Caffé Bicicletta",
-      "uuid": "954c9678-0cd4-4240-bb44-935331caa074",
-      "deals": [
-        {
-          "uuid": "b44270fe-0316-44c0-7a17-08dca240e941",
-          "name": "2for1 Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 coffees, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "b210f6c8-c31b-4039-7a18-08dca240e941",
-          "name": "2for1 Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 coffees, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Brombergstraße 17",
-      "zipCode": "79102",
-      "latitude": 47.98755102680645,
-      "longitude": 7.850865964653307,
-      "avgRating": 5,
-      "ratingsCount": 29,
-      "reviewsCount": 6,
-      "images": [
-        "https://assets.neotaste.com/restaurants/157331af-36d9-4bab-8791-1b9565f7ca4f/images/b8e75c3e-c779-4a09-afe6-1c6fadf00e9c.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Back & Stehcafé Kronenhaus",
       "uuid": "ad5afdb4-0b6b-4028-80ab-54e5ff0f3780",
       "deals": [
@@ -4222,7 +4191,7 @@
       "latitude": 47.992546557769,
       "longitude": 7.852472618930051,
       "avgRating": 4.9,
-      "ratingsCount": 206,
+      "ratingsCount": 207,
       "reviewsCount": 47,
       "images": [
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/47db98a3-6dce-41ce-a1a1-c580975119c3.jpeg",
@@ -4479,7 +4448,7 @@
       "latitude": 47.9950877,
       "longitude": 7.847792800000001,
       "avgRating": 4.7,
-      "ratingsCount": 183,
+      "ratingsCount": 184,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
