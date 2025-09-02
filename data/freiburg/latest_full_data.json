@@ -58,7 +58,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1346,
+    "ratingsCount": 1347,
     "reviewsCount": 272,
     "images": [
       "https://assets.neotaste.com/restaurants/807855e8-cb4c-4031-b5a7-04680d265edc/images/e15050de-f62b-46de-a038-5b389d056fd2.jpg",
@@ -118,8 +118,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 767,
-    "reviewsCount": 218,
+    "ratingsCount": 768,
+    "reviewsCount": 219,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
@@ -239,8 +239,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 797,
-    "reviewsCount": 198,
+    "ratingsCount": 800,
+    "reviewsCount": 199,
     "images": [
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/add0033f-1b91-4cd9-83b7-87ef02de4a41.jpeg",
@@ -400,7 +400,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 289,
+    "ratingsCount": 290,
     "reviewsCount": 47,
     "images": [
       "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
@@ -458,8 +458,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 321,
-    "reviewsCount": 73,
+    "ratingsCount": 323,
+    "reviewsCount": 74,
     "images": [
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/03eb96f8-f821-4d46-9e5e-cf18e618391b.jpeg",
@@ -573,7 +573,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 152,
+    "ratingsCount": 153,
     "reviewsCount": 34,
     "images": [
       "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/0bd655ed-9446-494f-98fa-f71ce778533b.jpeg",
@@ -1478,6 +1478,108 @@
     "priceRange": 2
   },
   {
+    "uuid": "0841be1c-2015-4064-bc57-737a1696472f",
+    "name": "Tante Emma - Kaffee & Schöne Dinge",
+    "slug": "tante-emma-kaffee-schoene-dinge",
+    "address": "Karlstraße 71",
+    "addressOptional": null,
+    "zipCode": "79104",
+    "latitude": 48.00477560389349,
+    "longitude": 7.858734934569718,
+    "deals": [
+      {
+        "uuid": "d360d214-d6da-401f-bcd7-08dca4c9876b",
+        "name": "2for1 Coffee Specialty + French Pastries",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 coffee specialties and 2 Franzbrötchen of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "9999ddb1-3e01-4a38-bcd8-08dca4c9876b",
+        "name": "FREE Coffee",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Order a pastry or snack of your choice and get a coffee for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "desserts",
+        "name": "Desserts"
+      },
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 19,
+    "reviewsCount": 7,
+    "images": [
+      "https://assets.neotaste.com/restaurants/392b6f10-3aff-4dbf-b0df-7bd04654efc0/images/dfed24b7-be4e-4022-bd3a-20c9d11b4841.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "954c9678-0cd4-4240-bb44-935331caa074",
+    "name": "Caffé Bicicletta",
+    "slug": "caffe-bicicletta",
+    "address": "Brombergstraße 17",
+    "addressOptional": null,
+    "zipCode": "79102",
+    "latitude": 47.98755102680645,
+    "longitude": 7.850865964653307,
+    "deals": [
+      {
+        "uuid": "b44270fe-0316-44c0-7a17-08dca240e941",
+        "name": "2for1 Coffee",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 coffees, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "b210f6c8-c31b-4039-7a18-08dca240e941",
+        "name": "2for1 Coffee",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 coffees, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "drinks",
+        "name": "Drinks"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 29,
+    "reviewsCount": 6,
+    "images": [
+      "https://assets.neotaste.com/restaurants/157331af-36d9-4bab-8791-1b9565f7ca4f/images/b8e75c3e-c779-4a09-afe6-1c6fadf00e9c.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "ad5afdb4-0b6b-4028-80ab-54e5ff0f3780",
     "name": "Back & Stehcafé Kronenhaus",
     "slug": "back-stehcafe-kronenhaus",
@@ -1921,8 +2023,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 193,
-    "reviewsCount": 70,
+    "ratingsCount": 194,
+    "reviewsCount": 71,
     "images": [
       "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
       "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/368b915f-b2fc-403a-a264-9c7ee32626b4.jpg",
