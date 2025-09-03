@@ -2983,9 +2983,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 57
+    },
+    {
+      "date": "2025-09-03",
+      "total_restaurants": 29,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 59
     }
   ],
-  "last_updated": "2025-09-02",
+  "last_updated": "2025-09-03",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -3019,7 +3027,7 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.8,
-      "ratingsCount": 665,
+      "ratingsCount": 666,
       "reviewsCount": 104,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
@@ -3101,7 +3109,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 394,
+      "ratingsCount": 396,
       "reviewsCount": 72,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -4177,6 +4185,51 @@
         "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/65f01d8e-9497-4b7b-8d91-c268379b1064.jpeg",
         "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/fd7e6de4-0d52-448c-9ca5-fe3c2f62248f.jpeg",
         "https://assets.neotaste.com/restaurants/f19c4aba-b7b2-4abf-afb2-d713a0046eaf/images/3cc9be0a-6c4f-4833-b355-0bc8f5f10609.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "JoJo‘s - Focaccia Matcha Coffee Bar",
+      "uuid": "c2b38425-9791-403d-8d42-661b999aef08",
+      "deals": [
+        {
+          "uuid": "5edaa7c3-ae28-4775-9d3e-4764ab041737",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "fa3275c5-ec6f-4920-8745-61660825b033",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a soft drink or hot drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 7,
+          "status": "available"
+        }
+      ],
+      "address": "N 7 11, 68161 Mannheim",
+      "zipCode": "68161",
+      "latitude": 49.4834545,
+      "longitude": 8.4732047,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/530a0db1-fe2c-4f31-a0e9-f1b5c54bb76e.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/0db8b527-fd40-4029-8664-849d7dffcb28.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/24bbba0c-c690-4ca6-a3bc-76e4841319a0.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/597105dc-efab-4011-82b7-5ccb18cb1da1.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/1896f037-e429-4a66-8c47-f84c282b8218.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/bb10e47c-bce8-44a4-ab91-f687a63d2040.jpg",
+        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/c677f5e2-8a28-4a07-a0f8-35c5801e51f2.jpg"
       ],
       "priceRange": 2
     }
