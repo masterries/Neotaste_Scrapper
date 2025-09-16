@@ -3087,9 +3087,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 61
+    },
+    {
+      "date": "2025-09-16",
+      "total_restaurants": 31,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 63
     }
   ],
-  "last_updated": "2025-09-15",
+  "last_updated": "2025-09-16",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -3243,8 +3251,8 @@
       "zipCode": "68161",
       "latitude": 49.4873691010289,
       "longitude": 8.469708764723897,
-      "avgRating": 5,
-      "ratingsCount": 235,
+      "avgRating": 4.9,
+      "ratingsCount": 236,
       "reviewsCount": 74,
       "images": [
         "https://assets.neotaste.com/restaurants/45e51c32-435d-411b-b3a4-4ee21be0f9a5/images/27253420-05de-4487-abb5-98c7ea967065.jpeg",
@@ -3288,8 +3296,8 @@
       "latitude": 49.48766253594116,
       "longitude": 8.470548980941285,
       "avgRating": 4.7,
-      "ratingsCount": 216,
-      "reviewsCount": 56,
+      "ratingsCount": 217,
+      "reviewsCount": 57,
       "images": [
         "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
         "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/f910a7dc-99cd-4654-98cd-9535ce2988af.jpeg",
@@ -3595,6 +3603,47 @@
       "priceRange": 2
     },
     {
+      "name": "Taverna Orion",
+      "uuid": "33132857-59bc-4a63-a374-73d40f0038ad",
+      "deals": [
+        {
+          "uuid": "f0b48021-c4a0-4fa1-ebf4-08dc734bfeb5",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get a €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "3d61a615-d560-433e-ebf5-08dc734bfeb5",
+          "name": "FREE Profiteroles",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and get a serving of profiteroles for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Welserstraße 25",
+      "zipCode": "67063",
+      "latitude": 49.48502781792361,
+      "longitude": 8.435306065011337,
+      "avgRating": 4.9,
+      "ratingsCount": 29,
+      "reviewsCount": 10,
+      "images": [
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
+        "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5acb7ce7-bfb4-4ab6-b269-cc559c6850f9.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
       "name": "Compleat Oststadt",
       "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
       "deals": [
@@ -3626,8 +3675,8 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 280,
-      "reviewsCount": 55,
+      "ratingsCount": 281,
+      "reviewsCount": 56,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
@@ -4208,7 +4257,7 @@
       "latitude": 49.4917327,
       "longitude": 8.463134799999997,
       "avgRating": 4.9,
-      "ratingsCount": 67,
+      "ratingsCount": 68,
       "reviewsCount": 19,
       "images": [
         "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
@@ -4262,7 +4311,7 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.7,
-      "ratingsCount": 131,
+      "ratingsCount": 132,
       "reviewsCount": 25,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -4355,8 +4404,8 @@
       "latitude": 49.4834545,
       "longitude": 8.4732047,
       "avgRating": 5,
-      "ratingsCount": 10,
-      "reviewsCount": 0,
+      "ratingsCount": 12,
+      "reviewsCount": 2,
       "images": [
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/530a0db1-fe2c-4f31-a0e9-f1b5c54bb76e.jpg",
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/0db8b527-fd40-4029-8664-849d7dffcb28.jpg",

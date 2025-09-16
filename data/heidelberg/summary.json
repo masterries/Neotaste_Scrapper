@@ -3087,9 +3087,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 75
+    },
+    {
+      "date": "2025-09-16",
+      "total_restaurants": 36,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 73
     }
   ],
-  "last_updated": "2025-09-15",
+  "last_updated": "2025-09-16",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -3123,7 +3131,7 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1091,
+      "ratingsCount": 1092,
       "reviewsCount": 200,
       "images": [
         "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -3168,8 +3176,8 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.8,
-      "ratingsCount": 916,
-      "reviewsCount": 149,
+      "ratingsCount": 919,
+      "reviewsCount": 150,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
@@ -3437,7 +3445,7 @@
       "latitude": 49.38516364778641,
       "longitude": 8.682832953799672,
       "avgRating": 4.9,
-      "ratingsCount": 178,
+      "ratingsCount": 179,
       "reviewsCount": 42,
       "images": [
         "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
@@ -3606,7 +3614,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 730,
+      "ratingsCount": 732,
       "reviewsCount": 123,
       "images": [
         "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -3696,8 +3704,8 @@
       "latitude": 49.40344583401104,
       "longitude": 8.645399928557108,
       "avgRating": 4.9,
-      "ratingsCount": 333,
-      "reviewsCount": 56,
+      "ratingsCount": 335,
+      "reviewsCount": 57,
       "images": [
         "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
         "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
@@ -4023,8 +4031,8 @@
       "latitude": 49.37915502267545,
       "longitude": 8.691109323619314,
       "avgRating": 4.9,
-      "ratingsCount": 69,
-      "reviewsCount": 23,
+      "ratingsCount": 70,
+      "reviewsCount": 24,
       "images": [
         "https://assets.neotaste.com/restaurants/abef9a6a-3b35-48f2-9b3a-6ec2906b7b34/images/a447cb1b-3ec3-4993-94fe-17b9d962e67c.jpeg",
         "https://assets.neotaste.com/restaurants/abef9a6a-3b35-48f2-9b3a-6ec2906b7b34/images/bac5226d-9bd6-48fe-bd81-27bce6f23b46.jpeg",
@@ -4285,47 +4293,6 @@
         "https://assets.neotaste.com/restaurants/178f9460-5ed4-448e-8019-5c02b2621a47/images/38298786-b264-4da0-9e06-6843e26ed237.jpeg",
         "https://assets.neotaste.com/restaurants/178f9460-5ed4-448e-8019-5c02b2621a47/images/3e49f42e-bea4-4d9f-a136-ba2df4274b7c.jpeg",
         "https://assets.neotaste.com/restaurants/178f9460-5ed4-448e-8019-5c02b2621a47/images/da0d9116-1eec-415f-8076-860a6a15f316.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Waffelhaus Nussloch",
-      "uuid": "92d38bb2-5254-42f2-a4f3-2aa0e3ff3b97",
-      "deals": [
-        {
-          "uuid": "f694f632-7a1f-407a-a888-08dc6b82761c",
-          "name": "2for1 Waffle with 3 toppings",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 waffles with 3 toppings of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 7,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "c5062192-8a9a-45b7-a889-08dc6b82761c",
-          "name": "FREE Hot Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order a main dish of your choice and receive a free hot drink.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kaiserstraße 6",
-      "zipCode": "69226",
-      "latitude": 49.32376769263702,
-      "longitude": 8.694256776309173,
-      "avgRating": 4.6,
-      "ratingsCount": 15,
-      "reviewsCount": 5,
-      "images": [
-        "https://assets.neotaste.com/restaurants/4b1048b2-bac1-4d06-aab2-70176e503845/images/c68eb544-c1d8-4094-a879-edf7a0459a49.jpeg",
-        "https://assets.neotaste.com/restaurants/4b1048b2-bac1-4d06-aab2-70176e503845/images/dacfac26-071e-4dfe-bffa-a7bd0308541b.jpeg",
-        "https://assets.neotaste.com/restaurants/4b1048b2-bac1-4d06-aab2-70176e503845/images/5f8a9e5b-56f8-42fb-b0ab-ce523aa7d3ed.jpeg"
       ],
       "priceRange": 2
     },
