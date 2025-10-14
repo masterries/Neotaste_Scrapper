@@ -3311,9 +3311,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 61
+    },
+    {
+      "date": "2025-10-14",
+      "total_restaurants": 31,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 63
     }
   ],
-  "last_updated": "2025-10-13",
+  "last_updated": "2025-10-14",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -3347,8 +3355,8 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.8,
-      "ratingsCount": 681,
-      "reviewsCount": 107,
+      "ratingsCount": 683,
+      "reviewsCount": 108,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
@@ -3429,8 +3437,8 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 417,
-      "reviewsCount": 75,
+      "ratingsCount": 418,
+      "reviewsCount": 76,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
       ],
@@ -3723,7 +3731,7 @@
       "latitude": 49.50327625854703,
       "longitude": 8.516225509961728,
       "avgRating": 4.8,
-      "ratingsCount": 135,
+      "ratingsCount": 136,
       "reviewsCount": 45,
       "images": [
         "https://assets.neotaste.com/restaurants/cffe2e3a-6609-4ca2-9c60-b38b66f4621e/images/fbc4c8c9-17a1-454e-9a3f-29d8d7abb70e.jpeg",
@@ -4484,8 +4492,8 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.7,
-      "ratingsCount": 137,
-      "reviewsCount": 25,
+      "ratingsCount": 138,
+      "reviewsCount": 26,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/6f87c530-1ec9-4ef6-bbc1-7a50a8f3f891.jpeg",
@@ -4587,6 +4595,46 @@
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/1896f037-e429-4a66-8c47-f84c282b8218.jpg",
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/bb10e47c-bce8-44a4-ab91-f687a63d2040.jpg",
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/c677f5e2-8a28-4a07-a0f8-35c5801e51f2.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "MyKebab",
+      "uuid": "7d49e6fb-db47-4dea-9b1d-ab36644bd91d",
+      "deals": [
+        {
+          "uuid": "a11bbd7f-c5f4-4a69-8db9-12668f76c762",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "f5fa74ea-1162-43a6-b757-8b29299b9028",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Obere Riedstraße 52a",
+      "zipCode": "68309",
+      "latitude": 49.5136693,
+      "longitude": 8.5101899,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/7d49e6fb-db47-4dea-9b1d-ab36644bd91d/images/7573189f-b51d-40b0-a69c-184551436078.png",
+        "https://assets.neotaste.com/restaurants/7d49e6fb-db47-4dea-9b1d-ab36644bd91d/images/27c92310-8b88-433b-b1ca-a95ec494b8e6.png"
       ],
       "priceRange": 2
     }
