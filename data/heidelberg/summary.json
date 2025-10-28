@@ -3423,9 +3423,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2025-10-28",
+      "total_restaurants": 35,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 71
     }
   ],
-  "last_updated": "2025-10-27",
+  "last_updated": "2025-10-28",
   "restaurants": [
     {
       "name": "Moe's 2 Roadhouse",
@@ -3527,8 +3535,8 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1151,
-      "reviewsCount": 216,
+      "ratingsCount": 1154,
+      "reviewsCount": 217,
       "images": [
         "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
         "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
@@ -3572,7 +3580,7 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.8,
-      "ratingsCount": 954,
+      "ratingsCount": 955,
       "reviewsCount": 158,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -3776,17 +3784,6 @@
           "value": 7,
           "daysToReset": 6,
           "status": "available"
-        },
-        {
-          "uuid": "3e9beefa-5695-42af-af55-d4bf7787ffe0",
-          "name": "2for1 Anniversary Brew",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You buy an Anniversary Brew and get the second one for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
         }
       ],
       "address": "Hauptstraße 111",
@@ -3799,7 +3796,6 @@
       "images": [
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/d82b016c-2866-4d0d-90d7-f819606754f4.jpeg",
-        "https://assets.neotaste.com/restaurants/78c8127e-0a79-40e0-857e-c38d7dacf9e9/images/db80bff3-955d-4ada-8b31-ea70dd9c06b5.jpg",
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/0fb60d18-b462-496c-b301-f2330be0b006.jpeg",
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/b5ab4b56-1b1a-4d3b-b9dc-6eae7e9a9bc4.png",
         "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/973bf59b-2c54-436f-bd1f-9957151510ec.jpeg",
@@ -3925,7 +3921,7 @@
       "latitude": 49.43247644737392,
       "longitude": 8.682797076074454,
       "avgRating": 4.9,
-      "ratingsCount": 214,
+      "ratingsCount": 215,
       "reviewsCount": 44,
       "images": [
         "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/99329a52-51f4-4f3e-9366-91163e003b7c.jpeg",
@@ -4354,48 +4350,6 @@
       "priceRange": 2
     },
     {
-      "name": "Frau Bolle",
-      "uuid": "2de0da73-3fec-4e90-9994-d6405d202783",
-      "deals": [
-        {
-          "uuid": "c5222c6c-b814-40c3-841b-e2e9ca3bac2f",
-          "name": "2for1 Hot Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "e9d0e2dd-00d6-4eef-9d6d-08dc6ad74c33",
-          "name": "2for1 Scoop of Ice Cream",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 scoops of ice cream of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 2,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kleinschmidtstraße 1",
-      "zipCode": "69115",
-      "latitude": 49.40528440935093,
-      "longitude": 8.68729947055225,
-      "avgRating": 4.8,
-      "ratingsCount": 142,
-      "reviewsCount": 42,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3b01b7e3-66f6-4535-b16e-f694958d583e/images/d22060c2-8d57-47cf-9beb-edee51545e9a.jpeg",
-        "https://assets.neotaste.com/restaurants/3b01b7e3-66f6-4535-b16e-f694958d583e/images/f129185c-7462-4c0b-865a-11c269456f13.jpeg",
-        "https://assets.neotaste.com/restaurants/3b01b7e3-66f6-4535-b16e-f694958d583e/images/9e3f60f3-cc45-4162-8beb-dbdd3587acb5.jpeg",
-        "https://assets.neotaste.com/restaurants/3b01b7e3-66f6-4535-b16e-f694958d583e/images/bc18174d-3dcd-428b-9197-154a191d0cde.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Taif‘s",
       "uuid": "0948ad54-9a89-404e-ac3f-1d09d918f702",
       "deals": [
@@ -4521,50 +4475,6 @@
         "https://assets.neotaste.com/restaurants/f6f14275-f936-4ffc-90e5-e9a2ae69603e/images/5b8d5834-40f9-4783-a98b-d1036c409516.jpeg"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "Buddy‘s",
-      "uuid": "ef8ca2bb-4a27-4896-80b2-df4f08fe33a6",
-      "deals": [
-        {
-          "uuid": "149c1176-1abf-4ef1-6e35-08dc6aa78c82",
-          "name": "2for1 Main Course",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Lunch menu excluded.",
-          "locationCondition": "onSite",
-          "value": 26,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "1743d474-4460-4abd-6e36-08dc6aa78c82",
-          "name": "FREE Beer/Wine/Soft Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a free beer/glass of wine/soft drink with it. This deal is valid per glass. Bottles excluded.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kegelbahn Vereinigung",
-      "zipCode": "Gottlieb-Daimler-Straße",
-      "latitude": 49.39603329103342,
-      "longitude": 8.680684632571127,
-      "avgRating": 4.9,
-      "ratingsCount": 149,
-      "reviewsCount": 47,
-      "images": [
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/aecc3a6e-29d8-47b7-b0a5-d421efaedf3d.jpeg",
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/2a366cf8-d38c-4411-b5df-e7c897ea54c7.jpeg",
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/f8f60fd8-0615-4913-a8dd-89dd5e02e94f.jpeg",
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/21aae3ec-6b00-48f5-b266-2450104f0bf9.jpeg",
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/b069afe3-e29b-46d8-a804-e326d0bb3dcb.jpeg",
-        "https://assets.neotaste.com/restaurants/1b6d07cd-3729-485c-b4fd-76fca5dcac1c/images/85c91772-1013-4a8d-857d-772585c0445b.jpeg"
-      ],
-      "priceRange": 1
     },
     {
       "name": "Linde Restaurant",

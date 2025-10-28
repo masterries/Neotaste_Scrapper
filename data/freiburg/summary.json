@@ -3423,9 +3423,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 78
+    },
+    {
+      "date": "2025-10-28",
+      "total_restaurants": 37,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 74
     }
   ],
-  "last_updated": "2025-10-27",
+  "last_updated": "2025-10-28",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -3452,17 +3460,6 @@
           "value": 7,
           "daysToReset": 6,
           "status": "available"
-        },
-        {
-          "uuid": "d9eb1de4-e8b3-40f7-bcc0-a91e3e9599bd",
-          "name": "2for1 Anniversary Brew",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You buy an Anniversary Brew and get the second one for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
         }
       ],
       "address": "Rempartstraße 4",
@@ -3470,10 +3467,9 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 1495,
-      "reviewsCount": 314,
+      "ratingsCount": 1497,
+      "reviewsCount": 316,
       "images": [
-        "https://assets.neotaste.com/restaurants/807855e8-cb4c-4031-b5a7-04680d265edc/images/e15050de-f62b-46de-a038-5b389d056fd2.jpg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/4b3a9e43-ea06-4ff7-a5a9-ed61af27bd2b.jpeg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/fbfdab09-7764-48a5-a8e6-8d4b51cf150d.jpeg",
@@ -3518,7 +3514,7 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.7,
-      "ratingsCount": 856,
+      "ratingsCount": 858,
       "reviewsCount": 255,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -3572,50 +3568,6 @@
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/9d9b4e8d-9433-4273-a3fb-d7dc9b780982.jpeg",
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/e435b7fd-1f23-4347-ae02-10e50b726fa3.jpeg",
         "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/60b6ee66-723c-401b-bc02-91798990fb99.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "SPICETRAILS Altstadt",
-      "uuid": "4ce6e49c-89d1-4ef5-99a8-15f0fa1c1274",
-      "deals": [
-        {
-          "uuid": "549efe6a-707c-4738-7614-08dcab01b288",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "0c42928a-04c3-4a07-fde3-08dc9ceeeadb",
-          "name": "FREE Soft Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a soft drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Löwenstraße 4",
-      "zipCode": "79098",
-      "latitude": 47.99395827917463,
-      "longitude": 7.848505067201791,
-      "avgRating": 4.7,
-      "ratingsCount": 426,
-      "reviewsCount": 124,
-      "images": [
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/fe3243e0-1731-443b-8118-195e9f317d00.jpeg",
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/6a256fad-0f2f-4fc2-9c1c-2fbe3104da29.jpeg",
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/b55b5142-4578-4f64-b3d4-d832e30eef67.jpeg",
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/2089af63-e083-4ef4-906e-ab2663314451.jpeg",
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/33f6b3ab-4699-4f7a-bec4-35d77faacb7d.jpeg",
-        "https://assets.neotaste.com/restaurants/d6726599-83e3-4b0d-aecc-68633192ad27/images/0e070d2f-6a18-48d4-a3af-7e41b129d3b7.jpeg"
       ],
       "priceRange": 2
     },
@@ -3693,8 +3645,8 @@
       "latitude": 47.99280651443057,
       "longitude": 7.847862672672846,
       "avgRating": 4.9,
-      "ratingsCount": 314,
-      "reviewsCount": 52,
+      "ratingsCount": 315,
+      "reviewsCount": 53,
       "images": [
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/bccdfa40-b3dd-4806-9b9a-6d1289f2640f.jpeg",
@@ -4034,7 +3986,7 @@
       "latitude": 47.99829090000001,
       "longitude": 7.853315499999999,
       "avgRating": 4.9,
-      "ratingsCount": 165,
+      "ratingsCount": 166,
       "reviewsCount": 34,
       "images": [
         "https://assets.neotaste.com/restaurants/a209fda3-9135-426f-bac3-ef311bd8a1c6/images/8e76831b-9176-4d9b-b6f3-e5501f63d92a.jpeg",
@@ -4243,7 +4195,7 @@
       "latitude": 48.01031352429842,
       "longitude": 7.850689035204358,
       "avgRating": 4.8,
-      "ratingsCount": 105,
+      "ratingsCount": 106,
       "reviewsCount": 35,
       "images": [
         "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/4856a9d6-d703-4a25-a4ce-664ec17d0c83.jpeg",
@@ -4491,17 +4443,6 @@
           "value": 7,
           "daysToReset": 6,
           "status": "available"
-        },
-        {
-          "uuid": "f9dc1414-6f8c-4ef4-9f35-975581919a9a",
-          "name": "2for1 Anniversary Brew",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Buy an Anniversary Brew and get the second one for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 6,
-          "status": "available"
         }
       ],
       "address": "Gustav-Ree-Anlage 3",
@@ -4512,7 +4453,6 @@
       "ratingsCount": 79,
       "reviewsCount": 19,
       "images": [
-        "https://assets.neotaste.com/restaurants/5a4a7a07-4b01-4a83-aeaa-8ff1ad0a82f1/images/ed6232ab-7052-450e-ab15-cd6f67d18ce5.jpg",
         "https://assets.neotaste.com/restaurants/7c664ebd-d011-4487-ac9c-f200596abc0d/images/09b38e86-c4f1-42fe-8025-1a31f526a7c1.jpeg",
         "https://assets.neotaste.com/restaurants/7c664ebd-d011-4487-ac9c-f200596abc0d/images/4b4f2f86-86f3-4dce-81b5-d2a7bb8399e1.jpeg",
         "https://assets.neotaste.com/restaurants/7c664ebd-d011-4487-ac9c-f200596abc0d/images/b47d6962-b296-42da-86a1-2cf5c7ad5225.jpeg",
@@ -4718,8 +4658,8 @@
       "latitude": 47.992546557769,
       "longitude": 7.852472618930051,
       "avgRating": 4.9,
-      "ratingsCount": 232,
-      "reviewsCount": 52,
+      "ratingsCount": 233,
+      "reviewsCount": 53,
       "images": [
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/47db98a3-6dce-41ce-a1a1-c580975119c3.jpeg",
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/c79e54bc-2357-49d4-a999-ddeb3141304a.jpeg",
@@ -4847,8 +4787,8 @@
       "latitude": 47.99804035792975,
       "longitude": 7.838011625069348,
       "avgRating": 4.9,
-      "ratingsCount": 89,
-      "reviewsCount": 25,
+      "ratingsCount": 91,
+      "reviewsCount": 26,
       "images": [
         "https://assets.neotaste.com/restaurants/15df535f-fbf9-4c6f-b6ef-ecc69731b0b1/images/2d3d22d2-be64-43f1-861d-46f3d932d3b3.jpeg",
         "https://assets.neotaste.com/restaurants/15df535f-fbf9-4c6f-b6ef-ecc69731b0b1/images/fb15b31a-cce6-43f3-85a0-7c9618a75852.jpeg",
