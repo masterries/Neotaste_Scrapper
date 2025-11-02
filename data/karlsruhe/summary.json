@@ -3463,9 +3463,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 112
+    },
+    {
+      "date": "2025-11-02",
+      "total_restaurants": 56,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 106
     }
   ],
-  "last_updated": "2025-11-01",
+  "last_updated": "2025-11-02",
   "restaurants": [
     {
       "name": "Burgerheart",
@@ -3499,8 +3507,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1557,
-      "reviewsCount": 371,
+      "ratingsCount": 1561,
+      "reviewsCount": 374,
       "images": [
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -3632,8 +3640,8 @@
       "latitude": 49.00923406335475,
       "longitude": 8.409084393595768,
       "avgRating": 4.9,
-      "ratingsCount": 574,
-      "reviewsCount": 149,
+      "ratingsCount": 578,
+      "reviewsCount": 150,
       "images": [
         "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/50cf7008-9b1d-4138-b701-8410872aec22.jpeg",
         "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/762782c0-ee98-4cbe-9fb7-e176bfcf924c.jpeg",
@@ -3689,126 +3697,43 @@
     {
       "name": "eat and greet im alten Schlachthof",
       "uuid": "07338943-80b3-4861-be8c-cae80b3864e9",
-      "deals": [
-        {
-          "uuid": "119760b1-2d98-4f86-bd51-cbb11db0dec6",
-          "name": "FREE Crumble",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main dish of your choice and get a crumble for free.",
-          "locationCondition": "onSite",
-          "value": 12,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "750c6072-f5d3-4f3d-a16d-278fb809b6c4",
-          "name": "2for1 Cocktail",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 8,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Alter Schlachthof 7a",
-      "zipCode": "76131",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.0060247,
       "longitude": 8.431078900000001,
       "avgRating": 4.7,
-      "ratingsCount": 432,
-      "reviewsCount": 146,
-      "images": [
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/d57e3740-71ec-4522-9a33-242abdeec8f7.jpg",
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/0f660408-4f1c-4f10-82ea-14f5e2efc1fc.jpg",
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/6b10ba5d-052d-4e69-a1fd-e8b68f68de7c.jpg",
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/8f293474-5622-4c81-b0de-f15bd87e93a9.jpg",
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/152004f1-ffdd-4534-b7ac-b6e5d6c2c227.jpg",
-        "https://assets.neotaste.com/restaurants/07338943-80b3-4861-be8c-cae80b3864e9/images/b31b06a1-aeb3-4c17-8031-f133dc780861.jpg"
-      ],
+      "ratingsCount": 433,
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 1
     },
     {
       "name": "Macchia Tea",
       "uuid": "ce01aec1-bba4-4b1c-bd7c-89957be5786b",
-      "deals": [
-        {
-          "uuid": "9c9f500f-eb49-4327-aa2d-08dc4902fbc9",
-          "name": "2for1 Bubble Tea",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 Bubble Teas of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "98457b63-6abb-4739-aa2e-08dc4902fbc9",
-          "name": "2for1 Bubble Yoghurt",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 Bubble Yogurts of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kaiserstraße 217",
-      "zipCode": "76133",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.00964741991798,
       "longitude": 8.394573976307528,
       "avgRating": 4.8,
       "ratingsCount": 330,
-      "reviewsCount": 120,
-      "images": [
-        "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/d5771fe7-0377-4b16-a47e-06ce3eb0d146.jpeg",
-        "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/eb525fcd-3317-4606-866f-598dc54d98f3.jpeg",
-        "https://assets.neotaste.com/restaurants/ff366ff9-8a2d-4920-890c-1c82ae889729/images/4077683d-7a54-4a83-8759-7745e9bc2ff5.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 1
     },
     {
       "name": "Oriental Grill",
       "uuid": "0cab7dcf-db50-49f9-b88f-5a345d4506b1",
-      "deals": [
-        {
-          "uuid": "12c806be-abf7-4e61-efde-08dc480ae7d0",
-          "name": "2for1 Vegan or Vegetarian Döner",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 vegan or vegetarian döner kebabs of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "bb446c67-9a48-4cd0-efdf-08dc480ae7d0",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Passagehof 28",
-      "zipCode": "76133",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.0106808588777,
       "longitude": 8.395981676237538,
       "avgRating": 4.8,
       "ratingsCount": 298,
-      "reviewsCount": 93,
-      "images": [
-        "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/c922af13-db41-4f8d-a592-214b5a510176.jpeg",
-        "https://assets.neotaste.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/2b394bdd-9a4a-40f5-afe9-1dfe2fad8371.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 1
     },
     {
@@ -3972,7 +3897,7 @@
       "latitude": 49.02619232990729,
       "longitude": 8.364491423313426,
       "avgRating": 4.7,
-      "ratingsCount": 108,
+      "ratingsCount": 109,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/6aa56b43-2eaa-4315-882d-4bfe2e494eac/images/b976d994-b47d-4194-aafe-644b2d5d0225.jpeg"
@@ -4011,8 +3936,8 @@
       "latitude": 49.00088961995574,
       "longitude": 8.38866880575617,
       "avgRating": 4.8,
-      "ratingsCount": 192,
-      "reviewsCount": 51,
+      "ratingsCount": 194,
+      "reviewsCount": 52,
       "images": [
         "https://assets.neotaste.com/restaurants/4eba666a-7bea-47c4-adfd-a927a88f463d/images/bc833de8-8739-463b-a6b4-6a91e6c4920f.jpeg",
         "https://assets.neotaste.com/restaurants/4eba666a-7bea-47c4-adfd-a927a88f463d/images/ef498b9b-0923-46c9-8d78-d4d9860f967c.jpeg",
@@ -4097,7 +4022,7 @@
       "latitude": 48.99488598042907,
       "longitude": 8.393736459201667,
       "avgRating": 4.8,
-      "ratingsCount": 168,
+      "ratingsCount": 169,
       "reviewsCount": 58,
       "images": [
         "https://assets.neotaste.com/restaurants/6421fd0f-bb50-4194-be5c-7e028b083cd5/images/c7f2d251-9653-427e-81c6-8c4fe8a8e4a3.jpeg",
@@ -4264,7 +4189,7 @@
       "latitude": 49.00752251137964,
       "longitude": 8.40689285889558,
       "avgRating": 5,
-      "ratingsCount": 128,
+      "ratingsCount": 129,
       "reviewsCount": 41,
       "images": [
         "https://assets.neotaste.com/restaurants/c29a0590-300c-4bf2-8188-8565c79836f9/images/aacd06e1-6e9c-43c0-8ad7-b075f9b8cdc9.jpeg",
@@ -4436,8 +4361,8 @@
       "latitude": 49.01113101355247,
       "longitude": 8.365588899122075,
       "avgRating": 4.8,
-      "ratingsCount": 110,
-      "reviewsCount": 33,
+      "ratingsCount": 112,
+      "reviewsCount": 34,
       "images": [
         "https://assets.neotaste.com/restaurants/d33d5aaf-2004-4c5e-bb11-637676605654/images/7215d473-39f2-4007-8357-a230b9378407.jpeg",
         "https://assets.neotaste.com/restaurants/d33d5aaf-2004-4c5e-bb11-637676605654/images/dcd8497a-6480-4d9b-aad6-e618a5aa1ec9.jpeg",
@@ -4654,8 +4579,8 @@
       "latitude": 49.00454245805076,
       "longitude": 8.387811044261303,
       "avgRating": 4.8,
-      "ratingsCount": 195,
-      "reviewsCount": 71,
+      "ratingsCount": 196,
+      "reviewsCount": 72,
       "images": [
         "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/4f534968-432d-41f8-90a6-2b73ac73866e.jpeg",
         "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/58512d5b-b076-4c78-9c0f-74d117d1bd05.jpeg",
@@ -5371,7 +5296,7 @@
       "latitude": 49.0077618,
       "longitude": 8.4074139,
       "avgRating": 4.9,
-      "ratingsCount": 130,
+      "ratingsCount": 131,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
@@ -5456,7 +5381,7 @@
       "latitude": 49.01087310130616,
       "longitude": 8.39427486519315,
       "avgRating": 4.7,
-      "ratingsCount": 158,
+      "ratingsCount": 159,
       "reviewsCount": 45,
       "images": [
         "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
