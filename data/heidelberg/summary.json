@@ -3479,9 +3479,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 70
+    },
+    {
+      "date": "2025-11-04",
+      "total_restaurants": 36,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 72
     }
   ],
-  "last_updated": "2025-11-03",
+  "last_updated": "2025-11-04",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -3560,7 +3568,7 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.8,
-      "ratingsCount": 961,
+      "ratingsCount": 963,
       "reviewsCount": 160,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -3857,8 +3865,8 @@
       "zipCode": "69115",
       "latitude": 49.40654217192018,
       "longitude": 8.675596147238918,
-      "avgRating": 4.8,
-      "ratingsCount": 166,
+      "avgRating": 4.9,
+      "ratingsCount": 167,
       "reviewsCount": 31,
       "images": [
         "https://assets.neotaste.com/restaurants/5b17df6e-39a9-49fc-a86a-10fe7c308425/images/9e663e1b-0650-45fb-ba24-2c8f4bb329f4.jpeg",
@@ -4977,6 +4985,46 @@
         "https://assets.neotaste.com/restaurants/60d7495c-e152-4e80-b97f-ffdd7565ec4f/images/fce085c7-f376-4282-a0c1-b5ee1bfd1cd3.jpg"
       ],
       "priceRange": 2
+    },
+    {
+      "name": "Sunday Café",
+      "uuid": "fba1eb5e-490c-4168-a506-a80c7229bd9a",
+      "deals": [
+        {
+          "uuid": "09590386-23e6-4921-af2e-101263c28b4d",
+          "name": "2for1 Hot Drink & Sweet",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 hot drinks and sweets (brownie, cookie, croissant) of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "de6e5c85-e19d-4c5b-bc06-ebe2dc73718f",
+          "name": "2for1 Matcha",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 matchas of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Hauptstraße 110",
+      "zipCode": "69117",
+      "latitude": 49.4108144,
+      "longitude": 8.704002599999999,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/54579229-139d-499f-8e01-fabfcb64e58e.jpg",
+        "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/354d4aae-2dbe-4028-ac46-a456c10816f6.jpg"
+      ],
+      "priceRange": 1
     }
   ]
 }
