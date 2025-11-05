@@ -3487,9 +3487,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 54
+    },
+    {
+      "date": "2025-11-05",
+      "total_restaurants": 28,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 48
     }
   ],
-  "last_updated": "2025-11-04",
+  "last_updated": "2025-11-05",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -3778,7 +3786,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 218,
+      "ratingsCount": 219,
       "reviewsCount": 56,
       "images": [
         "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
@@ -4331,81 +4339,29 @@
     {
       "name": "Bäckerei Bakir",
       "uuid": "f1b834b7-0018-4f29-b575-a3be4e0c32b8",
-      "deals": [
-        {
-          "uuid": "21c99eb7-9091-4a74-0185-08dbd46f66d6",
-          "name": "2for1 Filled Roll",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 filled rolls, schnitzel rolls, or meatloaf rolls, the cheaper/equivalent one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "1b854f64-48d5-459f-0186-08dbd46f66d6",
-          "name": "FREE Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order a slice of cake of your choice and get a free coffee with it.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "daysToReset": 1,
-          "status": "available"
-        }
-      ],
-      "address": "Bürgermeister-Fuchs-Straße 29",
-      "zipCode": "68169",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.50138784198914,
       "longitude": 8.463522556743817,
       "avgRating": 4.5,
       "ratingsCount": 2,
-      "reviewsCount": 1,
-      "images": [
-        "https://assets.neotaste.com/restaurants/ad9b1621-679e-460a-9a7e-564f075fcdfb/images/768a9c50-bb2a-4ad2-9e6d-b0e942c98f8d.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
       "name": "Piccolo",
       "uuid": "5b122408-6c3d-427a-89f2-357beb206c7f",
-      "deals": [
-        {
-          "uuid": "a61fbb30-ee60-4158-aced-08dc46b3cafc",
-          "name": "2for1 Crepe",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 crêpes of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "91ebac86-bd20-4c08-acee-08dc46b3cafc",
-          "name": "2for1 Soft Serve",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 soft ice creams of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Im Zollhof 4",
-      "zipCode": "67059",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.48584412345785,
       "longitude": 8.446978097281987,
       "avgRating": 4.5,
       "ratingsCount": 25,
-      "reviewsCount": 9,
-      "images": [
-        "https://assets.neotaste.com/restaurants/aee76c7b-453a-4860-93af-cf605b46c0a6/images/57f4120c-637f-4b73-a983-3d24df164e3a.jpeg",
-        "https://assets.neotaste.com/restaurants/aee76c7b-453a-4860-93af-cf605b46c0a6/images/2453d4a0-ecad-4ec9-9cfe-01bd2406afa1.jpeg",
-        "https://assets.neotaste.com/restaurants/aee76c7b-453a-4860-93af-cf605b46c0a6/images/d4f01771-5a24-4f73-ad69-23722983dc60.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
@@ -4454,44 +4410,15 @@
     {
       "name": "LUUC - Cafe Deli Wein",
       "uuid": "21b89400-1de7-454b-8e2b-606ebc562a95",
-      "deals": [
-        {
-          "uuid": "91ef2ee7-2a4f-4a70-a45a-33c32714a279",
-          "name": "2for1 LUUC Spritz",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 LUUC Spritz' of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 9,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "1ba159c6-f896-49c5-a951-1e0ea7d9a8e3",
-          "name": "FREE Coffee Specialty",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a piece of cake of your choice and get a coffee specialty for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "G7 7",
-      "zipCode": "68159",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
       "latitude": 49.4917327,
       "longitude": 8.463134799999997,
       "avgRating": 4.9,
       "ratingsCount": 70,
-      "reviewsCount": 21,
-      "images": [
-        "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
-        "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/8b49677d-901f-4aa5-9157-74cebf8ea759.jpeg",
-        "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/cc80fe3f-3996-46bf-ad10-cde6adf7ee05.jpeg",
-        "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/cf84c030-07c2-4552-ade9-ff59e02cc9f3.jpeg",
-        "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/08a20c09-0385-4f72-b3f1-19a326a8f9fd.jpeg"
-      ],
+      "reviewsCount": null,
+      "images": [],
       "priceRange": 2
     },
     {
@@ -4589,9 +4516,34 @@
     {
       "name": "JoJo‘s - Focaccia Matcha Coffee Bar",
       "uuid": "c2b38425-9791-403d-8d42-661b999aef08",
+      "deals": [],
+      "address": "",
+      "zipCode": "",
+      "latitude": 49.4834545,
+      "longitude": 8.4732047,
+      "avgRating": 4.8,
+      "ratingsCount": 37,
+      "reviewsCount": null,
+      "images": [],
+      "priceRange": 2
+    },
+    {
+      "name": "Crockpot‘s Mannheim Detroit Style Pizza",
+      "uuid": "779a53da-529c-45f6-a090-a7a86c8e7351",
       "deals": [
         {
-          "uuid": "5edaa7c3-ae28-4775-9d3e-4764ab041737",
+          "uuid": "60cddab0-ae57-46ad-9c6e-1311a97a2e28",
+          "name": "2for1 Pizza",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "980d0a3c-f5ec-4e5e-814f-8e498fa99002",
           "name": "€10 Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
@@ -4600,34 +4552,19 @@
           "value": 10,
           "daysToReset": 90,
           "status": "available"
-        },
-        {
-          "uuid": "fa3275c5-ec6f-4920-8745-61660825b033",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a soft drink or hot drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "daysToReset": 7,
-          "status": "available"
         }
       ],
-      "address": "N 7 11, 68161 Mannheim",
-      "zipCode": "68161",
-      "latitude": 49.4834545,
-      "longitude": 8.4732047,
-      "avgRating": 4.8,
-      "ratingsCount": 37,
-      "reviewsCount": 10,
+      "address": "Braustraße 2",
+      "zipCode": "68309",
+      "latitude": 49.512387,
+      "longitude": 8.519606999999999,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
       "images": [
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/530a0db1-fe2c-4f31-a0e9-f1b5c54bb76e.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/0db8b527-fd40-4029-8664-849d7dffcb28.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/24bbba0c-c690-4ca6-a3bc-76e4841319a0.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/597105dc-efab-4011-82b7-5ccb18cb1da1.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/1896f037-e429-4a66-8c47-f84c282b8218.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/bb10e47c-bce8-44a4-ab91-f687a63d2040.jpg",
-        "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/c677f5e2-8a28-4a07-a0f8-35c5801e51f2.jpg"
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/ae9373ed-3181-45fb-a003-6bb146e234e0.jpeg",
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/10d8946d-f3cb-41cd-8866-d3141d912981.jpeg",
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/3e0f1571-22a0-4ea2-a14b-643c602bf2d6.jpeg"
       ],
       "priceRange": 2
     }
