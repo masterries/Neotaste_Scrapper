@@ -3,17 +3,61 @@
     "uuid": "357cd449-443e-45dc-aea0-63e1b10cb5fe",
     "name": "HANS IM GLÜCK - Heiliggeistkirche",
     "slug": "hans-im-glueck-heiliggeistkirche",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Hauptstraße 187",
+    "addressOptional": null,
+    "zipCode": "69117",
     "latitude": 49.41189263773346,
     "longitude": 8.709023034553123,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "3d2aed19-587d-4a90-a89c-08dc6b82761c",
+        "name": "2for1 Burger",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 18,
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "e7bd4698-d467-4955-8b9a-eae2078895f7",
+        "name": "FREE Side Dish",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a side dish for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "bbq",
+        "name": "BBQ"
+      }
+    ],
     "avgRating": 4.8,
-    "ratingsCount": 1165,
-    "reviewsCount": null,
-    "images": [],
+    "ratingsCount": 1162,
+    "reviewsCount": 222,
+    "images": [
+      "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/62d0e55f-16d0-444c-8d86-c655b121af06.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/15002c77-3dd3-43e9-aab8-0255c37891ff.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/72a325e1-8694-4b5a-8bfe-c5609d5825b0.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/692c9c6c-90eb-49aa-81fb-5078812cf75c.jpeg",
+      "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/afd09973-b3b6-43ae-91b6-cceeb078adf5.jpeg"
+    ],
     "priceRange": 2
   },
   {
@@ -64,7 +108,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 965,
+    "ratingsCount": 963,
     "reviewsCount": 161,
     "images": [
       "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -119,7 +163,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 603,
+    "ratingsCount": 599,
     "reviewsCount": 130,
     "images": [
       "https://assets.neotaste.com/restaurants/7500623c-8603-4ef9-be47-847db557508d/images/dbcc5048-e1c8-4578-89c1-6793a903a8b3.jpeg",
@@ -170,7 +214,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 357,
+    "ratingsCount": 356,
     "reviewsCount": 64,
     "images": [
       "https://assets.neotaste.com/restaurants/44e3baca-25e0-41bf-a8ff-c40ed9c9e91b/images/e0aca0a1-8518-4d98-a638-2c5681b3a1a8.jpeg",
@@ -226,7 +270,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 308,
+    "ratingsCount": 307,
     "reviewsCount": 68,
     "images": [
       "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
@@ -281,7 +325,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 319,
+    "ratingsCount": 317,
     "reviewsCount": 89,
     "images": [
       "https://assets.neotaste.com/restaurants/f0aaf1ed-98fa-48c8-b1f0-52415a625cba/images/7ad53322-c201-481e-bce7-ab63684d1781.jpeg",
@@ -397,7 +441,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 187,
+    "ratingsCount": 184,
     "reviewsCount": 46,
     "images": [
       "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
@@ -509,8 +553,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 217,
-    "reviewsCount": 44,
+    "ratingsCount": 216,
+    "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/99329a52-51f4-4f3e-9366-91163e003b7c.jpeg",
       "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/afd9bb0f-3710-4f74-a940-d2e9f15460cd.jpeg",
@@ -856,7 +900,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 181,
+    "ratingsCount": 180,
     "reviewsCount": 46,
     "images": [
       "https://assets.neotaste.com/restaurants/88827cc6-c5fd-47dd-bae3-5082076cbd25/images/8e385050-9180-48b6-a255-71c12e0e5d93.jpeg",
@@ -956,7 +1000,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 105,
+    "ratingsCount": 104,
     "reviewsCount": 25,
     "images": [
       "https://assets.neotaste.com/restaurants/e893f273-40b1-465e-84e4-a0ce7aba3c40/images/90b7e72c-3514-4b58-92e4-8944a503b457.jpeg",
@@ -1013,8 +1057,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 38,
-    "reviewsCount": 12,
+    "ratingsCount": 39,
+    "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/f423474e-d0ee-41cb-82a6-7b3260899343/images/5ce65044-3027-4407-90bc-a97191f23bdb.png",
       "https://assets.neotaste.com/restaurants/f423474e-d0ee-41cb-82a6-7b3260899343/images/a87733ca-da7b-4dee-9dd3-6947984876f8.jpeg",
@@ -1602,7 +1646,7 @@
       }
     ],
     "avgRating": 4,
-    "ratingsCount": 73,
+    "ratingsCount": 72,
     "reviewsCount": 31,
     "images": [
       "https://assets.neotaste.com/restaurants/8b238afe-b2e6-42da-a209-2866bd9769ef/images/a68b16ba-c159-4cc3-bbc6-2f98e5c9c6d2.jpeg",
@@ -1877,7 +1921,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 10,
+    "ratingsCount": 11,
     "reviewsCount": 4,
     "images": [
       "https://assets.neotaste.com/restaurants/60d7495c-e152-4e80-b97f-ffdd7565ec4f/images/52fcb991-12db-449a-a7bc-23c70c50ebbb.jpg",
