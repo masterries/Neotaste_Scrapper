@@ -3519,9 +3519,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 57
+    },
+    {
+      "date": "2025-11-09",
+      "total_restaurants": 33,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 67
     }
   ],
-  "last_updated": "2025-11-08",
+  "last_updated": "2025-11-09",
   "restaurants": [
     {
       "name": "Crockpot‘s Mannheim Detroit Style Pizza",
@@ -3565,7 +3573,7 @@
       "zipCode": "68309",
       "latitude": 49.512387,
       "longitude": 8.519606999999999,
-      "avgRating": 4.7,
+      "avgRating": 3.7,
       "ratingsCount": 3,
       "reviewsCount": 0,
       "images": [
@@ -3689,7 +3697,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 424,
+      "ratingsCount": 427,
       "reviewsCount": 78,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -3862,7 +3870,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 220,
+      "ratingsCount": 221,
       "reviewsCount": 56,
       "images": [
         "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
@@ -4066,7 +4074,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 288,
+      "ratingsCount": 289,
       "reviewsCount": 57,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -4280,7 +4288,7 @@
       "latitude": 49.49132927317292,
       "longitude": 8.46223717914149,
       "avgRating": 4.8,
-      "ratingsCount": 86,
+      "ratingsCount": 87,
       "reviewsCount": 43,
       "images": [
         "https://assets.neotaste.com/restaurants/6196bef1-f386-492d-8b84-e99d5c3df288/images/056ae187-3b45-41d8-9e85-5590af3a63ff.jpeg",
@@ -4567,7 +4575,7 @@
       "latitude": 49.4917327,
       "longitude": 8.463134799999997,
       "avgRating": 4.9,
-      "ratingsCount": 70,
+      "ratingsCount": 71,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
@@ -4610,7 +4618,7 @@
       "latitude": 49.4826819,
       "longitude": 8.4774795,
       "avgRating": 4.7,
-      "ratingsCount": 146,
+      "ratingsCount": 147,
       "reviewsCount": 30,
       "images": [
         "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -4702,7 +4710,7 @@
       "latitude": 49.4834545,
       "longitude": 8.4732047,
       "avgRating": 4.8,
-      "ratingsCount": 39,
+      "ratingsCount": 40,
       "reviewsCount": 11,
       "images": [
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/530a0db1-fe2c-4f31-a0e9-f1b5c54bb76e.jpg",
@@ -4712,6 +4720,214 @@
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/1896f037-e429-4a66-8c47-f84c282b8218.jpg",
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/bb10e47c-bce8-44a4-ab91-f687a63d2040.jpg",
         "https://assets.neotaste.com/restaurants/c2b38425-9791-403d-8d42-661b999aef08/images/c677f5e2-8a28-4a07-a0f8-35c5801e51f2.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "CROMBO Mannheim",
+      "uuid": "7f28bd87-0565-4011-a485-3f67a02a24e7",
+      "deals": [
+        {
+          "uuid": "1a6293cb-9f8a-489d-a982-41dafd6ebe72",
+          "name": "2for1 Cookie",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 cookies of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "b903d02b-c83f-4443-b6fe-a41a912ae962",
+          "name": "FREE Coffee",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a Crombo of your choice and get a free coffee with it.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "N7 7",
+      "zipCode": "68161",
+      "latitude": 49.4841292,
+      "longitude": 8.472449899999999,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/b54a877e-6e84-414a-9a0a-85f2d2cd3d5a.jpg",
+        "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/806dd0c8-907f-477f-a446-e92d2c651929.jpg",
+        "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/e63235dd-c501-47ed-a6f3-a4f1962f7a3a.jpg",
+        "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/1e4bf923-6f40-4a3a-870b-c91b805a289f.jpg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "Malo's Burger",
+      "uuid": "f6c79ccd-5f1b-406f-818e-0e72b6952679",
+      "deals": [
+        {
+          "uuid": "7153e186-3b71-4a88-b1f1-78a8e11aa754",
+          "name": "2for1 Burger",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "7859216d-ffd5-45cc-9542-25a5c08f6e0a",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Casterfeldstraße 84",
+      "zipCode": "68199",
+      "latitude": 49.4476105,
+      "longitude": 8.5053796,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
+        "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/96b4f329-c674-4cac-bdaa-c5a7370b0401.jpeg",
+        "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/1a8deda9-f225-440c-b62a-7cdf28e907dc.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "QAFEY",
+      "uuid": "b0d36f0d-233c-4f62-93c9-8c40c6195545",
+      "deals": [
+        {
+          "uuid": "200b0d58-7adc-4d61-a446-7807bf591c96",
+          "name": "2for1 Croffle",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 Croffles of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 8,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "c11c0a7c-4c3e-4716-b3ff-b752af003d80",
+          "name": "FREE Hot Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a Croffle of your choice and get a free hot drink (coffee) with it.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "L10 8",
+      "zipCode": "68161",
+      "latitude": 49.4827884,
+      "longitude": 8.469707999999999,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 1,
+      "images": [
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/e9b45040-2e17-4be3-9caa-d594175ba1a1.jpg",
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/009b9126-1168-4fa9-91c2-38001d5e7579.jpg",
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/cacf86d5-24fa-4499-b204-2dbf95ab29dd.jpg",
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/ede4b730-3d98-4e7f-aeb8-55544c548645.jpg",
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/d07499e1-fd06-4714-af33-68cbaaaa0ee5.jpg",
+        "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/16143b30-bbf9-452e-a281-c6f0ae078869.jpg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "Game of Food",
+      "uuid": "a76acc22-da2f-432b-a310-8a61983e97cb",
+      "deals": [
+        {
+          "uuid": "38b485a8-d921-43e9-a9c6-8434911aaadc",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "06088f07-843d-48a4-bd70-0e3a6e532c31",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "T3 7",
+      "zipCode": "68161",
+      "latitude": 49.4904764,
+      "longitude": 8.4710939,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/a76acc22-da2f-432b-a310-8a61983e97cb/images/9990e7ca-6c06-46d7-949d-0c3f69fca783.jpg",
+        "https://assets.neotaste.com/restaurants/a76acc22-da2f-432b-a310-8a61983e97cb/images/d0de2b5e-7a6f-4e68-87ee-5c083efe1f7a.jpg",
+        "https://assets.neotaste.com/restaurants/a76acc22-da2f-432b-a310-8a61983e97cb/images/1fa59839-1179-40bc-8f1e-2398eae9119c.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Emresh",
+      "uuid": "c0ca30fb-b71e-4501-951f-108eb48412a6",
+      "deals": [
+        {
+          "uuid": "713c3f2e-8f57-4436-a92c-e17622b4ae25",
+          "name": "2for1 Burger",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 13,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "d08fd58c-09d2-452c-99a6-6f8eceb0f226",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Innstraße 13",
+      "zipCode": "68199",
+      "latitude": 49.4484754,
+      "longitude": 8.5063757,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/6aae617f-1c94-4033-a8d8-b65acbee88d9.jpg",
+        "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/8bfab96a-0ca5-4efa-9bdc-ae7c11e4c7ea.jpg"
       ],
       "priceRange": 2
     }
