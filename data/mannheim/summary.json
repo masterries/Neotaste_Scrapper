@@ -3535,62 +3535,18 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 67
+    },
+    {
+      "date": "2025-11-11",
+      "total_restaurants": 32,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 64
     }
   ],
-  "last_updated": "2025-11-10",
+  "last_updated": "2025-11-11",
   "restaurants": [
-    {
-      "name": "Crockpot‘s Mannheim Detroit Style Pizza",
-      "uuid": "779a53da-529c-45f6-a090-a7a86c8e7351",
-      "deals": [
-        {
-          "uuid": "5b588ec9-495c-479a-bfc7-2048d5b9506d",
-          "name": "🌟 3€ Mac'n Cheese 🌟",
-          "eventDeal": true,
-          "remainingDaysToReset": null,
-          "conditions": "Order Mac'n Cheese and pay only €3.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "60cddab0-ae57-46ad-9c6e-1311a97a2e28",
-          "name": "2for1 Pizza",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "980d0a3c-f5ec-4e5e-814f-8e498fa99002",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Braustraße 2",
-      "zipCode": "68309",
-      "latitude": 49.512387,
-      "longitude": 8.519606999999999,
-      "avgRating": 3.7,
-      "ratingsCount": 3,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/ae9373ed-3181-45fb-a003-6bb146e234e0.jpeg",
-        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/10d8946d-f3cb-41cd-8866-d3141d912981.jpeg",
-        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/3e0f1571-22a0-4ea2-a14b-643c602bf2d6.jpeg"
-      ],
-      "priceRange": 2
-    },
     {
       "name": "Compleat Quadrate",
       "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
@@ -3788,8 +3744,8 @@
       "latitude": 49.48766253594116,
       "longitude": 8.470548980941285,
       "avgRating": 4.7,
-      "ratingsCount": 227,
-      "reviewsCount": 60,
+      "ratingsCount": 228,
+      "reviewsCount": 61,
       "images": [
         "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
         "https://assets.neotaste.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/f910a7dc-99cd-4654-98cd-9535ce2988af.jpeg",
@@ -3878,7 +3834,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 221,
+      "ratingsCount": 222,
       "reviewsCount": 56,
       "images": [
         "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
@@ -4345,47 +4301,6 @@
       "priceRange": 1
     },
     {
-      "name": "Café Lulay",
-      "uuid": "b679a775-8715-4cfd-b023-e179192f0da1",
-      "deals": [
-        {
-          "uuid": "3eb9eba2-c831-44a6-8ff4-08dc848cc025",
-          "name": "4for2 Brownies",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 4 brownies of your choice, the 2 cheaper/equally priced ones will not be charged.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "c834e2db-bfee-40dd-8ff5-08dc848cc025",
-          "name": "FREE Specialty Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order a slice of cake and receive a free speciality coffee.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Carl-Benz-Straße 44",
-      "zipCode": "68167",
-      "latitude": 49.49955165771866,
-      "longitude": 8.476969374924293,
-      "avgRating": 4.8,
-      "ratingsCount": 20,
-      "reviewsCount": 9,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3d0dfcb0-8e67-4888-98c8-9915f7fc23c2/images/c41013a0-8932-498b-96e4-79413a3424db.jpeg",
-        "https://assets.neotaste.com/restaurants/3d0dfcb0-8e67-4888-98c8-9915f7fc23c2/images/d09df8bf-494e-43cf-af62-6a12a0db12bf.jpeg",
-        "https://assets.neotaste.com/restaurants/3d0dfcb0-8e67-4888-98c8-9915f7fc23c2/images/68e217c3-1b5f-4c62-a984-efd07864215f.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Black Bird",
       "uuid": "e98cbc5e-b1e6-4f93-80f5-2ef5a83093da",
       "deals": [
@@ -4774,6 +4689,47 @@
       "priceRange": 1
     },
     {
+      "name": "Crockpot‘s Mannheim Detroit Style Pizza",
+      "uuid": "779a53da-529c-45f6-a090-a7a86c8e7351",
+      "deals": [
+        {
+          "uuid": "60cddab0-ae57-46ad-9c6e-1311a97a2e28",
+          "name": "2for1 Pizza",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "980d0a3c-f5ec-4e5e-814f-8e498fa99002",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Braustraße 2",
+      "zipCode": "68309",
+      "latitude": 49.512387,
+      "longitude": 8.519606999999999,
+      "avgRating": 3.7,
+      "ratingsCount": 3,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/ae9373ed-3181-45fb-a003-6bb146e234e0.jpeg",
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/10d8946d-f3cb-41cd-8866-d3141d912981.jpeg",
+        "https://assets.neotaste.com/restaurants/779a53da-529c-45f6-a090-a7a86c8e7351/images/3e0f1571-22a0-4ea2-a14b-643c602bf2d6.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
       "name": "Malo's Burger",
       "uuid": "f6c79ccd-5f1b-406f-818e-0e72b6952679",
       "deals": [
@@ -4804,9 +4760,9 @@
       "zipCode": "68199",
       "latitude": 49.4476105,
       "longitude": 8.5053796,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
         "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/96b4f329-c674-4cac-bdaa-c5a7370b0401.jpeg",

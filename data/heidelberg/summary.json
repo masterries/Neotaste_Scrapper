@@ -3535,9 +3535,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 72
+    },
+    {
+      "date": "2025-11-11",
+      "total_restaurants": 39,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 78
     }
   ],
-  "last_updated": "2025-11-10",
+  "last_updated": "2025-11-11",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -3616,7 +3624,7 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.9,
-      "ratingsCount": 967,
+      "ratingsCount": 968,
       "reviewsCount": 161,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
@@ -4042,7 +4050,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 788,
+      "ratingsCount": 789,
       "reviewsCount": 135,
       "images": [
         "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -4337,7 +4345,7 @@
       "latitude": 49.40802948385272,
       "longitude": 8.675686433722692,
       "avgRating": 4.8,
-      "ratingsCount": 39,
+      "ratingsCount": 40,
       "reviewsCount": 13,
       "images": [
         "https://assets.neotaste.com/restaurants/f423474e-d0ee-41cb-82a6-7b3260899343/images/5ce65044-3027-4407-90bc-a97191f23bdb.png",
@@ -4417,8 +4425,8 @@
       "latitude": 49.37915502267545,
       "longitude": 8.691109323619314,
       "avgRating": 4.9,
-      "ratingsCount": 73,
-      "reviewsCount": 25,
+      "ratingsCount": 74,
+      "reviewsCount": 26,
       "images": [
         "https://assets.neotaste.com/restaurants/abef9a6a-3b35-48f2-9b3a-6ec2906b7b34/images/a447cb1b-3ec3-4993-94fe-17b9d962e67c.jpeg",
         "https://assets.neotaste.com/restaurants/abef9a6a-3b35-48f2-9b3a-6ec2906b7b34/images/bac5226d-9bd6-48fe-bd81-27bce6f23b46.jpeg",
@@ -5009,7 +5017,7 @@
       "latitude": 49.41132444692831,
       "longitude": 8.69270230295016,
       "avgRating": 4.9,
-      "ratingsCount": 14,
+      "ratingsCount": 15,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotaste.com/restaurants/60d7495c-e152-4e80-b97f-ffdd7565ec4f/images/52fcb991-12db-449a-a7bc-23c70c50ebbb.jpg",
@@ -5066,13 +5074,142 @@
       "latitude": 49.4108144,
       "longitude": 8.704002599999999,
       "avgRating": 5,
-      "ratingsCount": 3,
-      "reviewsCount": 2,
+      "ratingsCount": 4,
+      "reviewsCount": 3,
       "images": [
         "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/54579229-139d-499f-8e01-fabfcb64e58e.jpg",
         "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/354d4aae-2dbe-4028-ac46-a456c10816f6.jpg"
       ],
       "priceRange": 1
+    },
+    {
+      "name": "Currykult 44",
+      "uuid": "525da78c-b19e-484f-b3d8-dfa97f5dd07f",
+      "deals": [
+        {
+          "uuid": "d554e5ee-4aee-46bd-8569-d9e1e18b933d",
+          "name": "2for1 Currywurst",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 Currywurst of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 8,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "3e589fa5-a68a-4db7-b4a8-a9402da6edb7",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and receive a free drink.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Plöck",
+      "zipCode": "69117",
+      "latitude": 49.4087942,
+      "longitude": 8.6935948,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/525da78c-b19e-484f-b3d8-dfa97f5dd07f/images/f7dc8f06-60b7-4eb0-8315-133856a8cfa9.jpeg",
+        "https://assets.neotaste.com/restaurants/525da78c-b19e-484f-b3d8-dfa97f5dd07f/images/67388e46-5369-4519-ac58-2ca9949cb6de.jpeg",
+        "https://assets.neotaste.com/restaurants/525da78c-b19e-484f-b3d8-dfa97f5dd07f/images/e02729cc-60f4-44c9-952f-46b57d374dbb.jpeg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "The Third Head Coffee shop",
+      "uuid": "af1180a0-9925-4b50-baef-7d4d37b44127",
+      "deals": [
+        {
+          "uuid": "87df278c-864a-40ea-b939-77349c2bdd6c",
+          "name": "2for1 Hot Drink + Sweets/Cake",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 hot drinks and 2 sweets/cakes of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 8,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "83ef895d-9211-40b9-a8b4-8a70fc02d299",
+          "name": "2for1 Matcha",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 Matchas, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Bürgerstraße 20",
+      "zipCode": "69124",
+      "latitude": 49.3782333,
+      "longitude": 8.6730228,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/af1180a0-9925-4b50-baef-7d4d37b44127/images/d6bfc34f-fdd1-42c6-b258-77805bbb5119.jpg",
+        "https://assets.neotaste.com/restaurants/af1180a0-9925-4b50-baef-7d4d37b44127/images/e6cdb8e0-c01a-4e54-a53a-1ea7378a5732.jpg",
+        "https://assets.neotaste.com/restaurants/af1180a0-9925-4b50-baef-7d4d37b44127/images/61dc2004-b354-4f57-bf91-85fc5952e410.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Monteleone Gelato & Caffè",
+      "uuid": "3a3a31e1-13de-4164-83d8-12cc8df8ca6a",
+      "deals": [
+        {
+          "uuid": "734629c0-3ae2-430f-99de-0cc82050f464",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "d52e0261-1b53-44dc-8499-c1ada2256444",
+          "name": "FREE Spritz",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and get a free Spritz with it.",
+          "locationCondition": "onSite",
+          "value": 8,
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Europaplatz 6-9",
+      "zipCode": "69115",
+      "latitude": 49.40277570000001,
+      "longitude": 8.6744828,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/16565729-6473-41a9-8882-aa2ae1553a00.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/d05567f9-47f0-49d2-9870-65b338edc42b.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/14e288fa-ca45-4307-9916-d2a57465333b.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/3a3f0c07-1c69-453a-906b-85e90d76b3ff.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/6961b5e5-8a73-4853-b715-a58731de2e18.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/1583cceb-988a-41fe-8119-cfd28a8d064a.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/624303ef-f6ec-493f-ac5f-c00e23546b93.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/e72bbf20-cf27-43f3-8bf4-d1f505aec66f.jpg",
+        "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/81f82cd5-d62a-4e93-b02d-c4c2b67c2ebd.jpg"
+      ],
+      "priceRange": 2
     }
   ]
 }
