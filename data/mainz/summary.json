@@ -3543,9 +3543,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 70
+    },
+    {
+      "date": "2025-11-12",
+      "total_restaurants": 35,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 70
     }
   ],
-  "last_updated": "2025-11-11",
+  "last_updated": "2025-11-12",
   "restaurants": [
     {
       "name": "Burgerheart Mainz",
@@ -3560,7 +3568,13 @@
           "locationCondition": "onSite",
           "value": 15,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "c4a752db-7ef2-42b0-f5e1-08dc3206e478",
@@ -3571,7 +3585,13 @@
           "locationCondition": "onSite",
           "value": 9,
           "daysToReset": 30,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Jockel-Fuchs Pl. 3",
@@ -3579,7 +3599,7 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 1162,
+      "ratingsCount": 1163,
       "reviewsCount": 259,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
@@ -3603,7 +3623,13 @@
           "locationCondition": "onSite",
           "value": 16,
           "daysToReset": 30,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "0c33cfbd-5a7d-4d1e-71d9-08dc20cc6e96",
@@ -3614,7 +3640,13 @@
           "locationCondition": "onSite",
           "value": 15,
           "daysToReset": 30,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Gutenbergpl. 6",
@@ -3622,7 +3654,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 1042,
+      "ratingsCount": 1044,
       "reviewsCount": 220,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
@@ -3649,7 +3681,13 @@
           "locationCondition": "onSite",
           "value": 18,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "cdcc7bba-e202-4853-bbba-08dc7f042677",
@@ -3660,7 +3698,13 @@
           "locationCondition": "onSite",
           "value": 8,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Gutenbergpl. 8-10",
@@ -3669,7 +3713,7 @@
       "longitude": 8.271932893865731,
       "avgRating": 4.9,
       "ratingsCount": 992,
-      "reviewsCount": 215,
+      "reviewsCount": 216,
       "images": [
         "https://assets.neotaste.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/6c7d90ed-a740-4fbf-9554-855a4ff25905.jpg",
         "https://assets.neotaste.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/9118941a-04a6-4727-a5f7-5ec0682da7bb.jpg",
@@ -3693,7 +3737,13 @@
           "locationCondition": "onSite",
           "value": 23,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "863c07f0-f813-4134-9c3c-cbda064fa050",
@@ -3704,7 +3754,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Markt 11",
@@ -3739,7 +3795,13 @@
           "locationCondition": "onSite",
           "value": 17,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "20b76007-e276-4c7f-8d8e-9d67780a6c22",
@@ -3750,7 +3812,13 @@
           "locationCondition": "onSite",
           "value": 8,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Große Langgasse 12",
@@ -3781,7 +3849,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 180,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
@@ -3792,7 +3866,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Franziskanerstraße 5",
@@ -3820,7 +3900,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "8542a0b4-049c-4d74-f309-08dc8aa5fd0a",
@@ -3831,7 +3917,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Mittlere Bleiche 16",
@@ -3864,7 +3956,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "880a3b7d-bba9-425e-eb0c-08dc8c4fe0f1",
@@ -3875,7 +3973,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Wallaustraße 4",
@@ -3909,7 +4013,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "917dbf1b-0059-4a92-2337-08dc95020c54",
@@ -3920,7 +4030,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Kurfürstenstraße 49",
@@ -3951,7 +4067,13 @@
           "locationCondition": "onSite",
           "value": 15,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "db818aa7-c313-4fd7-4576-08dc1a639f8e",
@@ -3962,7 +4084,13 @@
           "locationCondition": "onSite",
           "value": 6,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Rheinstraße 4",
@@ -3992,7 +4120,13 @@
           "locationCondition": "onSite",
           "value": 14,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "a2dfcd57-fa5f-4966-f2f7-08dc0d5e9ff9",
@@ -4003,7 +4137,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Heugasse 6",
@@ -4035,7 +4175,13 @@
           "locationCondition": "onSite",
           "value": 17,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
@@ -4046,7 +4192,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Holzstraße 34",
@@ -4054,7 +4206,7 @@
       "latitude": 49.99686052603381,
       "longitude": 8.278237976686702,
       "avgRating": 4.8,
-      "ratingsCount": 192,
+      "ratingsCount": 193,
       "reviewsCount": 59,
       "images": [
         "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
@@ -4074,7 +4226,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "2dead874-e730-4f65-f01e-08dc1b26f2da",
@@ -4085,7 +4243,13 @@
           "locationCondition": "onSite",
           "value": 6,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Clarissa-Kupferberg-Platz 11",
@@ -4115,7 +4279,13 @@
           "locationCondition": "onSite",
           "value": 12,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "27eb5438-b800-4642-9a14-12495d12757c",
@@ -4126,7 +4296,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Darmstädter Landstraße 111",
@@ -4163,7 +4339,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "6680cebe-51a8-42e2-a7f3-08dc02dbf4da",
@@ -4174,7 +4356,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Sonnengäßchen 2",
@@ -4202,7 +4390,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "6b723077-0dcd-48c9-094a-08dc0de911ca",
@@ -4213,7 +4407,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Weintorstraße 21",
@@ -4245,7 +4445,13 @@
           "locationCondition": "onSite",
           "value": 12,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "450eaf56-dc5c-437f-39ba-08dc02c55f48",
@@ -4256,7 +4462,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Hans-Böckler-Straße 8a",
@@ -4288,7 +4500,13 @@
           "locationCondition": "onSite",
           "value": 7,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "ed192e0e-0fbc-4868-bce4-08dca4c9876b",
@@ -4299,7 +4517,13 @@
           "locationCondition": "onSite",
           "value": 7,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Holzhofstraße 7",
@@ -4334,7 +4558,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 180,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "86e2890b-46ad-4341-c50b-08dc2166b7b7",
@@ -4345,7 +4575,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Neue Golden Ross Kaserne",
@@ -4374,7 +4610,13 @@
           "locationCondition": "onSite",
           "value": 9,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "4cc02eb1-a0b0-4451-39c9-08dc02c55f48",
@@ -4385,7 +4627,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Fuststraße 8",
@@ -4415,7 +4663,13 @@
           "locationCondition": "onSite",
           "value": 11,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "06dc8358-7ffc-41dc-f322-08dc0d5e9ff9",
@@ -4426,7 +4680,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 6,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Am Brand 30",
@@ -4455,7 +4715,13 @@
           "locationCondition": "onSite",
           "value": 12,
           "daysToReset": 180,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "44b651e9-2463-4b42-f2f3-08dc0d5e9ff9",
@@ -4466,7 +4732,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Leichhofstraße 10",
@@ -4495,7 +4767,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "72dadcd0-3413-425a-0948-08dc0de911ca",
@@ -4506,7 +4784,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Augustinerstraße 10",
@@ -4536,7 +4820,13 @@
           "locationCondition": "onSite",
           "value": 12,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "d9b2db32-ecb7-43e7-6648-08dc3916db72",
@@ -4547,7 +4837,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 30,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Heinrich-von-Gagern-Straße 26",
@@ -4581,7 +4877,13 @@
           "locationCondition": "onSite",
           "value": 14,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "7e4530a5-e0f0-4ebb-b462-4c6843b345fe",
@@ -4592,7 +4894,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Ballplatz 2",
@@ -4626,7 +4934,13 @@
           "locationCondition": "onSite",
           "value": 30,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "9398c84a-ec2a-44dd-98a8-b93cfdff90ce",
@@ -4637,7 +4951,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Mittlere Bleiche 27",
@@ -4668,7 +4988,13 @@
           "locationCondition": "onSite",
           "value": 8,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "71faf619-e958-4cd4-8ad5-f8ba7a94c7d7",
@@ -4679,7 +5005,13 @@
           "locationCondition": "onSite",
           "value": 6,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Kaiser-Wilhelm-Ring 2",
@@ -4709,7 +5041,13 @@
           "locationCondition": "onSite",
           "value": 9,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "42bbd37e-c7c4-4ea5-b5a9-3e84d398fd2a",
@@ -4720,7 +5058,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Betzelsstraße 15",
@@ -4754,7 +5098,13 @@
           "locationCondition": "onSite",
           "value": 18,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "1bcd48c4-486f-4311-bd40-bd32c6197a3a",
@@ -4765,7 +5115,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Wallaustraße 52",
@@ -4796,7 +5152,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "a7fbf526-d5c9-49b9-9a7b-93fc9dac9bb9",
@@ -4807,7 +5169,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Richard-Wagner-Straße 13",
@@ -4815,7 +5183,7 @@
       "latitude": 50.0131028,
       "longitude": 8.2504635,
       "avgRating": 4.8,
-      "ratingsCount": 52,
+      "ratingsCount": 54,
       "reviewsCount": 21,
       "images": [
         "https://assets.neotaste.com/restaurants/abdad1e9-c789-40df-9774-14a9d39926a7/images/720663c6-2dad-49f7-810d-efd9b58cc140.jpg",
@@ -4838,7 +5206,13 @@
           "locationCondition": "onSite",
           "value": 7,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "e3c5fc5e-e7b9-4cd7-95bb-4f975ea065bb",
@@ -4849,7 +5223,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Leichhof 11-13",
@@ -4857,7 +5237,7 @@
       "latitude": 49.9980537,
       "longitude": 8.273379,
       "avgRating": 4.9,
-      "ratingsCount": 117,
+      "ratingsCount": 118,
       "reviewsCount": 34,
       "images": [
         "https://assets.neotaste.com/restaurants/a955970f-0151-4339-ac35-0b700458ce39/images/b07de0a9-3a9e-4461-9e78-3b35bd04c690.jpg",
@@ -4880,7 +5260,13 @@
           "locationCondition": "onSite",
           "value": 7,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "24ae02fd-92cd-4cba-90f0-8f1123884ee9",
@@ -4891,7 +5277,13 @@
           "locationCondition": "onSite",
           "value": 5,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Adam-Karrillon-Straße 4",
@@ -4927,7 +5319,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "85fd4bca-b86f-4a1c-80a2-a1a6313023f3",
@@ -4938,7 +5336,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Fischtorstraße 7",
@@ -4966,7 +5370,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "27a2759f-16bf-4fb7-be57-7480b371c70f",
@@ -4977,7 +5387,13 @@
           "locationCondition": "onSite",
           "value": 4,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Gaustraße 19",
@@ -5006,7 +5422,13 @@
           "locationCondition": "onSite",
           "value": 10,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         },
         {
           "uuid": "2f782341-a5e7-4447-bade-9542a8211564",
@@ -5017,7 +5439,13 @@
           "locationCondition": "onSite",
           "value": 3,
           "daysToReset": 90,
-          "status": "available"
+          "status": "available",
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          }
         }
       ],
       "address": "Kaiser-Wilhelm-Ring 23",
