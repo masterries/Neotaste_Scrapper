@@ -3551,9 +3551,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 70
+    },
+    {
+      "date": "2025-11-13",
+      "total_restaurants": 35,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 70
     }
   ],
-  "last_updated": "2025-11-12",
+  "last_updated": "2025-11-13",
   "restaurants": [
     {
       "name": "Burgerheart Mainz",
@@ -3567,14 +3575,14 @@
           "conditions": "You order 2 burgers of your choice (up to €16, if you choose a more expensive burger, the difference must be paid), the cheaper/equally priced will not be charged.",
           "locationCondition": "onSite",
           "value": 15,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "c4a752db-7ef2-42b0-f5e1-08dc3206e478",
@@ -3584,14 +3592,14 @@
           "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 9,
-          "daysToReset": 30,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 30,
+          "status": "available"
         }
       ],
       "address": "Jockel-Fuchs Pl. 3",
@@ -3599,7 +3607,7 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 1163,
+      "ratingsCount": 1165,
       "reviewsCount": 259,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
@@ -3622,14 +3630,14 @@
           "conditions": "You order 2 burgers of your choice, the cheaper/equivalent one will not be charged.",
           "locationCondition": "onSite",
           "value": 16,
-          "daysToReset": 30,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 30,
+          "status": "available"
         },
         {
           "uuid": "0c33cfbd-5a7d-4d1e-71d9-08dc20cc6e96",
@@ -3639,14 +3647,14 @@
           "conditions": "You order 2 salads of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 15,
-          "daysToReset": 30,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 30,
+          "status": "available"
         }
       ],
       "address": "Gutenbergpl. 6",
@@ -3654,7 +3662,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 1044,
+      "ratingsCount": 1045,
       "reviewsCount": 220,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
@@ -3680,14 +3688,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Dishes from the grill category are excluded from this offer.",
           "locationCondition": "onSite",
           "value": 18,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "cdcc7bba-e202-4853-bbba-08dc7f042677",
@@ -3697,14 +3705,14 @@
           "conditions": "Order 2 Spritz of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 8,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Gutenbergpl. 8-10",
@@ -3712,7 +3720,7 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.9,
-      "ratingsCount": 992,
+      "ratingsCount": 994,
       "reviewsCount": 216,
       "images": [
         "https://assets.neotaste.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/6c7d90ed-a740-4fbf-9554-855a4ff25905.jpg",
@@ -3736,14 +3744,14 @@
           "conditions": "You order 2 main (from 12 PM) or breakfast dishes (until 12 PM) of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 23,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "863c07f0-f813-4134-9c3c-cbda064fa050",
@@ -3753,14 +3761,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount.\n(This deal can only be redeemed once per table and is not valid on public holidays).",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Markt 11",
@@ -3794,14 +3802,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced dish will not be charged.\nExcluded: Burrata-Stulle, Eggs-Benedict-Salmon-Croissant, Pani-Puri-Fusion.",
           "locationCondition": "onSite",
           "value": 17,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "20b76007-e276-4c7f-8d8e-9d67780a6c22",
@@ -3811,14 +3819,14 @@
           "conditions": "Order a main course of your choice and receive a free Spritz (also 0%).",
           "locationCondition": "onSite",
           "value": 8,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Große Langgasse 12",
@@ -3848,14 +3856,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 180,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 180,
+          "status": "available"
         },
         {
           "uuid": "f51200de-6870-4b16-f302-08dc0d5e9ff9",
@@ -3865,14 +3873,14 @@
           "conditions": "Order a main course of your choice and receive a free drink. This deal is not valid for takeaway orders.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Franziskanerstraße 5",
@@ -3880,8 +3888,8 @@
       "latitude": 50.00082672190576,
       "longitude": 8.26955109417166,
       "avgRating": 4.8,
-      "ratingsCount": 783,
-      "reviewsCount": 201,
+      "ratingsCount": 786,
+      "reviewsCount": 202,
       "images": [
         "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
       ],
@@ -3899,14 +3907,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "8542a0b4-049c-4d74-f309-08dc8aa5fd0a",
@@ -3916,14 +3924,14 @@
           "conditions": "You order a main course of your choice and get a soft drink for free.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Mittlere Bleiche 16",
@@ -3931,7 +3939,7 @@
       "latitude": 50.00178071124446,
       "longitude": 8.264891912193557,
       "avgRating": 4.9,
-      "ratingsCount": 390,
+      "ratingsCount": 391,
       "reviewsCount": 109,
       "images": [
         "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
@@ -3955,14 +3963,14 @@
           "conditions": "Order 2 Vietnamese baguettes of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "880a3b7d-bba9-425e-eb0c-08dc8c4fe0f1",
@@ -3972,14 +3980,14 @@
           "conditions": "Order a main course of your choice and get a bottle of soft drink for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Wallaustraße 4",
@@ -4012,14 +4020,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "917dbf1b-0059-4a92-2337-08dc95020c54",
@@ -4029,14 +4037,14 @@
           "conditions": "Order a main course of your choice and receive a free bottle of soft drink.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Kurfürstenstraße 49",
@@ -4066,14 +4074,14 @@
           "conditions": "You order 2 sushi menus of your choice (excluding P5, P7, P11, P12) and/or salad, soup, etc. (excluding 208, 212), the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 15,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "db818aa7-c313-4fd7-4576-08dc1a639f8e",
@@ -4083,14 +4091,14 @@
           "conditions": "Order a main course of your choice and receive a free dessert.",
           "locationCondition": "onSite",
           "value": 6,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Rheinstraße 4",
@@ -4119,14 +4127,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. (excluding Zonder meadi-mix & Ghana specialities).",
           "locationCondition": "onSite",
           "value": 14,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "a2dfcd57-fa5f-4966-f2f7-08dc0d5e9ff9",
@@ -4136,14 +4144,14 @@
           "conditions": "Order a main dish of your choice and receive a drink or a non-alcoholic cocktail for free.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Heugasse 6",
@@ -4174,14 +4182,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged. Valid for all main courses up to €20. Deals cannot be combined.",
           "locationCondition": "onSite",
           "value": 17,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "00f06d78-f704-424d-093d-08dc0de911ca",
@@ -4191,23 +4199,23 @@
           "conditions": "Order a main dish of your choice and receive a free non-alcoholic drink (0.2l). Deals cannot be combined.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Holzstraße 34",
       "zipCode": "55116",
       "latitude": 49.99686052603381,
       "longitude": 8.278237976686702,
-      "avgRating": 4.8,
-      "ratingsCount": 193,
-      "reviewsCount": 59,
+      "avgRating": 4.7,
+      "ratingsCount": 195,
+      "reviewsCount": 60,
       "images": [
         "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
       ],
@@ -4225,14 +4233,14 @@
           "conditions": "You order 2 waffles of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "2dead874-e730-4f65-f01e-08dc1b26f2da",
@@ -4242,14 +4250,14 @@
           "conditions": "Order 2 wine spritzers of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 6,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Clarissa-Kupferberg-Platz 11",
@@ -4278,14 +4286,14 @@
           "conditions": "You order 2 main courses of your choice and receive a 50% discount on both.",
           "locationCondition": "onSite",
           "value": 12,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "27eb5438-b800-4642-9a14-12495d12757c",
@@ -4295,14 +4303,14 @@
           "conditions": "You order a main course of your choice and get a non-alcoholic drink for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Darmstädter Landstraße 111",
@@ -4338,14 +4346,14 @@
           "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "6680cebe-51a8-42e2-a7f3-08dc02dbf4da",
@@ -4355,14 +4363,14 @@
           "conditions": "You order a main course of your choice and get a dessert for free.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Sonnengäßchen 2",
@@ -4389,14 +4397,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "6b723077-0dcd-48c9-094a-08dc0de911ca",
@@ -4406,14 +4414,14 @@
           "conditions": "Order a main course of your choice and receive a free drink (applies to soft drinks and beer).",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Weintorstraße 21",
@@ -4444,14 +4452,14 @@
           "conditions": "You order 2 pizzas of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 12,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "450eaf56-dc5c-437f-39ba-08dc02c55f48",
@@ -4461,14 +4469,14 @@
           "conditions": "Order a main dish of your choice and get a free side salad.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Hans-Böckler-Straße 8a",
@@ -4499,14 +4507,14 @@
           "conditions": "Order two aperitivi of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
           "locationCondition": "onSite",
           "value": 7,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         },
         {
           "uuid": "ed192e0e-0fbc-4868-bce4-08dca4c9876b",
@@ -4516,14 +4524,14 @@
           "conditions": "Order a main course of your choice and receive a free Piccolo Dolci. This deal must be shown before ordering.",
           "locationCondition": "onSite",
           "value": 7,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Holzhofstraße 7",
@@ -4557,14 +4565,14 @@
           "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 180,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 180,
+          "status": "available"
         },
         {
           "uuid": "86e2890b-46ad-4341-c50b-08dc2166b7b7",
@@ -4574,14 +4582,14 @@
           "conditions": "You order 2 coffee specialties of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Neue Golden Ross Kaserne",
@@ -4609,14 +4617,14 @@
           "conditions": "Order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 9,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "4cc02eb1-a0b0-4451-39c9-08dc02c55f48",
@@ -4626,14 +4634,14 @@
           "conditions": "You order a main course of your choice and get a drink for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Fuststraße 8",
@@ -4662,14 +4670,14 @@
           "conditions": "Order 2 bowls or wraps of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 11,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "06dc8358-7ffc-41dc-f322-08dc0d5e9ff9",
@@ -4679,14 +4687,14 @@
           "conditions": "Order a bowl or wrap of your choice and receive a free juice (0.3l).",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 6,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 6,
+          "status": "available"
         }
       ],
       "address": "Am Brand 30",
@@ -4714,14 +4722,14 @@
           "conditions": "Order 2 Piadina/Focaccia of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 12,
-          "daysToReset": 180,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 180,
+          "status": "available"
         },
         {
           "uuid": "44b651e9-2463-4b42-f2f3-08dc0d5e9ff9",
@@ -4731,14 +4739,14 @@
           "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Leichhofstraße 10",
@@ -4766,14 +4774,14 @@
           "conditions": "Order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "72dadcd0-3413-425a-0948-08dc0de911ca",
@@ -4783,14 +4791,14 @@
           "conditions": "Order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Augustinerstraße 10",
@@ -4819,14 +4827,14 @@
           "conditions": "You order 2 breakfasts of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 12,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "d9b2db32-ecb7-43e7-6648-08dc3916db72",
@@ -4836,14 +4844,14 @@
           "conditions": "You order a main course of your choice and get a drink for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 30,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 30,
+          "status": "available"
         }
       ],
       "address": "Heinrich-von-Gagern-Straße 26",
@@ -4876,14 +4884,14 @@
           "conditions": "Order 2 main courses (from 12pm) or breakfast dishes (until 12pm) of your choice, the cheaper/equivalent one will not be charged.",
           "locationCondition": "onSite",
           "value": 14,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "7e4530a5-e0f0-4ebb-b462-4c6843b345fe",
@@ -4893,14 +4901,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount. (This deal can only be redeemed once per table and is not valid on public holidays).",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Ballplatz 2",
@@ -4908,8 +4916,8 @@
       "latitude": 49.99763799999999,
       "longitude": 8.269576,
       "avgRating": 4.9,
-      "ratingsCount": 191,
-      "reviewsCount": 78,
+      "ratingsCount": 192,
+      "reviewsCount": 79,
       "images": [
         "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/64c319b9-1e9b-4c79-812b-3a2b0ecf3100.jpg",
         "https://assets.neotaste.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/5446a1fc-da91-4df2-957e-c2c6cdb4814c.jpg",
@@ -4933,14 +4941,14 @@
           "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 30,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "9398c84a-ec2a-44dd-98a8-b93cfdff90ce",
@@ -4950,14 +4958,14 @@
           "conditions": "You order a main item of your choice and get a drink for free.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Mittlere Bleiche 27",
@@ -4987,14 +4995,14 @@
           "conditions": "You order 2 drinks of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 8,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "71faf619-e958-4cd4-8ad5-f8ba7a94c7d7",
@@ -5004,14 +5012,14 @@
           "conditions": "You order 2 shots of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 6,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Kaiser-Wilhelm-Ring 2",
@@ -5040,14 +5048,14 @@
           "conditions": "You order 2 croissants, the cheaper/equally priced one is not charged.",
           "locationCondition": "onSite",
           "value": 9,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "42bbd37e-c7c4-4ea5-b5a9-3e84d398fd2a",
@@ -5057,14 +5065,14 @@
           "conditions": "You order a croissant of your choice and get a hot drink for free.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Betzelsstraße 15",
@@ -5072,7 +5080,7 @@
       "latitude": 50.0004283,
       "longitude": 8.2707885,
       "avgRating": 4.3,
-      "ratingsCount": 33,
+      "ratingsCount": 35,
       "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/a94a7091-92ba-4fe3-a786-f8495d95f28e/images/829c0c5a-e020-42f6-94b5-6ae1e5761cd3.jpg",
@@ -5097,14 +5105,14 @@
           "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.\n\nDeal only valid with the purchase of a drink. Cannot be combined with other offers such as lunch or set menus.",
           "locationCondition": "onSite",
           "value": 18,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "1bcd48c4-486f-4311-bd40-bd32c6197a3a",
@@ -5114,14 +5122,14 @@
           "conditions": "You order a main item of your choice and get a drink for free.\n\nCannot be combined with other offers such as lunch or set menus.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Wallaustraße 52",
@@ -5151,14 +5159,14 @@
           "conditions": "You order 2 drinks of your choice, the cheaper/equally priced one will not be charged.\n\nMatcha specials are available at an extra charge.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "a7fbf526-d5c9-49b9-9a7b-93fc9dac9bb9",
@@ -5168,14 +5176,14 @@
           "conditions": "You order 2 pieces of cake of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Richard-Wagner-Straße 13",
@@ -5205,14 +5213,14 @@
           "conditions": "You order 2 handrolls of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 7,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "e3c5fc5e-e7b9-4cd7-95bb-4f975ea065bb",
@@ -5222,14 +5230,14 @@
           "conditions": "You order 2 nigiri snacks of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Leichhof 11-13",
@@ -5259,14 +5267,14 @@
           "conditions": "You order 2 wine spritzers with wine of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 7,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "24ae02fd-92cd-4cba-90f0-8f1123884ee9",
@@ -5276,14 +5284,14 @@
           "conditions": "You order 2 paninis/sweets of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
           "value": 5,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Adam-Karrillon-Straße 4",
@@ -5318,14 +5326,14 @@
           "conditions": "You order a cake of your choice and get a hot drink for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "85fd4bca-b86f-4a1c-80a2-a1a6313023f3",
@@ -5335,14 +5343,14 @@
           "conditions": "You order a piece of cake of your choice and get a coffee specialty for free.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Fischtorstraße 7",
@@ -5369,14 +5377,14 @@
           "conditions": "Order 2 pastas of your choice, the cheaper/equally priced dish will not be charged.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "27a2759f-16bf-4fb7-be57-7480b371c70f",
@@ -5386,14 +5394,14 @@
           "conditions": "Order any pasta of your choice and receive a free drink.",
           "locationCondition": "onSite",
           "value": 4,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Gaustraße 19",
@@ -5421,14 +5429,14 @@
           "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
           "value": 10,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         },
         {
           "uuid": "2f782341-a5e7-4447-bade-9542a8211564",
@@ -5438,14 +5446,14 @@
           "conditions": "You order a main course of your choice and get a free soft drink.",
           "locationCondition": "onSite",
           "value": 3,
-          "daysToReset": 90,
-          "status": "available",
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
-          }
+          },
+          "daysToReset": 90,
+          "status": "available"
         }
       ],
       "address": "Kaiser-Wilhelm-Ring 23",
