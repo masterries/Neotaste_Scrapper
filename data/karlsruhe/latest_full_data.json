@@ -1,5 +1,65 @@
 [
   {
+    "uuid": "0bd2f2b6-e425-44e5-89a8-a8955261228b",
+    "name": "Weihnachtsgeschenk? 🎁",
+    "slug": "weihnachtsgeschenk-marktpl-76133-karlsruhe-germany",
+    "address": "Marktpl.,",
+    "addressOptional": null,
+    "zipCode": "76133",
+    "latitude": 49.01366222104905,
+    "longitude": 8.404503481048206,
+    "deals": [
+      {
+        "uuid": "516a0e10-acba-431b-a4db-989171f40846",
+        "name": "The Gift Box",
+        "eventDeal": true,
+        "remainingDaysToReset": null,
+        "conditions": "Get your Christmas gift box under “Profile” or at https://shop.neotaste.com",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "fdda8670-8d99-4e11-9186-ffc4fdaae88b",
+        "name": "Self-print voucher",
+        "eventDeal": true,
+        "remainingDaysToReset": null,
+        "conditions": "If you need something fast, our self-print vouchers for various occasions and durations will be in your inbox within 1 minute.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "event-deal",
+        "name": "Event Deal"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/0bd2f2b6-e425-44e5-89a8-a8955261228b/images/1880511d-1db1-4fee-a716-9985ed07bc4f.png",
+      "https://assets.neotaste.com/restaurants/0bd2f2b6-e425-44e5-89a8-a8955261228b/images/cfae5052-87a3-4911-b85a-729c88225e83.jpg"
+    ],
+    "priceRange": 1
+  },
+  {
     "uuid": "35cf90c0-3685-430f-a6f4-cc3df91dcbcb",
     "name": "Burgerheart",
     "slug": "burgerheart",
@@ -130,7 +190,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 990,
+    "ratingsCount": 992,
     "reviewsCount": 275,
     "images": [
       "https://assets.neotaste.com/restaurants/4f1eb00d-8feb-4a37-aad2-91b21a31dd83/images/7b43d582-e2c2-43ad-a28a-b5ee5ffea1f3.jpeg",
@@ -272,8 +332,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 589,
-    "reviewsCount": 154,
+    "ratingsCount": 590,
+    "reviewsCount": 155,
     "images": [
       "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/50cf7008-9b1d-4138-b701-8410872aec22.jpeg",
       "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/762782c0-ee98-4cbe-9fb7-e176bfcf924c.jpeg",
@@ -336,7 +396,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 298,
+    "ratingsCount": 300,
     "reviewsCount": 58,
     "images": [
       "https://assets.neotaste.com/restaurants/f234a9ce-ad82-473c-ba64-4eee15fd8091/images/fc8ab3ff-cc45-485e-b9a5-5f96906eada0.jpeg",
@@ -555,34 +615,143 @@
     "uuid": "1d96d3dc-2f41-430b-9966-75e43d178a12",
     "name": "Compleat",
     "slug": "compleat",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Unterweingartenfeld 6",
+    "addressOptional": null,
+    "zipCode": "76135",
     "latitude": 48.99193828988366,
     "longitude": 8.37443173511256,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "6a6219b9-63c0-41f0-9d38-b9f5cf1f1855",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "4f7aeb3c-130e-4b0d-8b24-f698b14d8b48",
+        "name": "FREE Add-Ons",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a bowl of your choice and get 2  add-ons for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
     "avgRating": 4.9,
     "ratingsCount": 270,
-    "reviewsCount": null,
-    "images": [],
+    "reviewsCount": 89,
+    "images": [
+      "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/a4970979-7aa8-4807-8820-4fcdf1fc28ff.jpeg",
+      "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/718ae86d-c0f9-458b-9fad-1e45ded04428.jpeg",
+      "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/91ef1224-9c03-4d5b-adf7-ecb1ed626aff.jpeg",
+      "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/2d6fc8b4-9635-49a2-9b37-35b5b91c93c3.jpeg",
+      "https://assets.neotaste.com/restaurants/e76d1fd6-ae88-497b-9ea8-ca3bd4336c93/images/de4b62c6-93b0-4ce0-a83a-43bf2a7b61a9.jpeg"
+    ],
     "priceRange": 2
   },
   {
     "uuid": "73331935-d091-485b-9188-0e1887ca4b69",
     "name": "Karla und gut",
     "slug": "karla-und-gut",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Roonstraße 23A",
+    "addressOptional": null,
+    "zipCode": "76137",
     "latitude": 49.00135264036042,
     "longitude": 8.388085706439838,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "c391b220-7e02-46af-f9a9-08dc484a74f0",
+        "name": "€20 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €50 you get a €20 discount.",
+        "locationCondition": "onSite",
+        "value": 20,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "fc3403f8-eb63-4226-f9aa-08dc484a74f0",
+        "name": "FREE Hot Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a slice of cake of your choice and get a hot drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
     "avgRating": 4.9,
-    "ratingsCount": 285,
-    "reviewsCount": null,
-    "images": [],
+    "ratingsCount": 287,
+    "reviewsCount": 91,
+    "images": [
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/79df01de-a7e9-4dde-92f9-70be7678017d.jpeg",
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/e9f8df3c-f474-4a3d-bf30-53cb996b0808.jpeg",
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/a32498eb-b16b-4ba4-86a3-09aee2634824.jpeg",
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/bf5380b2-17db-41d3-b1b4-ab38fb03f6ea.jpeg",
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/a6a03174-767c-4d36-9cfb-0c672abfa476.jpeg",
+      "https://assets.neotaste.com/restaurants/b2cdeaff-6de0-4caf-997d-7b44eedc5b09/images/50affafa-7bbb-4f3a-87e4-b7e954b102d7.jpeg"
+    ],
     "priceRange": 2
   },
   {
@@ -637,7 +806,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 30,
+    "ratingsCount": 31,
     "reviewsCount": 10,
     "images": [
       "https://assets.neotaste.com/restaurants/b80e6969-66b3-4c4a-8218-ac5cf25fdfea/images/839f8a7d-9b27-4fc0-bc1b-cbb7752ba137.jpeg",
@@ -2497,7 +2666,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 43,
+    "ratingsCount": 44,
     "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/ed12a89d-a008-4409-9d8b-1558c9a3c83b.jpeg",
@@ -2584,10 +2753,10 @@
     "deals": [
       {
         "uuid": "974db930-4429-4ded-f430-08dc4daf3e7e",
-        "name": "2for1 Pizza",
+        "name": "2for1 Pizza Margherita",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "Order 2 pizzas of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders.\n(Pizza is baked in a wood-fired oven).\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.",
+        "conditions": "Order 2 Pizza Margherita's of your choice, the cheaper/equally priced one will not be charged. This deal is not valid for takeaway orders. (Pizza is baked in a wood-fired oven).\n\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.",
         "locationCondition": "onSite",
         "value": 16,
         "currency": {
@@ -2601,10 +2770,10 @@
       },
       {
         "uuid": "67ce5959-81a2-46a2-f431-08dc4daf3e7e",
-        "name": "FREE Bruschetta",
+        "name": "FREE Cappuccino",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "You order a main dish of your choice and get a Bruschetta for free. This deal is not valid for takeaway orders.\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.",
+        "conditions": "You order a main dish of your choice and get a Cappuccino for free. This deal is not valid for takeaway orders.\n\nA MAXIMUM OF TWO DEALS CAN BE REDEEMED PER TABLE.",
         "locationCondition": "onSite",
         "value": 6,
         "currency": {
@@ -2961,7 +3130,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 163,
+    "ratingsCount": 164,
     "reviewsCount": 49,
     "images": [
       "https://assets.neotaste.com/restaurants/f902cdc8-581e-41bd-ae2b-c62ebeaf50da/images/4f008638-4cf9-47c2-bf73-37029c84d457.jpeg",
@@ -3291,7 +3460,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 88,
+    "ratingsCount": 89,
     "reviewsCount": 42,
     "images": [
       "https://assets.neotaste.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/9346cf3d-e4fa-4066-9a73-1646d5a6ded3.jpg",
@@ -3438,8 +3607,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 97,
-    "reviewsCount": 34,
+    "ratingsCount": 99,
+    "reviewsCount": 35,
     "images": [
       "https://assets.neotaste.com/restaurants/879e04e5-a8fe-4214-951c-c28191b7388b/images/9c11ca55-44f2-4f64-932d-c9fa1d83699e.jpg",
       "https://assets.neotaste.com/restaurants/879e04e5-a8fe-4214-951c-c28191b7388b/images/f27553df-f17e-4adf-994e-59593eedfef0.jpg",
@@ -3507,8 +3676,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 111,
-    "reviewsCount": 62,
+    "ratingsCount": 112,
+    "reviewsCount": 63,
     "images": [
       "https://assets.neotaste.com/restaurants/f2ae3f97-d75c-46e4-a425-c28b6b76b872/images/3b8977dc-b170-46cd-ae24-759c719f089e.jpg",
       "https://assets.neotaste.com/restaurants/f2ae3f97-d75c-46e4-a425-c28b6b76b872/images/052f6c45-bee0-4c5c-a7b2-7f8645262e16.jpg",
@@ -3650,8 +3819,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 2,
-    "reviewsCount": 1,
+    "ratingsCount": 4,
+    "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/859e4f33-2137-4697-b5a9-f84b623265ca/images/0a5a0f0d-0090-4214-b774-0ff1d80028a8.jpg",
       "https://assets.neotaste.com/restaurants/859e4f33-2137-4697-b5a9-f84b623265ca/images/fdd54895-95b5-4690-9fe1-a2857cd4af20.jpg",
