@@ -1,5 +1,93 @@
 [
   {
+    "uuid": "df825251-8caf-413d-a256-a7e5fa7557cd",
+    "name": "Tama Bistro",
+    "slug": "tama-bistro",
+    "address": "Günterstalstraße 37",
+    "addressOptional": null,
+    "zipCode": "79102",
+    "latitude": 47.986424,
+    "longitude": 7.8479807,
+    "deals": [
+      {
+        "uuid": "adb71625-1a83-4758-92e0-30a277435540",
+        "name": "🌟 €1 Burger + Veggie 🌟",
+        "eventDeal": true,
+        "remainingDaysToReset": null,
+        "conditions": "You order a Burger + Veggie and pay only €1.",
+        "locationCondition": "onSite",
+        "value": 14,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "bf3857a9-ac82-4650-9270-1e6153566c2c",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "f282469b-9cfa-42a2-ab8b-20536faf05bb",
+        "name": "FREE Soft Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main item of your choice and get a free soft drink with it.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "burgers",
+        "name": "Burgers"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "event-deal",
+        "name": "Event Deal"
+      }
+    ],
+    "avgRating": 5,
+    "ratingsCount": 5,
+    "reviewsCount": 4,
+    "images": [
+      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/4fce9f88-7813-429a-be0a-deb528a66080.jpg",
+      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5bb6cc2c-954a-4484-8fc6-788d2b42bcd8.jpg",
+      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/57c28dd5-e4d3-4d6f-9a1a-c74f1580242a.png",
+      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/e7d02d10-40d4-4092-b5d8-d1a851ea1385.jpg",
+      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5f8cdda2-3356-4f6a-900a-54dbd34d6e91.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "65212eca-6be8-4a31-83fc-9a421297f873",
     "name": "Weihnachtsgeschenk? 🎁",
     "slug": "weihnachtsgeschenk-kaiser-joseph-strasse-205-79098-freiburg-im-breisgau-germany",
@@ -190,7 +278,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 898,
+    "ratingsCount": 899,
     "reviewsCount": 266,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -260,7 +348,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 848,
+    "ratingsCount": 847,
     "reviewsCount": 212,
     "images": [
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
@@ -807,7 +895,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 124,
+    "ratingsCount": 125,
     "reviewsCount": 44,
     "images": [
       "https://assets.neotaste.com/restaurants/bf9bb2c0-746f-412b-9701-919e4b3fb7ca/images/07e27f2e-853c-428b-a1e6-cb5711cf7666.jpeg",
@@ -1067,8 +1155,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 263,
-    "reviewsCount": 78,
+    "ratingsCount": 264,
+    "reviewsCount": 79,
     "images": [
       "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/733265b8-4abc-4fcd-bb7a-6c6963383b7d.jpeg",
       "https://assets.neotaste.com/restaurants/43cc8379-96b0-47ca-b701-26198c2bb6c8/images/0f085e1c-c23e-4240-8f2f-a196dc743c30.jpeg",
@@ -1201,7 +1289,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 220,
+    "ratingsCount": 221,
     "reviewsCount": 58,
     "images": [
       "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/3bb1cb50-c99f-4fd7-91ca-1b8c361a54c0.jpeg",
@@ -2424,72 +2512,5 @@
       "https://assets.neotaste.com/restaurants/25eb0ff6-63d2-43d4-a478-7cb87955933b/images/a2af591e-0a99-4f56-be23-e8f2dfc9278d.jpg"
     ],
     "priceRange": 1
-  },
-  {
-    "uuid": "df825251-8caf-413d-a256-a7e5fa7557cd",
-    "name": "Tama Bistro",
-    "slug": "tama-bistro",
-    "address": "Günterstalstraße 37",
-    "addressOptional": null,
-    "zipCode": "79102",
-    "latitude": 47.986424,
-    "longitude": 7.8479807,
-    "deals": [
-      {
-        "uuid": "bf3857a9-ac82-4650-9270-1e6153566c2c",
-        "name": "2for1 Main Item",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 15,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "f282469b-9cfa-42a2-ab8b-20536faf05bb",
-        "name": "FREE Soft Drink",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a main item of your choice and get a free soft drink with it.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "burgers",
-        "name": "Burgers"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      }
-    ],
-    "avgRating": 5,
-    "ratingsCount": 5,
-    "reviewsCount": 4,
-    "images": [
-      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/4fce9f88-7813-429a-be0a-deb528a66080.jpg",
-      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5bb6cc2c-954a-4484-8fc6-788d2b42bcd8.jpg",
-      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/57c28dd5-e4d3-4d6f-9a1a-c74f1580242a.png",
-      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/e7d02d10-40d4-4092-b5d8-d1a851ea1385.jpg",
-      "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5f8cdda2-3356-4f6a-900a-54dbd34d6e91.jpg"
-    ],
-    "priceRange": 2
   }
 ]

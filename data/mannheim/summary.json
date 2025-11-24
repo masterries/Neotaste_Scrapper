@@ -3639,10 +3639,90 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 68
+    },
+    {
+      "date": "2025-11-24",
+      "total_restaurants": 34,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 69
     }
   ],
-  "last_updated": "2025-11-23",
+  "last_updated": "2025-11-24",
   "restaurants": [
+    {
+      "name": "Compleat Oststadt",
+      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
+      "deals": [
+        {
+          "uuid": "81c61c55-f0b1-4c78-b289-34fa180625dd",
+          "name": "🌟 €3 Bowl 🌟",
+          "eventDeal": true,
+          "remainingDaysToReset": null,
+          "conditions": "You order a Bowl of your choice and pay only €3. In collaboration with @inspiradu and illy.delaluna.\n\nValid for all standard Bowls from the Compleat Menu with an individual price of up to €20.00. Cannot be combined with other discounts or special promotions.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "d1d30563-a6c3-48b2-8e1a-ee930bfbdf10",
+          "name": "FREE add-ons",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a bowl of your choice and get 2 free add-ons for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Otto-Beck-Straße 21-25",
+      "zipCode": "68165",
+      "latitude": 49.48125102479414,
+      "longitude": 8.484002435205113,
+      "avgRating": 4.9,
+      "ratingsCount": 294,
+      "reviewsCount": 58,
+      "images": [
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
+        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
+      ],
+      "priceRange": 2
+    },
     {
       "name": "Weihnachtsgeschenk? 🎁",
       "uuid": "71133484-9fd4-40be-95e7-505ac92a64eb",
@@ -4283,61 +4363,6 @@
         "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
         "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
         "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5acb7ce7-bfb4-4ab6-b269-cc559c6850f9.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Compleat Oststadt",
-      "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
-      "deals": [
-        {
-          "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "d1d30563-a6c3-48b2-8e1a-ee930bfbdf10",
-          "name": "FREE add-ons",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a bowl of your choice and get 2 free add-ons for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Otto-Beck-Straße 21-25",
-      "zipCode": "68165",
-      "latitude": 49.48125102479414,
-      "longitude": 8.484002435205113,
-      "avgRating": 4.9,
-      "ratingsCount": 294,
-      "reviewsCount": 58,
-      "images": [
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
-        "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
       ],
       "priceRange": 2
     },
