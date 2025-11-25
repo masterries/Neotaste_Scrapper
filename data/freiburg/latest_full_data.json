@@ -11,10 +11,10 @@
     "deals": [
       {
         "uuid": "adb71625-1a83-4758-92e0-30a277435540",
-        "name": "🌟 €1 Burger + Veggie 🌟",
+        "name": "🌟 €1 Burger 🌟",
         "eventDeal": true,
         "remainingDaysToReset": null,
-        "conditions": "You order a Burger + Veggie and pay only €1.",
+        "conditions": "You order a burger or a veggie burger and pay only €1.",
         "locationCondition": "onSite",
         "value": 14,
         "currency": {
@@ -76,8 +76,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 5,
-    "reviewsCount": 4,
+    "ratingsCount": 13,
+    "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/4fce9f88-7813-429a-be0a-deb528a66080.jpg",
       "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5bb6cc2c-954a-4484-8fc6-788d2b42bcd8.jpg",
@@ -207,7 +207,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1553,
+    "ratingsCount": 1555,
     "reviewsCount": 330,
     "images": [
       "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -278,7 +278,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 899,
+    "ratingsCount": 900,
     "reviewsCount": 266,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -348,8 +348,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 847,
-    "reviewsCount": 212,
+    "ratingsCount": 849,
+    "reviewsCount": 213,
     "images": [
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/24be4b29-6cb8-4c9e-a5a6-7278274dde7d.jpeg",
       "https://assets.neotaste.com/restaurants/85c74e23-4cd6-44d7-a431-210fb9cd12ff/images/add0033f-1b91-4cd9-83b7-87ef02de4a41.jpeg",
@@ -411,7 +411,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 511,
+    "ratingsCount": 512,
     "reviewsCount": 128,
     "images": [
       "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/23f9ff26-1ad9-4f8d-93fa-586569dc6f9c.jpeg",
@@ -686,7 +686,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 186,
+    "ratingsCount": 188,
     "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/0bd655ed-9446-494f-98fa-f71ce778533b.jpeg",
@@ -1090,7 +1090,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 233,
+    "ratingsCount": 232,
     "reviewsCount": 31,
     "images": [
       "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
@@ -1155,8 +1155,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 264,
-    "reviewsCount": 79,
+    "ratingsCount": 265,
+    "reviewsCount": 80,
     "images": [
       "https://assets.neotaste.com/restaurants/3ffe57f4-8afd-4a12-9a93-1ea1e740eed2/images/733265b8-4abc-4fcd-bb7a-6c6963383b7d.jpeg",
       "https://assets.neotaste.com/restaurants/43cc8379-96b0-47ca-b701-26198c2bb6c8/images/0f085e1c-c23e-4240-8f2f-a196dc743c30.jpeg",
@@ -1355,12 +1355,86 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 116,
+    "ratingsCount": 117,
     "reviewsCount": 39,
     "images": [
       "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/4856a9d6-d703-4a25-a4ce-664ec17d0c83.jpeg",
       "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/feba93f4-2d16-4508-9161-7f4a34464f65.jpeg",
       "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/1357eca7-2fb6-44f7-8209-f339cd35b322.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "78a31627-6c2f-4469-9495-12c78a294b77",
+    "name": "FINO",
+    "slug": "fino",
+    "address": "Granatgässle 3",
+    "addressOptional": null,
+    "zipCode": "79102",
+    "latitude": 47.99149895600557,
+    "longitude": 7.85490256509156,
+    "deals": [
+      {
+        "uuid": "8b00c183-e32a-4716-883e-36485ac7468a",
+        "name": "2for1 Cake of the day",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 pieces of cake of the day, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "02c50d41-68db-496d-8c47-08dc9f5a2970",
+        "name": "2for1 Winemaker's Sparkling Wine",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 sparkling wines of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "desserts",
+        "name": "Desserts"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 68,
+    "reviewsCount": 17,
+    "images": [
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/03615e85-b117-4513-9fee-a43faa5b38ff.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/0379f5c8-3ad2-4db0-9253-d7fd131b8164.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/40a98310-6419-4e9a-80c0-f40981cf20f9.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/3e25b1d1-b86e-4113-afc1-a70115e99186.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/cedca7af-cc3a-4dc2-bf2e-00e361b2afe4.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/395542db-0f74-49a7-9915-4c6ade17829e.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/108db59b-cf40-4d5d-be23-010dab43c49a.jpeg",
+      "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/12e926ed-1ef9-4143-911e-0ac50c2c768e.jpeg"
     ],
     "priceRange": 2
   },
@@ -2366,7 +2440,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 246,
+    "ratingsCount": 247,
     "reviewsCount": 90,
     "images": [
       "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
