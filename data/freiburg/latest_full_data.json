@@ -76,8 +76,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 21,
-    "reviewsCount": 12,
+    "ratingsCount": 25,
+    "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/4fce9f88-7813-429a-be0a-deb528a66080.jpg",
       "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/5bb6cc2c-954a-4484-8fc6-788d2b42bcd8.jpg",
@@ -207,8 +207,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1562,
-    "reviewsCount": 332,
+    "ratingsCount": 1565,
+    "reviewsCount": 333,
     "images": [
       "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
       "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/4b3a9e43-ea06-4ff7-a5a9-ed61af27bd2b.jpeg",
@@ -278,7 +278,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 903,
+    "ratingsCount": 904,
     "reviewsCount": 267,
     "images": [
       "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -547,7 +547,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 397,
+    "ratingsCount": 396,
     "reviewsCount": 100,
     "images": [
       "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
@@ -2508,7 +2508,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 341,
+    "ratingsCount": 342,
     "reviewsCount": 91,
     "images": [
       "https://assets.neotaste.com/restaurants/63d36d31-85cb-4373-bb71-3be5a9e1ff81/images/d9fcc959-5394-4528-8ac8-36da467cbacb.jpeg",
@@ -2586,5 +2586,79 @@
       "https://assets.neotaste.com/restaurants/25eb0ff6-63d2-43d4-a478-7cb87955933b/images/a2af591e-0a99-4f56-be23-e8f2dfc9278d.jpg"
     ],
     "priceRange": 1
+  },
+  {
+    "uuid": "7a662539-dd80-4016-b153-86bd9105ccf4",
+    "name": "Piazza Italia",
+    "slug": "piazza-italia",
+    "address": "Rieselfeldallee 16",
+    "addressOptional": null,
+    "zipCode": "79111",
+    "latitude": 47.9981257,
+    "longitude": 7.794132,
+    "deals": [
+      {
+        "uuid": "5c387ac6-41e7-48fa-9dd3-1ca3b98cea78",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 17,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "78f502c0-817f-491c-8a82-8d9676cb0161",
+        "name": "FREE Soft Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main item of your choice and get a soft drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "pizza",
+        "name": "Pizza"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/d5179277-7851-46d4-b744-a3a399c229ba.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/b46b18e0-21e4-42cf-9d1e-9d11a8cab5ad.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/558383c2-919f-4a9d-94f2-72c455a1cb5a.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/8c530a5f-9fcd-48b3-ab79-979d5ed050d0.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/a7360a53-1a53-4045-b476-00dc908bcac0.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/9bcbff89-e5fb-4a15-a654-1f34fce65405.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/ebd21c7a-9227-4e48-bc42-2a2c6cec7507.jpg",
+      "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/7f239fb2-2b59-4935-b530-406d01a5154f.jpg"
+    ],
+    "priceRange": 2
   }
 ]
