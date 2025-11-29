@@ -76,8 +76,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 990,
-    "reviewsCount": 170,
+    "ratingsCount": 993,
+    "reviewsCount": 173,
     "images": [
       "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
       "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
@@ -164,8 +164,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 360,
-    "reviewsCount": 61,
+    "ratingsCount": 362,
+    "reviewsCount": 62,
     "images": [
       "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
       "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
@@ -295,7 +295,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1187,
+    "ratingsCount": 1188,
     "reviewsCount": 226,
     "images": [
       "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -372,17 +372,71 @@
     "uuid": "72dee0cd-6cda-4861-8b00-77a0f1cae34e",
     "name": "Choa Restaurant",
     "slug": "choa-restaurant",
-    "address": "",
-    "addressOptional": "",
-    "zipCode": "",
+    "address": "Zwingerstraße 20",
+    "addressOptional": null,
+    "zipCode": "69117",
     "latitude": 49.41131614369048,
     "longitude": 8.711970070552214,
-    "deals": [],
-    "tags": [],
+    "deals": [
+      {
+        "uuid": "5b4f69c2-ca46-49eb-a875-08dc6b82761c",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "f81f748e-887d-4d66-a876-08dc6b82761c",
+        "name": "FREE Dessert",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a dessert for free.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "sushi",
+        "name": "Sushi"
+      },
+      {
+        "slug": "bbq",
+        "name": "BBQ"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian"
+      }
+    ],
     "avgRating": 4.8,
-    "ratingsCount": 316,
-    "reviewsCount": null,
-    "images": [],
+    "ratingsCount": 314,
+    "reviewsCount": 71,
+    "images": [
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/235f3980-3676-40ab-8407-53ea81216c3f.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/594f058b-e77e-4d0e-92ba-700e7e452e4b.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/eb13896c-e7ce-4c94-b01c-282abdc6f3e7.jpeg",
+      "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/3c584495-9dce-4328-a8a9-610e942c78df.jpeg"
+    ],
     "priceRange": 3
   },
   {
@@ -511,7 +565,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 254,
+    "ratingsCount": 253,
     "reviewsCount": 48,
     "images": [
       "https://assets.neotaste.com/restaurants/eb7f2185-b0dc-4fc1-a93b-78feb32fba78/images/84cf1751-6a2b-40a0-91f1-13ae5c98e08f.png",
@@ -646,7 +700,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 218,
+    "ratingsCount": 217,
     "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/99329a52-51f4-4f3e-9366-91163e003b7c.jpeg",
@@ -783,7 +837,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 799,
+    "ratingsCount": 800,
     "reviewsCount": 138,
     "images": [
       "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -994,7 +1048,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 179,
+    "ratingsCount": 181,
     "reviewsCount": 47,
     "images": [
       "https://assets.neotaste.com/restaurants/88827cc6-c5fd-47dd-bae3-5082076cbd25/images/8e385050-9180-48b6-a255-71c12e0e5d93.jpeg",
@@ -1645,8 +1699,8 @@
         "name": "Desserts"
       }
     ],
-    "avgRating": 4.7,
-    "ratingsCount": 23,
+    "avgRating": 4.6,
+    "ratingsCount": 22,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/178f9460-5ed4-448e-8019-5c02b2621a47/images/ca05d037-a04f-49a1-b1c9-c686eea1938c.jpeg",
@@ -2100,7 +2154,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 27,
+    "ratingsCount": 28,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/cf50e678-82f6-48ef-8499-54a581c66a93/images/a5f45420-0b9b-44aa-8062-5661c9e85f0f.jpg",
