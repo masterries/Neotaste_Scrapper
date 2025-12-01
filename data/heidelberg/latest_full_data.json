@@ -1,181 +1,5 @@
 [
   {
-    "uuid": "87d63154-435f-42c2-96b8-06538d3dbe0f",
-    "name": "Compleat Bismarckplatz",
-    "slug": "compleat-bismarckplatz",
-    "address": "Rohrbacher Str. 2",
-    "addressOptional": null,
-    "zipCode": "69115",
-    "latitude": 49.40892330591613,
-    "longitude": 8.692200507807478,
-    "deals": [
-      {
-        "uuid": "10eb738a-4b0b-4f6a-8b63-0a5db878b68d",
-        "name": "🌟 €3 Bowl 🌟",
-        "eventDeal": true,
-        "remainingDaysToReset": null,
-        "conditions": "You order a Bowl of your choice and pay only €3. In collaboration with @inspiradu and illy.delaluna.\n\nValid for all standard Bowls from the Compleat Menu with an individual price of up to €20.00. Cannot be combined with other discounts or special promotions.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "f0e02642-816d-432b-bdc9-a65fed640a90",
-        "name": "€10 Discount",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "9c18b0ca-b07c-4fbf-a668-e1e7395ac891",
-        "name": "FREE Add-Ons",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 1001,
-    "reviewsCount": 174,
-    "images": [
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/b477e4ac-37dc-4cc8-bcb0-503c81dfd396.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/5e772c11-361b-4007-82d1-954d371ab8d2.jpeg",
-      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/9a205c57-84a5-4549-a4df-2f750ca8ca6c.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "8397ca03-6e1d-44fd-88ba-97c2746aa69e",
-    "name": "Compleat Foodtruck",
-    "slug": "compleat-foodtruck",
-    "address": "Eppelheimer Str. 80",
-    "addressOptional": null,
-    "zipCode": "69123",
-    "latitude": 49.40344583401104,
-    "longitude": 8.645399928557108,
-    "deals": [
-      {
-        "uuid": "f906982b-5c57-438b-93ef-e57d9d0cf8c7",
-        "name": "🌟 €3 Bowl 🌟",
-        "eventDeal": true,
-        "remainingDaysToReset": null,
-        "conditions": "You order a Bowl of your choice and pay only €3. In collaboration with @inspiradu and illy.delaluna.\n\nValid for all standard Bowls from the Compleat Menu with an individual price of up to €20.00. Cannot be combined with other discounts or special promotions.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "4e4f1dfe-3026-4cd2-a628-54e08e9fd744",
-        "name": "€10 Discount",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "aad40933-6b58-4dc8-94bf-02dcb8c19df7",
-        "name": "FREE Add-Ons",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 362,
-    "reviewsCount": 62,
-    "images": [
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/33e9fd8e-f080-49cd-820d-f8491c6639d9.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/423de573-584e-4978-95d3-f1a51508b265.jpeg",
-      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/d3840437-644c-4710-819d-619d0c50f112.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "1170b471-d11a-4a82-b53d-7f9c1833a1db",
     "name": "Weihnachtsgeschenk? 🎁",
     "slug": "weihnachtsgeschenk-marktpl-5-69117-heidelberg-germany",
@@ -295,7 +119,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1190,
+    "ratingsCount": 1191,
     "reviewsCount": 227,
     "images": [
       "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -305,6 +129,77 @@
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/72a325e1-8694-4b5a-8bfe-c5609d5825b0.jpeg",
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/692c9c6c-90eb-49aa-81fb-5078812cf75c.jpeg",
       "https://assets.neotaste.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/afd09973-b3b6-43ae-91b6-cceeb078adf5.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "87d63154-435f-42c2-96b8-06538d3dbe0f",
+    "name": "Compleat Bismarckplatz",
+    "slug": "compleat-bismarckplatz",
+    "address": "Rohrbacher Str. 2",
+    "addressOptional": null,
+    "zipCode": "69115",
+    "latitude": 49.40892330591613,
+    "longitude": 8.692200507807478,
+    "deals": [
+      {
+        "uuid": "f0e02642-816d-432b-bdc9-a65fed640a90",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "9c18b0ca-b07c-4fbf-a668-e1e7395ac891",
+        "name": "FREE Add-Ons",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 1006,
+    "reviewsCount": 177,
+    "images": [
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/b477e4ac-37dc-4cc8-bcb0-503c81dfd396.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/5e772c11-361b-4007-82d1-954d371ab8d2.jpeg",
+      "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/9a205c57-84a5-4549-a4df-2f750ca8ca6c.jpeg"
     ],
     "priceRange": 2
   },
@@ -428,7 +323,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 315,
+    "ratingsCount": 314,
     "reviewsCount": 72,
     "images": [
       "https://assets.neotaste.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
@@ -635,8 +530,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 190,
-    "reviewsCount": 51,
+    "ratingsCount": 191,
+    "reviewsCount": 52,
     "images": [
       "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/8a61250d-eeb7-4814-b08a-bc229247d1d0.jpeg",
       "https://assets.neotaste.com/restaurants/643f1971-db2f-4804-a422-69be8e3ef64f/images/019f577c-f13e-4c3b-8c7c-ddb6b718a633.jpeg",
@@ -700,8 +595,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 217,
-    "reviewsCount": 43,
+    "ratingsCount": 219,
+    "reviewsCount": 44,
     "images": [
       "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/99329a52-51f4-4f3e-9366-91163e003b7c.jpeg",
       "https://assets.neotaste.com/restaurants/2e5c9b77-5a8c-4c68-ab48-621656df8cc2/images/afd9bb0f-3710-4f74-a940-d2e9f15460cd.jpeg",
@@ -920,6 +815,77 @@
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/1694f283-4efa-460e-880b-9a5d1d3d4646.jpeg",
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/ca8102fb-d9ce-40e6-a045-27573ebc3553.jpeg",
       "https://assets.neotaste.com/restaurants/d45f98ea-6685-4a70-8df7-01fc2f0d2b8d/images/d2587bc4-55af-4ba5-98b4-fba6364eaf08.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "8397ca03-6e1d-44fd-88ba-97c2746aa69e",
+    "name": "Compleat Foodtruck",
+    "slug": "compleat-foodtruck",
+    "address": "Eppelheimer Str. 80",
+    "addressOptional": null,
+    "zipCode": "69123",
+    "latitude": 49.40344583401104,
+    "longitude": 8.645399928557108,
+    "deals": [
+      {
+        "uuid": "4e4f1dfe-3026-4cd2-a628-54e08e9fd744",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "aad40933-6b58-4dc8-94bf-02dcb8c19df7",
+        "name": "FREE Add-Ons",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a bowl of your choice and get 2 add-ons for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 364,
+    "reviewsCount": 64,
+    "images": [
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/1c54c96e-389c-4c2c-8392-afea1d01a84b.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/ac7f1598-7d1e-4380-b60f-67ae0c30f3b9.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/33e9fd8e-f080-49cd-820d-f8491c6639d9.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/423de573-584e-4978-95d3-f1a51508b265.jpeg",
+      "https://assets.neotaste.com/restaurants/8c1261ba-25ff-4d4f-a0f5-18252e5abea3/images/d3840437-644c-4710-819d-619d0c50f112.jpeg"
     ],
     "priceRange": 2
   },
@@ -1241,7 +1207,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 41,
+    "ratingsCount": 40,
     "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/f423474e-d0ee-41cb-82a6-7b3260899343/images/5ce65044-3027-4407-90bc-a97191f23bdb.png",
@@ -1361,7 +1327,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 75,
+    "ratingsCount": 76,
     "reviewsCount": 26,
     "images": [
       "https://assets.neotaste.com/restaurants/abef9a6a-3b35-48f2-9b3a-6ec2906b7b34/images/a447cb1b-3ec3-4993-94fe-17b9d962e67c.jpeg",
@@ -1832,7 +1798,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 33,
+    "ratingsCount": 34,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/8e5a84ec-c4c7-4732-9b5e-7073d030caf2/images/3d7faa9c-1ee1-4224-9877-c48fba7f6be2.jpeg",
@@ -2297,7 +2263,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 25,
+    "ratingsCount": 24,
     "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/60d7495c-e152-4e80-b97f-ffdd7565ec4f/images/52fcb991-12db-449a-a7bc-23c70c50ebbb.jpg",
@@ -2378,7 +2344,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 14,
+    "ratingsCount": 16,
     "reviewsCount": 6,
     "images": [
       "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/54579229-139d-499f-8e01-fabfcb64e58e.jpg",
@@ -2635,9 +2601,9 @@
         "name": "Bar"
       }
     ],
-    "avgRating": 0,
-    "ratingsCount": 0,
-    "reviewsCount": 0,
+    "avgRating": 5,
+    "ratingsCount": 1,
+    "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/16565729-6473-41a9-8882-aa2ae1553a00.jpg",
       "https://assets.neotaste.com/restaurants/3a3a31e1-13de-4164-83d8-12cc8df8ca6a/images/d05567f9-47f0-49d2-9870-65b338edc42b.jpg",

@@ -1,93 +1,5 @@
 [
   {
-    "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
-    "name": "Compleat Oststadt",
-    "slug": "compleat-oststadt",
-    "address": "Otto-Beck-Straße 21-25",
-    "addressOptional": null,
-    "zipCode": "68165",
-    "latitude": 49.48125102479414,
-    "longitude": 8.484002435205113,
-    "deals": [
-      {
-        "uuid": "81c61c55-f0b1-4c78-b289-34fa180625dd",
-        "name": "🌟 €3 Bowl 🌟",
-        "eventDeal": true,
-        "remainingDaysToReset": null,
-        "conditions": "You order a Bowl of your choice and pay only €3. In collaboration with @inspiradu and illy.delaluna.\n\nValid for all standard Bowls from the Compleat Menu with an individual price of up to €20.00. Cannot be combined with other discounts or special promotions.",
-        "locationCondition": "onSite",
-        "value": 7,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
-        "name": "€10 Discount",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "d1d30563-a6c3-48b2-8e1a-ee930bfbdf10",
-        "name": "FREE add-ons",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a bowl of your choice and get 2 free add-ons for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "vegan",
-        "name": "Vegan"
-      },
-      {
-        "slug": "healthy",
-        "name": "Healthy"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 309,
-    "reviewsCount": 67,
-    "images": [
-      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
-      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
-      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
-      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
-      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "71133484-9fd4-40be-95e7-505ac92a64eb",
     "name": "Weihnachtsgeschenk? 🎁",
     "slug": "weihnachtsgeschenk-bismarckstrasse-68161-mannheim-germany",
@@ -207,7 +119,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 696,
+    "ratingsCount": 697,
     "reviewsCount": 113,
     "images": [
       "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
@@ -274,8 +186,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 681,
-    "reviewsCount": 235,
+    "ratingsCount": 682,
+    "reviewsCount": 236,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
     ],
@@ -338,7 +250,7 @@
     ],
     "avgRating": 4.9,
     "ratingsCount": 438,
-    "reviewsCount": 81,
+    "reviewsCount": 80,
     "images": [
       "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
     ],
@@ -867,6 +779,77 @@
       "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
       "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
       "https://assets.neotaste.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5acb7ce7-bfb4-4ab6-b269-cc559c6850f9.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "545542d4-38ad-454e-8f81-7b4bf21c68a6",
+    "name": "Compleat Oststadt",
+    "slug": "compleat-oststadt",
+    "address": "Otto-Beck-Straße 21-25",
+    "addressOptional": null,
+    "zipCode": "68165",
+    "latitude": 49.48125102479414,
+    "longitude": 8.484002435205113,
+    "deals": [
+      {
+        "uuid": "9afe1f0d-1369-435f-8425-569b6682ff81",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "d1d30563-a6c3-48b2-8e1a-ee930bfbdf10",
+        "name": "FREE add-ons",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a bowl of your choice and get 2 free add-ons for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "vegan",
+        "name": "Vegan"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy"
+      },
+      {
+        "slug": "bowls",
+        "name": "Bowls"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 317,
+    "reviewsCount": 69,
+    "images": [
+      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
+      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
+      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/a73e19f9-2030-47ef-9612-ed1ece46e874.jpeg",
+      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/0c44a196-2b8c-4c34-8366-0e061e29dab9.jpeg",
+      "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/6127c8af-28bf-4130-a5e0-9809648ec1cb.jpeg"
     ],
     "priceRange": 2
   },
@@ -1575,8 +1558,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 72,
-    "reviewsCount": 21,
+    "ratingsCount": 73,
+    "reviewsCount": 22,
     "images": [
       "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/ca866178-8b0c-46e9-997c-4a4817c37783.jpeg",
       "https://assets.neotaste.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/8b49677d-901f-4aa5-9157-74cebf8ea759.jpeg",
@@ -1646,7 +1629,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 148,
+    "ratingsCount": 149,
     "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
@@ -1990,7 +1973,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 11,
+    "ratingsCount": 12,
     "reviewsCount": 6,
     "images": [
       "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
@@ -2188,7 +2171,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 3,
+    "ratingsCount": 4,
     "reviewsCount": 3,
     "images": [
       "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/6aae617f-1c94-4033-a8d8-b65acbee88d9.jpg",
