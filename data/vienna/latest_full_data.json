@@ -1,93 +1,5 @@
 [
   {
-    "uuid": "20b281aa-7bdf-4534-8e2d-66218ad70913",
-    "name": "SHA GUO 22",
-    "slug": "sha-guo-22",
-    "address": "Dr.-Adolf-Schärf-Platz 7",
-    "addressOptional": null,
-    "zipCode": "1220",
-    "latitude": 48.24454519549031,
-    "longitude": 16.43341660912266,
-    "deals": [
-      {
-        "uuid": "2f3ba77e-ebc6-4f1f-ab41-ed634dd8ed9b",
-        "name": "🌟 €1 Ramen Soup 🌟",
-        "eventDeal": true,
-        "remainingDaysToReset": null,
-        "conditions": "You order a ramen soup (Veggie, Chicken or Beef) and pay only €1. \nIn collaboration with @tastyfood.vienna.",
-        "locationCondition": "onSite",
-        "value": 14,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "45308bb9-2d7e-4a86-2052-08dcb93bce10",
-        "name": "€10 Discount",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "f1e43430-4439-4005-2053-08dcb93bce10",
-        "name": "2for1 Sushi Roll",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 sushi rolls of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 17,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "sushi",
-        "name": "Sushi"
-      },
-      {
-        "slug": "asian",
-        "name": "Asian"
-      },
-      {
-        "slug": "event-deal",
-        "name": "Event Deal"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 431,
-    "reviewsCount": 145,
-    "images": [
-      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/386ce013-0d88-46b6-9152-757569b054bd.jpeg",
-      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/0ae173eb-3cc8-4f1c-903a-906675ccd3c8.jpeg",
-      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/69cadfe9-5f9c-4af3-af11-34378ccd8110.jpeg",
-      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/c1bed0e0-a3b9-4d88-b933-ad2cdf5c930d.jpeg",
-      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/7ad9263a-7372-4501-8b0d-4d764da051b3.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "d79367f3-b430-4739-bce2-2f30d0924550",
     "name": "BeMINT Café",
     "slug": "bemint-cafe",
@@ -152,20 +64,23 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 118,
-    "reviewsCount": 48,
+    "ratingsCount": 119,
+    "reviewsCount": 49,
     "images": [
       "https://assets.neotaste.com/restaurants/d79367f3-b430-4739-bce2-2f30d0924550/images/1c5c2714-d599-46ea-99a3-e62c37d227b6.jpeg",
       "https://assets.neotaste.com/restaurants/d79367f3-b430-4739-bce2-2f30d0924550/images/7885ba6a-189c-43c7-9a77-50620cea178b.jpeg",
@@ -243,20 +158,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 32,
-    "reviewsCount": 11,
+    "avgRating": 4.9,
+    "ratingsCount": 43,
+    "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/575fa96e-a229-42a9-8416-b798181de3d4.jpeg",
       "https://assets.neotaste.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/0f8416b5-1f96-4bac-8668-047f2e9bab65.jpeg",
@@ -312,7 +230,8 @@
     "tags": [
       {
         "slug": "event-deal",
-        "name": "Event Deal"
+        "name": "Event Deal",
+        "emoji": "🌟"
       }
     ],
     "avgRating": 0,
@@ -372,16 +291,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 4310,
-    "reviewsCount": 1028,
+    "ratingsCount": 4319,
+    "reviewsCount": 1033,
     "images": [
       "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/7103faef-1733-4c95-988f-faa6370c0382.jpg",
       "https://assets.neotaste.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/4f0c1afd-7257-4606-8d42-ebea799287f0.jpg",
@@ -440,16 +361,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 2592,
-    "reviewsCount": 398,
+    "ratingsCount": 2595,
+    "reviewsCount": 399,
     "images": [
       "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/28c004fe-0b4e-401e-9eb8-4842995ce223.jpg",
       "https://assets.neotaste.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/3fa7c661-345d-4e12-966d-2fb9301a4181.jpg",
@@ -523,16 +446,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 2321,
-    "reviewsCount": 618,
+    "ratingsCount": 2325,
+    "reviewsCount": 621,
     "images": [
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/93414849-2b9d-46f9-b656-88774bfa02c9.jpeg",
       "https://assets.neotaste.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/eedf9748-270d-4da8-a0b6-d36190261bd1.jpg",
@@ -559,20 +484,20 @@
     "longitude": 16.378678,
     "deals": [
       {
-        "uuid": "cbac3cff-5f14-422d-a71b-49993708ac1d",
-        "name": "2for1 Menu",
+        "uuid": "e60d88e5-25b8-4148-b53f-abbd4e8941d6",
+        "name": "2for1 Lunch-Menu",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "You order 2 menus of your choice, the cheaper/equally priced one will not be charged.",
+        "conditions": "You order 2 lunch menus of your choice, the cheaper/equally priced one will not be charged.",
         "locationCondition": "onSite",
-        "value": 21,
+        "value": 15,
         "currency": {
           "name": "Euro",
           "isoCode": "EUR",
           "symbol": "€",
           "conversionRateToEuro": 1
         },
-        "daysToReset": 30,
+        "daysToReset": 90,
         "status": "available"
       },
       {
@@ -591,25 +516,45 @@
         },
         "daysToReset": 30,
         "status": "available"
+      },
+      {
+        "uuid": "ca21db06-c6a2-4132-9cb2-f4b70755c77b",
+        "name": "2for1 snack pack",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 hot drinks and 2 pastries of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
       }
     ],
     "tags": [
       {
-        "slug": "burgers",
-        "name": "Burgers"
+        "slug": "drinks",
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
-        "slug": "bbq",
-        "name": "BBQ"
+        "slug": "burgers",
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 2331,
-    "reviewsCount": 628,
+    "ratingsCount": 2335,
+    "reviewsCount": 631,
     "images": [
       "https://assets.neotaste.com/restaurants/936ace79-43e9-4456-bbde-fd8b111c0fe5/images/dc8a0689-0e56-4026-bbff-fb16a1585d14.jpg",
       "https://assets.neotaste.com/restaurants/936ace79-43e9-4456-bbde-fd8b111c0fe5/images/bcd16b2f-7f91-479a-b376-890b9b0ec46e.jpeg",
@@ -669,15 +614,18 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
@@ -746,15 +694,17 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1449,
+    "ratingsCount": 1451,
     "reviewsCount": 293,
     "images": [
       "https://assets.neotaste.com/restaurants/014129aa-e86f-4149-96fb-9483f2fb2f11/images/a034aa4f-f672-4203-a175-17ec26e58338.jpeg",
@@ -815,15 +765,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 4.9,
@@ -886,16 +839,18 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1496,
-    "reviewsCount": 182,
+    "ratingsCount": 1497,
+    "reviewsCount": 183,
     "images": [
       "https://assets.neotaste.com/restaurants/3f823a10-023c-49a1-a059-b235788cabed/images/11e0e863-7e4e-4f94-9482-23388f231b71.jpeg",
       "https://assets.neotaste.com/restaurants/3f823a10-023c-49a1-a059-b235788cabed/images/32c79797-f718-454c-ad06-c6f763214b1e.jpeg",
@@ -962,15 +917,18 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.8,
@@ -1035,12 +993,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1280,
-    "reviewsCount": 256,
+    "ratingsCount": 1283,
+    "reviewsCount": 258,
     "images": [
       "https://assets.neotaste.com/restaurants/5d6851f6-6ea5-4ba2-b060-bb3ed26cc753/images/57f0aa24-5c0a-4449-a341-75a6ce59c9ea.jpeg",
       "https://assets.neotaste.com/restaurants/5d6851f6-6ea5-4ba2-b060-bb3ed26cc753/images/2c32cef3-0460-402c-b8e0-745bb00a9600.jpeg",
@@ -1098,11 +1057,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
@@ -1170,15 +1131,17 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1012,
+    "ratingsCount": 1013,
     "reviewsCount": 232,
     "images": [
       "https://assets.neotaste.com/restaurants/02194c07-dab7-4ba3-a9ad-bec99d130f75/images/42ecb867-26d4-4190-862d-19391722f2e3.jpeg",
@@ -1236,16 +1199,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 855,
-    "reviewsCount": 169,
+    "ratingsCount": 856,
+    "reviewsCount": 170,
     "images": [
       "https://assets.neotaste.com/restaurants/d6e6256e-aa4a-4784-b7b0-9664c0690eff/images/11fe3a3c-a6df-4abe-affc-e362adf20b06.jpeg",
       "https://assets.neotaste.com/restaurants/d6e6256e-aa4a-4784-b7b0-9664c0690eff/images/c466ec83-2184-4690-bf7c-178c1dc623ee.jpeg",
@@ -1304,15 +1269,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -1379,16 +1347,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1073,
-    "reviewsCount": 266,
+    "ratingsCount": 1075,
+    "reviewsCount": 267,
     "images": [
       "https://assets.neotaste.com/restaurants/9e234783-5d76-425f-a6c6-418d8916908c/images/8b2e36dd-a918-4c62-8a7a-ac0fbb96d955.png",
       "https://assets.neotaste.com/restaurants/9e234783-5d76-425f-a6c6-418d8916908c/images/b9093c57-45ac-4f6d-8faa-cea3bb61dda5.png"
@@ -1443,20 +1413,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1247,
-    "reviewsCount": 304,
+    "ratingsCount": 1252,
+    "reviewsCount": 305,
     "images": [
       "https://assets.neotaste.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/37c37d57-2e13-4ec5-84bd-6a9676586a0b.jpeg",
       "https://assets.neotaste.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/948b813e-3cbd-4d8f-a2bd-48a9df48fc7e.jpeg",
@@ -1514,11 +1487,12 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 674,
+    "ratingsCount": 676,
     "reviewsCount": 119,
     "images": [
       "https://assets.neotaste.com/restaurants/359c294f-dc13-4203-9ba7-930b9eeb8bc0/images/021dded5-38e4-419c-83c5-89c4d4cbc18a.jpg",
@@ -1575,16 +1549,18 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 895,
-    "reviewsCount": 152,
+    "ratingsCount": 902,
+    "reviewsCount": 155,
     "images": [
       "https://assets.neotaste.com/restaurants/7d43e1df-1e14-4a5c-9e9c-a9a5e69ee474/images/30ed2fe9-d581-4ce8-af5c-46513d165141.jpeg",
       "https://assets.neotaste.com/restaurants/7d43e1df-1e14-4a5c-9e9c-a9a5e69ee474/images/8dca1bf5-1348-43e9-bfa9-6965caf72b1f.jpeg",
@@ -1641,16 +1617,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1521,
-    "reviewsCount": 401,
+    "ratingsCount": 1529,
+    "reviewsCount": 407,
     "images": [
       "https://assets.neotaste.com/restaurants/ff81f996-ab14-452e-916b-e0b7181689f3/images/d1961f74-ffa8-4925-8fff-198424a988be.jpeg",
       "https://assets.neotaste.com/restaurants/ff81f996-ab14-452e-916b-e0b7181689f3/images/a3750915-8574-4a6b-954c-f7f470420e17.jpeg"
@@ -1705,16 +1683,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 731,
-    "reviewsCount": 187,
+    "ratingsCount": 734,
+    "reviewsCount": 188,
     "images": [
       "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/d82e4aa7-5472-48ed-aba1-ddb5c504f419.jpeg",
       "https://assets.neotaste.com/restaurants/3179fcec-0aa3-4c2a-8d10-cfa1c2c59cff/images/03bddeb3-bea0-4a41-9827-5a92de800285.jpeg",
@@ -1778,22 +1758,92 @@
     "tags": [
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 874,
-    "reviewsCount": 233,
+    "ratingsCount": 875,
+    "reviewsCount": 234,
     "images": [
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/5dd16f88-1468-4ba5-89b9-d4178ae4d43d.jpg",
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/8413bb98-35f4-4e95-bbe0-e178aa07804a.jpeg",
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/ea73a4b5-e6f5-4146-b7dc-7cb11c68b993.jpeg",
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/4bc31050-d729-4180-bb9a-7f570689d435.jpeg",
       "https://assets.neotaste.com/restaurants/d6615b66-6c11-48a1-9da7-1cb693459707/images/2768366a-3fad-442c-9e8e-e99dc154a75e.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "75fb3284-6e41-41c0-a7d4-0aed0b81370e",
+    "name": "Biang2",
+    "slug": "biang2",
+    "address": "Mariahilfer Str. 102",
+    "addressOptional": null,
+    "zipCode": "1070",
+    "latitude": 48.19695029461962,
+    "longitude": 16.34451973205828,
+    "deals": [
+      {
+        "uuid": "8a65c3a7-132f-4a67-21af-08dcab077757",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "3fedbe49-014c-41fc-21b0-08dcab077757",
+        "name": "FREE mango or lychee juice",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a free mango or lychee juice with it.",
+        "locationCondition": "onSite",
+        "value": 5,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "asian",
+        "name": "Asian",
+        "emoji": "🍱"
+      },
+      {
+        "slug": "sushi",
+        "name": "Sushi",
+        "emoji": "🍣"
+      }
+    ],
+    "avgRating": 4.8,
+    "ratingsCount": 781,
+    "reviewsCount": 158,
+    "images": [
+      "https://assets.neotaste.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/972e7120-307c-429a-8aeb-4252274072a4.jpeg",
+      "https://assets.neotaste.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/e6636686-04dd-45b4-b12d-ab42e4003435.jpeg",
+      "https://assets.neotaste.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/f1a4b8ae-257b-4880-b012-afc2180d4c8c.jpeg",
+      "https://assets.neotaste.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/9f623028-9ef7-4b78-b114-615969021532.jpeg"
     ],
     "priceRange": 2
   },
@@ -1845,15 +1895,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.8,
@@ -1914,11 +1967,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.7,
@@ -1981,16 +2036,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 2281,
-    "reviewsCount": 525,
+    "ratingsCount": 2286,
+    "reviewsCount": 528,
     "images": [
       "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/b5f837cd-8570-4160-88dd-359f6cc6795b.jpg",
       "https://assets.neotaste.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/78f787f3-7349-465b-b8a7-114242293b78.jpg",
@@ -2049,15 +2106,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.9,
@@ -2127,11 +2187,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.7,
@@ -2145,50 +2207,6 @@
       "https://assets.neotaste.com/restaurants/30c2114a-6923-4692-be22-677e9650f74c/images/18e44a4e-50fa-4326-ab49-61ecf2538e57.jpeg"
     ],
     "priceRange": 2
-  },
-  {
-    "uuid": "436672c2-0bc7-4945-9765-2aa5749b4188",
-    "name": "La Taqueria Chiquitita",
-    "slug": "la-taqueria-chiquitita",
-    "address": "Margaretenstraße 76",
-    "addressOptional": null,
-    "zipCode": "1050",
-    "latitude": 48.19246460000001,
-    "longitude": 16.3602039,
-    "deals": [
-      {
-        "uuid": "7c6245ff-e38a-456b-b753-ef6d3b0a8e5f",
-        "name": "4for2 Tacos",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 4 tacos of your choice, the 2 cheaper/equally priced ones are not charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "fast-food",
-        "name": "Fast Food"
-      }
-    ],
-    "avgRating": 4.8,
-    "ratingsCount": 282,
-    "reviewsCount": 83,
-    "images": [
-      "https://assets.neotaste.com/restaurants/436672c2-0bc7-4945-9765-2aa5749b4188/images/b63fd01a-3228-442d-893d-d0c6a9f50bd8.jpeg",
-      "https://assets.neotaste.com/restaurants/436672c2-0bc7-4945-9765-2aa5749b4188/images/7ca3e5ea-e3cf-42a8-b885-2580a2909fe8.jpeg",
-      "https://assets.neotaste.com/restaurants/436672c2-0bc7-4945-9765-2aa5749b4188/images/98b36bf4-624f-4ca5-89dc-13128eccb2a2.jpeg"
-    ],
-    "priceRange": 1
   },
   {
     "uuid": "fd7c383f-5472-45b3-9a88-4aeb12813df5",
@@ -2238,11 +2256,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -2302,15 +2322,18 @@
     "tags": [
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "loyalty",
-        "name": "Loyalty"
+        "name": "Loyalty",
+        "emoji": "✨"
       }
     ],
     "avgRating": 4.5,
@@ -2371,15 +2394,18 @@
     "tags": [
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.6,
@@ -2442,15 +2468,17 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 239,
+    "ratingsCount": 240,
     "reviewsCount": 87,
     "images": [
       "https://assets.neotaste.com/restaurants/ef3b7a78-22d1-45c0-a4bf-a599829f10ef/images/bd27adf7-e822-47ef-905c-0f135d12fcde.jpeg",
@@ -2511,15 +2539,17 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 81,
+    "ratingsCount": 82,
     "reviewsCount": 17,
     "images": [
       "https://assets.neotaste.com/restaurants/ce35ef21-81d4-476b-810f-e1f328e4069f/images/842150e2-9871-4e6f-aa79-02db95987d7e.png",
@@ -2575,7 +2605,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -2639,7 +2670,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -2702,15 +2734,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       }
     ],
     "avgRating": 4.5,
@@ -2771,15 +2806,17 @@
     "tags": [
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 204,
+    "ratingsCount": 205,
     "reviewsCount": 37,
     "images": [
       "https://assets.neotaste.com/restaurants/a18ed08b-2c7d-4f8d-84cd-ba3116bbdc89/images/38b5253a-9128-4b0a-9b8e-295f8d7fd88f.jpeg",
@@ -2836,7 +2873,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -2899,11 +2937,13 @@
     "tags": [
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 5,
@@ -2964,7 +3004,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
@@ -3024,11 +3065,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -3087,7 +3130,8 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.6,
@@ -3149,11 +3193,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -3215,11 +3261,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -3280,15 +3328,18 @@
     "tags": [
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.8,
@@ -3350,7 +3401,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -3412,15 +3464,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.6,
@@ -3482,11 +3537,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -3547,12 +3604,13 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 122,
-    "reviewsCount": 39,
+    "ratingsCount": 124,
+    "reviewsCount": 40,
     "images": [
       "https://assets.neotaste.com/restaurants/1e0e9a75-ed4c-42e4-b1cf-77327752e71c/images/b387d5a8-b0b9-4712-bfd0-be2e75eb71c0.jpg",
       "https://assets.neotaste.com/restaurants/1e0e9a75-ed4c-42e4-b1cf-77327752e71c/images/e55adc80-6e8a-448d-8e1c-ce1c096df322.jpg",
@@ -3608,11 +3666,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.8,
@@ -3671,20 +3731,23 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 147,
-    "reviewsCount": 53,
+    "avgRating": 5,
+    "ratingsCount": 146,
+    "reviewsCount": 52,
     "images": [
       "https://assets.neotaste.com/restaurants/747d5569-69f1-493f-839e-6a66e8391f7b/images/a5b5a54c-f645-4dde-aa4a-fc9945769a26.jpg",
       "https://assets.neotaste.com/restaurants/747d5569-69f1-493f-839e-6a66e8391f7b/images/2e258a28-e762-4665-b8e0-a9736e5e0374.jpeg",
@@ -3740,15 +3803,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.8,
@@ -3810,7 +3876,8 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 5,
@@ -3875,15 +3942,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.7,
@@ -3944,15 +4014,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -4017,11 +4090,13 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.9,
@@ -4084,11 +4159,13 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.8,
@@ -4151,15 +4228,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
@@ -4220,11 +4300,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -4285,15 +4367,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -4355,16 +4440,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 256,
-    "reviewsCount": 75,
+    "ratingsCount": 258,
+    "reviewsCount": 77,
     "images": [
       "https://assets.neotaste.com/restaurants/4c30373f-1eda-4146-b27d-ab8dbca969a8/images/8855bed0-a7cb-463d-a3b3-059d8950d08e.png",
       "https://assets.neotaste.com/restaurants/4c30373f-1eda-4146-b27d-ab8dbca969a8/images/8da566e6-0c29-4812-8ea6-9e0ee9623c1a.jpeg",
@@ -4420,15 +4507,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 5,
@@ -4490,16 +4580,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 604,
-    "reviewsCount": 214,
+    "ratingsCount": 605,
+    "reviewsCount": 215,
     "images": [
       "https://assets.neotaste.com/restaurants/fca5f0fb-e1f0-4ca2-9923-23863d9c5c18/images/5d98e576-04f5-42b9-b0e3-e0d823628251.jpeg",
       "https://assets.neotaste.com/restaurants/fca5f0fb-e1f0-4ca2-9923-23863d9c5c18/images/259d80b3-ce6b-469e-af88-3b59631e67ca.jpeg",
@@ -4556,15 +4648,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 4.7,
@@ -4628,15 +4723,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 5,
@@ -4697,19 +4795,22 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 274,
+    "ratingsCount": 275,
     "reviewsCount": 58,
     "images": [
       "https://assets.neotaste.com/restaurants/52abe5d4-87b5-4fb8-9bd1-579b82d591de/images/4356f893-6cce-47c8-9ec5-9fa82d44d48b.jpg",
@@ -4766,11 +4867,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "spanish",
-        "name": "Spanish"
+        "name": "Spanish",
+        "emoji": "🥘"
       }
     ],
     "avgRating": 5,
@@ -4834,11 +4937,13 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -4907,11 +5012,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 1,
@@ -4972,11 +5079,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "spanish",
-        "name": "Spanish"
+        "name": "Spanish",
+        "emoji": "🥘"
       }
     ],
     "avgRating": 4.6,
@@ -5037,20 +5146,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 136,
-    "reviewsCount": 46,
+    "ratingsCount": 137,
+    "reviewsCount": 47,
     "images": [
       "https://assets.neotaste.com/restaurants/938cdf65-ed7d-459d-8d70-4881f0581f0d/images/16a5f348-9a63-4f3d-ae83-181bee3b1d50.jpg",
       "https://assets.neotaste.com/restaurants/938cdf65-ed7d-459d-8d70-4881f0581f0d/images/3d97a343-e9e6-48a7-a5ce-ef5970d2edae.jpeg",
@@ -5107,19 +5219,22 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 116,
+    "ratingsCount": 117,
     "reviewsCount": 47,
     "images": [
       "https://assets.neotaste.com/restaurants/ff380013-61c6-40d2-a392-a0fe5b38153a/images/fef743a8-2fd0-40c3-bf5c-20690143bb31.jpeg",
@@ -5177,15 +5292,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4,
@@ -5248,15 +5366,18 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.7,
@@ -5315,11 +5436,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.6,
@@ -5382,11 +5505,13 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -5455,11 +5580,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.6,
@@ -5521,11 +5648,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 5,
@@ -5587,11 +5716,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.7,
@@ -5651,7 +5782,8 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 2.8,
@@ -5710,11 +5842,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -5775,16 +5909,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1186,
-    "reviewsCount": 141,
+    "ratingsCount": 1192,
+    "reviewsCount": 142,
     "images": [
       "https://assets.neotaste.com/restaurants/1ab737ff-e112-413c-8421-fe1af8631ea3/images/6ccb3351-edff-4739-aa27-4235539f8fc2.jpg",
       "https://assets.neotaste.com/restaurants/1ab737ff-e112-413c-8421-fe1af8631ea3/images/94cc47ba-48e3-4dce-ad25-bdc9cb894476.jpg",
@@ -5841,11 +5977,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 5,
@@ -5907,11 +6045,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.9,
@@ -5973,7 +6113,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -6035,15 +6176,17 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 396,
+    "ratingsCount": 397,
     "reviewsCount": 115,
     "images": [
       "https://assets.neotaste.com/restaurants/de4185f6-232e-4b0f-9c6c-b0cdd5c5f96c/images/23fa51ef-663c-4c25-a37f-194c442be3be.png",
@@ -6099,15 +6242,17 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 182,
+    "ratingsCount": 183,
     "reviewsCount": 33,
     "images": [
       "https://assets.neotaste.com/restaurants/3a0eb171-eb33-455b-a990-a8dda63988f5/images/5f8c0f6e-f58b-49dc-bb48-ff5384310e5e.jpeg",
@@ -6164,20 +6309,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 668,
-    "reviewsCount": 173,
+    "ratingsCount": 667,
+    "reviewsCount": 172,
     "images": [
       "https://assets.neotaste.com/restaurants/658b85b6-a618-4acc-b4d5-b89767bcafb1/images/c9719d23-ae5a-4f3c-9ae8-b477139c44a8.jpeg",
       "https://assets.neotaste.com/restaurants/658b85b6-a618-4acc-b4d5-b89767bcafb1/images/03a23e7f-ef50-4537-bede-c3d1219cbbc7.jpeg",
@@ -6237,15 +6385,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -6307,15 +6458,18 @@
     "tags": [
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.9,
@@ -6382,11 +6536,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -6447,11 +6603,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -6515,15 +6673,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 5,
@@ -6585,15 +6746,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -6654,15 +6818,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.7,
@@ -6723,11 +6890,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
@@ -6791,15 +6960,17 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 204,
+    "ratingsCount": 205,
     "reviewsCount": 46,
     "images": [
       "https://assets.neotaste.com/restaurants/d3b33bfa-4862-4481-917e-3f71b6e4b000/images/44bdb6c6-8b01-473a-8616-41eb6ce2adb6.jpg",
@@ -6857,11 +7028,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.7,
@@ -6922,16 +7095,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 679,
-    "reviewsCount": 167,
+    "ratingsCount": 678,
+    "reviewsCount": 165,
     "images": [
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/cd6843ae-6018-49e8-8f38-e71d4b0a3dd7.jpg",
       "https://assets.neotaste.com/restaurants/50371530-755b-474a-bd5c-ac28e6310c17/images/01e837fa-bea5-483a-9ba6-ea651351e33f.jpg",
@@ -6990,16 +7165,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 58,
-    "reviewsCount": 19,
+    "ratingsCount": 59,
+    "reviewsCount": 20,
     "images": [
       "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/810b8a98-4303-492c-9deb-a5a2758fca73.png",
       "https://assets.neotaste.com/restaurants/0bbef8ec-a3c3-469b-a31d-ec207c9576f5/images/e67ad095-89a0-4bdf-b53c-292697cf3955.png"
@@ -7054,11 +7231,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -7119,15 +7298,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
@@ -7190,7 +7372,8 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.8,
@@ -7256,15 +7439,17 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 129,
+    "ratingsCount": 130,
     "reviewsCount": 23,
     "images": [
       "https://assets.neotaste.com/restaurants/3107720c-9e79-406f-b166-d444eb54e88b/images/3aba66ac-7cd5-44b4-8056-cccf6e4bc81e.jpeg",
@@ -7321,7 +7506,8 @@
     "tags": [
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       }
     ],
     "avgRating": 4.9,
@@ -7381,15 +7567,17 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 133,
+    "avgRating": 4.9,
+    "ratingsCount": 132,
     "reviewsCount": 20,
     "images": [
       "https://assets.neotaste.com/restaurants/077b7860-d779-4825-9177-a15b2f353511/images/f9f348d3-1ce6-4983-8d95-8b729bed6b10.jpeg",
@@ -7446,19 +7634,22 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 779,
+    "ratingsCount": 780,
     "reviewsCount": 176,
     "images": [
       "https://assets.neotaste.com/restaurants/3b3b8e48-fd12-4c81-9764-21f935a3753c/images/33cf925f-6b9b-4d11-a520-c7378a09bd95.jpeg",
@@ -7516,11 +7707,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -7581,7 +7774,8 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 5,
@@ -7591,6 +7785,75 @@
       "https://assets.neotaste.com/restaurants/1efc19df-b155-440c-9177-c12e13e1051c/images/588cda0b-992e-4046-bd13-5011779e01c0.jpeg",
       "https://assets.neotaste.com/restaurants/1efc19df-b155-440c-9177-c12e13e1051c/images/e15918e2-0f5d-436d-aed5-24678bf27afc.jpeg",
       "https://assets.neotaste.com/restaurants/1efc19df-b155-440c-9177-c12e13e1051c/images/06b6374a-983d-4571-9d13-865bef1a68c2.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "20b281aa-7bdf-4534-8e2d-66218ad70913",
+    "name": "SHA GUO 22",
+    "slug": "sha-guo-22",
+    "address": "Dr.-Adolf-Schärf-Platz 7",
+    "addressOptional": null,
+    "zipCode": "1220",
+    "latitude": 48.24454519549031,
+    "longitude": 16.43341660912266,
+    "deals": [
+      {
+        "uuid": "45308bb9-2d7e-4a86-2052-08dcb93bce10",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "f1e43430-4439-4005-2053-08dcb93bce10",
+        "name": "2for1 Sushi Roll",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 sushi rolls of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 17,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "sushi",
+        "name": "Sushi",
+        "emoji": "🍣"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian",
+        "emoji": "🍱"
+      }
+    ],
+    "avgRating": 4.9,
+    "ratingsCount": 447,
+    "reviewsCount": 152,
+    "images": [
+      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/386ce013-0d88-46b6-9152-757569b054bd.jpeg",
+      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/0ae173eb-3cc8-4f1c-903a-906675ccd3c8.jpeg",
+      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/69cadfe9-5f9c-4af3-af11-34378ccd8110.jpeg",
+      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/c1bed0e0-a3b9-4d88-b933-ad2cdf5c930d.jpeg",
+      "https://assets.neotaste.com/restaurants/45dc004c-bf3a-45bd-a80f-c605201bc300/images/7ad9263a-7372-4501-8b0d-4d764da051b3.jpeg"
     ],
     "priceRange": 2
   },
@@ -7642,11 +7905,13 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -7706,11 +7971,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.9,
@@ -7771,15 +8038,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -7791,71 +8061,6 @@
       "https://assets.neotaste.com/restaurants/ed7fc4e5-7b91-4778-91fc-3acffc9fe43c/images/71ae8470-b6f6-46c7-a48a-66ae3234c339.jpeg"
     ],
     "priceRange": 2
-  },
-  {
-    "uuid": "0cfd6aca-4927-4e73-b107-abd7ccf4bdd5",
-    "name": "TOP 02 Pâtisserie Glacerie Vienna",
-    "slug": "top-02-patisserie-glacerie-vienna",
-    "address": "Universitätsstraße 2",
-    "addressOptional": null,
-    "zipCode": "1090",
-    "latitude": 48.2146048,
-    "longitude": 16.3579187,
-    "deals": [
-      {
-        "uuid": "0344bb79-2566-4bab-9766-49578f1f86f2",
-        "name": "2for1 Praline",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 pralines of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 2,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "dcc42132-dcd2-44ad-aa72-1afb3350a356",
-        "name": "FREE Coffee o. tea",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a Specialty Éclair of your choice and get a coffee or tea for free.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "desserts",
-        "name": "Desserts"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 150,
-    "reviewsCount": 36,
-    "images": [
-      "https://assets.neotaste.com/restaurants/0cfd6aca-4927-4e73-b107-abd7ccf4bdd5/images/d317d4e8-ff86-4ebf-b0e4-858b31c2efcc.jpg",
-      "https://assets.neotaste.com/restaurants/0cfd6aca-4927-4e73-b107-abd7ccf4bdd5/images/907f7af7-d0e5-4715-8e2f-5d4f9e9e82b3.jpg",
-      "https://assets.neotaste.com/restaurants/0cfd6aca-4927-4e73-b107-abd7ccf4bdd5/images/cb419d31-25ff-4334-9f34-c1fe98a1fd78.jpg"
-    ],
-    "priceRange": 1
   },
   {
     "uuid": "4e33240f-35be-4dc1-ae61-c80a71c6736a",
@@ -7905,11 +8110,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.4,
@@ -7973,11 +8180,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.8,
@@ -8039,11 +8248,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 5,
@@ -8104,11 +8315,13 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -8168,15 +8381,17 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 278,
+    "ratingsCount": 279,
     "reviewsCount": 73,
     "images": [
       "https://assets.neotaste.com/restaurants/c21a6108-b0fa-4991-b587-f5410759134a/images/33bf0412-1096-4d5b-af4e-9015488f4e5e.jpeg",
@@ -8233,7 +8448,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.6,
@@ -8294,11 +8510,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -8359,11 +8577,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
@@ -8427,15 +8647,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4,
@@ -8495,11 +8718,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -8560,15 +8785,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
@@ -8628,11 +8856,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.3,
@@ -8692,11 +8922,13 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.4,
@@ -8758,15 +8990,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 5,
@@ -8826,11 +9061,12 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 245,
+    "ratingsCount": 246,
     "reviewsCount": 47,
     "images": [
       "https://assets.neotaste.com/restaurants/b50e01cc-e147-455c-8c2c-5863269e11c3/images/46738805-48f1-449f-8234-9ac7934a55d9.jpg",
@@ -8889,7 +9125,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -8952,11 +9189,13 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 5,
@@ -9017,7 +9256,8 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -9080,20 +9320,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 197,
-    "reviewsCount": 64,
+    "avgRating": 5,
+    "ratingsCount": 196,
+    "reviewsCount": 63,
     "images": [
       "https://assets.neotaste.com/restaurants/4ef95266-8d50-4ebb-bba3-b1fd2daa66d9/images/624bf413-61d9-4515-b965-efbbc68079d8.jpeg",
       "https://assets.neotaste.com/restaurants/4ef95266-8d50-4ebb-bba3-b1fd2daa66d9/images/3465bb1c-1261-48ec-99be-d06f1cbc4ad4.jpeg",
@@ -9153,7 +9396,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -9213,20 +9457,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 126,
-    "reviewsCount": 38,
+    "ratingsCount": 128,
+    "reviewsCount": 39,
     "images": [
       "https://assets.neotaste.com/restaurants/aec7a9ef-61ff-44e3-aa82-8ace792bd90d/images/605d4f8a-267b-452e-85fb-7e200a741ac4.jpeg",
       "https://assets.neotaste.com/restaurants/aec7a9ef-61ff-44e3-aa82-8ace792bd90d/images/0011b177-de70-4054-a771-1a25525cc59e.jpeg",
@@ -9284,15 +9531,17 @@
     "tags": [
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 222,
+    "ratingsCount": 225,
     "reviewsCount": 32,
     "images": [
       "https://assets.neotaste.com/restaurants/ec3821ab-4f41-4ffc-a28b-c1e7c828ae18/images/62dff8c0-db97-43dd-ad30-11b9578ac100.jpeg",
@@ -9349,15 +9598,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -9422,12 +9674,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 9,
-    "reviewsCount": 6,
+    "ratingsCount": 10,
+    "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/79520ed0-aa41-4051-be20-7b6772f16156/images/eb5b7cab-c8d9-4069-a2b4-09a34bd238fe.jpeg",
       "https://assets.neotaste.com/restaurants/79520ed0-aa41-4051-be20-7b6772f16156/images/b454fc5e-2c8b-4a50-a2fe-bbfb756fa0f6.jpeg",
@@ -9484,7 +9737,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -9543,20 +9797,23 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 327,
-    "reviewsCount": 73,
+    "ratingsCount": 329,
+    "reviewsCount": 74,
     "images": [
       "https://assets.neotaste.com/restaurants/9f8ccab1-4441-43d0-b544-568fad0a496b/images/bdc08bf7-b091-4fb8-8915-d65074190662.jpg",
       "https://assets.neotaste.com/restaurants/9f8ccab1-4441-43d0-b544-568fad0a496b/images/9cfa35b9-b816-4a8c-944f-fe622fe0f330.jpg",
@@ -9613,11 +9870,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -9681,16 +9940,18 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 642,
-    "reviewsCount": 215,
+    "ratingsCount": 644,
+    "reviewsCount": 216,
     "images": [
       "https://assets.neotaste.com/restaurants/60b53f2a-2227-463a-8ad9-1c59da6edae8/images/1f7a3719-e9e4-4253-a98e-75d07ae547b1.jpeg",
       "https://assets.neotaste.com/restaurants/60b53f2a-2227-463a-8ad9-1c59da6edae8/images/c63f2642-ae12-41f9-bef1-fedf2d15f4d2.jpeg",
@@ -9748,15 +10009,17 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 287,
+    "ratingsCount": 288,
     "reviewsCount": 82,
     "images": [
       "https://assets.neotaste.com/restaurants/d8f93fa4-5a60-4e3f-a1ae-cc6da38e2f01/images/737d0141-290e-4acb-978e-744549221125.jpeg",
@@ -9817,19 +10080,22 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 495,
+    "ratingsCount": 498,
     "reviewsCount": 130,
     "images": [
       "https://assets.neotaste.com/restaurants/9dbc73d3-96c9-4530-a385-c175bc231bf5/images/26049098-b68d-436d-a349-579d194d2978.jpeg",
@@ -9891,11 +10157,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -9959,7 +10227,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -10021,16 +10290,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 231,
-    "reviewsCount": 40,
+    "ratingsCount": 232,
+    "reviewsCount": 41,
     "images": [
       "https://assets.neotaste.com/restaurants/a10cd5f4-74e2-4b36-8ec5-9ad680d3110f/images/bd1c2a49-fd5f-4b85-9fed-fdf002e1ab0d.jpeg",
       "https://assets.neotaste.com/restaurants/a10cd5f4-74e2-4b36-8ec5-9ad680d3110f/images/f37319af-a87a-496e-b855-7db87baaee42.jpeg",
@@ -10086,11 +10357,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.9,
@@ -10153,15 +10426,18 @@
     "tags": [
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.7,
@@ -10221,11 +10497,13 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.8,
@@ -10286,15 +10564,17 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 677,
+    "ratingsCount": 676,
     "reviewsCount": 148,
     "images": [
       "https://assets.neotaste.com/restaurants/06f728a8-3c56-4b59-9e70-66563d31c5ff/images/0f8ea484-2ced-443b-a6b1-c156ff64520e.jpeg",
@@ -10354,11 +10634,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -10420,11 +10702,13 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.6,
@@ -10484,15 +10768,17 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 384,
+    "ratingsCount": 386,
     "reviewsCount": 77,
     "images": [
       "https://assets.neotaste.com/restaurants/3e882e9b-d97a-414a-8c5d-8393d6824422/images/3d64126d-f245-4967-8ca3-0acaab519245.jpeg",
@@ -10552,11 +10838,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
@@ -10620,11 +10908,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
@@ -10683,11 +10973,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -10747,7 +11039,8 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.9,
@@ -10809,11 +11102,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -10873,7 +11168,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.5,
@@ -10934,15 +11230,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -11007,7 +11306,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -11068,11 +11368,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -11133,11 +11435,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.3,
@@ -11199,7 +11503,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -11260,7 +11565,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -11320,7 +11626,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -11386,7 +11693,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -11446,11 +11754,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 5,
@@ -11512,11 +11822,12 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 379,
+    "ratingsCount": 380,
     "reviewsCount": 105,
     "images": [
       "https://assets.neotaste.com/restaurants/b0f1b1ab-527f-4c80-b88e-c0234ea1bad0/images/353c0a2e-c1ee-4de8-b5b0-e654c8d0dcab.jpg",
@@ -11574,7 +11885,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -11636,16 +11948,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
     "ratingsCount": 104,
-    "reviewsCount": 23,
+    "reviewsCount": 22,
     "images": [
       "https://assets.neotaste.com/restaurants/9daec9b1-a827-4d82-9fac-6d4760677243/images/90611984-3690-4e13-a512-376dc45f76f5.png",
       "https://assets.neotaste.com/restaurants/9daec9b1-a827-4d82-9fac-6d4760677243/images/ad7e9654-a8fc-46a2-a42f-cccfbe2fe3cf.png",
@@ -11701,11 +12015,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.8,
@@ -11768,7 +12084,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -11829,7 +12146,8 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -11890,11 +12208,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
@@ -11956,15 +12276,18 @@
     "tags": [
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -12025,7 +12348,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -12087,11 +12411,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -12155,11 +12481,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.9,
@@ -12220,11 +12548,13 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
@@ -12285,7 +12615,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.7,
@@ -12345,7 +12676,8 @@
     "tags": [
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -12405,15 +12737,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.5,
@@ -12474,11 +12809,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -12539,11 +12876,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.8,
@@ -12605,15 +12944,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.4,
@@ -12682,7 +13024,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
@@ -12744,15 +13087,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "gluten-free",
-        "name": "Gluten Free"
+        "name": "Gluten Free",
+        "emoji": "🌾"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -12811,7 +13157,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.5,
@@ -12889,7 +13236,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -12951,7 +13299,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 0,
@@ -13010,12 +13359,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
-    "avgRating": 4.5,
-    "ratingsCount": 60,
-    "reviewsCount": 12,
+    "avgRating": 4.6,
+    "ratingsCount": 61,
+    "reviewsCount": 13,
     "images": [
       "https://assets.neotaste.com/restaurants/05abb34c-ab0b-46d4-b6d5-2d7f08e93271/images/109de5ba-382c-47f1-89c1-43acfb3d57f3.jpeg",
       "https://assets.neotaste.com/restaurants/05abb34c-ab0b-46d4-b6d5-2d7f08e93271/images/53adec73-19ad-49d1-9a0c-930841796d5a.jpeg",
@@ -13073,11 +13423,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -13138,16 +13490,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 135,
-    "reviewsCount": 40,
+    "ratingsCount": 136,
+    "reviewsCount": 41,
     "images": [
       "https://assets.neotaste.com/restaurants/bff534b6-08c4-4335-9edc-bded4ac65517/images/236beb67-597b-4fea-b110-81eea3b0049f.jpeg",
       "https://assets.neotaste.com/restaurants/bff534b6-08c4-4335-9edc-bded4ac65517/images/8cf34691-5b5b-4421-bc37-f84a458ac2bd.jpeg",
@@ -13203,15 +13557,17 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 952,
+    "ratingsCount": 954,
     "reviewsCount": 190,
     "images": [
       "https://assets.neotaste.com/restaurants/1bba8aa8-12f0-40e7-bc54-86b6ef8ce1e4/images/94f214f8-69fd-4a80-9c38-417ce5c5e8a1.jpg",
@@ -13274,15 +13630,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -13346,19 +13705,22 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 60,
+    "ratingsCount": 61,
     "reviewsCount": 15,
     "images": [
       "https://assets.neotaste.com/restaurants/60b556d6-abe1-4d83-bfd5-0713cf04b731/images/1b747739-d665-44bd-9673-c00f14295ce9.jpeg",
@@ -13418,15 +13780,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -13489,15 +13854,17 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 45,
+    "ratingsCount": 46,
     "reviewsCount": 14,
     "images": [
       "https://assets.neotaste.com/restaurants/70a96b66-0b96-45b0-bb73-04058d1417e4/images/9997f9c1-8825-4474-8267-548fa8896736.jpeg",
@@ -13553,11 +13920,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.8,
@@ -13619,15 +13988,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -13692,16 +14064,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 266,
-    "reviewsCount": 57,
+    "ratingsCount": 267,
+    "reviewsCount": 58,
     "images": [
       "https://assets.neotaste.com/restaurants/1da7c488-12bd-4cc9-9f55-0f6e43dbd749/images/78501920-030f-4f37-8d71-ed75edff4ce3.jpeg",
       "https://assets.neotaste.com/restaurants/1da7c488-12bd-4cc9-9f55-0f6e43dbd749/images/19e9bd3f-5595-4d7d-a24b-dbf1ed94fdf1.jpeg",
@@ -13757,15 +14131,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.4,
@@ -13833,20 +14210,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 663,
-    "reviewsCount": 153,
+    "ratingsCount": 665,
+    "reviewsCount": 154,
     "images": [
       "https://assets.neotaste.com/restaurants/ef3f7aa0-cfcc-4c43-a90f-89191312183c/images/9a66d2b1-1b73-43f6-8398-1e00be5b3de6.jpg",
       "https://assets.neotaste.com/restaurants/ef3f7aa0-cfcc-4c43-a90f-89191312183c/images/c98aa269-3e00-4b02-9211-6ff0de48f3d9.jpg",
@@ -13910,15 +14290,17 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 522,
+    "ratingsCount": 524,
     "reviewsCount": 114,
     "images": [
       "https://assets.neotaste.com/restaurants/c38b7659-0e2a-4d9e-9caa-89109111f3cb/images/b1168a89-89c8-4c9c-bcf3-e8a23eb0f3ab.jpg",
@@ -13976,20 +14358,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1372,
-    "reviewsCount": 234,
+    "ratingsCount": 1373,
+    "reviewsCount": 235,
     "images": [
       "https://assets.neotaste.com/restaurants/24021e66-f93d-4a5f-aaa6-56f50f5fc817/images/51bfc81b-6799-41a3-b6c8-78f73db9d471.jpg",
       "https://assets.neotaste.com/restaurants/24021e66-f93d-4a5f-aaa6-56f50f5fc817/images/99b5c8f4-a614-4123-99e1-be6f79c633a6.jpg",
@@ -14052,20 +14437,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 2174,
-    "reviewsCount": 397,
+    "ratingsCount": 2176,
+    "reviewsCount": 399,
     "images": [
       "https://assets.neotaste.com/restaurants/06ac908a-a6eb-4ddf-96f0-d895a83accd6/images/284fb426-6330-436f-a2f0-1c75fc0acdd6.jpg",
       "https://assets.neotaste.com/restaurants/06ac908a-a6eb-4ddf-96f0-d895a83accd6/images/cfb7f872-1a2e-42ef-9faa-96def7d8199d.jpg",
@@ -14127,20 +14515,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1821,
-    "reviewsCount": 311,
+    "ratingsCount": 1825,
+    "reviewsCount": 313,
     "images": [
       "https://assets.neotaste.com/restaurants/13a2189c-be94-4cf1-b5e0-4174539a0181/images/2691b28c-26b5-4bc6-bfbd-1778262710f4.jpg",
       "https://assets.neotaste.com/restaurants/13a2189c-be94-4cf1-b5e0-4174539a0181/images/b4774087-b5db-43ef-a264-6d89c2083ccc.jpg",
@@ -14203,15 +14594,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "loyalty",
-        "name": "Loyalty"
+        "name": "Loyalty",
+        "emoji": "✨"
       }
     ],
     "avgRating": 4.9,
@@ -14273,16 +14667,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 338,
-    "reviewsCount": 69,
+    "ratingsCount": 339,
+    "reviewsCount": 70,
     "images": [
       "https://assets.neotaste.com/restaurants/1b226893-b7a1-4ba1-af70-af4cd02b0b00/images/be3ed0cc-1afb-4e22-b7dd-72099e00163c.jpg",
       "https://assets.neotaste.com/restaurants/1b226893-b7a1-4ba1-af70-af4cd02b0b00/images/58577958-e3dd-4668-8722-80e9ccffbb5f.jpg",
@@ -14339,15 +14735,17 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 291,
+    "ratingsCount": 292,
     "reviewsCount": 70,
     "images": [
       "https://assets.neotaste.com/restaurants/bf08e686-2bf0-4a32-bbcc-2caa9317bb7c/images/eaa626e2-c480-4187-a954-1aef4aa42509.jpg",
@@ -14405,15 +14803,18 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
@@ -14480,15 +14881,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.4,
@@ -14548,15 +14952,17 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 794,
+    "ratingsCount": 796,
     "reviewsCount": 149,
     "images": [
       "https://assets.neotaste.com/restaurants/45d86180-2cef-4cc8-9454-d9ada4774815/images/5f82a7b6-bb0f-4fe2-85dd-2b2d65030d4f.jpeg",
@@ -14621,16 +15027,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 597,
-    "reviewsCount": 135,
+    "ratingsCount": 598,
+    "reviewsCount": 136,
     "images": [
       "https://assets.neotaste.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/0c63f441-02ad-44cc-aaf6-21ab948d3a5b.jpeg",
       "https://assets.neotaste.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/b89a4065-640d-4c82-a07c-cb3b8a5e161e.jpeg",
@@ -14693,20 +15101,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 1489,
-    "reviewsCount": 236,
+    "ratingsCount": 1492,
+    "reviewsCount": 238,
     "images": [
       "https://assets.neotaste.com/restaurants/bbb90d23-0eb9-4fc2-9ba0-a439e47b1c49/images/ffb9e02b-d7b9-43e5-95d7-137c31c27375.jpg",
       "https://assets.neotaste.com/restaurants/bbb90d23-0eb9-4fc2-9ba0-a439e47b1c49/images/48ca8803-1f55-4c1f-9451-4b7192ee6785.jpg",
@@ -14769,20 +15180,23 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1027,
-    "reviewsCount": 209,
+    "ratingsCount": 1031,
+    "reviewsCount": 211,
     "images": [
       "https://assets.neotaste.com/restaurants/b7df58c0-0365-4d74-8605-3942514e62f0/images/0560841d-8cb2-4d3a-a7ef-1684e325f95d.jpg",
       "https://assets.neotaste.com/restaurants/b7df58c0-0365-4d74-8605-3942514e62f0/images/d7bb460b-5bbb-46cf-90a3-dccfb2510e0f.jpg",
@@ -14845,15 +15259,17 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1302,
+    "ratingsCount": 1303,
     "reviewsCount": 175,
     "images": [
       "https://assets.neotaste.com/restaurants/018b212b-36d6-4889-9a13-8aef4e0c425e/images/21dce77f-8e6f-4d88-8132-1fb02a1e05c8.jpg",
@@ -14911,11 +15327,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.9,
@@ -14974,11 +15392,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.9,
@@ -15045,11 +15465,13 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.8,
@@ -15111,15 +15533,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
@@ -15180,19 +15605,22 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 1396,
+    "ratingsCount": 1398,
     "reviewsCount": 198,
     "images": [
       "https://assets.neotaste.com/restaurants/4e0d7a61-17c2-4d16-b3eb-99f3779b09ef/images/b1847c2c-c64d-470a-8602-a05f3e45eca8.jpg",
@@ -15256,15 +15684,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "spanish",
-        "name": "Spanish"
+        "name": "Spanish",
+        "emoji": "🥘"
       }
     ],
     "avgRating": 4.8,
@@ -15328,11 +15759,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 5,
@@ -15394,19 +15827,22 @@
     "tags": [
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 284,
+    "ratingsCount": 285,
     "reviewsCount": 101,
     "images": [
       "https://assets.neotaste.com/restaurants/a4e61846-d682-49de-9bf2-426cd8656ecb/images/2982b256-591a-4f86-ad06-56d0fb3b2aca.jpeg",
@@ -15463,11 +15899,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -15529,15 +15967,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       }
     ],
     "avgRating": 4.7,
@@ -15599,11 +16040,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       }
     ],
     "avgRating": 4.8,
@@ -15668,15 +16111,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.5,
@@ -15743,15 +16189,18 @@
     "tags": [
       {
         "slug": "sandwich",
-        "name": "Sandwich"
+        "name": "Sandwich",
+        "emoji": "🥪"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "middle-eastern",
-        "name": "Middle Eastern"
+        "name": "Middle Eastern",
+        "emoji": "🥙"
       }
     ],
     "avgRating": 4.8,
@@ -15824,16 +16273,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       }
     ],
     "avgRating": 4.4,
-    "ratingsCount": 30,
-    "reviewsCount": 15,
+    "ratingsCount": 31,
+    "reviewsCount": 16,
     "images": [
       "https://assets.neotaste.com/restaurants/46536e41-76ff-4f19-add7-12566e1454b7/images/64323a88-f98b-49e0-afe8-e44dd380be35.jpg",
       "https://assets.neotaste.com/restaurants/46536e41-76ff-4f19-add7-12566e1454b7/images/0a6774cb-e256-4cf1-92df-2a8a306a80c1.jpg",
@@ -15891,7 +16342,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -15902,77 +16354,6 @@
       "https://assets.neotaste.com/restaurants/fd17b1b3-3fba-4916-8a64-19862f68523f/images/bb987406-a3c5-41cc-af84-8ed60b08595c.jpeg"
     ],
     "priceRange": 4
-  },
-  {
-    "uuid": "f87607ba-e68a-410b-a984-d7409cf39e8b",
-    "name": "Pitawerk",
-    "slug": "pitawerk",
-    "address": "Mariahilfer Straße 147, 1150",
-    "addressOptional": null,
-    "zipCode": "1150",
-    "latitude": 48.19462305812036,
-    "longitude": 16.33595712472648,
-    "deals": [
-      {
-        "uuid": "a610f233-51d2-4c27-99cc-90fe3286f339",
-        "name": "2for1 Pita",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 pitas of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "f11d2718-8c4b-4800-b1b0-188ac9d23e9c",
-        "name": "FREE Yogurt",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order any pita of your choice and get a yogurt drink for free.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "fast-food",
-        "name": "Fast Food"
-      },
-      {
-        "slug": "german",
-        "name": "German"
-      },
-      {
-        "slug": "loyalty",
-        "name": "Loyalty"
-      }
-    ],
-    "avgRating": 4.9,
-    "ratingsCount": 303,
-    "reviewsCount": 120,
-    "images": [
-      "https://assets.neotaste.com/restaurants/f87607ba-e68a-410b-a984-d7409cf39e8b/images/f23ff178-acdd-4a5c-b030-fb7bcdb312f1.jpeg",
-      "https://assets.neotaste.com/restaurants/f87607ba-e68a-410b-a984-d7409cf39e8b/images/f204a26b-a6f5-4028-8099-69a0f1e4e917.jpeg",
-      "https://assets.neotaste.com/restaurants/f87607ba-e68a-410b-a984-d7409cf39e8b/images/7027f26b-8d14-4b8a-83cd-9cd46f4426ee.jpeg",
-      "https://assets.neotaste.com/restaurants/f87607ba-e68a-410b-a984-d7409cf39e8b/images/797e375f-2447-4a06-84fb-a4651d205093.jpeg",
-      "https://assets.neotaste.com/restaurants/f87607ba-e68a-410b-a984-d7409cf39e8b/images/311fdb3c-0547-4fe6-ba59-7fe7ef5f73d8.jpeg"
-    ],
-    "priceRange": 2
   },
   {
     "uuid": "f538f0af-c825-476c-a185-413b19cef5b2",
@@ -16022,19 +16403,22 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 214,
+    "ratingsCount": 213,
     "reviewsCount": 43,
     "images": [
       "https://assets.neotaste.com/restaurants/f538f0af-c825-476c-a185-413b19cef5b2/images/247747b9-59d3-4f6a-b48d-782241be45a8.jpeg",
@@ -16092,11 +16476,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -16159,11 +16545,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -16226,15 +16614,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 2.5,
@@ -16295,7 +16686,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.8,
@@ -16357,19 +16749,22 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 35,
+    "ratingsCount": 36,
     "reviewsCount": 12,
     "images": [
       "https://assets.neotaste.com/restaurants/c0442431-2d8a-4749-9cf1-d3e0cff9058b/images/b54657d3-f9ef-4684-ba22-0420d7194168.jpeg",
@@ -16428,19 +16823,22 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 147,
+    "ratingsCount": 148,
     "reviewsCount": 61,
     "images": [
       "https://assets.neotaste.com/restaurants/ec742d65-6f1c-4add-a8f7-b964ec3211d4/images/341a005d-c9ad-449e-8798-7d777421ee79.jpg",
@@ -16498,7 +16896,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -16559,11 +16958,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 4.5,
@@ -16626,11 +17027,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -16693,20 +17096,23 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 165,
-    "reviewsCount": 58,
+    "ratingsCount": 166,
+    "reviewsCount": 59,
     "images": [
       "https://assets.neotaste.com/restaurants/9145fbab-8db2-4f97-b962-da691d189c92/images/e0ffd737-815f-4e4c-a4ff-6c6e638ba402.jpeg",
       "https://assets.neotaste.com/restaurants/9145fbab-8db2-4f97-b962-da691d189c92/images/597c9e1e-9ff5-4de1-8334-3162927de35a.jpeg",
@@ -16763,20 +17169,23 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 156,
-    "reviewsCount": 55,
+    "ratingsCount": 158,
+    "reviewsCount": 57,
     "images": [
       "https://assets.neotaste.com/restaurants/5ab5f1da-c166-4715-85d2-127482a7a428/images/fad0ff1c-7fbd-4679-b191-5cb96dffaee6.jpeg",
       "https://assets.neotaste.com/restaurants/5ab5f1da-c166-4715-85d2-127482a7a428/images/57c1fe7d-69c2-43f4-a3ce-b2c382f0bbb8.jpeg",
@@ -16834,11 +17243,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       }
     ],
     "avgRating": 4.7,
@@ -16899,15 +17310,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.2,
@@ -16970,11 +17384,13 @@
     "tags": [
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 5,
@@ -16987,6 +17403,81 @@
       "https://assets.neotaste.com/restaurants/8b4608ca-ccd2-4428-b621-a58d4540f1e1/images/6377db03-155b-42ba-baf7-9defb2f74da4.jpg"
     ],
     "priceRange": 3
+  },
+  {
+    "uuid": "80118deb-4ba1-4a3d-b23a-034d148a13f6",
+    "name": "Moss Pasta",
+    "slug": "moss-pasta",
+    "address": "Absberggasse 6",
+    "addressOptional": null,
+    "zipCode": "1100",
+    "latitude": 48.1735058,
+    "longitude": 16.3894297,
+    "deals": [
+      {
+        "uuid": "8a2c0561-e49e-4050-8f54-a460dc52bf1b",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items  of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 17,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "3de85f54-a610-41cb-ad4b-394ee8d3825a",
+        "name": "FREE Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main item of your choice and get a drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "italian",
+        "name": "Italian",
+        "emoji": "🍅"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta",
+        "emoji": "🍝"
+      },
+      {
+        "slug": "pizza",
+        "name": "Pizza",
+        "emoji": "🍕"
+      }
+    ],
+    "avgRating": 4.3,
+    "ratingsCount": 7,
+    "reviewsCount": 6,
+    "images": [
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/9f4cfc70-6e5a-4a37-9fdc-8a1af5b759fd.jpeg",
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/36471b80-c3ef-4bab-b811-b9d2008e5c16.jpeg",
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/bbcffea8-1107-46a1-80f9-f2ba9a6bed74.jpeg",
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/e5de7644-2192-4371-954b-cbbb711a80af.jpeg",
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/d135db05-f341-4977-a8fe-1b723a799632.jpeg",
+      "https://assets.neotaste.com/restaurants/80118deb-4ba1-4a3d-b23a-034d148a13f6/images/9cce6437-48cf-405f-a971-a466f651eee1.jpeg"
+    ],
+    "priceRange": 1
   },
   {
     "uuid": "d3cc2996-2fa5-4329-b35e-110bc40606ca",
@@ -17036,15 +17527,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.9,
@@ -17104,15 +17598,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.2,
@@ -17176,15 +17673,18 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -17247,15 +17747,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -17318,15 +17821,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.8,
@@ -17389,7 +17895,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.8,
@@ -17449,15 +17956,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.9,
@@ -17520,15 +18030,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       }
     ],
     "avgRating": 0,
@@ -17590,11 +18103,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.5,
@@ -17655,15 +18170,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 5,
@@ -17727,11 +18245,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.3,
@@ -17795,15 +18315,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.9,
@@ -17869,19 +18392,22 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 174,
+    "ratingsCount": 176,
     "reviewsCount": 53,
     "images": [
       "https://assets.neotaste.com/restaurants/12e125f0-7d93-4912-b8bd-2a291fe8eed8/images/70aa1f40-c151-4cca-83c2-75d1127e6b4e.jpg",
@@ -17938,7 +18464,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -17999,15 +18526,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.9,
@@ -18070,15 +18600,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.6,
@@ -18141,16 +18674,18 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 48,
-    "reviewsCount": 24,
+    "ratingsCount": 51,
+    "reviewsCount": 27,
     "images": [
       "https://assets.neotaste.com/restaurants/ea103049-2997-4a76-9de2-98cac89d94a5/images/c039671c-b9a2-4cc0-9b50-5c7f4891b00e.jpg",
       "https://assets.neotaste.com/restaurants/ea103049-2997-4a76-9de2-98cac89d94a5/images/44792e72-9a9c-494c-ac7f-829503c1b78c.jpg",
@@ -18208,11 +18743,13 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
@@ -18272,7 +18809,8 @@
     "tags": [
       {
         "slug": "seafood",
-        "name": "Seafood"
+        "name": "Seafood",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 5,
@@ -18337,11 +18875,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.5,
@@ -18402,7 +18942,8 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 0,
@@ -18461,11 +19002,13 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 2.3,
@@ -18526,11 +19069,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 1,
@@ -18590,11 +19135,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -18655,19 +19202,22 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "american",
-        "name": "American "
+        "name": "American ",
+        "emoji": "🌭"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 64,
+    "ratingsCount": 65,
     "reviewsCount": 21,
     "images": [
       "https://assets.neotaste.com/restaurants/76feea8e-2395-4b7e-b91d-5dc3aa7fe5c6/images/ecc11ebf-6914-4cee-b126-16c570bf4e81.jpeg",
@@ -18724,11 +19274,13 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 5,
@@ -18789,15 +19341,18 @@
     "tags": [
       {
         "slug": "vegetarian",
-        "name": "Vegetarian"
+        "name": "Vegetarian",
+        "emoji": "🫑"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -18860,11 +19415,13 @@
     "tags": [
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "vietnamese",
-        "name": "Vietnamese"
+        "name": "Vietnamese",
+        "emoji": "🥬"
       }
     ],
     "avgRating": 5,
@@ -18927,16 +19484,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 265,
-    "reviewsCount": 67,
+    "ratingsCount": 271,
+    "reviewsCount": 71,
     "images": [
       "https://assets.neotaste.com/restaurants/9afe53c6-9120-472e-8583-19fd4d2c7082/images/00b60707-b717-4e63-a6d5-40adfd0d37ff.jpeg",
       "https://assets.neotaste.com/restaurants/9afe53c6-9120-472e-8583-19fd4d2c7082/images/98483c30-0c79-4b6a-b466-fb659f288c5d.jpeg",
@@ -18992,15 +19551,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 0,
@@ -19062,15 +19624,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.6,
@@ -19130,11 +19695,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -19195,15 +19762,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.5,
@@ -19267,15 +19837,18 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.4,
@@ -19338,15 +19911,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       }
     ],
     "avgRating": 5,
@@ -19409,11 +19985,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.6,
@@ -19475,15 +20053,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -19545,15 +20126,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.4,
@@ -19615,15 +20199,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.7,
@@ -19686,15 +20273,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.6,
@@ -19757,19 +20347,22 @@
     "tags": [
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 59,
+    "ratingsCount": 60,
     "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/b3583d91-5b27-4aeb-98b3-2300981edcd9/images/75d55a06-f27d-47cd-89ec-710690b6cc5f.png",
@@ -19828,11 +20421,13 @@
     "tags": [
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.3,
@@ -19895,15 +20490,18 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       }
     ],
     "avgRating": 4.4,
@@ -19966,15 +20564,18 @@
     "tags": [
       {
         "slug": "turkish",
-        "name": "Turkish"
+        "name": "Turkish",
+        "emoji": "🫓"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 5,
@@ -20035,15 +20636,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "ice-cream",
-        "name": "Ice Cream"
+        "name": "Ice Cream",
+        "emoji": "🍨"
       }
     ],
     "avgRating": 5,
@@ -20105,15 +20709,18 @@
     "tags": [
       {
         "slug": "halal",
-        "name": "Halal"
+        "name": "Halal",
+        "emoji": "🕌"
       },
       {
         "slug": "vegan",
-        "name": "Vegan"
+        "name": "Vegan",
+        "emoji": "🥦"
       },
       {
         "slug": "indian",
-        "name": "Indian"
+        "name": "Indian",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.7,
@@ -20144,10 +20751,10 @@
     "deals": [
       {
         "uuid": "b92391e1-f733-4abd-9a9b-927f725e925d",
-        "name": "€10 Discount",
+        "name": "2for1 Dish",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
+        "conditions": "You order 2 dishes from the All Day Brunch, the cheaper/equally priced dish will not be charged. \n\nOnly applies to food (All Day Brunch), drinks and goods from the bakery display case are excluded.",
         "locationCondition": "onSite",
         "value": 10,
         "currency": {
@@ -20164,7 +20771,7 @@
         "name": "FREE Coffee",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "Order a San Sebastian Cheesecake and receive a free coffee.",
+        "conditions": "You order a homemade cake (choice of cheesecake, brownie, tiramusu or cup) and get a free coffee with it.",
         "locationCondition": "onSite",
         "value": 5,
         "currency": {
@@ -20180,20 +20787,23 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
-    "avgRating": 3.4,
-    "ratingsCount": 63,
-    "reviewsCount": 31,
+    "avgRating": 3.5,
+    "ratingsCount": 64,
+    "reviewsCount": 32,
     "images": [
       "https://assets.neotaste.com/restaurants/50085dbe-7417-47ee-9b19-539b8d014d75/images/eed5ba85-aa41-4646-93b5-0ce0acce76eb.jpeg",
       "https://assets.neotaste.com/restaurants/50085dbe-7417-47ee-9b19-539b8d014d75/images/b4ee3138-cd9a-4e2b-8310-577c134e2f10.jpeg",
@@ -20219,7 +20829,7 @@
         "name": "€10 Discount",
         "eventDeal": false,
         "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.\n\nRedemption only possible if booked in advance.",
+        "conditions": "From a minimum order value of €25 you get €10 discount.\n\nRedemption only possible if booked in advance. Only one deal redeemable per table.",
         "locationCondition": "onSite",
         "value": 33,
         "currency": {
@@ -20252,20 +20862,23 @@
     "tags": [
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "loyalty",
-        "name": "Loyalty"
+        "name": "Loyalty",
+        "emoji": "✨"
       },
       {
         "slug": "pub",
-        "name": "Pub"
+        "name": "Pub",
+        "emoji": "🍺"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 83,
-    "reviewsCount": 31,
+    "ratingsCount": 85,
+    "reviewsCount": 32,
     "images": [
       "https://assets.neotaste.com/restaurants/692f82df-8999-4cfe-a887-b9e6fca57e13/images/170afd64-6251-4748-8250-116bf3965e09.jpg",
       "https://assets.neotaste.com/restaurants/692f82df-8999-4cfe-a887-b9e6fca57e13/images/a8292f04-d97a-4cf0-851b-2b1f744ae3ff.jpg",
@@ -20322,7 +20935,8 @@
     "tags": [
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
@@ -20384,15 +20998,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 5,
@@ -20453,15 +21070,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "halal",
-        "name": "Halal"
+        "name": "Halal",
+        "emoji": "🕌"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.8,
@@ -20523,11 +21143,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "american",
-        "name": "American "
+        "name": "American ",
+        "emoji": "🌭"
       }
     ],
     "avgRating": 4.7,
@@ -20591,15 +21213,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.5,
@@ -20661,7 +21286,8 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -20724,15 +21350,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 5,
@@ -20795,20 +21424,23 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 83,
-    "reviewsCount": 29,
+    "ratingsCount": 84,
+    "reviewsCount": 30,
     "images": [
       "https://assets.neotaste.com/restaurants/ff8ed646-cf1b-4766-8384-5b97ae5b8259/images/ab7fdf57-fb5a-42b9-b083-5430c110393f.jpeg",
       "https://assets.neotaste.com/restaurants/ff8ed646-cf1b-4766-8384-5b97ae5b8259/images/c5a8377a-6c4a-41a2-be4a-5731f473af6f.jpeg",
@@ -20866,11 +21498,13 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.7,
@@ -20933,19 +21567,22 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "bowls",
-        "name": "Bowls"
+        "name": "Bowls",
+        "emoji": "🥣"
       },
       {
         "slug": "middle-eastern",
-        "name": "Middle Eastern"
+        "name": "Middle Eastern",
+        "emoji": "🥙"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 87,
+    "ratingsCount": 90,
     "reviewsCount": 29,
     "images": [
       "https://assets.neotaste.com/restaurants/a76f7e06-a929-47f7-af23-5bdc217de44a/images/9deb7048-5a59-49c0-9557-560e287f3942.jpg",
@@ -21003,15 +21640,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "brunch",
-        "name": "Brunch"
+        "name": "Brunch",
+        "emoji": "🥯"
       }
     ],
     "avgRating": 5,
@@ -21074,15 +21714,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "mediterranean",
-        "name": "Mediterranean"
+        "name": "Mediterranean",
+        "emoji": "🫒"
       },
       {
         "slug": "bar",
-        "name": "Bar"
+        "name": "Bar",
+        "emoji": "🍸"
       }
     ],
     "avgRating": 5,
@@ -21153,19 +21796,22 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       },
       {
         "slug": "breakfast",
-        "name": "Breakfast"
+        "name": "Breakfast",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 153,
+    "ratingsCount": 154,
     "reviewsCount": 23,
     "images": [
       "https://assets.neotaste.com/restaurants/ebd36a11-8cd2-4bdd-a6e4-83bd95c0e30d/images/c9db3bac-3fc9-4238-a4ed-d432ebcac546.jpg",
@@ -21229,15 +21875,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "fine-dining",
-        "name": "Fine Dining "
+        "name": "Fine Dining ",
+        "emoji": "🍽️"
       },
       {
         "slug": "mediterranean",
-        "name": "Mediterranean"
+        "name": "Mediterranean",
+        "emoji": "🫒"
       }
     ],
     "avgRating": 4.9,
@@ -21311,15 +21960,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "bar",
-        "name": "Bar"
+        "name": "Bar",
+        "emoji": "🍸"
       }
     ],
     "avgRating": 4.8,
@@ -21384,15 +22036,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "mexican",
-        "name": "Mexican"
+        "name": "Mexican",
+        "emoji": "🌮"
       }
     ],
     "avgRating": 0,
@@ -21452,7 +22107,8 @@
     "tags": [
       {
         "slug": "drinks",
-        "name": "Drinks"
+        "name": "Drinks",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 0,
@@ -21513,20 +22169,23 @@
     "tags": [
       {
         "slug": "korean",
-        "name": "Korean"
+        "name": "Korean",
+        "emoji": "🍲"
       },
       {
         "slug": "japanese",
-        "name": "Japanese"
+        "name": "Japanese",
+        "emoji": "🍱"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 162,
-    "reviewsCount": 52,
+    "ratingsCount": 163,
+    "reviewsCount": 53,
     "images": [
       "https://assets.neotaste.com/restaurants/cd811930-72b9-47a9-aed6-a17d19b44fd5/images/7489919a-85bc-4da3-a2e5-6105c33c7c7d.jpeg",
       "https://assets.neotaste.com/restaurants/cd811930-72b9-47a9-aed6-a17d19b44fd5/images/ce5c5ce0-3a85-442c-852c-50359eb8b3d3.jpeg",
@@ -21586,16 +22245,18 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 54,
-    "reviewsCount": 17,
+    "ratingsCount": 55,
+    "reviewsCount": 18,
     "images": [
       "https://assets.neotaste.com/restaurants/e63f744e-b071-417e-bf01-6ee0305af8d4/images/f9b4fbf8-bc82-4db1-b72b-e4dde57a376d.jpeg",
       "https://assets.neotaste.com/restaurants/e63f744e-b071-417e-bf01-6ee0305af8d4/images/fdb743cd-a862-4e89-bd41-93a016f3fcd6.jpeg",
@@ -21654,15 +22315,18 @@
     "tags": [
       {
         "slug": "thai",
-        "name": "Thai"
+        "name": "Thai",
+        "emoji": "🌶️"
       },
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 5,
@@ -21725,15 +22389,18 @@
     "tags": [
       {
         "slug": "sushi",
-        "name": "Sushi"
+        "name": "Sushi",
+        "emoji": "🍣"
       },
       {
         "slug": "chinese",
-        "name": "Chinese"
+        "name": "Chinese",
+        "emoji": "🥢"
       },
       {
         "slug": "asian",
-        "name": "Asian"
+        "name": "Asian",
+        "emoji": "🍱"
       }
     ],
     "avgRating": 4.8,
@@ -21796,20 +22463,23 @@
     "tags": [
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 54,
-    "reviewsCount": 28,
+    "ratingsCount": 57,
+    "reviewsCount": 31,
     "images": [
       "https://assets.neotaste.com/restaurants/83c36a2f-b6aa-4b3b-bbf4-2c5804178a90/images/5db03997-321f-4698-91a9-3959e8c1bc13.jpeg",
       "https://assets.neotaste.com/restaurants/83c36a2f-b6aa-4b3b-bbf4-2c5804178a90/images/bff2fc0a-707d-40ed-a8d8-b50f9f26dcbc.jpeg",
@@ -21867,15 +22537,18 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.6,
@@ -21936,15 +22609,18 @@
     "tags": [
       {
         "slug": "pasta",
-        "name": "Pasta"
+        "name": "Pasta",
+        "emoji": "🍝"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "italian",
-        "name": "Italian"
+        "name": "Italian",
+        "emoji": "🍅"
       }
     ],
     "avgRating": 5,
@@ -22008,15 +22684,18 @@
     "tags": [
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "halal",
-        "name": "Halal"
+        "name": "Halal",
+        "emoji": "🕌"
       },
       {
         "slug": "american",
-        "name": "American "
+        "name": "American ",
+        "emoji": "🌭"
       }
     ],
     "avgRating": 4.7,
@@ -22077,15 +22756,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "pizza",
-        "name": "Pizza"
+        "name": "Pizza",
+        "emoji": "🍕"
       },
       {
         "slug": "middle-eastern",
-        "name": "Middle Eastern"
+        "name": "Middle Eastern",
+        "emoji": "🥙"
       }
     ],
     "avgRating": 1,
@@ -22147,15 +22829,18 @@
     "tags": [
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "bbq",
-        "name": "BBQ"
+        "name": "BBQ",
+        "emoji": "🔥"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 0,
@@ -22216,20 +22901,23 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "healthy",
-        "name": "Healthy"
+        "name": "Healthy",
+        "emoji": "🥗"
       }
     ],
-    "avgRating": 5,
-    "ratingsCount": 3,
-    "reviewsCount": 0,
+    "avgRating": 4.7,
+    "ratingsCount": 7,
+    "reviewsCount": 2,
     "images": [
       "https://assets.neotaste.com/restaurants/0db77152-b7a8-42d1-9291-ab1832bd5c9c/images/3ecf5512-9b6f-411a-ae64-19b30a18df18.jpeg",
       "https://assets.neotaste.com/restaurants/0db77152-b7a8-42d1-9291-ab1832bd5c9c/images/a870c625-0697-441f-b629-91d532c687ed.jpeg",
@@ -22286,15 +22974,18 @@
     "tags": [
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       },
       {
         "slug": "bar",
-        "name": "Bar"
+        "name": "Bar",
+        "emoji": "🍸"
       },
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       }
     ],
     "avgRating": 0,
@@ -22355,11 +23046,13 @@
     "tags": [
       {
         "slug": "desserts",
-        "name": "Desserts"
+        "name": "Desserts",
+        "emoji": "🍰"
       },
       {
         "slug": "cafe",
-        "name": "Café"
+        "name": "Café",
+        "emoji": "☕"
       }
     ],
     "avgRating": 5,
@@ -22420,15 +23113,18 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "middle-eastern",
-        "name": "Middle Eastern"
+        "name": "Middle Eastern",
+        "emoji": "🥙"
       }
     ],
     "avgRating": 5,
@@ -22488,19 +23184,22 @@
     "tags": [
       {
         "slug": "burgers",
-        "name": "Burgers"
+        "name": "Burgers",
+        "emoji": "🍔"
       },
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "american",
-        "name": "American "
+        "name": "American ",
+        "emoji": "🌭"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 1,
+    "ratingsCount": 2,
     "reviewsCount": 0,
     "images": [
       "https://assets.neotaste.com/restaurants/622900ff-f63d-4aec-b69d-d56f06065c57/images/2c79ab0f-f43d-43fe-a7f2-aa9522bba7a1.jpeg",
@@ -22556,23 +23255,102 @@
     "tags": [
       {
         "slug": "fast-food",
-        "name": "Fast Food"
+        "name": "Fast Food",
+        "emoji": "🍟"
       },
       {
         "slug": "german",
-        "name": "German"
+        "name": "German",
+        "emoji": "🥨"
       },
       {
         "slug": "halal",
-        "name": "Halal"
+        "name": "Halal",
+        "emoji": "🕌"
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 1,
+    "ratingsCount": 2,
     "reviewsCount": 1,
     "images": [
       "https://assets.neotaste.com/restaurants/f66d479c-5305-4193-9c63-888b11d6a05d/images/88b708d0-9a89-4422-8008-98b0ec3d1faa.jpg",
       "https://assets.neotaste.com/restaurants/f66d479c-5305-4193-9c63-888b11d6a05d/images/2f56ee31-2a46-4a58-a67c-889b4e6b0224.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "e94265ab-fbb4-421a-9682-fb948932e240",
+    "name": "Eissalon Monte 1100 Wien",
+    "slug": "eissalon-monte-1100-wien",
+    "address": "Quellenstraße 68",
+    "addressOptional": null,
+    "zipCode": "1100",
+    "latitude": 48.1755585,
+    "longitude": 16.3765425,
+    "deals": [
+      {
+        "uuid": "88dcb489-98d9-4532-b72f-4acc496c9aa7",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "557e185a-13e4-47d8-ac5d-6385333847d0",
+        "name": "FREE Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main item of your choice and get a coffee for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 7,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "desserts",
+        "name": "Desserts",
+        "emoji": "🍰"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café",
+        "emoji": "☕"
+      },
+      {
+        "slug": "ice-cream",
+        "name": "Ice Cream",
+        "emoji": "🍨"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/1e682b4a-a761-46da-94f3-72126700856d.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/0ece94fe-6539-4d4a-8d7a-1b238bcee3b3.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/81f1913c-5373-4128-8494-2ea4888e6426.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c31cee5f-a945-483a-bd51-1895099ac326.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c99283d7-72bb-4e71-9162-6de066a67f49.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/a3d7f0c3-1fb2-4ce9-9b43-993df12a48b7.jpeg",
+      "https://assets.neotaste.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/ba4b2df6-0fb4-45e4-bd58-5286e528c5a7.jpeg"
     ],
     "priceRange": 2
   }

@@ -3703,9 +3703,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 80
+    },
+    {
+      "date": "2025-12-02",
+      "total_restaurants": 41,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 82
     }
   ],
-  "last_updated": "2025-12-01",
+  "last_updated": "2025-12-02",
   "restaurants": [
     {
       "name": "Weihnachtsgeschenk? 🎁",
@@ -3803,7 +3811,7 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1191,
+      "ratingsCount": 1192,
       "reviewsCount": 227,
       "images": [
         "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -3860,8 +3868,8 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.9,
-      "ratingsCount": 1006,
-      "reviewsCount": 177,
+      "ratingsCount": 1008,
+      "reviewsCount": 178,
       "images": [
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
         "https://assets.neotaste.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
@@ -4296,7 +4304,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 800,
+      "ratingsCount": 799,
       "reviewsCount": 138,
       "images": [
         "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -4622,7 +4630,7 @@
       "latitude": 49.42394889611123,
       "longitude": 8.648648837912212,
       "avgRating": 4.9,
-      "ratingsCount": 102,
+      "ratingsCount": 101,
       "reviewsCount": 25,
       "images": [
         "https://assets.neotaste.com/restaurants/e893f273-40b1-465e-84e4-a0ce7aba3c40/images/90b7e72c-3514-4b58-92e4-8944a503b457.jpeg",
@@ -5318,7 +5326,7 @@
       "latitude": 49.41141481622605,
       "longitude": 8.70894370582841,
       "avgRating": 4.9,
-      "ratingsCount": 81,
+      "ratingsCount": 80,
       "reviewsCount": 31,
       "images": [
         "https://assets.neotaste.com/restaurants/c880bdcf-21fb-4360-8858-594765109162/images/9d35dc62-77fa-495a-b52b-a0f33d0d9144.jpeg"
@@ -5608,7 +5616,7 @@
       "latitude": 49.4108144,
       "longitude": 8.704002599999999,
       "avgRating": 4.8,
-      "ratingsCount": 16,
+      "ratingsCount": 17,
       "reviewsCount": 6,
       "images": [
         "https://assets.neotaste.com/restaurants/fba1eb5e-490c-4168-a506-a80c7229bd9a/images/54579229-139d-499f-8e01-fabfcb64e58e.jpg",
@@ -5660,8 +5668,8 @@
       "latitude": 49.4117732,
       "longitude": 8.7063921,
       "avgRating": 5,
-      "ratingsCount": 5,
-      "reviewsCount": 0,
+      "ratingsCount": 6,
+      "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/70e46153-e08d-456e-8e09-13c3934add8e/images/bd5a1f87-882b-4d49-a5da-89a8daa6f1ab.jpg",
         "https://assets.neotaste.com/restaurants/70e46153-e08d-456e-8e09-13c3934add8e/images/24781c1b-3c1a-4151-a870-adb45fbf4f8f.jpg"
@@ -5883,6 +5891,61 @@
         "https://assets.neotaste.com/restaurants/09d7220a-e21c-487b-9927-9f9344511df6/images/e822b595-d99e-4784-97b0-60cad8939ead.jpeg",
         "https://assets.neotaste.com/restaurants/09d7220a-e21c-487b-9927-9f9344511df6/images/80d26514-7ea2-44ff-9f85-5a851c4f5d65.jpeg",
         "https://assets.neotaste.com/restaurants/09d7220a-e21c-487b-9927-9f9344511df6/images/bbfcbfa8-855a-4ac1-a444-3b208406c32b.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Sexy Fish & the Tiger",
+      "uuid": "b36d1929-8c1e-4b89-8a50-400abc4c9aa4",
+      "deals": [
+        {
+          "uuid": "face5fe3-2466-43da-9ddf-3cc0c40f98da",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "8c94c003-b074-41ad-a225-e8903d88d69c",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Tiergartenstraße 13/2",
+      "zipCode": "69121",
+      "latitude": 49.4215916,
+      "longitude": 8.65866,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/b36d1929-8c1e-4b89-8a50-400abc4c9aa4/images/4968e882-5fbc-4d19-8194-2eb4fdc70c0c.jpg",
+        "https://assets.neotaste.com/restaurants/b36d1929-8c1e-4b89-8a50-400abc4c9aa4/images/5137391d-04ea-400d-967b-ab989893058a.jpg",
+        "https://assets.neotaste.com/restaurants/b36d1929-8c1e-4b89-8a50-400abc4c9aa4/images/f6aa7c83-ef0b-4159-bd7a-61c4d3d40b43.jpg",
+        "https://assets.neotaste.com/restaurants/b36d1929-8c1e-4b89-8a50-400abc4c9aa4/images/10f65d6a-8307-4e7e-88f5-9509fb463277.jpg",
+        "https://assets.neotaste.com/restaurants/b36d1929-8c1e-4b89-8a50-400abc4c9aa4/images/38a59b2e-4a21-4362-8fc9-c30203e2d52a.jpg"
       ],
       "priceRange": 2
     }
