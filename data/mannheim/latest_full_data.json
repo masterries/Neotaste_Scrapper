@@ -46,10 +46,10 @@
     ],
     "tags": [
       {
-        "slug": "event-deal",
-        "name": "Event Deal",
+        "slug": "flash-deal",
+        "name": "Flash Deal",
         "category": "cuisine",
-        "emoji": "🌟"
+        "emoji": "⚡"
       }
     ],
     "avgRating": 0,
@@ -550,8 +550,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 234,
-    "reviewsCount": 60,
+    "ratingsCount": 235,
+    "reviewsCount": 61,
     "images": [
       "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
       "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/b765c463-aeaf-4b14-b165-fe23ceb0e5e2.jpg",
@@ -894,8 +894,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 319,
-    "reviewsCount": 69,
+    "ratingsCount": 321,
+    "reviewsCount": 70,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/cde1bc24-ada3-4867-a6b9-fb97b4af5e96.jpeg",
@@ -2303,7 +2303,7 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "reviewsCount": 3,
     "images": [
       "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/6aae617f-1c94-4033-a8d8-b65acbee88d9.jpg",
@@ -2370,7 +2370,7 @@
         "emoji": "🍔"
       }
     ],
-    "avgRating": 4.3,
+    "avgRating": 4.2,
     "ratingsCount": 9,
     "reviewsCount": 4,
     "images": [
@@ -2386,6 +2386,86 @@
       "https://assets.neotaste.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/97b7e63b-de56-481d-8880-24b95034aa9c.jpg",
       "https://assets.neotaste.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/6895c60b-fc10-457d-886b-23f09e999548.jpg",
       "https://assets.neotaste.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/f24bedbe-903d-4394-91e4-45c36f753597.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "4c4c08b9-3e8d-480c-98a9-08232aaca75b",
+    "name": "Bite the Slice",
+    "slug": "bite-the-slice",
+    "address": "Zwickauer Weg 2",
+    "addressOptional": null,
+    "zipCode": "68309",
+    "latitude": 49.5117877,
+    "longitude": 8.5477931,
+    "deals": [
+      {
+        "uuid": "c47bde41-56d2-4c66-a09a-246aee0d92be",
+        "name": "€10 Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "With a minimum order value of €25, you receive a €10 discount. \n\nThis offer is only valid for takeaway.",
+        "locationCondition": "onSite",
+        "value": 10,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "aaadfc99-71e5-463b-9b27-039e574d55c9",
+        "name": "FREE Chili Cheese Fries",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main item of your choice and get a portion of chili cheese fries for free. \n\nThis offer is only valid for takeaway.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "pizza",
+        "name": "Pizza",
+        "category": "cuisine",
+        "emoji": "🍕"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers",
+        "category": "cuisine",
+        "emoji": "🍔"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta",
+        "category": "cuisine",
+        "emoji": "🍝"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/371201ea-8932-4082-8fbc-6884fb8272c8.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/db20c880-5426-413a-88d0-e78ded8d1000.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/338f2883-bc55-41af-b767-e790e919b181.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/80e3f247-ad16-49c9-8e60-9b400908512b.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/ed7cbdb5-7bb7-4f0d-9268-7a5b4ccd831f.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/e818c8f6-22ac-48d5-8de9-c9e6f5e223c0.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/cdd4a2ec-2e23-4fcf-8c43-4a386f8b7ede.jpg",
+      "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/ae262694-7b74-481a-abf1-0a4aca3b95be.jpg"
     ],
     "priceRange": 2
   }
