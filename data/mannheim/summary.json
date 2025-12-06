@@ -3735,9 +3735,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 70
+    },
+    {
+      "date": "2025-12-06",
+      "total_restaurants": 36,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 72
     }
   ],
-  "last_updated": "2025-12-05",
+  "last_updated": "2025-12-06",
   "restaurants": [
     {
       "name": "Weihnachtsgeschenk? 🎁",
@@ -3941,7 +3949,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 438,
+      "ratingsCount": 439,
       "reviewsCount": 80,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -4536,7 +4544,7 @@
       "latitude": 49.48521171533379,
       "longitude": 8.465242923989319,
       "avgRating": 4.6,
-      "ratingsCount": 137,
+      "ratingsCount": 138,
       "reviewsCount": 33,
       "images": [
         "https://assets.neotaste.com/restaurants/00db5201-b400-45a5-ad24-84cf21a929e0/images/2df33b84-15bd-4e2d-a6da-aaa82ddc3b9d.jpeg",
@@ -5640,6 +5648,64 @@
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/e818c8f6-22ac-48d5-8de9-c9e6f5e223c0.jpg",
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/cdd4a2ec-2e23-4fcf-8c43-4a386f8b7ede.jpg",
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/ae262694-7b74-481a-abf1-0a4aca3b95be.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "L'Osteria Ludwigshafen im Zollhof",
+      "uuid": "a420c284-5a4f-4da2-8ec9-36cfc46739fc",
+      "deals": [
+        {
+          "uuid": "488e5212-d716-4a47-9096-ec3eaf961641",
+          "name": "2for1 Aperitivi",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order two aperitivi of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        },
+        {
+          "uuid": "207eeb14-4693-4539-8bf5-ba0ef9e332e4",
+          "name": "FREE Piccolo Dolci",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and receive a free Piccolo Dolci. This deal must be shown before ordering.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        }
+      ],
+      "address": "Im Zollhof 2",
+      "zipCode": "67061",
+      "latitude": 49.4839446,
+      "longitude": 8.4503428,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f9ae656d-94dd-4154-9151-0fd74d315a21.jpeg",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/e5a140ef-b8f2-4ded-855c-c26cef62bfac.jpeg",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/75bde88f-f366-4fdd-8ae0-086f63b9fed7.png",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/18015fcd-2ce3-45d8-be5e-c00a17ddf2be.png",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/da7ca424-2625-4e43-a1f6-3d5f8910a661.jpeg",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/57de2ebe-bc5b-47f8-885c-f7618e257130.jpeg",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f72b933a-30de-4f8f-80ab-8a9b88c51b5b.jpeg",
+        "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/8a3997c7-ef15-4241-950b-3ed2499797dc.jpeg"
       ],
       "priceRange": 2
     }
