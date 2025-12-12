@@ -3783,9 +3783,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 72
+    },
+    {
+      "date": "2025-12-12",
+      "total_restaurants": 37,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 74
     }
   ],
-  "last_updated": "2025-12-11",
+  "last_updated": "2025-12-12",
   "restaurants": [
     {
       "name": "Weihnachtsgeschenk? 🎁",
@@ -3883,8 +3891,8 @@
       "latitude": 49.48410872470583,
       "longitude": 8.472395164652163,
       "avgRating": 4.8,
-      "ratingsCount": 696,
-      "reviewsCount": 114,
+      "ratingsCount": 697,
+      "reviewsCount": 115,
       "images": [
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
         "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
@@ -3938,7 +3946,7 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 691,
+      "ratingsCount": 692,
       "reviewsCount": 242,
       "images": [
         "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -4474,7 +4482,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 322,
+      "ratingsCount": 321,
       "reviewsCount": 70,
       "images": [
         "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -5563,7 +5571,7 @@
       "latitude": 49.4484754,
       "longitude": 8.5063757,
       "avgRating": 5,
-      "ratingsCount": 6,
+      "ratingsCount": 8,
       "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/6aae617f-1c94-4033-a8d8-b65acbee88d9.jpg",
@@ -5746,6 +5754,58 @@
         "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/57de2ebe-bc5b-47f8-885c-f7618e257130.jpeg",
         "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f72b933a-30de-4f8f-80ab-8a9b88c51b5b.jpeg",
         "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/8a3997c7-ef15-4241-950b-3ed2499797dc.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Lume Cafe Bar",
+      "uuid": "08e637ae-8634-47f6-8a35-e4e5784cf045",
+      "deals": [
+        {
+          "uuid": "643c20f2-6f8f-40f8-b225-aa39bf288c49",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "da2348c0-bcd2-43cc-91ab-4fd29bbedd23",
+          "name": "2for1 Matcha",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 matchas, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Beilstraße 29",
+      "zipCode": "68159",
+      "latitude": 49.4951643,
+      "longitude": 8.4597418,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
+        "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
       ],
       "priceRange": 2
     }
