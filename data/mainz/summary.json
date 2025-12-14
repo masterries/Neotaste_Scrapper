@@ -3799,9 +3799,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 70
+    },
+    {
+      "date": "2025-12-14",
+      "total_restaurants": 34,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 68
     }
   ],
-  "last_updated": "2025-12-13",
+  "last_updated": "2025-12-14",
   "restaurants": [
     {
       "name": "Weihnachtsgeschenk? 🎁",
@@ -3899,7 +3907,7 @@
       "latitude": 50.0017675875837,
       "longitude": 8.276838504380981,
       "avgRating": 4.8,
-      "ratingsCount": 1188,
+      "ratingsCount": 1190,
       "reviewsCount": 265,
       "images": [
         "https://assets.neotaste.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
@@ -3954,7 +3962,7 @@
       "latitude": 49.99864002917994,
       "longitude": 8.27156249898636,
       "avgRating": 4.7,
-      "ratingsCount": 1091,
+      "ratingsCount": 1092,
       "reviewsCount": 231,
       "images": [
         "https://assets.neotaste.com/restaurants/6ff8a169-4144-4da7-867c-69d4679e4f39/images/5a37a49a-20ee-4491-9222-e641ac38832b.jpg",
@@ -4012,7 +4020,7 @@
       "latitude": 49.99874458446846,
       "longitude": 8.271932893865731,
       "avgRating": 4.8,
-      "ratingsCount": 1035,
+      "ratingsCount": 1036,
       "reviewsCount": 237,
       "images": [
         "https://assets.neotaste.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/87b3c958-6bf3-4c15-8ace-52afa899f6f9.jpg",
@@ -4069,8 +4077,8 @@
       "latitude": 49.99982870133544,
       "longitude": 8.27372691427238,
       "avgRating": 4.8,
-      "ratingsCount": 827,
-      "reviewsCount": 195,
+      "ratingsCount": 829,
+      "reviewsCount": 196,
       "images": [
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
         "https://assets.neotaste.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/2d091ac7-f69e-4031-b76a-8c63089b6e37.jpeg",
@@ -4232,7 +4240,7 @@
       "latitude": 50.00178071124446,
       "longitude": 8.264891912193557,
       "avgRating": 4.9,
-      "ratingsCount": 413,
+      "ratingsCount": 415,
       "reviewsCount": 116,
       "images": [
         "https://assets.neotaste.com/restaurants/863751af-80a7-4f3f-9424-54c64d78d5c2/images/ad176244-963b-42d6-ac77-106239bde87a.jpeg",
@@ -4611,8 +4619,8 @@
       "latitude": 49.9955655,
       "longitude": 8.3267279,
       "avgRating": 5,
-      "ratingsCount": 26,
-      "reviewsCount": 13,
+      "ratingsCount": 27,
+      "reviewsCount": 14,
       "images": [
         "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/be0d9965-c6a2-43b9-a830-90257a1fc48b.jpg",
         "https://assets.neotaste.com/restaurants/d3669eea-cc27-445a-a069-ba74c13490f1/images/8b49e681-86a3-485b-801f-e1bca60ea585.jpg",
@@ -5171,60 +5179,6 @@
       "priceRange": 2
     },
     {
-      "name": "Medina Restaurant",
-      "uuid": "4aabfc0f-a7cc-4dbf-a9c5-923ab5e8eced",
-      "deals": [
-        {
-          "uuid": "88f8d4cc-a78a-4432-a68a-a4e0b924d1ff",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 30,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "9398c84a-ec2a-44dd-98a8-b93cfdff90ce",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main item of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Mittlere Bleiche 27",
-      "zipCode": "55116",
-      "latitude": 50.002275,
-      "longitude": 8.2650313,
-      "avgRating": 4.3,
-      "ratingsCount": 14,
-      "reviewsCount": 6,
-      "images": [
-        "https://assets.neotaste.com/restaurants/4aabfc0f-a7cc-4dbf-a9c5-923ab5e8eced/images/04ec1ec7-f425-48e7-a31a-856a119a0427.jpg",
-        "https://assets.neotaste.com/restaurants/4aabfc0f-a7cc-4dbf-a9c5-923ab5e8eced/images/25949898-19d6-474f-95a4-c3197d7d81d6.jpg",
-        "https://assets.neotaste.com/restaurants/4aabfc0f-a7cc-4dbf-a9c5-923ab5e8eced/images/5d780542-f389-4b49-a4f9-39843d577994.jpg",
-        "https://assets.neotaste.com/restaurants/4aabfc0f-a7cc-4dbf-a9c5-923ab5e8eced/images/d426f82f-a7bf-4666-aec0-3cd847440379.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Shooter Stars",
       "uuid": "c4cb4f9d-e567-405a-a021-0bfa2bfaedc4",
       "deals": [
@@ -5486,7 +5440,7 @@
       "latitude": 49.9980537,
       "longitude": 8.273379,
       "avgRating": 4.9,
-      "ratingsCount": 154,
+      "ratingsCount": 156,
       "reviewsCount": 49,
       "images": [
         "https://assets.neotaste.com/restaurants/a955970f-0151-4339-ac35-0b700458ce39/images/b07de0a9-3a9e-4461-9e78-3b35bd04c690.jpg",
@@ -5598,8 +5552,8 @@
       "zipCode": "55116",
       "latitude": 49.9994864,
       "longitude": 8.2764964,
-      "avgRating": 3.5,
-      "ratingsCount": 6,
+      "avgRating": 3.7,
+      "ratingsCount": 7,
       "reviewsCount": 3,
       "images": [
         "https://assets.neotaste.com/restaurants/624177a9-57a2-4c1f-b362-5cc3ccb2c0a9/images/ffd28030-0089-4e66-b4c9-624385069aaa.jpeg"
