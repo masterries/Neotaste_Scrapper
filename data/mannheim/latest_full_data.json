@@ -62,6 +62,97 @@
     "priceRange": 1
   },
   {
+    "uuid": "08e637ae-8634-47f6-8a35-e4e5784cf045",
+    "name": "Lume Cafe Bar",
+    "slug": "lume-cafe-bar",
+    "address": "Beilstraße 29",
+    "addressOptional": null,
+    "zipCode": "68159",
+    "latitude": 49.4951643,
+    "longitude": 8.4597418,
+    "deals": [
+      {
+        "uuid": "546c3a28-aac5-47d9-8b51-c1593d747e3d",
+        "name": "€1 Cigköfte Sushi",
+        "eventDeal": true,
+        "remainingDaysToReset": null,
+        "conditions": "You order a Çiğköfte Sushi and pay only €1.",
+        "locationCondition": "onSite",
+        "value": 8,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "643c20f2-6f8f-40f8-b225-aa39bf288c49",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 17,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "da2348c0-bcd2-43cc-91ab-4fd29bbedd23",
+        "name": "2for1 Matcha",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 matchas, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bar",
+        "name": "Bar",
+        "category": "cuisine",
+        "emoji": "🍸"
+      },
+      {
+        "slug": "turkish",
+        "name": "Turkish",
+        "category": "cuisine",
+        "emoji": "🫓"
+      },
+      {
+        "slug": "flash-deal",
+        "name": "Flash Deal",
+        "category": "cuisine",
+        "emoji": "⚡"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
+      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
     "name": "Compleat Quadrate",
     "slug": "compleat-quadrate",
@@ -2546,74 +2637,6 @@
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/57de2ebe-bc5b-47f8-885c-f7618e257130.jpeg",
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f72b933a-30de-4f8f-80ab-8a9b88c51b5b.jpeg",
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/8a3997c7-ef15-4241-950b-3ed2499797dc.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "08e637ae-8634-47f6-8a35-e4e5784cf045",
-    "name": "Lume Cafe Bar",
-    "slug": "lume-cafe-bar",
-    "address": "Beilstraße 29",
-    "addressOptional": null,
-    "zipCode": "68159",
-    "latitude": 49.4951643,
-    "longitude": 8.4597418,
-    "deals": [
-      {
-        "uuid": "643c20f2-6f8f-40f8-b225-aa39bf288c49",
-        "name": "2for1 Main Item",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 17,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "da2348c0-bcd2-43cc-91ab-4fd29bbedd23",
-        "name": "2for1 Matcha",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 matchas, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bar",
-        "name": "Bar",
-        "category": "cuisine",
-        "emoji": "🍸"
-      },
-      {
-        "slug": "turkish",
-        "name": "Turkish",
-        "category": "cuisine",
-        "emoji": "🫓"
-      }
-    ],
-    "avgRating": 0,
-    "ratingsCount": 0,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
-      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
     ],
     "priceRange": 2
   }
