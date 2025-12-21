@@ -62,97 +62,6 @@
     "priceRange": 1
   },
   {
-    "uuid": "08e637ae-8634-47f6-8a35-e4e5784cf045",
-    "name": "Lume Cafe Bar",
-    "slug": "lume-cafe-bar",
-    "address": "Beilstraße 29",
-    "addressOptional": null,
-    "zipCode": "68159",
-    "latitude": 49.4951643,
-    "longitude": 8.4597418,
-    "deals": [
-      {
-        "uuid": "546c3a28-aac5-47d9-8b51-c1593d747e3d",
-        "name": "€1 Cigköfte Sushi",
-        "eventDeal": true,
-        "remainingDaysToReset": null,
-        "conditions": "You order a Çiğköfte Sushi and pay only €1.",
-        "locationCondition": "onSite",
-        "value": 8,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "643c20f2-6f8f-40f8-b225-aa39bf288c49",
-        "name": "2for1 Main Item",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 17,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "da2348c0-bcd2-43cc-91ab-4fd29bbedd23",
-        "name": "2for1 Matcha",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 matchas, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "bar",
-        "name": "Bar",
-        "category": "cuisine",
-        "emoji": "🍸"
-      },
-      {
-        "slug": "turkish",
-        "name": "Turkish",
-        "category": "cuisine",
-        "emoji": "🫓"
-      },
-      {
-        "slug": "flash-deal",
-        "name": "Flash Deal",
-        "category": "cuisine",
-        "emoji": "⚡"
-      }
-    ],
-    "avgRating": 0,
-    "ratingsCount": 0,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
-      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
     "name": "Compleat Quadrate",
     "slug": "compleat-quadrate",
@@ -219,7 +128,7 @@
     ],
     "avgRating": 4.8,
     "ratingsCount": 698,
-    "reviewsCount": 116,
+    "reviewsCount": 117,
     "images": [
       "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/a88f184f-d434-4457-9d68-c7c382f4d03c.jpeg",
       "https://assets.neotaste.com/restaurants/7a995ccb-5505-4b9a-a91d-27f8dd89cadc/images/c36afbd9-5faa-49cd-b6d1-24c8b0c23723.jpeg",
@@ -356,7 +265,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 443,
+    "ratingsCount": 444,
     "reviewsCount": 81,
     "images": [
       "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -840,7 +749,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 94,
+    "ratingsCount": 95,
     "reviewsCount": 9,
     "images": [
       "https://assets.neotaste.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/142bfdfe-0e5e-40ff-bc17-568a36346e1e.jpeg",
@@ -985,7 +894,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 321,
+    "ratingsCount": 320,
     "reviewsCount": 71,
     "images": [
       "https://assets.neotaste.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -1339,8 +1248,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 87,
-    "reviewsCount": 43,
+    "ratingsCount": 88,
+    "reviewsCount": 44,
     "images": [
       "https://assets.neotaste.com/restaurants/6196bef1-f386-492d-8b84-e99d5c3df288/images/056ae187-3b45-41d8-9e85-5590af3a63ff.jpeg",
       "https://assets.neotaste.com/restaurants/6196bef1-f386-492d-8b84-e99d5c3df288/images/1d02929a-57ca-44a2-89a2-317687c74e8c.jpeg",
@@ -2038,9 +1947,9 @@
         "emoji": "☕"
       }
     ],
-    "avgRating": 4.7,
-    "ratingsCount": 16,
-    "reviewsCount": 4,
+    "avgRating": 4.6,
+    "ratingsCount": 17,
+    "reviewsCount": 5,
     "images": [
       "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/b54a877e-6e84-414a-9a0a-85f2d2cd3d5a.jpg",
       "https://assets.neotaste.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/806dd0c8-907f-477f-a446-e92d2c651929.jpg",
@@ -2183,9 +2092,9 @@
         "emoji": "🕌"
       }
     ],
-    "avgRating": 4.9,
-    "ratingsCount": 17,
-    "reviewsCount": 9,
+    "avgRating": 5,
+    "ratingsCount": 20,
+    "reviewsCount": 11,
     "images": [
       "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
       "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/96b4f329-c674-4cac-bdaa-c5a7370b0401.jpeg",
@@ -2253,7 +2162,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 5,
+    "ratingsCount": 6,
     "reviewsCount": 5,
     "images": [
       "https://assets.neotaste.com/restaurants/b0d36f0d-233c-4f62-93c9-8c40c6195545/images/e9b45040-2e17-4be3-9caa-d594175ba1a1.jpg",
@@ -2394,8 +2303,8 @@
       }
     ],
     "avgRating": 5,
-    "ratingsCount": 10,
-    "reviewsCount": 5,
+    "ratingsCount": 11,
+    "reviewsCount": 6,
     "images": [
       "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/6aae617f-1c94-4033-a8d8-b65acbee88d9.jpg",
       "https://assets.neotaste.com/restaurants/c0ca30fb-b71e-4501-951f-108eb48412a6/images/8bfab96a-0ca5-4efa-9bdc-ae7c11e4c7ea.jpg"
@@ -2637,6 +2546,74 @@
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/57de2ebe-bc5b-47f8-885c-f7618e257130.jpeg",
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f72b933a-30de-4f8f-80ab-8a9b88c51b5b.jpeg",
       "https://assets.neotaste.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/8a3997c7-ef15-4241-950b-3ed2499797dc.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "08e637ae-8634-47f6-8a35-e4e5784cf045",
+    "name": "Lume Cafe Bar",
+    "slug": "lume-cafe-bar",
+    "address": "Beilstraße 29",
+    "addressOptional": null,
+    "zipCode": "68159",
+    "latitude": 49.4951643,
+    "longitude": 8.4597418,
+    "deals": [
+      {
+        "uuid": "643c20f2-6f8f-40f8-b225-aa39bf288c49",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 17,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "da2348c0-bcd2-43cc-91ab-4fd29bbedd23",
+        "name": "2for1 Matcha",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 matchas, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 6,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bar",
+        "name": "Bar",
+        "category": "cuisine",
+        "emoji": "🍸"
+      },
+      {
+        "slug": "turkish",
+        "name": "Turkish",
+        "category": "cuisine",
+        "emoji": "🫓"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
+      "https://assets.neotaste.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
     ],
     "priceRange": 2
   }
