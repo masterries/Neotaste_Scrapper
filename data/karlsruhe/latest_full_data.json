@@ -46,16 +46,16 @@
     ],
     "tags": [
       {
-        "slug": "burgers",
-        "name": "Burgers",
-        "category": "cuisine",
-        "emoji": "🍔"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers",
+        "category": "cuisine",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
@@ -65,7 +65,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1616,
+    "ratingsCount": 1618,
     "reviewsCount": 398,
     "images": [
       "https://assets.neotaste.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
@@ -129,16 +129,16 @@
         "emoji": "☕"
       },
       {
+        "slug": "drinks",
+        "name": "Drinks",
+        "category": "cuisine",
+        "emoji": "🥂"
+      },
+      {
         "slug": "breakfast",
         "name": "Breakfast",
         "category": "cuisine",
         "emoji": "🍳"
-      },
-      {
-        "slug": "german",
-        "name": "German",
-        "category": "cuisine",
-        "emoji": "🥨"
       }
     ],
     "avgRating": 4.7,
@@ -275,6 +275,12 @@
     ],
     "tags": [
       {
+        "slug": "cafe",
+        "name": "Café",
+        "category": "cuisine",
+        "emoji": "☕"
+      },
+      {
         "slug": "vegan",
         "name": "Vegan",
         "category": "diet-lifestyle",
@@ -285,16 +291,10 @@
         "name": "Breakfast",
         "category": "cuisine",
         "emoji": "🍳"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café",
-        "category": "cuisine",
-        "emoji": "☕"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 614,
+    "ratingsCount": 615,
     "reviewsCount": 164,
     "images": [
       "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/50cf7008-9b1d-4138-b701-8410872aec22.jpeg",
@@ -564,10 +564,10 @@
     ],
     "tags": [
       {
-        "slug": "vegan",
-        "name": "Vegan",
-        "category": "diet-lifestyle",
-        "emoji": "🥦"
+        "slug": "bbq",
+        "name": "BBQ",
+        "category": "cuisine",
+        "emoji": "🔥"
       },
       {
         "slug": "drinks",
@@ -576,10 +576,10 @@
         "emoji": "🥂"
       },
       {
-        "slug": "bbq",
-        "name": "BBQ",
-        "category": "cuisine",
-        "emoji": "🔥"
+        "slug": "vegan",
+        "name": "Vegan",
+        "category": "diet-lifestyle",
+        "emoji": "🥦"
       }
     ],
     "avgRating": 4.9,
@@ -638,6 +638,12 @@
     ],
     "tags": [
       {
+        "slug": "bowls",
+        "name": "Bowls",
+        "category": "cuisine",
+        "emoji": "🥣"
+      },
+      {
         "slug": "vegan",
         "name": "Vegan",
         "category": "diet-lifestyle",
@@ -648,12 +654,6 @@
         "name": "Healthy",
         "category": "diet-lifestyle",
         "emoji": "🥗"
-      },
-      {
-        "slug": "bowls",
-        "name": "Bowls",
-        "category": "cuisine",
-        "emoji": "🥣"
       }
     ],
     "avgRating": 4.9,
@@ -715,12 +715,6 @@
     ],
     "tags": [
       {
-        "slug": "healthy",
-        "name": "Healthy",
-        "category": "diet-lifestyle",
-        "emoji": "🥗"
-      },
-      {
         "slug": "cafe",
         "name": "Café",
         "category": "cuisine",
@@ -731,6 +725,12 @@
         "name": "Bowls",
         "category": "cuisine",
         "emoji": "🥣"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy",
+        "category": "diet-lifestyle",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.9,
@@ -857,16 +857,16 @@
     ],
     "tags": [
       {
-        "slug": "german",
-        "name": "German",
-        "category": "cuisine",
-        "emoji": "🥨"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "german",
+        "name": "German",
+        "category": "cuisine",
+        "emoji": "🥨"
       }
     ],
     "avgRating": 4.7,
@@ -924,12 +924,6 @@
     ],
     "tags": [
       {
-        "slug": "healthy",
-        "name": "Healthy",
-        "category": "diet-lifestyle",
-        "emoji": "🥗"
-      },
-      {
         "slug": "cafe",
         "name": "Café",
         "category": "cuisine",
@@ -940,10 +934,16 @@
         "name": "Drinks",
         "category": "cuisine",
         "emoji": "🥂"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy",
+        "category": "diet-lifestyle",
+        "emoji": "🥗"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 207,
+    "ratingsCount": 208,
     "reviewsCount": 57,
     "images": [
       "https://assets.neotaste.com/restaurants/4eba666a-7bea-47c4-adfd-a927a88f463d/images/bc833de8-8739-463b-a6b4-6a91e6c4920f.jpeg",
@@ -1276,16 +1276,16 @@
     ],
     "tags": [
       {
-        "slug": "german",
-        "name": "German",
-        "category": "cuisine",
-        "emoji": "🥨"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "german",
+        "name": "German",
+        "category": "cuisine",
+        "emoji": "🥨"
       }
     ],
     "avgRating": 4.9,
@@ -1420,16 +1420,16 @@
         "emoji": "🔥"
       },
       {
-        "slug": "seafood",
-        "name": "Seafood",
-        "category": "cuisine",
-        "emoji": "🦐"
-      },
-      {
         "slug": "asian",
         "name": "Asian",
         "category": "cuisine",
         "emoji": "🍱"
+      },
+      {
+        "slug": "seafood",
+        "name": "Seafood",
+        "category": "cuisine",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
@@ -1508,7 +1508,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 144,
+    "ratingsCount": 145,
     "reviewsCount": 31,
     "images": [
       "https://assets.neotaste.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
@@ -1646,16 +1646,16 @@
         "emoji": "🔥"
       },
       {
-        "slug": "pasta",
-        "name": "Pasta",
-        "category": "cuisine",
-        "emoji": "🍝"
-      },
-      {
         "slug": "pizza",
         "name": "Pizza",
         "category": "cuisine",
         "emoji": "🍕"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta",
+        "category": "cuisine",
+        "emoji": "🍝"
       }
     ],
     "avgRating": 4.8,
@@ -1784,21 +1784,21 @@
     ],
     "tags": [
       {
-        "slug": "indian",
-        "name": "Indian",
-        "category": "cuisine",
-        "emoji": "🫚"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "indian",
+        "name": "Indian",
+        "category": "cuisine",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 207,
-    "reviewsCount": 77,
+    "ratingsCount": 208,
+    "reviewsCount": 78,
     "images": [
       "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/4f534968-432d-41f8-90a6-2b73ac73866e.jpeg",
       "https://assets.neotaste.com/restaurants/1b785bba-a7d3-4083-8d24-5ced8c46ec1c/images/58512d5b-b076-4c78-9c0f-74d117d1bd05.jpeg",
@@ -1992,10 +1992,10 @@
     ],
     "tags": [
       {
-        "slug": "sushi",
-        "name": "Sushi",
+        "slug": "asian",
+        "name": "Asian",
         "category": "cuisine",
-        "emoji": "🍣"
+        "emoji": "🍱"
       },
       {
         "slug": "seafood",
@@ -2004,10 +2004,10 @@
         "emoji": "🦐"
       },
       {
-        "slug": "asian",
-        "name": "Asian",
+        "slug": "sushi",
+        "name": "Sushi",
         "category": "cuisine",
-        "emoji": "🍱"
+        "emoji": "🍣"
       }
     ],
     "avgRating": 4.7,
@@ -2140,16 +2140,16 @@
     ],
     "tags": [
       {
-        "slug": "breakfast",
-        "name": "Breakfast",
-        "category": "cuisine",
-        "emoji": "🍳"
-      },
-      {
         "slug": "desserts",
         "name": "Desserts",
         "category": "cuisine",
         "emoji": "🍰"
+      },
+      {
+        "slug": "breakfast",
+        "name": "Breakfast",
+        "category": "cuisine",
+        "emoji": "🍳"
       }
     ],
     "avgRating": 5,
@@ -2215,20 +2215,20 @@
         "emoji": "🔥"
       },
       {
-        "slug": "seafood",
-        "name": "Seafood",
-        "category": "cuisine",
-        "emoji": "🦐"
-      },
-      {
         "slug": "pizza",
         "name": "Pizza",
         "category": "cuisine",
         "emoji": "🍕"
+      },
+      {
+        "slug": "seafood",
+        "name": "Seafood",
+        "category": "cuisine",
+        "emoji": "🦐"
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 167,
+    "ratingsCount": 168,
     "reviewsCount": 57,
     "images": [
       "https://assets.neotaste.com/restaurants/86009d21-6721-45cf-b64f-a298522f8bdb/images/588e2a5b-21df-4453-b0e1-2111ac9b2af0.jpeg",
@@ -2286,6 +2286,12 @@
     ],
     "tags": [
       {
+        "slug": "bbq",
+        "name": "BBQ",
+        "category": "cuisine",
+        "emoji": "🔥"
+      },
+      {
         "slug": "burgers",
         "name": "Burgers",
         "category": "cuisine",
@@ -2296,17 +2302,11 @@
         "name": "German",
         "category": "cuisine",
         "emoji": "🥨"
-      },
-      {
-        "slug": "bbq",
-        "name": "BBQ",
-        "category": "cuisine",
-        "emoji": "🔥"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 339,
-    "reviewsCount": 121,
+    "ratingsCount": 340,
+    "reviewsCount": 122,
     "images": [
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/bf8864bd-a259-4d19-8e51-c7858cc94eca.jpeg",
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/5d71e43e-238f-4f12-8237-7646660aea74.jpeg",
@@ -2364,16 +2364,16 @@
     ],
     "tags": [
       {
-        "slug": "drinks",
-        "name": "Drinks",
-        "category": "cuisine",
-        "emoji": "🥂"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "drinks",
+        "name": "Drinks",
+        "category": "cuisine",
+        "emoji": "🥂"
       }
     ],
     "avgRating": 4.7,
@@ -2433,16 +2433,16 @@
     ],
     "tags": [
       {
-        "slug": "fast-food",
-        "name": "Fast Food",
-        "category": "cuisine",
-        "emoji": "🍟"
-      },
-      {
         "slug": "pizza",
         "name": "Pizza",
         "category": "cuisine",
         "emoji": "🍕"
+      },
+      {
+        "slug": "fast-food",
+        "name": "Fast Food",
+        "category": "cuisine",
+        "emoji": "🍟"
       }
     ],
     "avgRating": 0,
@@ -2501,10 +2501,10 @@
     ],
     "tags": [
       {
-        "slug": "italian",
-        "name": "Italian",
+        "slug": "pizza",
+        "name": "Pizza",
         "category": "cuisine",
-        "emoji": "🍅"
+        "emoji": "🍕"
       },
       {
         "slug": "pasta",
@@ -2513,10 +2513,10 @@
         "emoji": "🍝"
       },
       {
-        "slug": "pizza",
-        "name": "Pizza",
+        "slug": "italian",
+        "name": "Italian",
         "category": "cuisine",
-        "emoji": "🍕"
+        "emoji": "🍅"
       }
     ],
     "avgRating": 4.9,
@@ -2848,12 +2848,6 @@
     ],
     "tags": [
       {
-        "slug": "indian",
-        "name": "Indian",
-        "category": "cuisine",
-        "emoji": "🫚"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
@@ -2864,6 +2858,12 @@
         "name": "Pizza",
         "category": "cuisine",
         "emoji": "🍕"
+      },
+      {
+        "slug": "indian",
+        "name": "Indian",
+        "category": "cuisine",
+        "emoji": "🫚"
       }
     ],
     "avgRating": 4.7,
@@ -3587,6 +3587,12 @@
     ],
     "tags": [
       {
+        "slug": "cafe",
+        "name": "Café",
+        "category": "cuisine",
+        "emoji": "☕"
+      },
+      {
         "slug": "desserts",
         "name": "Desserts",
         "category": "cuisine",
@@ -3597,12 +3603,6 @@
         "name": "French",
         "category": "cuisine",
         "emoji": "🥐"
-      },
-      {
-        "slug": "cafe",
-        "name": "Café",
-        "category": "cuisine",
-        "emoji": "☕"
       }
     ],
     "avgRating": 4.6,
