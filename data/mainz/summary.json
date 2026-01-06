@@ -3983,9 +3983,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 56
+    },
+    {
+      "date": "2026-01-06",
+      "total_restaurants": 29,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 58
     }
   ],
-  "last_updated": "2026-01-05",
+  "last_updated": "2026-01-06",
   "restaurants": [
     {
       "name": "Burgerheart Mainz",
@@ -4313,8 +4321,8 @@
       "latitude": 50.00082672190576,
       "longitude": 8.26955109417166,
       "avgRating": 4.8,
-      "ratingsCount": 835,
-      "reviewsCount": 223,
+      "ratingsCount": 836,
+      "reviewsCount": 224,
       "images": [
         "https://assets.neotaste.com/restaurants/0977c4f7-a493-4485-b673-5a371f23927c/images/277938ab-5c93-4315-86e7-406d58ff2f8d.jpeg"
       ],
@@ -4639,8 +4647,8 @@
       "latitude": 49.99686052603381,
       "longitude": 8.278237976686702,
       "avgRating": 4.7,
-      "ratingsCount": 209,
-      "reviewsCount": 63,
+      "ratingsCount": 211,
+      "reviewsCount": 64,
       "images": [
         "https://assets.neotaste.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
       ],
@@ -4749,6 +4757,61 @@
         "https://assets.neotaste.com/restaurants/f6f2b909-8b49-4f97-ab9b-1177c9bea660/images/b00136dd-18d3-47b9-b763-1aeef10d2e44.jpeg"
       ],
       "priceRange": 1
+    },
+    {
+      "name": "Naxos",
+      "uuid": "ab8370d3-16eb-4949-9a17-9483bd5103e2",
+      "deals": [
+        {
+          "uuid": "dfcf2b17-e015-46e6-0949-08dc0de911ca",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "6b723077-0dcd-48c9-094a-08dc0de911ca",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and receive a free drink (applies to soft drinks and beer).",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Weintorstraße 21",
+      "zipCode": "55116",
+      "latitude": 49.99847607064724,
+      "longitude": 8.278246481902833,
+      "avgRating": 3.9,
+      "ratingsCount": 19,
+      "reviewsCount": 7,
+      "images": [
+        "https://assets.neotaste.com/restaurants/b795cb88-47aa-495b-853c-1958847db805/images/2146408d-3033-4069-9d7f-1350b268914f.jpeg",
+        "https://assets.neotaste.com/restaurants/b795cb88-47aa-495b-853c-1958847db805/images/12506637-7ccb-4cf7-8e6f-33ca38160a77.jpeg",
+        "https://assets.neotaste.com/restaurants/b795cb88-47aa-495b-853c-1958847db805/images/7253f194-21ed-4db7-b006-4ce6ba9cf9b4.jpeg",
+        "https://assets.neotaste.com/restaurants/b795cb88-47aa-495b-853c-1958847db805/images/d17e0d5e-0292-43b6-9c5b-1a159a9077cd.jpeg",
+        "https://assets.neotaste.com/restaurants/b795cb88-47aa-495b-853c-1958847db805/images/875cb4f0-d152-441a-997d-7f9b37907f63.jpeg"
+      ],
+      "priceRange": 2
     },
     {
       "name": "Da Marcello",
