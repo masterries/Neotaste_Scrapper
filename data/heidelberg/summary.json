@@ -4015,9 +4015,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 82
+    },
+    {
+      "date": "2026-01-10",
+      "total_restaurants": 42,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 84
     }
   ],
-  "last_updated": "2026-01-09",
+  "last_updated": "2026-01-10",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -4063,7 +4071,7 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1230,
+      "ratingsCount": 1231,
       "reviewsCount": 239,
       "images": [
         "https://assets.neotaste.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -4556,7 +4564,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 811,
+      "ratingsCount": 812,
       "reviewsCount": 137,
       "images": [
         "https://assets.neotaste.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -5799,7 +5807,7 @@
       "latitude": 49.41132444692831,
       "longitude": 8.69270230295016,
       "avgRating": 4.9,
-      "ratingsCount": 36,
+      "ratingsCount": 38,
       "reviewsCount": 13,
       "images": [
         "https://assets.neotaste.com/restaurants/60d7495c-e152-4e80-b97f-ffdd7565ec4f/images/52fcb991-12db-449a-a7bc-23c70c50ebbb.jpg",
@@ -6137,7 +6145,7 @@
       "latitude": 49.4044769,
       "longitude": 8.6624641,
       "avgRating": 5,
-      "ratingsCount": 1,
+      "ratingsCount": 2,
       "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/09d7220a-e21c-487b-9927-9f9344511df6/images/e822b595-d99e-4784-97b0-60cad8939ead.jpeg",
@@ -6257,6 +6265,59 @@
         "https://assets.neotaste.com/restaurants/40fb2898-2147-424c-9d9c-20954b3a97d3/images/3c197866-3415-4d42-817c-dd646f2586f0.jpg",
         "https://assets.neotaste.com/restaurants/40fb2898-2147-424c-9d9c-20954b3a97d3/images/e0880c89-fe6b-4ce2-aabc-7ce91ab104d2.jpg",
         "https://assets.neotaste.com/restaurants/40fb2898-2147-424c-9d9c-20954b3a97d3/images/64baa82b-0cf6-4283-899c-f009da557f2d.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Mannat - Restaurant & Lounge",
+      "uuid": "77fbf47e-8ac2-45c4-8a34-6eedf3d636c2",
+      "deals": [
+        {
+          "uuid": "5273ab17-54e2-4810-a3fe-d7cbd81a1c7b",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 60,
+          "status": "available"
+        },
+        {
+          "uuid": "062a72de-0fd2-4d61-806d-746efe2e6e63",
+          "name": "FREE Side Dish",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a side dish for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 60,
+          "status": "available"
+        }
+      ],
+      "address": "Langer Anger 74",
+      "zipCode": "69115",
+      "latitude": 49.4044769,
+      "longitude": 8.6624641,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/c3377075-c7cc-4654-af15-137295c00960.jpeg",
+        "https://assets.neotaste.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/430a9fbe-2422-49a4-a461-c11442212da8.jpeg",
+        "https://assets.neotaste.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/86443a1e-a770-4519-b10d-638877d9e69e.jpeg"
       ],
       "priceRange": 2
     }
