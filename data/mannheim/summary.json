@@ -4039,9 +4039,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2026-01-13",
+      "total_restaurants": 39,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 78
     }
   ],
-  "last_updated": "2026-01-12",
+  "last_updated": "2026-01-13",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -5715,7 +5723,7 @@
       "latitude": 49.4476105,
       "longitude": 8.5053796,
       "avgRating": 4.9,
-      "ratingsCount": 25,
+      "ratingsCount": 26,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
@@ -5928,8 +5936,8 @@
       "zipCode": "68161",
       "latitude": 49.4823497,
       "longitude": 8.4709795,
-      "avgRating": 4.4,
-      "ratingsCount": 14,
+      "avgRating": 4.5,
+      "ratingsCount": 15,
       "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/77ade362-7a05-4207-b998-cc1a7b190ab9.jpg",
@@ -6002,6 +6010,58 @@
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/e818c8f6-22ac-48d5-8de9-c9e6f5e223c0.jpg",
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/cdd4a2ec-2e23-4fcf-8c43-4a386f8b7ede.jpg",
         "https://assets.neotaste.com/restaurants/4c4c08b9-3e8d-480c-98a9-08232aaca75b/images/ae262694-7b74-481a-abf1-0a4aca3b95be.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "GLOBUS Restaurant Mannheim",
+      "uuid": "335587fb-29a7-463d-aebf-e31298cccd5b",
+      "deals": [
+        {
+          "uuid": "3168fc7d-04a3-4627-a4cd-75b0bd46d189",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "687279e3-30ce-420d-9495-0a74b1bdfbaa",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Spreewaldallee 44-50",
+      "zipCode": "68309",
+      "latitude": 49.5196189,
+      "longitude": 8.5549363,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotaste.com/restaurants/335587fb-29a7-463d-aebf-e31298cccd5b/images/d066c261-c887-4ca7-897e-b042a3d70080.jpg",
+        "https://assets.neotaste.com/restaurants/335587fb-29a7-463d-aebf-e31298cccd5b/images/00789183-8d29-424d-84f5-f970b51ef976.png"
       ],
       "priceRange": 2
     },

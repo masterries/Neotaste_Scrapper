@@ -4039,9 +4039,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 104
+    },
+    {
+      "date": "2026-01-13",
+      "total_restaurants": 54,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2026-01-12",
+  "last_updated": "2026-01-13",
   "restaurants": [
     {
       "name": "Burgerheart",
@@ -4256,8 +4264,8 @@
       "latitude": 49.00923406335475,
       "longitude": 8.409084393595768,
       "avgRating": 4.9,
-      "ratingsCount": 616,
-      "reviewsCount": 165,
+      "ratingsCount": 617,
+      "reviewsCount": 166,
       "images": [
         "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/50cf7008-9b1d-4138-b701-8410872aec22.jpeg",
         "https://assets.neotaste.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/762782c0-ee98-4cbe-9fb7-e176bfcf924c.jpeg",
@@ -4808,6 +4816,59 @@
         "https://assets.neotaste.com/restaurants/c86b295e-c642-42c1-a35b-71f947c493b1/images/ee0d4d13-15c1-46e5-a4ca-a1e8ae0cf26c.jpeg"
       ],
       "priceRange": 1
+    },
+    {
+      "name": "justHealthy | Bowls & More",
+      "uuid": "bbaea2e2-c847-436c-91ee-4eb49edab251",
+      "deals": [
+        {
+          "uuid": "9ddd2a3c-90f4-4f77-effe-08dc480ae7d0",
+          "name": "2for1 Signature Bowl S.",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 Signature Bowl S of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "6a4ed26c-1dc3-40b9-efff-08dc480ae7d0",
+          "name": "FREE Protein Shake or Bar",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a Bowl and drink combination of your choice and get a free protein shake or bar with it.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Ebertstraße 16A",
+      "zipCode": "76137",
+      "latitude": 48.99488598042907,
+      "longitude": 8.393736459201667,
+      "avgRating": 4.8,
+      "ratingsCount": 176,
+      "reviewsCount": 60,
+      "images": [
+        "https://assets.neotaste.com/restaurants/6421fd0f-bb50-4194-be5c-7e028b083cd5/images/c7f2d251-9653-427e-81c6-8c4fe8a8e4a3.jpeg",
+        "https://assets.neotaste.com/restaurants/6421fd0f-bb50-4194-be5c-7e028b083cd5/images/62ba99df-ce64-477f-b68b-f430d767f437.jpeg",
+        "https://assets.neotaste.com/restaurants/6421fd0f-bb50-4194-be5c-7e028b083cd5/images/a820595b-8ffe-4bb3-9b46-dff1453fa53e.jpeg"
+      ],
+      "priceRange": 2
     },
     {
       "name": "Taquería Taol",
@@ -5855,6 +5916,61 @@
       "priceRange": 2
     },
     {
+      "name": "The Curtain Bar",
+      "uuid": "d5226796-0617-4bfb-9515-c053f49fd0b6",
+      "deals": [
+        {
+          "uuid": "08cfd52b-c759-44e6-3ce3-08dc6922bcdf",
+          "name": "2for1 Cocktail",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "82023334-2905-48cc-3ce4-08dc6922bcdf",
+          "name": "FREE Monthly Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a Kaishi dish of your choice and receive a free monthly drink with it.",
+          "locationCondition": "onSite",
+          "value": 9,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Amalienbadstraße 16",
+      "zipCode": "76227",
+      "latitude": 48.99826268286159,
+      "longitude": 8.465798303991885,
+      "avgRating": 5,
+      "ratingsCount": 48,
+      "reviewsCount": 21,
+      "images": [
+        "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/ed12a89d-a008-4409-9d8b-1558c9a3c83b.jpeg",
+        "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/ffc9a9f0-702b-474d-857d-8bbc83717644.jpeg",
+        "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/108922bc-0637-4628-aa92-7e984f776b90.jpeg",
+        "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/e71eef6f-a42d-4889-ae96-3c3413bd2ed7.jpeg",
+        "https://assets.neotaste.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/8a909ac3-3aa4-46e1-84a1-efe661eb9417.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
       "name": "FoodTruck GioSofi",
       "uuid": "f38c6e11-d55e-46fb-824e-de36d4ddeeea",
       "deals": [
@@ -6114,8 +6230,8 @@
       "latitude": 49.0077618,
       "longitude": 8.4074139,
       "avgRating": 4.9,
-      "ratingsCount": 144,
-      "reviewsCount": 51,
+      "ratingsCount": 145,
+      "reviewsCount": 52,
       "images": [
         "https://assets.neotaste.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
         "https://assets.neotaste.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/9f521200-360f-4e0a-a1b7-f8af3f63b2cb.jpg",
@@ -6223,7 +6339,7 @@
       "latitude": 49.00316986143334,
       "longitude": 8.405470711962847,
       "avgRating": 4.7,
-      "ratingsCount": 216,
+      "ratingsCount": 217,
       "reviewsCount": 87,
       "images": [
         "https://assets.neotaste.com/restaurants/25cc7b58-c96d-47ea-8b3f-6475b1d6c686/images/5609dfdb-388a-42c4-bdd4-869740ecf109.jpeg"
@@ -6382,7 +6498,7 @@
       "latitude": 49.0096353,
       "longitude": 8.3984986,
       "avgRating": 4.6,
-      "ratingsCount": 235,
+      "ratingsCount": 236,
       "reviewsCount": 73,
       "images": [
         "https://assets.neotaste.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c421501e-b559-4d1f-bf6f-a3d217b2e55e.jpg",
@@ -6615,8 +6731,8 @@
       "latitude": 49.0106815,
       "longitude": 8.3964359,
       "avgRating": 4.9,
-      "ratingsCount": 128,
-      "reviewsCount": 71,
+      "ratingsCount": 129,
+      "reviewsCount": 72,
       "images": [
         "https://assets.neotaste.com/restaurants/f2ae3f97-d75c-46e4-a425-c28b6b76b872/images/3b8977dc-b170-46cd-ae24-759c719f089e.jpg",
         "https://assets.neotaste.com/restaurants/f2ae3f97-d75c-46e4-a425-c28b6b76b872/images/052f6c45-bee0-4c5c-a7b2-7f8645262e16.jpg",
@@ -6897,7 +7013,7 @@
       "latitude": 49.0087826,
       "longitude": 8.396353,
       "avgRating": 5,
-      "ratingsCount": 1,
+      "ratingsCount": 2,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotaste.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/26b5e623-e543-42b2-997b-9aded27dc6ee.jpg",
