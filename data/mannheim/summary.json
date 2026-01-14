@@ -4047,9 +4047,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 78
+    },
+    {
+      "date": "2026-01-14",
+      "total_restaurants": 38,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 76
     }
   ],
-  "last_updated": "2026-01-13",
+  "last_updated": "2026-01-14",
   "restaurants": [
     {
       "name": "Compleat Quadrate",
@@ -4150,8 +4158,8 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 699,
-      "reviewsCount": 242,
+      "ratingsCount": 700,
+      "reviewsCount": 243,
       "images": [
         "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
       ],
@@ -4201,7 +4209,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 455,
+      "ratingsCount": 456,
       "reviewsCount": 84,
       "images": [
         "https://assets.neotaste.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -4476,7 +4484,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 249,
+      "ratingsCount": 251,
       "reviewsCount": 61,
       "images": [
         "https://assets.neotaste.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
@@ -5290,61 +5298,6 @@
       "priceRange": 2
     },
     {
-      "name": "Juciy Lucy - it’s a Wrap",
-      "uuid": "2b3b52f1-b1be-47fd-8b35-5142c96b3012",
-      "deals": [
-        {
-          "uuid": "b0d4e0ba-0465-490f-f9a0-08dc484a74f0",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "5509003c-1278-43a2-f9a1-08dc484a74f0",
-          "name": "FREE Fries",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order a wrap of your choice and receive free fries with it.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Im Zollhof 4",
-      "zipCode": "67061",
-      "latitude": 49.48614833004937,
-      "longitude": 8.447263851415872,
-      "avgRating": 4.8,
-      "ratingsCount": 42,
-      "reviewsCount": 15,
-      "images": [
-        "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/191d46a7-fd12-4599-adfb-bfe8b8a28f00.jpeg",
-        "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/10e6e80e-b88c-4a2d-bbf3-5d00f8d519f9.jpeg",
-        "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/2bdcb376-2f95-4ac9-ac1b-1bd63a4e5405.jpeg",
-        "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/4acd361b-506a-4de2-8e36-a7284a242101.jpeg",
-        "https://assets.neotaste.com/restaurants/d1bac65f-1774-43ef-9e62-410f821175f3/images/cd8430a7-1b3e-4842-bb09-3a859c8eb14c.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "LUUC - Cafe Deli Wein",
       "uuid": "21b89400-1de7-454b-8e2b-606ebc562a95",
       "deals": [
@@ -5723,7 +5676,7 @@
       "latitude": 49.4476105,
       "longitude": 8.5053796,
       "avgRating": 4.9,
-      "ratingsCount": 26,
+      "ratingsCount": 25,
       "reviewsCount": 12,
       "images": [
         "https://assets.neotaste.com/restaurants/f6c79ccd-5f1b-406f-818e-0e72b6952679/images/628a4dfd-4630-41f9-939f-8364d6098935.jpeg",
