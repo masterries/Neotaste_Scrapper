@@ -4055,9 +4055,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2026-01-15",
+      "total_restaurants": 37,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 74
     }
   ],
-  "last_updated": "2026-01-14",
+  "last_updated": "2026-01-15",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -4162,8 +4170,8 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.8,
-      "ratingsCount": 962,
-      "reviewsCount": 287,
+      "ratingsCount": 964,
+      "reviewsCount": 289,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/b9acc21f-f6af-4af6-a841-ff6c85032298.jpeg",
@@ -4383,8 +4391,8 @@
       "latitude": 48.01117640528474,
       "longitude": 7.856115522762241,
       "avgRating": 4.9,
-      "ratingsCount": 435,
-      "reviewsCount": 110,
+      "ratingsCount": 436,
+      "reviewsCount": 111,
       "images": [
         "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
         "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/03eb96f8-f821-4d46-9e5e-cf18e618391b.jpeg",
@@ -4438,8 +4446,8 @@
       "latitude": 47.99299213685041,
       "longitude": 7.848064668648593,
       "avgRating": 4.8,
-      "ratingsCount": 215,
-      "reviewsCount": 64,
+      "ratingsCount": 216,
+      "reviewsCount": 65,
       "images": [
         "https://assets.neotaste.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/7ea16cd1-13c5-42d0-90d2-c3f3e86dc534.jpeg",
         "https://assets.neotaste.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/f01d0855-9285-4875-bc74-f78564b78ee2.jpeg"
@@ -5807,62 +5815,6 @@
       "priceRange": 2
     },
     {
-      "name": "Katzentempel Freiburg",
-      "uuid": "3b3168ec-2d6c-4e85-858d-e21114955c58",
-      "deals": [
-        {
-          "uuid": "76785084-b0c4-4a4b-a1ba-07672e88e382",
-          "name": "2for1 Main Course",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 15,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "56bae5f8-b584-4ae2-8e12-44b2fd174597",
-          "name": "FREE (Hot) Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a (hot) drink for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Bertoldstraße 24",
-      "zipCode": "79098",
-      "latitude": 47.9950877,
-      "longitude": 7.847792800000001,
-      "avgRating": 4.8,
-      "ratingsCount": 279,
-      "reviewsCount": 108,
-      "images": [
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/928d16c2-f8b8-4dd7-868f-b3d740e768b3.jpg",
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/368b915f-b2fc-403a-a264-9c7ee32626b4.jpg",
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/bb9739b8-c7c2-4f91-ad10-4f12e105df96.jpg",
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/eb8b031d-0db4-43eb-985b-36c0ac09cfde.jpg",
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/ce97a336-6a88-45c5-bc2c-98f615a7b18b.jpg",
-        "https://assets.neotaste.com/restaurants/3b3168ec-2d6c-4e85-858d-e21114955c58/images/55188c3e-a427-4b90-baf7-535e01d37230.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "TACHELES",
       "uuid": "db20f5e9-5a6e-430b-b091-5bd4796fa0a5",
       "deals": [
@@ -6128,9 +6080,9 @@
       "zipCode": "79117",
       "latitude": 47.9828152,
       "longitude": 7.8756035,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 1,
       "images": [
         "https://assets.neotaste.com/restaurants/255ebbc2-7e4b-461b-a17b-3450f99a1448/images/85565462-23ec-4fcf-ac78-b35b6021a900.jpeg",
         "https://assets.neotaste.com/restaurants/255ebbc2-7e4b-461b-a17b-3450f99a1448/images/29c63e19-a187-40e9-a438-f43b49dfbda7.jpg",
