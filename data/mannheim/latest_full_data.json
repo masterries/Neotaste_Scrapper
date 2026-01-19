@@ -1,5 +1,81 @@
 [
   {
+    "uuid": "d0eaeec4-279a-412f-9984-cd6178ebbb23",
+    "name": "asiahung Mannheim Hbf",
+    "slug": "asiahung-mannheim-hbf",
+    "address": "Willy-Brandt-Platz 17",
+    "addressOptional": null,
+    "zipCode": "68161",
+    "latitude": 49.47940029999999,
+    "longitude": 8.4704508,
+    "deals": [
+      {
+        "uuid": "9cf3a683-4e81-4260-9de1-14ca28bc7c33",
+        "name": "€2 Noodlebox 01",
+        "eventDeal": true,
+        "remainingDaysToReset": null,
+        "conditions": "You order the Nudelbox 01 and pay only €2. Presented by @hannover_eats, @favesbyari, @tastetourimarta & @bonappetitelisa.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "c09b013f-181c-4364-ae48-84e3ed6a37dd",
+        "name": "FREE Soft Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a main course of your choice and get a soft drink for free.",
+        "locationCondition": "onSite",
+        "value": 3,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "flash-deal",
+        "name": "Flash Deal",
+        "category": "cuisine",
+        "emoji": "⚡"
+      },
+      {
+        "slug": "asian",
+        "name": "Asian",
+        "category": "cuisine",
+        "emoji": "🍱"
+      },
+      {
+        "slug": "seafood",
+        "name": "Seafood",
+        "category": "cuisine",
+        "emoji": "🦐"
+      }
+    ],
+    "avgRating": 4.3,
+    "ratingsCount": 4,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
+      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/600a76a4-62d5-4f60-8bbe-5b10bea72096.png",
+      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/2bedfd43-b187-459a-8c0b-6ded69897467.png",
+      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/41518dad-346d-43c4-af3b-c2c097070096.png"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
     "name": "Compleat Quadrate",
     "slug": "compleat-quadrate",
@@ -136,7 +212,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 705,
+    "ratingsCount": 706,
     "reviewsCount": 245,
     "images": [
       "https://assets.neotaste.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -433,82 +509,6 @@
       "https://assets.neotaste.com/restaurants/ba41b8ac-560f-4612-a089-9634f6dbcded/images/8d3f84e6-4971-414b-8a87-fd3a6af586be.jpeg"
     ],
     "priceRange": 1
-  },
-  {
-    "uuid": "d0eaeec4-279a-412f-9984-cd6178ebbb23",
-    "name": "asiahung Mannheim Hbf",
-    "slug": "asiahung-mannheim-hbf",
-    "address": "Willy-Brandt-Platz 17",
-    "addressOptional": null,
-    "zipCode": "68161",
-    "latitude": 49.47940029999999,
-    "longitude": 8.4704508,
-    "deals": [
-      {
-        "uuid": "fc6b5c8b-8e97-4cf9-90e3-7258db304ab8",
-        "name": "2for1 Snack-Box",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 snack-boxes of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 9,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "c09b013f-181c-4364-ae48-84e3ed6a37dd",
-        "name": "FREE Soft Drink",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and get a soft drink for free.",
-        "locationCondition": "onSite",
-        "value": 3,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "asian",
-        "name": "Asian",
-        "category": "cuisine",
-        "emoji": "🍱"
-      },
-      {
-        "slug": "seafood",
-        "name": "Seafood",
-        "category": "cuisine",
-        "emoji": "🦐"
-      },
-      {
-        "slug": "thai",
-        "name": "Thai",
-        "category": "cuisine",
-        "emoji": "🌶️"
-      }
-    ],
-    "avgRating": 4.3,
-    "ratingsCount": 4,
-    "reviewsCount": 0,
-    "images": [
-      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
-      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/600a76a4-62d5-4f60-8bbe-5b10bea72096.png",
-      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/2bedfd43-b187-459a-8c0b-6ded69897467.png",
-      "https://assets.neotaste.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/41518dad-346d-43c4-af3b-c2c097070096.png"
-    ],
-    "priceRange": 2
   },
   {
     "uuid": "d891a999-1a39-4efc-ab61-6921b0736e11",
@@ -1140,7 +1140,7 @@
       }
     ],
     "avgRating": 4.6,
-    "ratingsCount": 138,
+    "ratingsCount": 139,
     "reviewsCount": 33,
     "images": [
       "https://assets.neotaste.com/restaurants/00db5201-b400-45a5-ad24-84cf21a929e0/images/2df33b84-15bd-4e2d-a6da-aaa82ddc3b9d.jpeg",
