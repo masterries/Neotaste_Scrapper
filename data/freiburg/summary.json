@@ -4095,9 +4095,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 74
+    },
+    {
+      "date": "2026-01-20",
+      "total_restaurants": 38,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 76
     }
   ],
-  "last_updated": "2026-01-19",
+  "last_updated": "2026-01-20",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -4143,7 +4151,7 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 1652,
+      "ratingsCount": 1653,
       "reviewsCount": 357,
       "images": [
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -4202,7 +4210,7 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.8,
-      "ratingsCount": 968,
+      "ratingsCount": 969,
       "reviewsCount": 290,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -4589,7 +4597,7 @@
       "latitude": 47.99525156116014,
       "longitude": 7.848671391350975,
       "avgRating": 4.9,
-      "ratingsCount": 74,
+      "ratingsCount": 73,
       "reviewsCount": 28,
       "images": [
         "https://assets.neotaste.com/restaurants/64b47761-7a22-4bc7-b8e6-ebb34797da3f/images/33108d2d-c941-446b-b8f2-eaee7fcb34d2.jpg",
@@ -5021,7 +5029,7 @@
       "latitude": 47.99880664830506,
       "longitude": 7.839823582447768,
       "avgRating": 4.8,
-      "ratingsCount": 233,
+      "ratingsCount": 232,
       "reviewsCount": 62,
       "images": [
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/3bb1cb50-c99f-4fd7-91ca-1b8c361a54c0.jpeg",
@@ -5081,6 +5089,64 @@
         "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/4856a9d6-d703-4a25-a4ce-664ec17d0c83.jpeg",
         "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/feba93f4-2d16-4508-9161-7f4a34464f65.jpeg",
         "https://assets.neotaste.com/restaurants/50887b5d-ac3f-4d14-b5d8-a439729cb41f/images/1357eca7-2fb6-44f7-8209-f339cd35b322.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "FINO",
+      "uuid": "78a31627-6c2f-4469-9495-12c78a294b77",
+      "deals": [
+        {
+          "uuid": "8b00c183-e32a-4716-883e-36485ac7468a",
+          "name": "2for1 Cake of the day",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 pieces of cake of the day, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "02c50d41-68db-496d-8c47-08dc9f5a2970",
+          "name": "2for1 Winemaker's Sparkling Wine",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 sparkling wines of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Granatgässle 3",
+      "zipCode": "79102",
+      "latitude": 47.99149895600557,
+      "longitude": 7.85490256509156,
+      "avgRating": 4.8,
+      "ratingsCount": 69,
+      "reviewsCount": 18,
+      "images": [
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/03615e85-b117-4513-9fee-a43faa5b38ff.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/0379f5c8-3ad2-4db0-9253-d7fd131b8164.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/40a98310-6419-4e9a-80c0-f40981cf20f9.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/3e25b1d1-b86e-4113-afc1-a70115e99186.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/cedca7af-cc3a-4dc2-bf2e-00e361b2afe4.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/395542db-0f74-49a7-9915-4c6ade17829e.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/108db59b-cf40-4d5d-be23-010dab43c49a.jpeg",
+        "https://assets.neotaste.com/restaurants/9617b003-aa6f-48ff-9556-1d0466b760b2/images/12e926ed-1ef9-4143-911e-0ac50c2c768e.jpeg"
       ],
       "priceRange": 2
     },
