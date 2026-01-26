@@ -4143,9 +4143,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 76
+    },
+    {
+      "date": "2026-01-26",
+      "total_restaurants": 37,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 74
     }
   ],
-  "last_updated": "2026-01-25",
+  "last_updated": "2026-01-26",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -4191,7 +4199,7 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 1667,
+      "ratingsCount": 1670,
       "reviewsCount": 362,
       "images": [
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
@@ -4250,7 +4258,7 @@
       "latitude": 47.99723785801392,
       "longitude": 7.854663823439529,
       "avgRating": 4.8,
-      "ratingsCount": 978,
+      "ratingsCount": 979,
       "reviewsCount": 294,
       "images": [
         "https://assets.neotaste.com/restaurants/e0e921c4-9ec0-4c92-9ddf-a4246bd1e4cf/images/c2d975cf-91f7-449e-af52-38e9e7894947.jpeg",
@@ -4417,7 +4425,7 @@
       "latitude": 47.99280651443057,
       "longitude": 7.847862672672846,
       "avgRating": 4.9,
-      "ratingsCount": 348,
+      "ratingsCount": 349,
       "reviewsCount": 60,
       "images": [
         "https://assets.neotaste.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
@@ -4471,7 +4479,7 @@
       "latitude": 48.01117640528474,
       "longitude": 7.856115522762241,
       "avgRating": 4.9,
-      "ratingsCount": 438,
+      "ratingsCount": 439,
       "reviewsCount": 112,
       "images": [
         "https://assets.neotaste.com/restaurants/9ee3aa3c-6b6a-47f5-ba6e-86427d864963/images/d65074e6-9d03-4992-abac-232eadef563d.jpeg",
@@ -4578,7 +4586,7 @@
       "latitude": 47.99567099343686,
       "longitude": 7.844143862379059,
       "avgRating": 4.7,
-      "ratingsCount": 208,
+      "ratingsCount": 209,
       "reviewsCount": 44,
       "images": [
         "https://assets.neotaste.com/restaurants/074c565b-cc4b-4b0f-afaa-2205e39e3ace/images/0bd655ed-9446-494f-98fa-f71ce778533b.jpeg",
@@ -4692,7 +4700,7 @@
       "latitude": 47.97777145366275,
       "longitude": 7.824594152776761,
       "avgRating": 4.9,
-      "ratingsCount": 252,
+      "ratingsCount": 254,
       "reviewsCount": 53,
       "images": [
         "https://assets.neotaste.com/restaurants/b7bc54be-e790-4290-a9f3-8ae499b1ca5d/images/08071694-6339-429e-ba7d-287c4b2faf80.jpeg",
@@ -5069,7 +5077,7 @@
       "latitude": 47.99880664830506,
       "longitude": 7.839823582447768,
       "avgRating": 4.8,
-      "ratingsCount": 234,
+      "ratingsCount": 236,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/3bb1cb50-c99f-4fd7-91ca-1b8c361a54c0.jpeg",
@@ -6060,64 +6068,6 @@
       "priceRange": 1
     },
     {
-      "name": "Tama Bistro",
-      "uuid": "df825251-8caf-413d-a256-a7e5fa7557cd",
-      "deals": [
-        {
-          "uuid": "bf3857a9-ac82-4650-9270-1e6153566c2c",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 15,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "f282469b-9cfa-42a2-ab8b-20536faf05bb",
-          "name": "FREE Soft Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main item of your choice and get a free soft drink with it.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Günterstalstraße 37",
-      "zipCode": "79102",
-      "latitude": 47.986424,
-      "longitude": 7.8479807,
-      "avgRating": 4.9,
-      "ratingsCount": 56,
-      "reviewsCount": 26,
-      "images": [
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/ab0c620e-9e06-43e8-afaa-747413065b8a.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/a2001a5f-40cc-46fb-a4c2-c36708cfdfd5.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/13a24452-91c5-41dd-977e-920754236921.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/d92b1bfc-5070-44ed-b19f-dbc1ea4284ce.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/47f29694-f05b-4884-91e2-2bc9d4d46c95.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/57d7f016-97a6-4126-b630-ec7c268a8835.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/c962d822-6b84-470d-9ab4-ccfdecc60fd4.jpg",
-        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/cd066478-cefc-47b3-b5c7-f2c771de9f2f.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Piazza Italia",
       "uuid": "7a662539-dd80-4016-b153-86bd9105ccf4",
       "deals": [
@@ -6161,7 +6111,7 @@
       "latitude": 47.9981257,
       "longitude": 7.794132,
       "avgRating": 5,
-      "ratingsCount": 8,
+      "ratingsCount": 9,
       "reviewsCount": 4,
       "images": [
         "https://assets.neotaste.com/restaurants/7a662539-dd80-4016-b153-86bd9105ccf4/images/d5179277-7851-46d4-b744-a3a399c229ba.jpg",
