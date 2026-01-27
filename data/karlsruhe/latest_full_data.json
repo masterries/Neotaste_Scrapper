@@ -811,73 +811,6 @@
     "priceRange": 2
   },
   {
-    "uuid": "64ae2012-f31b-49fd-9c42-8e30a2217578",
-    "name": "Gasthaus Karl",
-    "slug": "gasthaus-karl",
-    "address": "Hertzstraße 23",
-    "addressOptional": null,
-    "zipCode": "76187",
-    "latitude": 49.02619232990729,
-    "longitude": 8.364491423313426,
-    "deals": [
-      {
-        "uuid": "e186bff9-345e-4176-4676-08dc5de69508",
-        "name": "2for1 Main Course",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 13,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "1317b588-e026-45b5-4677-08dc5de69508",
-        "name": "FREE Dessert",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and get a dessert for free.",
-        "locationCondition": "onSite",
-        "value": 4,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "german",
-        "name": "German",
-        "category": "cuisine",
-        "emoji": "🥨"
-      },
-      {
-        "slug": "bbq",
-        "name": "BBQ",
-        "category": "cuisine",
-        "emoji": "🔥"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 113,
-    "reviewsCount": 51,
-    "images": [
-      "https://assets.neotaste.com/restaurants/6aa56b43-2eaa-4315-882d-4bfe2e494eac/images/b976d994-b47d-4194-aafe-644b2d5d0225.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
     "uuid": "54a9477c-b97e-4aa1-85ff-de1ee2033e26",
     "name": "Klauprecht",
     "slug": "klauprecht",
@@ -1085,7 +1018,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 183,
+    "ratingsCount": 184,
     "reviewsCount": 62,
     "images": [
       "https://assets.neotaste.com/restaurants/6421fd0f-bb50-4194-be5c-7e028b083cd5/images/c7f2d251-9653-427e-81c6-8c4fe8a8e4a3.jpeg",
@@ -1420,8 +1353,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 205,
-    "reviewsCount": 59,
+    "ratingsCount": 206,
+    "reviewsCount": 60,
     "images": [
       "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/6e890239-63f9-4684-9d7d-226aef05fe0f.jpeg",
       "https://assets.neotaste.com/restaurants/d1d45361-d7e1-439b-a081-878dfff2db3c/images/2af0b526-a5be-4803-8a46-6568f47d2324.jpeg",
@@ -2094,6 +2027,67 @@
     "priceRange": 2
   },
   {
+    "uuid": "606aaf8e-4b21-4849-b0d4-b82fe900eeb9",
+    "name": "Eiscafé am Sophienpark",
+    "slug": "eiscafe-am-sophienpark",
+    "address": "Sophienstraße 98",
+    "addressOptional": null,
+    "zipCode": "76135",
+    "latitude": 49.00793840042074,
+    "longitude": 8.383012197418482,
+    "deals": [
+      {
+        "uuid": "86f078e9-346e-42f3-f99d-08dc484a74f0",
+        "name": "2for1 Scoop of Ice Cream",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Order 2 scoops of ice cream of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 2,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "667ec0ea-7b25-475f-f99e-08dc484a74f0",
+        "name": "2for1 Hot Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 hot drinks of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "cafe",
+        "name": "Café",
+        "category": "cuisine",
+        "emoji": "☕"
+      }
+    ],
+    "avgRating": 4.6,
+    "ratingsCount": 95,
+    "reviewsCount": 39,
+    "images": [
+      "https://assets.neotaste.com/restaurants/5f49d810-f1ca-4187-b84f-12873daee0af/images/85dad46b-077d-42aa-983f-9994cc1230d2.jpeg"
+    ],
+    "priceRange": 2
+  },
+  {
     "uuid": "c0cb717c-6c3a-4846-b40f-9d555e56e538",
     "name": "Lottis Phase 3",
     "slug": "lottis-phase-3",
@@ -2374,8 +2368,8 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 346,
-    "reviewsCount": 125,
+    "ratingsCount": 348,
+    "reviewsCount": 127,
     "images": [
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/bf8864bd-a259-4d19-8e51-c7858cc94eca.jpeg",
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/5d71e43e-238f-4f12-8237-7646660aea74.jpeg",
@@ -2383,75 +2377,6 @@
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/b5f6f9a4-1ecb-4198-be73-2b3dee23f850.jpeg",
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/32c9eacb-e9cb-4045-96be-b327660ecf15.jpeg",
       "https://assets.neotaste.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/f457d157-4348-462a-8883-a638aaa386b4.jpeg"
-    ],
-    "priceRange": 2
-  },
-  {
-    "uuid": "3fbe436f-747c-47c3-9cbd-89d2792e1fbc",
-    "name": "Polnisches Restaurant ,,Bei Rudy‘‘",
-    "slug": "polnisches-restaurant-bei-rudy",
-    "address": "Mühlenweg 4A",
-    "addressOptional": null,
-    "zipCode": "76297",
-    "latitude": 49.06680837699135,
-    "longitude": 8.477509494100108,
-    "deals": [
-      {
-        "uuid": "35575344-9a78-4a8e-d193-08dc54ced143",
-        "name": "€10 Discount",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "From a minimum order value of €25 you get €10 discount.",
-        "locationCondition": "onSite",
-        "value": 10,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "903419bf-7e1b-4008-d194-08dc54ced143",
-        "name": "FREE Drink",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a main course of your choice and get a drink for free.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "drinks",
-        "name": "Drinks",
-        "category": "cuisine",
-        "emoji": "🥂"
-      },
-      {
-        "slug": "bbq",
-        "name": "BBQ",
-        "category": "cuisine",
-        "emoji": "🔥"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 25,
-    "reviewsCount": 8,
-    "images": [
-      "https://assets.neotaste.com/restaurants/9a62b501-9b86-44ef-8ed0-adb4458ca93d/images/96cd4c93-250c-441d-801a-59355c76a3a0.jpeg",
-      "https://assets.neotaste.com/restaurants/9a62b501-9b86-44ef-8ed0-adb4458ca93d/images/58d680c5-247e-4b03-88b3-70a966273992.jpeg",
-      "https://assets.neotaste.com/restaurants/9a62b501-9b86-44ef-8ed0-adb4458ca93d/images/ae6bc49e-974a-4b75-b6d3-a18f9cada39e.jpeg"
     ],
     "priceRange": 2
   },
@@ -3001,7 +2926,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 219,
+    "ratingsCount": 218,
     "reviewsCount": 88,
     "images": [
       "https://assets.neotaste.com/restaurants/25cc7b58-c96d-47ea-8b3f-6475b1d6c686/images/5609dfdb-388a-42c4-bdd4-869740ecf109.jpeg"
@@ -3802,9 +3727,9 @@
         "emoji": "🍅"
       }
     ],
-    "avgRating": 4.8,
-    "ratingsCount": 18,
-    "reviewsCount": 6,
+    "avgRating": 4.7,
+    "ratingsCount": 19,
+    "reviewsCount": 7,
     "images": [
       "https://assets.neotaste.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/26b5e623-e543-42b2-997b-9aded27dc6ee.jpg",
       "https://assets.neotaste.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/687828d6-2480-4608-bc4a-6d12b33fb4d0.jpg",
