@@ -4159,9 +4159,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 74
+    },
+    {
+      "date": "2026-01-28",
+      "total_restaurants": 38,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 76
     }
   ],
-  "last_updated": "2026-01-27",
+  "last_updated": "2026-01-28",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -4207,8 +4215,8 @@
       "latitude": 47.99245118286552,
       "longitude": 7.847852254097298,
       "avgRating": 4.8,
-      "ratingsCount": 1670,
-      "reviewsCount": 362,
+      "ratingsCount": 1672,
+      "reviewsCount": 363,
       "images": [
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/51bdd023-f93f-4c7a-af3a-553b4a362e57.jpeg",
         "https://assets.neotaste.com/restaurants/89c13ecd-fadf-4c77-a1fb-db32d0f26ed3/images/4b3a9e43-ea06-4ff7-a5a9-ed61af27bd2b.jpeg",
@@ -4379,8 +4387,8 @@
       "latitude": 47.99786275798512,
       "longitude": 7.851534038587432,
       "avgRating": 4.9,
-      "ratingsCount": 513,
-      "reviewsCount": 128,
+      "ratingsCount": 514,
+      "reviewsCount": 129,
       "images": [
         "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/23f9ff26-1ad9-4f8d-93fa-586569dc6f9c.jpeg",
         "https://assets.neotaste.com/restaurants/6f0d4e29-4eab-4fc9-bbe1-a30f08d36be6/images/92819f04-f157-48e2-8ae2-c2e5dc0c3d8a.jpeg",
@@ -4653,8 +4661,8 @@
       "latitude": 47.99525156116014,
       "longitude": 7.848671391350975,
       "avgRating": 4.9,
-      "ratingsCount": 76,
-      "reviewsCount": 29,
+      "ratingsCount": 78,
+      "reviewsCount": 31,
       "images": [
         "https://assets.neotaste.com/restaurants/64b47761-7a22-4bc7-b8e6-ebb34797da3f/images/33108d2d-c941-446b-b8f2-eaee7fcb34d2.jpg",
         "https://assets.neotaste.com/restaurants/64b47761-7a22-4bc7-b8e6-ebb34797da3f/images/5f5b8225-208a-4ae6-b7a8-9b7ebfd7633f.jpg",
@@ -4707,8 +4715,8 @@
       "zipCode": "79115",
       "latitude": 47.97777145366275,
       "longitude": 7.824594152776761,
-      "avgRating": 4.9,
-      "ratingsCount": 254,
+      "avgRating": 4.8,
+      "ratingsCount": 253,
       "reviewsCount": 53,
       "images": [
         "https://assets.neotaste.com/restaurants/b7bc54be-e790-4290-a9f3-8ae499b1ca5d/images/08071694-6339-429e-ba7d-287c4b2faf80.jpeg",
@@ -4922,7 +4930,7 @@
       "latitude": 47.99460375823909,
       "longitude": 7.852621798686205,
       "avgRating": 4.9,
-      "ratingsCount": 249,
+      "ratingsCount": 250,
       "reviewsCount": 37,
       "images": [
         "https://assets.neotaste.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
@@ -5683,7 +5691,7 @@
       "latitude": 47.992546557769,
       "longitude": 7.852472618930051,
       "avgRating": 4.9,
-      "ratingsCount": 263,
+      "ratingsCount": 264,
       "reviewsCount": 63,
       "images": [
         "https://assets.neotaste.com/restaurants/592e036a-576e-44cd-9b8d-26d6398ec290/images/47db98a3-6dce-41ce-a1a1-c580975119c3.jpeg",
@@ -5901,7 +5909,7 @@
       "latitude": 47.99828542107102,
       "longitude": 7.854940873097275,
       "avgRating": 4.7,
-      "ratingsCount": 26,
+      "ratingsCount": 27,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotaste.com/restaurants/4395c488-8650-48ce-a924-e26ebbec9168/images/4cc0c931-572a-4dae-b5f0-37ef4edc8040.jpeg",
@@ -6074,6 +6082,64 @@
         "https://assets.neotaste.com/restaurants/25eb0ff6-63d2-43d4-a478-7cb87955933b/images/a2af591e-0a99-4f56-be23-e8f2dfc9278d.jpg"
       ],
       "priceRange": 1
+    },
+    {
+      "name": "Tama Bistro",
+      "uuid": "df825251-8caf-413d-a256-a7e5fa7557cd",
+      "deals": [
+        {
+          "uuid": "bf3857a9-ac82-4650-9270-1e6153566c2c",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 15,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "f282469b-9cfa-42a2-ab8b-20536faf05bb",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a free soft drink with it.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Günterstalstraße 37",
+      "zipCode": "79102",
+      "latitude": 47.986424,
+      "longitude": 7.8479807,
+      "avgRating": 4.9,
+      "ratingsCount": 56,
+      "reviewsCount": 26,
+      "images": [
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/ab0c620e-9e06-43e8-afaa-747413065b8a.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/a2001a5f-40cc-46fb-a4c2-c36708cfdfd5.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/13a24452-91c5-41dd-977e-920754236921.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/d92b1bfc-5070-44ed-b19f-dbc1ea4284ce.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/47f29694-f05b-4884-91e2-2bc9d4d46c95.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/57d7f016-97a6-4126-b630-ec7c268a8835.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/c962d822-6b84-470d-9ab4-ccfdecc60fd4.jpg",
+        "https://assets.neotaste.com/restaurants/df825251-8caf-413d-a256-a7e5fa7557cd/images/cd066478-cefc-47b3-b5c7-f2c771de9f2f.jpg"
+      ],
+      "priceRange": 2
     },
     {
       "name": "Piazza Italia",
