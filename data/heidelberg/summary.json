@@ -4183,9 +4183,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 80
+    },
+    {
+      "date": "2026-01-31",
+      "total_restaurants": 41,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 82
     }
   ],
-  "last_updated": "2026-01-30",
+  "last_updated": "2026-01-31",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -4231,8 +4239,8 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1251,
-      "reviewsCount": 248,
+      "ratingsCount": 1253,
+      "reviewsCount": 249,
       "images": [
         "https://assets.neotastecdn.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
         "https://assets.neotastecdn.com/restaurants/a4b76ad7-944b-427b-b7e2-fc88b397d81f/images/c065896b-489f-479a-868f-11bb98782a0a.jpeg",
@@ -4288,8 +4296,8 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.9,
-      "ratingsCount": 1036,
-      "reviewsCount": 185,
+      "ratingsCount": 1038,
+      "reviewsCount": 186,
       "images": [
         "https://assets.neotastecdn.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
         "https://assets.neotastecdn.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
@@ -4841,7 +4849,7 @@
       "latitude": 49.41056134310209,
       "longitude": 8.699810169612721,
       "avgRating": 4.9,
-      "ratingsCount": 189,
+      "ratingsCount": 190,
       "reviewsCount": 52,
       "images": [
         "https://assets.neotastecdn.com/restaurants/88827cc6-c5fd-47dd-bae3-5082076cbd25/images/8e385050-9180-48b6-a255-71c12e0e5d93.jpeg",
@@ -6373,6 +6381,60 @@
         "https://assets.neotastecdn.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/c3377075-c7cc-4654-af15-137295c00960.jpeg",
         "https://assets.neotastecdn.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/430a9fbe-2422-49a4-a461-c11442212da8.jpeg",
         "https://assets.neotastecdn.com/restaurants/77fbf47e-8ac2-45c4-8a34-6eedf3d636c2/images/86443a1e-a770-4519-b10d-638877d9e69e.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Burgerfahrbrik Eppelheim",
+      "uuid": "9dc7e551-ce00-45e7-a286-136ff8ba6a39",
+      "deals": [
+        {
+          "uuid": "21e1ef78-6cf5-4709-a451-8944fa90e346",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 20,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "c5f9fb37-3cd8-443d-bf2f-3fffa0fd1bee",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 30,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Hauptstraße 83",
+      "zipCode": "69214",
+      "latitude": 49.4014676,
+      "longitude": 8.6286404,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/34f12783-713a-4bca-a7a7-e98b46b9f5d2.jpg",
+        "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/b42c4eb6-b892-49a4-8d30-fcd9cdd94dbc.jpg",
+        "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/b55a258c-d2f9-49c9-b131-04270c50c31c.jpg",
+        "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/80e452bc-e234-4c92-a0ce-e9e07e1d97ab.jpg"
       ],
       "priceRange": 2
     }
