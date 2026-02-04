@@ -4215,9 +4215,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 74
+    },
+    {
+      "date": "2026-02-04",
+      "total_restaurants": 39,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 78
     }
   ],
-  "last_updated": "2026-02-03",
+  "last_updated": "2026-02-04",
   "restaurants": [
     {
       "name": "asiahung Mannheim Hbf",
@@ -4262,8 +4270,8 @@
       "zipCode": "68161",
       "latitude": 49.47940029999999,
       "longitude": 8.4704508,
-      "avgRating": 4,
-      "ratingsCount": 28,
+      "avgRating": 4.1,
+      "ratingsCount": 29,
       "reviewsCount": 11,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
@@ -4372,7 +4380,7 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 716,
+      "ratingsCount": 717,
       "reviewsCount": 248,
       "images": [
         "https://assets.neotastecdn.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -5136,6 +5144,62 @@
         "https://assets.neotastecdn.com/restaurants/d5df1882-e24d-46f7-b8ea-f3ecf5acea6c/images/1e091d31-cf2a-46bf-8493-bdc5aa7ab427.jpeg",
         "https://assets.neotastecdn.com/restaurants/d5df1882-e24d-46f7-b8ea-f3ecf5acea6c/images/cb8798d4-3b75-4888-bbf7-9d1336f9ffb2.jpeg",
         "https://assets.neotastecdn.com/restaurants/d5df1882-e24d-46f7-b8ea-f3ecf5acea6c/images/2939868e-c304-4c1c-9506-51312c04dce2.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "HANS IM GLÜCK Glücksteinallee",
+      "uuid": "31c312d2-2d93-4805-bc0c-4cb6c7db5d50",
+      "deals": [
+        {
+          "uuid": "29a3e0a3-72e9-4561-7310-08dbf1adbfdb",
+          "name": "2for1 Burger",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 18,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "91663ec7-f21f-47bd-7311-08dbf1adbfdb",
+          "name": "2for1 Cocktail or Durstlöscher",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 cocktails/Durstlöscher of your choice, the cheaper/price-equal one is not charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Glücksteinallee 37",
+      "zipCode": "68163",
+      "latitude": 49.47569775730934,
+      "longitude": 8.472454841104417,
+      "avgRating": 4.7,
+      "ratingsCount": 458,
+      "reviewsCount": 61,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/9d21245f-55ae-40bc-87e4-e0a2dcbf639e.jpeg",
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/a16d3e75-756c-4a59-b5c8-2579f4db68e8.jpeg",
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/58aac113-e5f5-4bc0-8447-6f147a57a673.jpeg",
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/6d18ee58-2a92-4a68-b924-68b7f73805ac.jpeg",
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/de8387a9-cc9f-43fd-b101-f3bb1e1a140c.jpeg",
+        "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/1f0292cc-4b25-41d8-8ef4-0139137e4864.jpeg"
       ],
       "priceRange": 2
     },
@@ -6227,6 +6291,70 @@
       "images": [
         "https://assets.neotastecdn.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/5cd47da9-2381-4c16-9c3c-878519bd063c.jpeg",
         "https://assets.neotastecdn.com/restaurants/08e637ae-8634-47f6-8a35-e4e5784cf045/images/94b0302c-b12b-4445-a3e2-b96c633b01d1.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "FAGO Bistro",
+      "uuid": "407fa8c7-b16d-4bfe-bb2a-f1aa57331128",
+      "deals": [
+        {
+          "uuid": "d8fc49c9-222f-4086-94c5-4bf7fedb7ba9",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "d81b33c4-3572-48aa-86b5-4fb5f0932d35",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 3,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Dalbergstraße 15",
+      "zipCode": "68159",
+      "latitude": 49.4939771,
+      "longitude": 8.460337899999999,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/a89eed44-2f57-4253-b1f0-5bca18f98c97.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/44a346a0-59aa-44c1-b838-c3574e96237d.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/e2f3b4f2-62f3-432d-8bb4-7956588c0018.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/d8398534-7695-4ce7-8945-26ccba66621d.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/1f380c2a-9606-4651-b07e-32e31f87262e.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/8183d37e-ffb6-4e74-ba45-8a2e534f24e8.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/ad39a223-0573-4078-9310-db7771c2d099.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/e94116ce-d3b6-4580-9a8b-a0c70bf8ab2f.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/e16cd6ac-188f-4105-a169-fbbc4bc04a54.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/160b511a-4159-4d6e-9591-8c91ca022b55.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/a977cc73-a1f5-4f0a-baf6-5a6c9e4f60fe.jpeg",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/d5f5a033-0aa0-4e0d-bf09-6274109a4f08.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/d56fb054-c4b3-4379-a8c6-41637e7cfb79.png",
+        "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/9b111956-dd89-4ff3-bf82-9179494b5ed0.jpeg"
       ],
       "priceRange": 2
     }

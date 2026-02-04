@@ -216,8 +216,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1096,
-    "reviewsCount": 259,
+    "ratingsCount": 1097,
+    "reviewsCount": 260,
     "images": [
       "https://assets.neotastecdn.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/87b3c958-6bf3-4c15-8ace-52afa899f6f9.jpg",
       "https://assets.neotastecdn.com/restaurants/f7c291a7-98b5-477e-a374-6bac3edb2efe/images/a73f2b45-9eb8-4a14-8e72-80403318b31f.jpg",
@@ -295,7 +295,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 856,
+    "ratingsCount": 857,
     "reviewsCount": 201,
     "images": [
       "https://assets.neotastecdn.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
@@ -885,8 +885,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 215,
-    "reviewsCount": 64,
+    "ratingsCount": 216,
+    "reviewsCount": 65,
     "images": [
       "https://assets.neotastecdn.com/restaurants/53171a90-2ddc-44f0-869b-27ec73fae059/images/0e9d2ac1-08b0-4cea-afc4-51bcf0af2c41.jpeg"
     ],
@@ -2183,6 +2183,150 @@
       "https://assets.neotastecdn.com/restaurants/2222a9b4-3a5c-4fe3-b7fe-1a97410caaa0/images/19e0e325-a5f4-4761-a6a6-a0b0baa480e7.jpg",
       "https://assets.neotastecdn.com/restaurants/2222a9b4-3a5c-4fe3-b7fe-1a97410caaa0/images/61ed0bc4-fb9f-4f77-813f-a0dba5cec14a.jpg",
       "https://assets.neotastecdn.com/restaurants/2222a9b4-3a5c-4fe3-b7fe-1a97410caaa0/images/6f3f295b-daf1-4b4f-b2f8-0a8daf4551f5.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "740e11b4-3b30-4efe-99d8-fdfe38153e5b",
+    "name": "Pizza Safrano",
+    "slug": "pizza-safrano",
+    "address": "Mainzer Straße 36",
+    "addressOptional": null,
+    "zipCode": "55252",
+    "latitude": 50.0081292,
+    "longitude": 8.284435199999999,
+    "deals": [
+      {
+        "uuid": "09eab89b-761d-4e84-ae7c-6c074f5cce43",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 21,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "c388e552-d95a-4d10-bacd-4f4618023395",
+        "name": "30% Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Receive 30% discount on your entire bill!",
+        "locationCondition": "onSite",
+        "value": 6,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "pizza",
+        "name": "Pizza",
+        "category": "cuisine",
+        "emoji": "🍕"
+      },
+      {
+        "slug": "pasta",
+        "name": "Pasta",
+        "category": "cuisine",
+        "emoji": "🍝"
+      },
+      {
+        "slug": "italian",
+        "name": "Italian",
+        "category": "cuisine",
+        "emoji": "🍅"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotastecdn.com/restaurants/740e11b4-3b30-4efe-99d8-fdfe38153e5b/images/7f1a73d8-219b-462a-909a-1434234d814e.jpg",
+      "https://assets.neotastecdn.com/restaurants/740e11b4-3b30-4efe-99d8-fdfe38153e5b/images/243367a6-f8df-42d8-8107-1495d166c965.jpg",
+      "https://assets.neotastecdn.com/restaurants/740e11b4-3b30-4efe-99d8-fdfe38153e5b/images/37ecdaa6-dc15-4781-8642-dbe24507ba58.jpg"
+    ],
+    "priceRange": 2
+  },
+  {
+    "uuid": "505083f3-aa3c-48a1-93d3-e5c23496af6b",
+    "name": "BOWL ME UP - Poké Bowls & More",
+    "slug": "bowl-me-up-poke-bowls-more",
+    "address": "Mainzer Straße 36",
+    "addressOptional": null,
+    "zipCode": "55252",
+    "latitude": 50.0081608,
+    "longitude": 8.2844304,
+    "deals": [
+      {
+        "uuid": "de0c3c42-dea5-4386-81da-e0e5fcc8ec87",
+        "name": "2for1 Main Item",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+        "locationCondition": "onSite",
+        "value": 15,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      },
+      {
+        "uuid": "6ed5f983-b1d8-4e49-a8cf-602a6dea7f22",
+        "name": "30% Discount",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "Receive 30% discount on your entire bill!",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 30,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "bowls",
+        "name": "Bowls",
+        "category": "cuisine",
+        "emoji": "🥣"
+      },
+      {
+        "slug": "healthy",
+        "name": "Healthy",
+        "category": "diet-lifestyle",
+        "emoji": "🥗"
+      }
+    ],
+    "avgRating": 0,
+    "ratingsCount": 0,
+    "reviewsCount": 0,
+    "images": [
+      "https://assets.neotastecdn.com/restaurants/505083f3-aa3c-48a1-93d3-e5c23496af6b/images/5eede59d-c137-4fb7-a1b5-587e9893afbf.jpg",
+      "https://assets.neotastecdn.com/restaurants/505083f3-aa3c-48a1-93d3-e5c23496af6b/images/1eb4903e-8603-4d53-a80d-dda1eb189383.jpg",
+      "https://assets.neotastecdn.com/restaurants/505083f3-aa3c-48a1-93d3-e5c23496af6b/images/503eb594-1ec0-4741-a9cd-73e813195185.jpg"
     ],
     "priceRange": 2
   }
