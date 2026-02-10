@@ -4263,9 +4263,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 80
+    },
+    {
+      "date": "2026-02-10",
+      "total_restaurants": 40,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 80
     }
   ],
-  "last_updated": "2026-02-09",
+  "last_updated": "2026-02-10",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -4699,8 +4707,8 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 835,
-      "reviewsCount": 141,
+      "ratingsCount": 837,
+      "reviewsCount": 142,
       "images": [
         "https://assets.neotastecdn.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
         "https://assets.neotastecdn.com/restaurants/fd53a6ff-c44b-4fee-b639-b7b815244a67/images/3df9389f-8ae8-48f1-9b2e-818ba97cac06.jpeg",
@@ -6412,7 +6420,7 @@
           "name": "2for1 Main Item",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "You order 2 main courses of your choice, the cheaper/same-priced dish will not be charged.\n\nValid only for individual main courses and not for set meals.",
           "locationCondition": "onSite",
           "value": 20,
           "currency": {

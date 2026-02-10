@@ -4263,9 +4263,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 106
+    },
+    {
+      "date": "2026-02-10",
+      "total_restaurants": 54,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2026-02-09",
+  "last_updated": "2026-02-10",
   "restaurants": [
     {
       "name": "Burgerheart",
@@ -4311,8 +4319,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1652,
-      "reviewsCount": 412,
+      "ratingsCount": 1655,
+      "reviewsCount": 414,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -4424,7 +4432,7 @@
       "latitude": 49.0046508961271,
       "longitude": 8.429005526606517,
       "avgRating": 4.9,
-      "ratingsCount": 586,
+      "ratingsCount": 587,
       "reviewsCount": 123,
       "images": [
         "https://assets.neotastecdn.com/restaurants/124422c7-1d0a-44f7-b527-fec0589ae750/images/1d5f647e-d79c-4bf2-bc39-1ffa167febdd.jpeg",
@@ -4536,7 +4544,7 @@
       "latitude": 49.00725719308303,
       "longitude": 8.424511888085393,
       "avgRating": 4.9,
-      "ratingsCount": 306,
+      "ratingsCount": 307,
       "reviewsCount": 60,
       "images": [
         "https://assets.neotastecdn.com/restaurants/f234a9ce-ad82-473c-ba64-4eee15fd8091/images/fc8ab3ff-cc45-485e-b9a5-5f96906eada0.jpeg",
@@ -4699,7 +4707,7 @@
       "latitude": 49.0106808588777,
       "longitude": 8.395981676237538,
       "avgRating": 4.9,
-      "ratingsCount": 355,
+      "ratingsCount": 356,
       "reviewsCount": 125,
       "images": [
         "https://assets.neotastecdn.com/restaurants/798b4fec-902d-4d6c-bbb2-3347347169e2/images/c922af13-db41-4f8d-a592-214b5a510176.jpeg",
@@ -5406,8 +5414,8 @@
       "latitude": 49.0097084891021,
       "longitude": 8.405141434360411,
       "avgRating": 4.8,
-      "ratingsCount": 147,
-      "reviewsCount": 31,
+      "ratingsCount": 149,
+      "reviewsCount": 33,
       "images": [
         "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
         "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/ab259520-d18b-4df7-9ebe-dfa6c86764aa.jpeg",
@@ -6075,6 +6083,59 @@
         "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/b5f6f9a4-1ecb-4198-be73-2b3dee23f850.jpeg",
         "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/32c9eacb-e9cb-4045-96be-b327660ecf15.jpeg",
         "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/f457d157-4348-462a-8883-a638aaa386b4.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Eiscafé La Gusto",
+      "uuid": "9a67fbec-96e7-49f6-8bc7-b268c4182e3d",
+      "deals": [
+        {
+          "uuid": "9d694189-ca68-43bd-d195-08dc54ced143",
+          "name": "2for1 Ice Cream Scoop",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 ice cream scoops of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 2,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "17853f7f-eded-4c18-d196-08dc54ced143",
+          "name": "2for1 Slush Ice",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 slushies of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Rheinstraße 14B",
+      "zipCode": "76185",
+      "latitude": 49.01167520451665,
+      "longitude": 8.363429905773868,
+      "avgRating": 4.9,
+      "ratingsCount": 49,
+      "reviewsCount": 25,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/31884615-e1c3-4f26-a517-98f2700487b0/images/8c413c27-ce68-41cf-b5d3-00c77dc31f6f.jpeg",
+        "https://assets.neotastecdn.com/restaurants/31884615-e1c3-4f26-a517-98f2700487b0/images/8ca178b3-f382-4a32-b01f-5490f1bf896c.jpeg",
+        "https://assets.neotastecdn.com/restaurants/31884615-e1c3-4f26-a517-98f2700487b0/images/1e012ee7-e175-4133-90d6-682b81b26093.jpeg"
       ],
       "priceRange": 2
     },
@@ -7062,8 +7123,8 @@
       "latitude": 49.00646219999999,
       "longitude": 8.4021213,
       "avgRating": 4.6,
-      "ratingsCount": 34,
-      "reviewsCount": 8,
+      "ratingsCount": 35,
+      "reviewsCount": 9,
       "images": [
         "https://assets.neotastecdn.com/restaurants/db2c21af-5265-4da6-a924-4bc89f56f5f6/images/91ff08be-8bc7-4de2-a2f3-85435ae7427a.jpg",
         "https://assets.neotastecdn.com/restaurants/db2c21af-5265-4da6-a924-4bc89f56f5f6/images/d909e472-14cd-43de-87d1-b908ec006da5.jpg",
@@ -7116,8 +7177,8 @@
       "latitude": 49.00282465752668,
       "longitude": 8.383064200001485,
       "avgRating": 5,
-      "ratingsCount": 4,
-      "reviewsCount": 3,
+      "ratingsCount": 5,
+      "reviewsCount": 4,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b0d11742-7908-4b22-bf96-6e75931a17ee/images/6a139492-6623-475d-9c8e-6bac6ff4eae9.png",
         "https://assets.neotastecdn.com/restaurants/b0d11742-7908-4b22-bf96-6e75931a17ee/images/c01e800c-fa1c-4f2f-9100-c9f98b15a4ca.jpg",
