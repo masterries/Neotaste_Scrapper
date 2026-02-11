@@ -293,70 +293,17 @@
     "uuid": "6e937ac7-2e3d-44ec-a4bf-1ca92800175f",
     "name": "Elli‘s Café",
     "slug": "ellis-cafe",
-    "address": "Rempartstraße 9",
-    "addressOptional": null,
-    "zipCode": "79098",
+    "address": "",
+    "addressOptional": "",
+    "zipCode": "",
     "latitude": 47.99280651443057,
     "longitude": 7.847862672672846,
-    "deals": [
-      {
-        "uuid": "a54b8545-5b30-405a-f8e4-08dc9a9c0f6b",
-        "name": "2for1 Bagel",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "Order 2 bagels of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "d80651c5-31ba-4b79-f8e5-08dc9a9c0f6b",
-        "name": "FREE Hot Drink",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "Order a dish of your choice and receive a free hot drink.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 30,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café",
-        "category": "cuisine",
-        "emoji": "☕"
-      },
-      {
-        "slug": "desserts",
-        "name": "Desserts",
-        "category": "cuisine",
-        "emoji": "🍰"
-      }
-    ],
+    "deals": [],
+    "tags": [],
     "avgRating": 4.9,
-    "ratingsCount": 355,
-    "reviewsCount": 61,
-    "images": [
-      "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
-      "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/bccdfa40-b3dd-4806-9b9a-6d1289f2640f.jpeg",
-      "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/715c7196-7613-4ce3-9e1d-7f753cd1cd28.jpeg",
-      "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/d5d3fe89-00f0-408a-bdc5-b0c085bdba9b.jpeg"
-    ],
+    "ratingsCount": 356,
+    "reviewsCount": null,
+    "images": [],
     "priceRange": 2
   },
   {
@@ -502,8 +449,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 220,
-    "reviewsCount": 72,
+    "ratingsCount": 221,
+    "reviewsCount": 73,
     "images": [
       "https://assets.neotastecdn.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/7ea16cd1-13c5-42d0-90d2-c3f3e86dc534.jpeg",
       "https://assets.neotastecdn.com/restaurants/f6d00593-fb11-496b-9978-3c74e3190e82/images/f01d0855-9285-4875-bc74-f78564b78ee2.jpeg"
@@ -1006,7 +953,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 254,
+    "ratingsCount": 255,
     "reviewsCount": 38,
     "images": [
       "https://assets.neotastecdn.com/restaurants/989f5c9a-e168-4632-8e40-f2047252416a/images/dce91085-c00b-4c68-846c-b27c5a0e7d61.jpeg",
