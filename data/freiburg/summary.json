@@ -4279,9 +4279,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 74
+    },
+    {
+      "date": "2026-02-12",
+      "total_restaurants": 38,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 76
     }
   ],
-  "last_updated": "2026-02-11",
+  "last_updated": "2026-02-12",
   "restaurants": [
     {
       "name": "L'Osteria Freiburg Rempartstraße",
@@ -4512,15 +4520,55 @@
     {
       "name": "Elli‘s Café",
       "uuid": "6e937ac7-2e3d-44ec-a4bf-1ca92800175f",
-      "deals": [],
-      "address": "",
-      "zipCode": "",
+      "deals": [
+        {
+          "uuid": "a54b8545-5b30-405a-f8e4-08dc9a9c0f6b",
+          "name": "2for1 Bagel",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 bagels of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "d80651c5-31ba-4b79-f8e5-08dc9a9c0f6b",
+          "name": "FREE Hot Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a dish of your choice and receive a free hot drink.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Rempartstraße 9",
+      "zipCode": "79098",
       "latitude": 47.99280651443057,
       "longitude": 7.847862672672846,
       "avgRating": 4.9,
-      "ratingsCount": 356,
-      "reviewsCount": null,
-      "images": [],
+      "ratingsCount": 358,
+      "reviewsCount": 63,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/e0e48638-e7ae-49ba-99ad-89a383797903.jpeg",
+        "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/bccdfa40-b3dd-4806-9b9a-6d1289f2640f.jpeg",
+        "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/715c7196-7613-4ce3-9e1d-7f753cd1cd28.jpeg",
+        "https://assets.neotastecdn.com/restaurants/346a8715-4166-4477-afba-477b0d100106/images/d5d3fe89-00f0-408a-bdc5-b0c085bdba9b.jpeg"
+      ],
       "priceRange": 2
     },
     {
@@ -5165,7 +5213,7 @@
       "latitude": 47.99880664830506,
       "longitude": 7.839823582447768,
       "avgRating": 4.8,
-      "ratingsCount": 240,
+      "ratingsCount": 241,
       "reviewsCount": 64,
       "images": [
         "https://assets.neotastecdn.com/restaurants/c4966682-7ed9-4c6a-896b-ea37ec2cb1d4/images/3bb1cb50-c99f-4fd7-91ca-1b8c361a54c0.jpeg",
@@ -5928,8 +5976,8 @@
       "latitude": 47.99804035792975,
       "longitude": 7.838011625069348,
       "avgRating": 4.9,
-      "ratingsCount": 109,
-      "reviewsCount": 32,
+      "ratingsCount": 110,
+      "reviewsCount": 33,
       "images": [
         "https://assets.neotastecdn.com/restaurants/15df535f-fbf9-4c6f-b6ef-ecc69731b0b1/images/2d3d22d2-be64-43f1-861d-46f3d932d3b3.jpeg",
         "https://assets.neotastecdn.com/restaurants/15df535f-fbf9-4c6f-b6ef-ecc69731b0b1/images/fb15b31a-cce6-43f3-85a0-7c9618a75852.jpeg",
