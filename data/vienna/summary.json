@@ -4287,10 +4287,87 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 620
+    },
+    {
+      "date": "2026-02-13",
+      "total_restaurants": 306,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 615
     }
   ],
-  "last_updated": "2026-02-12",
+  "last_updated": "2026-02-13",
   "restaurants": [
+    {
+      "name": "Dönermeister",
+      "uuid": "1ff61718-a2fc-4c42-a126-d504bd963621",
+      "deals": [
+        {
+          "uuid": "cfba1127-e147-47e0-9aa4-59a9061a6dac",
+          "name": "€5 Bowl",
+          "eventDeal": true,
+          "remainingDaysToReset": null,
+          "conditions": "You order a bowl of your choice and pay only €5",
+          "locationCondition": "onSite",
+          "value": 8,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "6099971b-a813-4e4b-9c67-8d43724357a7",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "4a057b23-c7f4-41f6-a437-a495bec59b3a",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a Döner of your choice and get a drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Alser Straße 19",
+      "zipCode": "1080",
+      "latitude": 48.21482690000001,
+      "longitude": 16.3516611,
+      "avgRating": 4.7,
+      "ratingsCount": 86,
+      "reviewsCount": 8,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/1ff61718-a2fc-4c42-a126-d504bd963621/images/91cf05a3-851f-4fe1-bc43-1c6cb9fc4629.png",
+        "https://assets.neotastecdn.com/restaurants/1ff61718-a2fc-4c42-a126-d504bd963621/images/96d3c5aa-baa6-4e53-aa3a-fac6c06f2ea0.png"
+      ],
+      "priceRange": 1
+    },
     {
       "name": "Ramen Makotoya RATHAUS",
       "uuid": "6d242b13-85cc-4089-9fab-7c08340a9e86",
@@ -4335,8 +4412,8 @@
       "latitude": 48.21285855075646,
       "longitude": 16.35860998371256,
       "avgRating": 4.9,
-      "ratingsCount": 4866,
-      "reviewsCount": 1181,
+      "ratingsCount": 4876,
+      "reviewsCount": 1183,
       "images": [
         "https://assets.neotastecdn.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/7103faef-1733-4c95-988f-faa6370c0382.jpg",
         "https://assets.neotastecdn.com/restaurants/6d242b13-85cc-4089-9fab-7c08340a9e86/images/4f0c1afd-7257-4606-8d42-ebea799287f0.jpg",
@@ -4391,8 +4468,8 @@
       "latitude": 48.21320345060953,
       "longitude": 16.3628381049878,
       "avgRating": 4.8,
-      "ratingsCount": 2862,
-      "reviewsCount": 457,
+      "ratingsCount": 2867,
+      "reviewsCount": 459,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/28c004fe-0b4e-401e-9eb8-4842995ce223.jpg",
         "https://assets.neotastecdn.com/restaurants/a73c8221-72c8-4028-86ae-cba943c69981/images/3fa7c661-345d-4e12-966d-2fb9301a4181.jpg",
@@ -4462,8 +4539,8 @@
       "latitude": 48.19525869999999,
       "longitude": 16.3404039,
       "avgRating": 4.8,
-      "ratingsCount": 2511,
-      "reviewsCount": 673,
+      "ratingsCount": 2513,
+      "reviewsCount": 674,
       "images": [
         "https://assets.neotastecdn.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/93414849-2b9d-46f9-b656-88774bfa02c9.jpeg",
         "https://assets.neotastecdn.com/restaurants/7cc995ed-ed13-443a-9ff7-1bb6a48a2b62/images/eedf9748-270d-4da8-a0b6-d36190261bd1.jpg",
@@ -4540,8 +4617,8 @@
       "latitude": 48.1867601,
       "longitude": 16.378678,
       "avgRating": 4.8,
-      "ratingsCount": 2520,
-      "reviewsCount": 702,
+      "ratingsCount": 2524,
+      "reviewsCount": 703,
       "images": [
         "https://assets.neotastecdn.com/restaurants/936ace79-43e9-4456-bbde-fd8b111c0fe5/images/dc8a0689-0e56-4026-bbff-fb16a1585d14.jpg",
         "https://assets.neotastecdn.com/restaurants/936ace79-43e9-4456-bbde-fd8b111c0fe5/images/bcd16b2f-7f91-479a-b376-890b9b0ec46e.jpeg",
@@ -4597,8 +4674,8 @@
       "latitude": 48.24235805955424,
       "longitude": 16.43346501627905,
       "avgRating": 4.8,
-      "ratingsCount": 1508,
-      "reviewsCount": 263,
+      "ratingsCount": 1509,
+      "reviewsCount": 264,
       "images": [
         "https://assets.neotastecdn.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/56f33bc7-0d93-4a22-a11d-a69399070395.jpg",
         "https://assets.neotastecdn.com/restaurants/2562fbbd-112c-428e-8434-54a3ace24d00/images/b8e8b0d1-a161-4bf6-be55-f10821e522e7.jpg",
@@ -4658,8 +4735,8 @@
       "latitude": 48.20987795399898,
       "longitude": 16.37524841465155,
       "avgRating": 4.8,
-      "ratingsCount": 1491,
-      "reviewsCount": 301,
+      "ratingsCount": 1492,
+      "reviewsCount": 302,
       "images": [
         "https://assets.neotastecdn.com/restaurants/014129aa-e86f-4149-96fb-9483f2fb2f11/images/a034aa4f-f672-4203-a175-17ec26e58338.jpeg",
         "https://assets.neotastecdn.com/restaurants/014129aa-e86f-4149-96fb-9483f2fb2f11/images/71c971cf-49cc-43df-b0a7-940a0482b521.jpeg",
@@ -4715,7 +4792,7 @@
       "latitude": 48.21347795956346,
       "longitude": 16.36227535392747,
       "avgRating": 4.9,
-      "ratingsCount": 1434,
+      "ratingsCount": 1436,
       "reviewsCount": 215,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d160d3e2-f5e5-459d-9c03-25c0284134df/images/6febfb1d-a179-4650-a536-8b06b91d7999.jpeg",
@@ -4834,7 +4911,7 @@
       "latitude": 48.22634802040111,
       "longitude": 16.3627167292865,
       "avgRating": 4.8,
-      "ratingsCount": 1250,
+      "ratingsCount": 1252,
       "reviewsCount": 261,
       "images": [
         "https://assets.neotastecdn.com/restaurants/e82d34af-7f59-4906-bad5-2512b2748967/images/19652f8d-1afb-4e17-a3b5-7e7b11144bbd.jpeg",
@@ -4891,7 +4968,7 @@
       "latitude": 48.21121911497066,
       "longitude": 16.37506701735875,
       "avgRating": 4.8,
-      "ratingsCount": 1419,
+      "ratingsCount": 1420,
       "reviewsCount": 303,
       "images": [
         "https://assets.neotastecdn.com/restaurants/5d6851f6-6ea5-4ba2-b060-bb3ed26cc753/images/57f0aa24-5c0a-4449-a341-75a6ce59c9ea.jpeg",
@@ -5060,8 +5137,8 @@
       "latitude": 48.21405982101841,
       "longitude": 16.38446390106544,
       "avgRating": 4.9,
-      "ratingsCount": 1394,
-      "reviewsCount": 312,
+      "ratingsCount": 1395,
+      "reviewsCount": 313,
       "images": [
         "https://assets.neotastecdn.com/restaurants/fcfdac8b-563f-4421-8a06-03d86200acd2/images/c5e520e1-8b27-4098-84f0-21ca2e996d65.jpeg",
         "https://assets.neotastecdn.com/restaurants/fcfdac8b-563f-4421-8a06-03d86200acd2/images/f2457ca1-406d-4e7d-839f-e25918c1233c.jpeg",
@@ -5119,7 +5196,7 @@
       "latitude": 48.20174627113067,
       "longitude": 16.36264086157258,
       "avgRating": 4.9,
-      "ratingsCount": 1150,
+      "ratingsCount": 1153,
       "reviewsCount": 294,
       "images": [
         "https://assets.neotastecdn.com/restaurants/9e234783-5d76-425f-a6c6-418d8916908c/images/8b2e36dd-a918-4c62-8a7a-ac0fbb96d955.png",
@@ -5171,8 +5248,8 @@
       "latitude": 48.20878557439816,
       "longitude": 16.34913243820946,
       "avgRating": 4.9,
-      "ratingsCount": 1437,
-      "reviewsCount": 350,
+      "ratingsCount": 1441,
+      "reviewsCount": 351,
       "images": [
         "https://assets.neotastecdn.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/37c37d57-2e13-4ec5-84bd-6a9676586a0b.jpeg",
         "https://assets.neotastecdn.com/restaurants/76e2b4a0-ef76-4294-8036-cdf312191c5f/images/948b813e-3cbd-4d8f-a2bd-48a9df48fc7e.jpeg",
@@ -5226,7 +5303,7 @@
       "latitude": 48.197885,
       "longitude": 16.3679148,
       "avgRating": 4.8,
-      "ratingsCount": 821,
+      "ratingsCount": 822,
       "reviewsCount": 146,
       "images": [
         "https://assets.neotastecdn.com/restaurants/359c294f-dc13-4203-9ba7-930b9eeb8bc0/images/021dded5-38e4-419c-83c5-89c4d4cbc18a.jpg",
@@ -5279,8 +5356,8 @@
       "latitude": 48.19695029461962,
       "longitude": 16.34451973205828,
       "avgRating": 4.8,
-      "ratingsCount": 839,
-      "reviewsCount": 178,
+      "ratingsCount": 840,
+      "reviewsCount": 179,
       "images": [
         "https://assets.neotastecdn.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/972e7120-307c-429a-8aeb-4252274072a4.jpeg",
         "https://assets.neotastecdn.com/restaurants/f061db40-a1e7-4af1-b405-d340c20802cc/images/e6636686-04dd-45b4-b12d-ab42e4003435.jpeg",
@@ -5494,7 +5571,7 @@
       "latitude": 48.19748329845659,
       "longitude": 16.34406685739815,
       "avgRating": 4.9,
-      "ratingsCount": 2596,
+      "ratingsCount": 2599,
       "reviewsCount": 607,
       "images": [
         "https://assets.neotastecdn.com/restaurants/4cff5046-8d40-4acf-aa4c-d99eb140b8ac/images/b5f837cd-8570-4160-88dd-359f6cc6795b.jpg",
@@ -5827,8 +5904,8 @@
       "latitude": 48.1809076,
       "longitude": 16.3348313,
       "avgRating": 4.9,
-      "ratingsCount": 269,
-      "reviewsCount": 100,
+      "ratingsCount": 271,
+      "reviewsCount": 101,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ef3b7a78-22d1-45c0-a4bf-a599829f10ef/images/bd27adf7-e822-47ef-905c-0f135d12fcde.jpeg",
         "https://assets.neotastecdn.com/restaurants/ef3b7a78-22d1-45c0-a4bf-a599829f10ef/images/97c9b4f7-f271-40a4-93b8-5ac9bec44ae3.jpeg",
@@ -5889,60 +5966,6 @@
       "images": [
         "https://assets.neotastecdn.com/restaurants/ce35ef21-81d4-476b-810f-e1f328e4069f/images/842150e2-9871-4e6f-aa79-02db95987d7e.png",
         "https://assets.neotastecdn.com/restaurants/ce35ef21-81d4-476b-810f-e1f328e4069f/images/016596f7-fed4-4539-815b-9e518533ec57.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "KALIMERA1180 café | restaurant | bar",
-      "uuid": "c4595879-ffca-455a-b27c-c4907257885f",
-      "deals": [
-        {
-          "uuid": "384f61b9-5bdb-4167-b227-cde199d37dd9",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "d79f817e-623d-4ef8-83cd-882e253a40b1",
-          "name": "FREE Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a cake of your choice and get a coffee for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Währinger Gürtel 107",
-      "zipCode": "1180",
-      "latitude": 48.2286304,
-      "longitude": 16.3497065,
-      "avgRating": 4.8,
-      "ratingsCount": 37,
-      "reviewsCount": 18,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/1e0ee65f-a2e9-4662-9d66-2ca192f6c3a3.jpg",
-        "https://assets.neotastecdn.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/e555bb69-8743-45ac-84be-ed6612b2c51b.jpg",
-        "https://assets.neotastecdn.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/b2b51464-ef6e-4809-9d61-fb88ec2bc119.jpg",
-        "https://assets.neotastecdn.com/restaurants/c4595879-ffca-455a-b27c-c4907257885f/images/0741e1b0-a6f5-405b-9562-bf9efb6b93a9.jpg"
       ],
       "priceRange": 2
     },
@@ -6154,8 +6177,8 @@
       "latitude": 48.21286086318764,
       "longitude": 16.36880019687002,
       "avgRating": 4.9,
-      "ratingsCount": 233,
-      "reviewsCount": 43,
+      "ratingsCount": 234,
+      "reviewsCount": 44,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a18ed08b-2c7d-4f8d-84cd-ba3116bbdc89/images/38b5253a-9128-4b0a-9b8e-295f8d7fd88f.jpeg",
         "https://assets.neotastecdn.com/restaurants/a18ed08b-2c7d-4f8d-84cd-ba3116bbdc89/images/0d92adef-e27b-4484-a28f-f2070a433d37.jpeg",
@@ -6526,7 +6549,7 @@
       "latitude": 48.2063147,
       "longitude": 16.383115,
       "avgRating": 4.7,
-      "ratingsCount": 213,
+      "ratingsCount": 214,
       "reviewsCount": 53,
       "images": [
         "https://assets.neotastecdn.com/restaurants/df377168-c5d5-41b8-be87-38b7c0d050b4/images/11d9caba-2af9-45ab-81ca-ef78d99dd41c.jpeg",
@@ -6579,7 +6602,7 @@
       "latitude": 48.22361694716474,
       "longitude": 16.35312957987724,
       "avgRating": 4.8,
-      "ratingsCount": 85,
+      "ratingsCount": 86,
       "reviewsCount": 22,
       "images": [
         "https://assets.neotastecdn.com/restaurants/e8ebe222-6735-4eff-a42d-491fd66ed3b5/images/82b5e562-4986-4ee9-8508-6134c8be8783.jpg",
@@ -6741,8 +6764,8 @@
       "latitude": 48.19424507860946,
       "longitude": 16.3514599028612,
       "avgRating": 4.8,
-      "ratingsCount": 158,
-      "reviewsCount": 43,
+      "ratingsCount": 159,
+      "reviewsCount": 44,
       "images": [
         "https://assets.neotastecdn.com/restaurants/5d42c085-4f33-43be-a149-0188c3e3ef77/images/3bdf2291-c8c0-49e0-a84e-a133c3a6a5ae.jpeg",
         "https://assets.neotastecdn.com/restaurants/5d42c085-4f33-43be-a149-0188c3e3ef77/images/0da7340c-776f-4f87-86dd-bf14397b8459.jpeg",
@@ -7132,8 +7155,8 @@
       "latitude": 48.19789749999999,
       "longitude": 16.3556447,
       "avgRating": 4.9,
-      "ratingsCount": 242,
-      "reviewsCount": 78,
+      "ratingsCount": 243,
+      "reviewsCount": 79,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d776ffa0-a87f-408e-b389-63f61fa5e299/images/6bca85c2-4f70-458c-aacf-fdf387536bd1.jpeg",
         "https://assets.neotastecdn.com/restaurants/d776ffa0-a87f-408e-b389-63f61fa5e299/images/6bcdcfbc-3dd4-4f73-a9e0-dc22d4c8eb7f.jpeg",
@@ -7406,7 +7429,7 @@
       "latitude": 48.2147544,
       "longitude": 16.3518641,
       "avgRating": 4.8,
-      "ratingsCount": 299,
+      "ratingsCount": 301,
       "reviewsCount": 92,
       "images": [
         "https://assets.neotastecdn.com/restaurants/4c30373f-1eda-4146-b27d-ab8dbca969a8/images/8855bed0-a7cb-463d-a3b3-059d8950d08e.png",
@@ -7623,8 +7646,8 @@
       "latitude": 48.21630270781615,
       "longitude": 16.36314080156499,
       "avgRating": 4.9,
-      "ratingsCount": 298,
-      "reviewsCount": 67,
+      "ratingsCount": 299,
+      "reviewsCount": 68,
       "images": [
         "https://assets.neotastecdn.com/restaurants/52abe5d4-87b5-4fb8-9bd1-579b82d591de/images/4356f893-6cce-47c8-9ec5-9fa82d44d48b.jpg",
         "https://assets.neotastecdn.com/restaurants/52abe5d4-87b5-4fb8-9bd1-579b82d591de/images/d7237959-2f06-4b11-9e1b-87fe3682b497.jpg",
@@ -7732,7 +7755,7 @@
       "latitude": 48.21536892740141,
       "longitude": 16.35119203497991,
       "avgRating": 4.9,
-      "ratingsCount": 755,
+      "ratingsCount": 757,
       "reviewsCount": 132,
       "images": [
         "https://assets.neotastecdn.com/restaurants/45b13850-de43-42ef-b899-f1ff3fae38c5/images/9fa7cfbd-c2ba-4035-8ded-383537e74064.jpeg",
@@ -8337,7 +8360,7 @@
       "longitude": 16.4353958,
       "avgRating": 4.9,
       "ratingsCount": 1176,
-      "reviewsCount": 146,
+      "reviewsCount": 147,
       "images": [
         "https://assets.neotastecdn.com/restaurants/1ab737ff-e112-413c-8421-fe1af8631ea3/images/6ccb3351-edff-4739-aa27-4235539f8fc2.jpg",
         "https://assets.neotastecdn.com/restaurants/1ab737ff-e112-413c-8421-fe1af8631ea3/images/94cc47ba-48e3-4dce-ad25-bdc9cb894476.jpg",
@@ -8657,8 +8680,8 @@
       "latitude": 48.20334347611323,
       "longitude": 16.37124014166903,
       "avgRating": 4.8,
-      "ratingsCount": 722,
-      "reviewsCount": 198,
+      "ratingsCount": 723,
+      "reviewsCount": 199,
       "images": [
         "https://assets.neotastecdn.com/restaurants/658b85b6-a618-4acc-b4d5-b89767bcafb1/images/c9719d23-ae5a-4f3c-9ae8-b477139c44a8.jpeg",
         "https://assets.neotastecdn.com/restaurants/658b85b6-a618-4acc-b4d5-b89767bcafb1/images/03a23e7f-ef50-4537-bede-c3d1219cbbc7.jpeg",
@@ -8714,7 +8737,7 @@
       "latitude": 48.21215623920263,
       "longitude": 16.36898559566652,
       "avgRating": 4.9,
-      "ratingsCount": 231,
+      "ratingsCount": 232,
       "reviewsCount": 52,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ae43eed1-f71c-4ebe-9d1e-e1c1b3211643/images/dcf55ce8-a0f9-4483-ab23-4f2ada62e999.jpeg",
@@ -8827,7 +8850,7 @@
       "latitude": 48.20276512346013,
       "longitude": 16.39129040575648,
       "avgRating": 4.8,
-      "ratingsCount": 99,
+      "ratingsCount": 100,
       "reviewsCount": 30,
       "images": [
         "https://assets.neotastecdn.com/restaurants/4b3e8345-90b8-402c-bed3-cfb2cb27a217/images/fb40441a-8b62-4acb-9412-fd3f93f7289e.jpeg",
@@ -8987,7 +9010,7 @@
       "latitude": 48.21131363789038,
       "longitude": 16.3728906067455,
       "avgRating": 4.8,
-      "ratingsCount": 335,
+      "ratingsCount": 336,
       "reviewsCount": 64,
       "images": [
         "https://assets.neotastecdn.com/restaurants/37a02293-87c3-4a7d-83c9-18767bcbd95d/images/c3e12823-0ab3-4886-8a39-bd7ee9d2e40c.jpeg",
@@ -9792,8 +9815,8 @@
       "latitude": 48.21332920089331,
       "longitude": 16.37325047316404,
       "avgRating": 4.8,
-      "ratingsCount": 303,
-      "reviewsCount": 103,
+      "ratingsCount": 304,
+      "reviewsCount": 104,
       "images": [
         "https://assets.neotastecdn.com/restaurants/6222c128-4ea5-40fc-9f9e-2c959f02746b/images/edb19095-5086-4676-9748-e89a8a254eed.jpeg",
         "https://assets.neotastecdn.com/restaurants/6222c128-4ea5-40fc-9f9e-2c959f02746b/images/4fb810c0-ec5c-47b7-99e9-a97883888df7.jpeg",
@@ -10482,8 +10505,8 @@
       "latitude": 48.20729543673147,
       "longitude": 16.34845524855677,
       "avgRating": 4.9,
-      "ratingsCount": 621,
-      "reviewsCount": 142,
+      "ratingsCount": 623,
+      "reviewsCount": 144,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b9c31bbb-3fde-41f6-8537-333a597648bf/images/8233013b-1f5d-4d10-8ec1-391936bb668b.jpeg",
         "https://assets.neotastecdn.com/restaurants/b9c31bbb-3fde-41f6-8537-333a597648bf/images/ac565beb-3f54-4803-a93f-8ef68003a4ad.jpeg",
@@ -10701,7 +10724,7 @@
       "latitude": 48.21116903792953,
       "longitude": 16.37303315237813,
       "avgRating": 4.9,
-      "ratingsCount": 244,
+      "ratingsCount": 245,
       "reviewsCount": 34,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ec3821ab-4f41-4ffc-a28b-c1e7c828ae18/images/62dff8c0-db97-43dd-ad30-11b9578ac100.jpeg",
@@ -10754,7 +10777,7 @@
       "latitude": 48.20859943172405,
       "longitude": 16.37133785166111,
       "avgRating": 4.7,
-      "ratingsCount": 585,
+      "ratingsCount": 586,
       "reviewsCount": 128,
       "images": [
         "https://assets.neotastecdn.com/restaurants/6441b599-cd96-49b7-98b2-405108687b72/images/5d8c9ec4-ee66-4aae-89be-cfa32be12d53.jpeg",
@@ -11009,7 +11032,7 @@
       "latitude": 48.19008151729525,
       "longitude": 16.3891003010909,
       "avgRating": 4.9,
-      "ratingsCount": 703,
+      "ratingsCount": 704,
       "reviewsCount": 236,
       "images": [
         "https://assets.neotastecdn.com/restaurants/60b53f2a-2227-463a-8ad9-1c59da6edae8/images/1f7a3719-e9e4-4253-a98e-75d07ae547b1.jpeg",
@@ -12198,7 +12221,7 @@
       "latitude": 48.21876089689091,
       "longitude": 16.35761748295672,
       "avgRating": 4.8,
-      "ratingsCount": 435,
+      "ratingsCount": 436,
       "reviewsCount": 126,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b0f1b1ab-527f-4c80-b88e-c0234ea1bad0/images/353c0a2e-c1ee-4de8-b5b0-e654c8d0dcab.jpg",
@@ -12306,7 +12329,7 @@
       "latitude": 48.20977542342852,
       "longitude": 16.35503700575676,
       "avgRating": 4.8,
-      "ratingsCount": 127,
+      "ratingsCount": 128,
       "reviewsCount": 27,
       "images": [
         "https://assets.neotastecdn.com/restaurants/9daec9b1-a827-4d82-9fac-6d4760677243/images/90611984-3690-4e13-a512-376dc45f76f5.png",
@@ -12895,7 +12918,7 @@
       "latitude": 48.1907246,
       "longitude": 16.3713688,
       "avgRating": 4.8,
-      "ratingsCount": 70,
+      "ratingsCount": 71,
       "reviewsCount": 27,
       "images": [
         "https://assets.neotastecdn.com/restaurants/fc07a0fd-d815-46ca-89a1-a75d9b9706c6/images/76e6ba5e-9a74-47e2-9d70-34312c6996b3.jpeg",
@@ -12955,58 +12978,6 @@
         "https://assets.neotastecdn.com/restaurants/e0463e50-e1eb-468f-96be-81d1154228fa/images/217871bf-1cda-4861-8993-765873197552.png"
       ],
       "priceRange": 2
-    },
-    {
-      "name": "Dönermeister",
-      "uuid": "1ff61718-a2fc-4c42-a126-d504bd963621",
-      "deals": [
-        {
-          "uuid": "6099971b-a813-4e4b-9c67-8d43724357a7",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "4a057b23-c7f4-41f6-a437-a495bec59b3a",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a Döner of your choice and get a drink for free.",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Alser Straße 19",
-      "zipCode": "1080",
-      "latitude": 48.21482690000001,
-      "longitude": 16.3516611,
-      "avgRating": 4.7,
-      "ratingsCount": 86,
-      "reviewsCount": 8,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/1ff61718-a2fc-4c42-a126-d504bd963621/images/91cf05a3-851f-4fe1-bc43-1c6cb9fc4629.png",
-        "https://assets.neotastecdn.com/restaurants/1ff61718-a2fc-4c42-a126-d504bd963621/images/96d3c5aa-baa6-4e53-aa3a-fac6c06f2ea0.png"
-      ],
-      "priceRange": 1
     },
     {
       "name": "Das Kolin",
@@ -13447,7 +13418,7 @@
       "latitude": 48.21247855687368,
       "longitude": 16.34582239144088,
       "avgRating": 4.7,
-      "ratingsCount": 65,
+      "ratingsCount": 67,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotastecdn.com/restaurants/05abb34c-ab0b-46d4-b6d5-2d7f08e93271/images/109de5ba-382c-47f1-89c1-43acfb3d57f3.jpeg",
@@ -13608,7 +13579,7 @@
       "latitude": 48.21903828570458,
       "longitude": 16.38044317005717,
       "avgRating": 4.9,
-      "ratingsCount": 1028,
+      "ratingsCount": 1030,
       "reviewsCount": 211,
       "images": [
         "https://assets.neotastecdn.com/restaurants/1bba8aa8-12f0-40e7-bc54-86b6ef8ce1e4/images/94f214f8-69fd-4a80-9c38-417ce5c5e8a1.jpg",
@@ -13723,7 +13694,7 @@
       "latitude": 48.19679562888388,
       "longitude": 16.34549774944719,
       "avgRating": 4.8,
-      "ratingsCount": 381,
+      "ratingsCount": 382,
       "reviewsCount": 104,
       "images": [
         "https://assets.neotastecdn.com/restaurants/2dde64de-3d02-4265-927a-8660546ea9db/images/6cc8343f-33be-4ee3-b581-29376761463a.jpeg",
@@ -14000,7 +13971,7 @@
       "latitude": 48.18387459890945,
       "longitude": 16.32654691622457,
       "avgRating": 4.7,
-      "ratingsCount": 700,
+      "ratingsCount": 701,
       "reviewsCount": 172,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ef3f7aa0-cfcc-4c43-a90f-89191312183c/images/9a66d2b1-1b73-43f6-8398-1e00be5b3de6.jpg",
@@ -14061,7 +14032,7 @@
       "latitude": 48.2045363795148,
       "longitude": 16.33535725874,
       "avgRating": 4.8,
-      "ratingsCount": 587,
+      "ratingsCount": 589,
       "reviewsCount": 132,
       "images": [
         "https://assets.neotastecdn.com/restaurants/c38b7659-0e2a-4d9e-9caa-89109111f3cb/images/b1168a89-89c8-4c9c-bcf3-e8a23eb0f3ab.jpg",
@@ -14115,7 +14086,7 @@
       "latitude": 48.20091141396021,
       "longitude": 16.35846214692644,
       "avgRating": 4.8,
-      "ratingsCount": 1463,
+      "ratingsCount": 1462,
       "reviewsCount": 257,
       "images": [
         "https://assets.neotastecdn.com/restaurants/24021e66-f93d-4a5f-aaa6-56f50f5fc817/images/51bfc81b-6799-41a3-b6c8-78f73db9d471.jpg",
@@ -14175,7 +14146,7 @@
       "latitude": 48.20682972801007,
       "longitude": 16.38518468607424,
       "avgRating": 4.8,
-      "ratingsCount": 2233,
+      "ratingsCount": 2234,
       "reviewsCount": 419,
       "images": [
         "https://assets.neotastecdn.com/restaurants/06ac908a-a6eb-4ddf-96f0-d895a83accd6/images/284fb426-6330-436f-a2f0-1c75fc0acdd6.jpg",
@@ -14294,7 +14265,7 @@
       "latitude": 48.22193383225698,
       "longitude": 16.35293164462567,
       "avgRating": 4.8,
-      "ratingsCount": 158,
+      "ratingsCount": 159,
       "reviewsCount": 54,
       "images": [
         "https://assets.neotastecdn.com/restaurants/1eeed24b-bbdd-41e0-b40d-397be4177e96/images/6fc3f98a-74da-4a37-a69f-4d4e3bfc4f06.jpeg",
@@ -14348,7 +14319,7 @@
       "latitude": 48.10791890633989,
       "longitude": 16.31832410729087,
       "avgRating": 4.7,
-      "ratingsCount": 372,
+      "ratingsCount": 371,
       "reviewsCount": 84,
       "images": [
         "https://assets.neotastecdn.com/restaurants/1b226893-b7a1-4ba1-af70-af4cd02b0b00/images/be3ed0cc-1afb-4e22-b7dd-72099e00163c.jpg",
@@ -14402,8 +14373,8 @@
       "latitude": 48.17307803169982,
       "longitude": 16.41597935606418,
       "avgRating": 4.7,
-      "ratingsCount": 337,
-      "reviewsCount": 87,
+      "ratingsCount": 339,
+      "reviewsCount": 88,
       "images": [
         "https://assets.neotastecdn.com/restaurants/bf08e686-2bf0-4a32-bbcc-2caa9317bb7c/images/eaa626e2-c480-4187-a954-1aef4aa42509.jpg",
         "https://assets.neotastecdn.com/restaurants/bf08e686-2bf0-4a32-bbcc-2caa9317bb7c/images/6a8b1389-8889-42b1-be89-06dc2fa5e80a.jpg",
@@ -14456,8 +14427,8 @@
       "latitude": 48.20955419222283,
       "longitude": 16.36633652584302,
       "avgRating": 4.7,
-      "ratingsCount": 1274,
-      "reviewsCount": 179,
+      "ratingsCount": 1275,
+      "reviewsCount": 181,
       "images": [
         "https://assets.neotastecdn.com/restaurants/3a38c611-973c-4c1c-b51f-17e8a37526ae/images/26e55831-6b79-4524-af05-5235f3d47d27.jpg",
         "https://assets.neotastecdn.com/restaurants/3a38c611-973c-4c1c-b51f-17e8a37526ae/images/d396896a-7b41-4037-b3ba-e9537f7b3da5.jpg",
@@ -14567,7 +14538,7 @@
       "latitude": 48.21579460719003,
       "longitude": 16.34744591379199,
       "avgRating": 4.9,
-      "ratingsCount": 869,
+      "ratingsCount": 870,
       "reviewsCount": 164,
       "images": [
         "https://assets.neotastecdn.com/restaurants/45d86180-2cef-4cc8-9454-d9ada4774815/images/5f82a7b6-bb0f-4fe2-85dd-2b2d65030d4f.jpeg",
@@ -14628,8 +14599,8 @@
       "latitude": 48.21064654792261,
       "longitude": 16.34309339926297,
       "avgRating": 4.9,
-      "ratingsCount": 654,
-      "reviewsCount": 155,
+      "ratingsCount": 656,
+      "reviewsCount": 156,
       "images": [
         "https://assets.neotastecdn.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/0c63f441-02ad-44cc-aaf6-21ab948d3a5b.jpeg",
         "https://assets.neotastecdn.com/restaurants/e24652d7-6d30-4b81-8aba-27026f71f903/images/b89a4065-640d-4c82-a07c-cb3b8a5e161e.jpeg",
@@ -14688,7 +14659,7 @@
       "latitude": 48.11270884624685,
       "longitude": 16.3186110468443,
       "avgRating": 4.9,
-      "ratingsCount": 1574,
+      "ratingsCount": 1576,
       "reviewsCount": 264,
       "images": [
         "https://assets.neotastecdn.com/restaurants/bbb90d23-0eb9-4fc2-9ba0-a439e47b1c49/images/ffb9e02b-d7b9-43e5-95d7-137c31c27375.jpg",
@@ -14748,7 +14719,7 @@
       "latitude": 48.18444751977836,
       "longitude": 16.37790054691105,
       "avgRating": 4.8,
-      "ratingsCount": 1065,
+      "ratingsCount": 1064,
       "reviewsCount": 228,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b7df58c0-0365-4d74-8605-3942514e62f0/images/0560841d-8cb2-4d3a-a7ef-1684e325f95d.jpg",
@@ -14808,8 +14779,8 @@
       "latitude": 48.24034289999999,
       "longitude": 16.3851666,
       "avgRating": 4.8,
-      "ratingsCount": 1408,
-      "reviewsCount": 218,
+      "ratingsCount": 1409,
+      "reviewsCount": 219,
       "images": [
         "https://assets.neotastecdn.com/restaurants/018b212b-36d6-4889-9a13-8aef4e0c425e/images/21dce77f-8e6f-4d88-8132-1fb02a1e05c8.jpg",
         "https://assets.neotastecdn.com/restaurants/018b212b-36d6-4889-9a13-8aef4e0c425e/images/6013a710-0b7a-4f0d-bc21-1646e28bb8f6.jpg",
@@ -14913,7 +14884,7 @@
       "latitude": 48.1866162,
       "longitude": 16.2993279,
       "avgRating": 4.9,
-      "ratingsCount": 367,
+      "ratingsCount": 368,
       "reviewsCount": 114,
       "images": [
         "https://assets.neotastecdn.com/restaurants/dfd848f8-242f-4b6e-86dd-23665a58ed62/images/8a0af0cf-7b60-4fbc-9f06-f57215de3dac.jpg",
@@ -15079,7 +15050,7 @@
       "latitude": 48.20382357433381,
       "longitude": 16.37182390830131,
       "avgRating": 4.7,
-      "ratingsCount": 1451,
+      "ratingsCount": 1450,
       "reviewsCount": 217,
       "images": [
         "https://assets.neotastecdn.com/restaurants/4e0d7a61-17c2-4d16-b3eb-99f3779b09ef/images/b1847c2c-c64d-470a-8602-a05f3e45eca8.jpg",
@@ -15249,8 +15220,8 @@
       "latitude": 48.20085099446582,
       "longitude": 16.33823357410079,
       "avgRating": 4.9,
-      "ratingsCount": 310,
-      "reviewsCount": 113,
+      "ratingsCount": 311,
+      "reviewsCount": 114,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a4e61846-d682-49de-9bf2-426cd8656ecb/images/2982b256-591a-4f86-ad06-56d0fb3b2aca.jpeg",
         "https://assets.neotastecdn.com/restaurants/a4e61846-d682-49de-9bf2-426cd8656ecb/images/d2bb5d3e-53eb-428a-95f4-b1474211c6be.jpeg",
@@ -15410,8 +15381,8 @@
       "latitude": 48.1864774,
       "longitude": 16.3261899,
       "avgRating": 4.8,
-      "ratingsCount": 117,
-      "reviewsCount": 58,
+      "ratingsCount": 116,
+      "reviewsCount": 57,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b801bdaf-c3ec-498a-ab44-942255653c03/images/ef3d5816-f33c-43ca-bcf0-4a5ba5c11e43.jpg",
         "https://assets.neotastecdn.com/restaurants/b801bdaf-c3ec-498a-ab44-942255653c03/images/a151645a-e30e-47d2-8aef-f1aad5b6f9cb.jpg",
@@ -15467,7 +15438,7 @@
       "latitude": 48.18297249999999,
       "longitude": 16.3565902,
       "avgRating": 4.6,
-      "ratingsCount": 80,
+      "ratingsCount": 81,
       "reviewsCount": 36,
       "images": [
         "https://assets.neotastecdn.com/restaurants/2361e3a0-2276-4160-b5f9-f9e417016ddd/images/ea57cefa-e454-485f-8937-ea1fa775f0ef.jpeg",
@@ -15710,60 +15681,6 @@
       "priceRange": 2
     },
     {
-      "name": "Alaturka Mahü",
-      "uuid": "f538f0af-c825-476c-a185-413b19cef5b2",
-      "deals": [
-        {
-          "uuid": "362fc613-484a-466a-917b-4461868aea8d",
-          "name": "2for1 Dürüm",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 dürüm of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 14,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "f7d4eca9-7262-40da-9f19-5766fd16d9b6",
-          "name": "FREE Ayran",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Buy one Lahmacun and get a free Ayran with it.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Mariahilfer Straße 134",
-      "zipCode": "1150",
-      "latitude": 48.1952049,
-      "longitude": 16.3372706,
-      "avgRating": 4.8,
-      "ratingsCount": 285,
-      "reviewsCount": 65,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/f538f0af-c825-476c-a185-413b19cef5b2/images/247747b9-59d3-4f6a-b48d-782241be45a8.jpeg",
-        "https://assets.neotastecdn.com/restaurants/f538f0af-c825-476c-a185-413b19cef5b2/images/71fac822-27af-4ced-a0d6-d55a6a9a0f4f.jpeg",
-        "https://assets.neotastecdn.com/restaurants/f538f0af-c825-476c-a185-413b19cef5b2/images/3610c866-2067-4da5-a63d-30d97d6fe939.jpeg",
-        "https://assets.neotastecdn.com/restaurants/f538f0af-c825-476c-a185-413b19cef5b2/images/90119011-08ba-47f7-9248-e3a7d8bc0a5d.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
       "name": "Matto Pizza Gourmet",
       "uuid": "9cefacf0-d477-4624-acc8-a260df4f3f79",
       "deals": [
@@ -15807,8 +15724,8 @@
       "latitude": 48.20165779999999,
       "longitude": 16.3894326,
       "avgRating": 4.9,
-      "ratingsCount": 242,
-      "reviewsCount": 70,
+      "ratingsCount": 243,
+      "reviewsCount": 71,
       "images": [
         "https://assets.neotastecdn.com/restaurants/9cefacf0-d477-4624-acc8-a260df4f3f79/images/71589718-fcd9-4e5b-aa0a-08f719af7631.jpg",
         "https://assets.neotastecdn.com/restaurants/9cefacf0-d477-4624-acc8-a260df4f3f79/images/775a009a-c063-4dde-be2d-647ca921dc50.jpg",
@@ -16678,8 +16595,8 @@
       "latitude": 48.2036066,
       "longitude": 16.3513758,
       "avgRating": 4.9,
-      "ratingsCount": 58,
-      "reviewsCount": 24,
+      "ratingsCount": 59,
+      "reviewsCount": 25,
       "images": [
         "https://assets.neotastecdn.com/restaurants/108c7bdc-43b9-4841-a5aa-6d0c3a73a230/images/d3d19442-3686-4c9e-8e9a-6231f3785cfd.jpg",
         "https://assets.neotastecdn.com/restaurants/108c7bdc-43b9-4841-a5aa-6d0c3a73a230/images/0b091a8b-3a58-49ac-b94c-a0a5dbff1001.jpg",
@@ -16788,7 +16705,7 @@
       "latitude": 48.1871491,
       "longitude": 16.3529198,
       "avgRating": 4.9,
-      "ratingsCount": 29,
+      "ratingsCount": 30,
       "reviewsCount": 16,
       "images": [
         "https://assets.neotastecdn.com/restaurants/0bcf34ab-2132-45ed-8c95-a09fde871d00/images/9508ae34-fbf8-428b-8df3-d7bf239c8932.jpeg",
@@ -17171,7 +17088,7 @@
       "latitude": 48.18579554042802,
       "longitude": 16.35347766351289,
       "avgRating": 4.9,
-      "ratingsCount": 32,
+      "ratingsCount": 33,
       "reviewsCount": 9,
       "images": [
         "https://assets.neotastecdn.com/restaurants/9018d6ca-2bf6-4856-b5d8-c702ca32bb5a/images/213152be-6b73-4101-85d9-82b5112dbef7.jpeg",
@@ -17226,8 +17143,8 @@
       "latitude": 48.21191470000001,
       "longitude": 16.375468,
       "avgRating": 4.6,
-      "ratingsCount": 420,
-      "reviewsCount": 126,
+      "ratingsCount": 422,
+      "reviewsCount": 127,
       "images": [
         "https://assets.neotastecdn.com/restaurants/b3aaa109-77a4-45b8-9325-59ae94ebf14d/images/72997297-28e8-46d4-990c-73f2b5976aca.jpeg",
         "https://assets.neotastecdn.com/restaurants/b3aaa109-77a4-45b8-9325-59ae94ebf14d/images/241af284-0d66-4500-89e1-200b8f9b2f4c.jpeg",
@@ -17289,63 +17206,6 @@
         "https://assets.neotastecdn.com/restaurants/ea103049-2997-4a76-9de2-98cac89d94a5/images/4cc1463a-38cf-47b0-b3fd-0f25036e5256.jpg",
         "https://assets.neotastecdn.com/restaurants/ea103049-2997-4a76-9de2-98cac89d94a5/images/e0332831-b371-4f01-bde5-91801012a6e4.jpg",
         "https://assets.neotastecdn.com/restaurants/ea103049-2997-4a76-9de2-98cac89d94a5/images/e962c04b-8173-4e4f-8ffa-df2e5761cba9.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Restaurant Split",
-      "uuid": "af58ca17-9224-40cb-beca-9fdee588248f",
-      "deals": [
-        {
-          "uuid": "27710fee-20f9-401a-9e67-ac3f02d3d085",
-          "name": "2for1 Signature Menu",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 Signature Menus (Tuna Tartare with Avocado Cream, Grilled Sole on Swiss Chard Potato, Homemade Tart) of your choice, the cheaper/equivalently priced dish will not be charged.\n\nCash payment only.",
-          "locationCondition": "onSite",
-          "value": 30,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 7,
-          "status": "available"
-        },
-        {
-          "uuid": "ec9de14b-49c5-4d5b-a94a-6441680582ea",
-          "name": "20% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 20% discount on your entire bill!\n\nCash payment only.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 1,
-          "status": "available"
-        }
-      ],
-      "address": "165 Hetzendorfer Straße",
-      "zipCode": "1130",
-      "latitude": 48.170298,
-      "longitude": 16.296076,
-      "avgRating": 5,
-      "ratingsCount": 4,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/e9194a8c-457b-42fa-ac9d-a6988072613e.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/ec4e6625-9e96-4222-bde6-6b617bb80ec7.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/8707ebaa-4ec5-4e7f-8f48-960de3e8ad94.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/71a21b1a-2e5c-43f1-8380-cde452c975bb.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/06b8cd4a-9537-426d-b3b3-94390dd18f89.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/936dea71-56f1-4c42-9d1a-e2b0c402ddfe.jpeg",
-        "https://assets.neotastecdn.com/restaurants/af58ca17-9224-40cb-beca-9fdee588248f/images/af8a8896-8a80-4ed6-a6f7-0f9baa154cdf.jpeg"
       ],
       "priceRange": 2
     },
@@ -18631,7 +18491,7 @@
       "latitude": 48.2220218,
       "longitude": 16.3529695,
       "avgRating": 4.2,
-      "ratingsCount": 78,
+      "ratingsCount": 80,
       "reviewsCount": 27,
       "images": [
         "https://assets.neotastecdn.com/restaurants/50085dbe-7417-47ee-9b19-539b8d014d75/images/eed5ba85-aa41-4646-93b5-0ce0acce76eb.jpeg",
@@ -18687,7 +18547,7 @@
       "latitude": 48.2218886,
       "longitude": 16.3996073,
       "avgRating": 4.8,
-      "ratingsCount": 108,
+      "ratingsCount": 110,
       "reviewsCount": 40,
       "images": [
         "https://assets.neotastecdn.com/restaurants/692f82df-8999-4cfe-a887-b9e6fca57e13/images/170afd64-6251-4748-8250-116bf3965e09.jpg",
@@ -19012,8 +18872,8 @@
       "latitude": 48.22518549999999,
       "longitude": 16.3535454,
       "avgRating": 5,
-      "ratingsCount": 30,
-      "reviewsCount": 16,
+      "ratingsCount": 31,
+      "reviewsCount": 17,
       "images": [
         "https://assets.neotastecdn.com/restaurants/abc011c4-02f3-4213-a8ac-1f2afa77fbe6/images/d5098694-e674-44b6-afdb-7ae0193901b2.jpeg",
         "https://assets.neotastecdn.com/restaurants/abc011c4-02f3-4213-a8ac-1f2afa77fbe6/images/c4d7377c-a4a9-4127-9784-f041ef41f2ce.jpeg",
@@ -19177,8 +19037,8 @@
       "latitude": 48.22577829999999,
       "longitude": 16.3602941,
       "avgRating": 4.7,
-      "ratingsCount": 169,
-      "reviewsCount": 33,
+      "ratingsCount": 171,
+      "reviewsCount": 34,
       "images": [
         "https://assets.neotastecdn.com/restaurants/5254f236-a6bf-4af4-90ba-28a3b50d7d82/images/ad4017ad-9e3d-4be3-8fde-5433c7b4e406.jpg",
         "https://assets.neotastecdn.com/restaurants/5254f236-a6bf-4af4-90ba-28a3b50d7d82/images/eced5087-4052-45ce-9af3-ab6ea833aff4.jpeg",
@@ -19624,8 +19484,8 @@
       "latitude": 48.2002976,
       "longitude": 16.3573507,
       "avgRating": 4.9,
-      "ratingsCount": 220,
-      "reviewsCount": 73,
+      "ratingsCount": 221,
+      "reviewsCount": 74,
       "images": [
         "https://assets.neotastecdn.com/restaurants/cd811930-72b9-47a9-aed6-a17d19b44fd5/images/7489919a-85bc-4da3-a2e5-6105c33c7c7d.jpeg",
         "https://assets.neotastecdn.com/restaurants/cd811930-72b9-47a9-aed6-a17d19b44fd5/images/ce5c5ce0-3a85-442c-852c-50359eb8b3d3.jpeg",
@@ -19737,8 +19597,8 @@
       "latitude": 48.2044003,
       "longitude": 16.3479014,
       "avgRating": 5,
-      "ratingsCount": 155,
-      "reviewsCount": 42,
+      "ratingsCount": 156,
+      "reviewsCount": 43,
       "images": [
         "https://assets.neotastecdn.com/restaurants/758285f3-c790-49ef-a95d-9bbfb6b51938/images/ba534b28-f0b9-4e32-960d-4f7ca21ae202.jpeg",
         "https://assets.neotastecdn.com/restaurants/758285f3-c790-49ef-a95d-9bbfb6b51938/images/d9a8497b-425f-425b-b668-d35d3da5413b.jpeg",
@@ -19792,8 +19652,8 @@
       "latitude": 48.1878651,
       "longitude": 16.3786955,
       "avgRating": 4.8,
-      "ratingsCount": 66,
-      "reviewsCount": 25,
+      "ratingsCount": 67,
+      "reviewsCount": 26,
       "images": [
         "https://assets.neotastecdn.com/restaurants/21367ff8-e35c-4475-9eee-98a72a1f31d2/images/9de1002d-aad7-4269-b3f3-978c100ba624.jpeg",
         "https://assets.neotastecdn.com/restaurants/21367ff8-e35c-4475-9eee-98a72a1f31d2/images/2a522452-dcdc-4280-b0b8-ca94280294b6.jpeg",
@@ -19804,32 +19664,32 @@
       "priceRange": 2
     },
     {
-      "name": "Parsano",
-      "uuid": "e63c0519-4e43-4a24-a496-a1b75b3d1b0e",
+      "name": "Schnizza",
+      "uuid": "cdd68259-a226-4642-b8d2-52c536558a4e",
       "deals": [
         {
-          "uuid": "f326f3ec-c08d-4f89-882b-b11809810c15",
+          "uuid": "50dcf442-3e8a-4946-95a7-c925c7afd7b5",
           "name": "2for1 Main Item",
           "eventDeal": false,
           "remainingDaysToReset": null,
           "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 11,
+          "value": 6,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
             "symbol": "€",
             "conversionRateToEuro": 1
           },
-          "daysToReset": 90,
+          "daysToReset": 30,
           "status": "available"
         },
         {
-          "uuid": "a98ec160-30cc-4381-a21c-09aeca351205",
-          "name": "FREE Drink",
+          "uuid": "0d8c9845-2ce3-4b31-8f06-4fc1dc7c0ff9",
+          "name": "30% Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order a sharing dish of your choice and get a beer, wine or a soft drink for free.",
+          "conditions": "Receive 30% discount on your entire bill!",
           "locationCondition": "onSite",
           "value": 4,
           "currency": {
@@ -19838,36 +19698,36 @@
             "symbol": "€",
             "conversionRateToEuro": 1
           },
-          "daysToReset": 7,
+          "daysToReset": 30,
           "status": "available"
         }
       ],
-      "address": "Mollardgasse 62",
-      "zipCode": "1060",
-      "latitude": 48.18982810000001,
-      "longitude": 16.3441239,
-      "avgRating": 4.8,
-      "ratingsCount": 33,
-      "reviewsCount": 15,
+      "address": "Wienerbergstraße 24",
+      "zipCode": "1120",
+      "latitude": 48.1716819,
+      "longitude": 16.3322473,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/896e09c0-a2ed-43f9-accc-8ca2ed935c8e.png",
-        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/a30cf519-2048-4b44-a85e-1e35bff6872b.jpg",
-        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/f2c9f932-41c0-4dd6-915f-6d891ded7ef6.jpg"
+        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/6c314c49-4301-4fd7-938a-736346987fe4.jpg",
+        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/5f63d0aa-a92e-4be7-8187-bd87c9285afe.jpg",
+        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/01f895aa-7e2e-41e1-b81d-c75e77a049c7.jpg"
       ],
       "priceRange": 2
     },
     {
-      "name": "Tandoori Mirch Masala",
-      "uuid": "563c2cd9-aeb4-449e-a93d-f39b05f46607",
+      "name": "Duru Kebap",
+      "uuid": "51c2f524-9059-46f7-b7b5-608ce6aee210",
       "deals": [
         {
-          "uuid": "947c3ff9-9106-4252-b5bd-359a7ed3775c",
-          "name": "2for1 Main Item",
+          "uuid": "dd958976-5cb2-4be0-ae81-df2f259e90e7",
+          "name": "2for1 Sandwich/Dürüm/Bowl",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "Order 2 chicken or falafel Sandwich/Dürüm/Bowl of your choice, the cheaper/equally priced dish will not be charged.",
           "locationCondition": "onSite",
-          "value": 17,
+          "value": 9,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -19878,13 +19738,13 @@
           "status": "available"
         },
         {
-          "uuid": "5699ae2f-af9a-4cc8-94df-610da5b569ba",
-          "name": "FREE Mango Lassi",
+          "uuid": "7428b658-94e2-4c69-b13b-070bcdbbc856",
+          "name": "30% Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "Order a main course of your choice and receive a free Mango Lassi.",
+          "conditions": "Receive 30% discount on your entire bill!",
           "locationCondition": "onSite",
-          "value": 4,
+          "value": 3,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -19895,18 +19755,19 @@
           "status": "available"
         }
       ],
-      "address": "Sommarugagasse 6",
-      "zipCode": "1180",
-      "latitude": 48.2257026,
-      "longitude": 16.3315468,
-      "avgRating": 4.6,
-      "ratingsCount": 5,
-      "reviewsCount": 2,
+      "address": "Thaliastraße 23",
+      "zipCode": "1160",
+      "latitude": 48.2091564,
+      "longitude": 16.334521,
+      "avgRating": 4.9,
+      "ratingsCount": 34,
+      "reviewsCount": 14,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/114662b5-a594-4020-9465-26c21eeef9eb.jpg",
-        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/2706965d-7f95-42ed-8ae0-eda16c73cac5.jpg",
-        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/315c0e7d-cbd9-4220-8154-f8eb9700113c.jpg",
-        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/cc4aa0cc-c3ed-43c0-bebb-c3199e1ec345.jpg"
+        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/3a39e398-6ed4-4ce4-8613-539e1bcd27f9.jpeg",
+        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/35fd2763-5484-4a4d-941c-84c1578bf286.jpeg",
+        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/5c6c77b9-8409-4255-8e94-5a508f865fdc.jpeg",
+        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/0dd41e65-6fcd-49ec-97ae-db1e0d901f7a.jpeg",
+        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/014ce294-50c3-48ed-8fe1-ceb923e1bca5.jpeg"
       ],
       "priceRange": 2
     },
@@ -19965,59 +19826,6 @@
       "priceRange": 2
     },
     {
-      "name": "Café Délice Vienna",
-      "uuid": "af2f75f0-40b4-4cc9-9b42-2d34890fd4fa",
-      "deals": [
-        {
-          "uuid": "bc350d9e-7153-460e-8faa-5eece48d7c81",
-          "name": "2for1 Croissant + Coffee",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 croissants and 2 coffees of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "d4767ff3-d20b-4fcf-ab1c-874a1e7df8c5",
-          "name": "2for1 Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 drinks of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Skodagasse 25",
-      "zipCode": "1080",
-      "latitude": 48.21487,
-      "longitude": 16.3483398,
-      "avgRating": 4.9,
-      "ratingsCount": 42,
-      "reviewsCount": 12,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/31f415d2-7aa4-4400-9b74-3c205f2284ef.jpg",
-        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/74862c4f-cd60-4589-89a2-449f45b11219.jpg",
-        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/dc5c0103-6344-4a36-a2f3-b1bbeef0bbd1.jpg"
-      ],
-      "priceRange": 1
-    },
-    {
       "name": "Wirr 1070",
       "uuid": "0db77152-b7a8-42d1-9291-ab1832bd5c9c",
       "deals": [
@@ -20072,17 +19880,17 @@
       "priceRange": 2
     },
     {
-      "name": "Bio Welt Restaurant",
-      "uuid": "38e0854e-5367-4d1b-aff8-274d32fe9d11",
+      "name": "Atash Spice",
+      "uuid": "ba5e4369-e0f3-4da2-9d61-ee27295dd604",
       "deals": [
         {
-          "uuid": "d008ede7-f698-4c5d-b502-5a4e5462a172",
+          "uuid": "e4132f79-51d8-4468-8217-deb3098de82d",
           "name": "2for1 Main Item",
           "eventDeal": false,
           "remainingDaysToReset": null,
           "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 19,
+          "value": 10,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -20093,69 +19901,13 @@
           "status": "available"
         },
         {
-          "uuid": "135488a5-8d97-4883-8542-a25a19d28134",
+          "uuid": "09d7ccde-8d59-4be9-8a70-939595234a21",
           "name": "FREE Drink",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order a main item of your choice and get a soft drink for free.",
+          "conditions": "You order a main course of your choice and get a drink for free.",
           "locationCondition": "onSite",
-          "value": 2,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Rauscherstraße 6/a",
-      "zipCode": "1150",
-      "latitude": 48.2304323,
-      "longitude": 16.3757278,
-      "avgRating": 4.5,
-      "ratingsCount": 4,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/d7894d2d-cbf1-4cc0-8f31-f7f3addea4f1.jpg",
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/506b0f5a-ae57-4c70-9765-45a2635ec55e.jpg",
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/201f36f6-8d9f-4231-a131-23cbd2d20739.jpg",
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/aa2e2fa0-2475-43ad-8c1c-94d09df59ddf.jpg",
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/b84ae34d-de74-4fec-9e99-129118dc6487.jpg",
-        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/4f3a53c9-a743-44da-8142-619a65cd2270.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Eissalon Monte 1100 Wien",
-      "uuid": "e94265ab-fbb4-421a-9682-fb948932e240",
-      "deals": [
-        {
-          "uuid": "88dcb489-98d9-4532-b72f-4acc496c9aa7",
-          "name": "2for1 Dessert",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 desserts of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "3266e01c-bd7d-4450-9ef9-f149ee48f3d4",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 4,
+          "value": 3,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -20166,21 +19918,280 @@
           "status": "available"
         }
       ],
-      "address": "Quellenstraße 68",
-      "zipCode": "1100",
-      "latitude": 48.1755585,
-      "longitude": 16.3765425,
-      "avgRating": 4.4,
-      "ratingsCount": 28,
-      "reviewsCount": 8,
+      "address": "Perfektastraße 6",
+      "zipCode": "1230",
+      "latitude": 48.1381172,
+      "longitude": 16.3215317,
+      "avgRating": 4.8,
+      "ratingsCount": 6,
+      "reviewsCount": 4,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/1e682b4a-a761-46da-94f3-72126700856d.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/0ece94fe-6539-4d4a-8d7a-1b238bcee3b3.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/81f1913c-5373-4128-8494-2ea4888e6426.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c31cee5f-a945-483a-bd51-1895099ac326.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c99283d7-72bb-4e71-9162-6de066a67f49.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/a3d7f0c3-1fb2-4ce9-9b43-993df12a48b7.jpeg",
-        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/ba4b2df6-0fb4-45e4-bd58-5286e528c5a7.jpeg"
+        "https://assets.neotastecdn.com/restaurants/ba5e4369-e0f3-4da2-9d61-ee27295dd604/images/7dd34df7-d1dc-4cdf-99a2-d4581a64884b.png",
+        "https://assets.neotastecdn.com/restaurants/ba5e4369-e0f3-4da2-9d61-ee27295dd604/images/c2b07ef1-6d52-4765-8374-b32be3141d04.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Pummaro 2.0",
+      "uuid": "2691bd8d-2743-4369-9e60-ed09146faea4",
+      "deals": [
+        {
+          "uuid": "0cf10c41-55c3-4afb-98f0-f5a9a2fec020",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "df0489e5-4d5f-47e2-8df3-663968a074bf",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a cola for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Meiselstraße 59",
+      "zipCode": "1140",
+      "latitude": 48.1980938,
+      "longitude": 16.3109144,
+      "avgRating": 4.8,
+      "ratingsCount": 101,
+      "reviewsCount": 33,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/575fa96e-a229-42a9-8416-b798181de3d4.jpeg",
+        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/0f8416b5-1f96-4bac-8668-047f2e9bab65.jpeg",
+        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/72697abb-800a-40f9-a321-c6ed09dde17f.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Tandoori Mirch Masala",
+      "uuid": "563c2cd9-aeb4-449e-a93d-f39b05f46607",
+      "deals": [
+        {
+          "uuid": "947c3ff9-9106-4252-b5bd-359a7ed3775c",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 17,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "5699ae2f-af9a-4cc8-94df-610da5b569ba",
+          "name": "FREE Mango Lassi",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order a main course of your choice and receive a free Mango Lassi.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Sommarugagasse 6",
+      "zipCode": "1180",
+      "latitude": 48.2257026,
+      "longitude": 16.3315468,
+      "avgRating": 4.7,
+      "ratingsCount": 6,
+      "reviewsCount": 3,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/114662b5-a594-4020-9465-26c21eeef9eb.jpg",
+        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/2706965d-7f95-42ed-8ae0-eda16c73cac5.jpg",
+        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/315c0e7d-cbd9-4220-8154-f8eb9700113c.jpg",
+        "https://assets.neotastecdn.com/restaurants/563c2cd9-aeb4-449e-a93d-f39b05f46607/images/cc4aa0cc-c3ed-43c0-bebb-c3199e1ec345.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "My Döner Vienna",
+      "uuid": "0db4e453-3b82-44b0-b66f-bb083ea1d798",
+      "deals": [
+        {
+          "uuid": "66a9b123-3df3-47bf-9d9b-160487a4171e",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "3d5a3c8e-d880-4f0b-bafa-b4c2dbfeed53",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 2,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Richard-Wagner-Platz 17",
+      "zipCode": "1160",
+      "latitude": 48.2103538,
+      "longitude": 16.327669,
+      "avgRating": 4.8,
+      "ratingsCount": 88,
+      "reviewsCount": 35,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/0db4e453-3b82-44b0-b66f-bb083ea1d798/images/4d0ac5ec-a941-42ff-ab1a-d71e68464b18.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "15 Süße Minuten Bistro",
+      "uuid": "4cbe2d86-036d-445f-a98f-e94ef1ba1321",
+      "deals": [
+        {
+          "uuid": "650abdf5-8c12-49cf-819e-12280db5cf23",
+          "name": "2for1 Bakery",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 bakery items of your choice, the cheaper/same-priced item is free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "0535662e-b53d-4786-8214-79f8f30d5de4",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 3,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Favoritenstraße 45",
+      "zipCode": "1040",
+      "latitude": 48.18745089999999,
+      "longitude": 16.3736141,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/81f01e31-2863-484e-8af3-941693341e70.jpg",
+        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/8ac497c4-27bd-493d-bf54-4be78fe13b35.jpg",
+        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/dd8352c3-2f8d-4131-998b-33fe0baf0249.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Renos Weisser Esel Heurigenlounge",
+      "uuid": "bae61078-17a7-4f09-bb48-e8b2958d8731",
+      "deals": [
+        {
+          "uuid": "79d7fee3-d3fd-479d-a14b-e4c17b32c80c",
+          "name": "€10 Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "e0752513-f5b4-4f48-9d1e-e52cbdf4f4ca",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Hirschstettner Straße 11",
+      "zipCode": "1220",
+      "latitude": 48.2467486,
+      "longitude": 16.4520418,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/8ce77ba5-5d72-44e5-9c23-5e5edf3f96ed.jpg",
+        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/e43e8de2-eb3b-4c96-b666-5ee660e3fe5e.jpg",
+        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/c1c40297-9856-4aa2-ad5f-a8405a0ab725.jpg"
       ],
       "priceRange": 2
     },
@@ -20239,118 +20250,15 @@
       "priceRange": 2
     },
     {
-      "name": "Assal Burger",
-      "uuid": "622900ff-f63d-4aec-b69d-d56f06065c57",
+      "name": "NALTU Wien",
+      "uuid": "af1afb13-f897-4e74-86c9-1c02fba15a2e",
       "deals": [
         {
-          "uuid": "1efdab0e-c8cd-4914-b602-5f8c2c6f5c55",
-          "name": "2for1 Burger",
+          "uuid": "5e4557ca-eb20-4877-bf87-69953e95b43c",
+          "name": "€10 Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 7,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "5376db70-a72b-421d-baf8-a406a90552b5",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Heiligenstädter Straße 8",
-      "zipCode": "1090",
-      "latitude": 48.2320315,
-      "longitude": 16.3555605,
-      "avgRating": 4.9,
-      "ratingsCount": 81,
-      "reviewsCount": 22,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/622900ff-f63d-4aec-b69d-d56f06065c57/images/2c79ab0f-f43d-43fe-a7f2-aa9522bba7a1.jpeg",
-        "https://assets.neotastecdn.com/restaurants/622900ff-f63d-4aec-b69d-d56f06065c57/images/29485670-3449-4c9c-b69c-80d28ffa78e3.jpeg"
-      ],
-      "priceRange": 1
-    },
-    {
-      "name": "My Döner Vienna",
-      "uuid": "0db4e453-3b82-44b0-b66f-bb083ea1d798",
-      "deals": [
-        {
-          "uuid": "66a9b123-3df3-47bf-9d9b-160487a4171e",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 7,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "3d5a3c8e-d880-4f0b-bafa-b4c2dbfeed53",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 2,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Richard-Wagner-Platz 17",
-      "zipCode": "1160",
-      "latitude": 48.2103538,
-      "longitude": 16.327669,
-      "avgRating": 4.7,
-      "ratingsCount": 87,
-      "reviewsCount": 34,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/0db4e453-3b82-44b0-b66f-bb083ea1d798/images/4d0ac5ec-a941-42ff-ab1a-d71e68464b18.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Atash Spice",
-      "uuid": "ba5e4369-e0f3-4da2-9d61-ee27295dd604",
-      "deals": [
-        {
-          "uuid": "e4132f79-51d8-4468-8217-deb3098de82d",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "conditions": "From a minimum order value of €25 you get €10 discount.",
           "locationCondition": "onSite",
           "value": 10,
           "currency": {
@@ -20359,15 +20267,15 @@
             "symbol": "€",
             "conversionRateToEuro": 1
           },
-          "daysToReset": 90,
+          "daysToReset": 30,
           "status": "available"
         },
         {
-          "uuid": "09d7ccde-8d59-4be9-8a70-939595234a21",
-          "name": "FREE Drink",
+          "uuid": "2041295c-7579-4460-a2c6-764d34a9b3e4",
+          "name": "30% Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a drink for free.",
+          "conditions": "Receive 30% discount on your entire bill!",
           "locationCondition": "onSite",
           "value": 3,
           "currency": {
@@ -20376,20 +20284,20 @@
             "symbol": "€",
             "conversionRateToEuro": 1
           },
-          "daysToReset": 7,
+          "daysToReset": 30,
           "status": "available"
         }
       ],
-      "address": "Perfektastraße 6",
-      "zipCode": "1230",
-      "latitude": 48.1381172,
-      "longitude": 16.3215317,
-      "avgRating": 4.8,
-      "ratingsCount": 6,
-      "reviewsCount": 4,
+      "address": "Burggasse 40",
+      "zipCode": "1070",
+      "latitude": 48.204409,
+      "longitude": 16.3503767,
+      "avgRating": 5,
+      "ratingsCount": 2,
+      "reviewsCount": 1,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/ba5e4369-e0f3-4da2-9d61-ee27295dd604/images/7dd34df7-d1dc-4cdf-99a2-d4581a64884b.png",
-        "https://assets.neotastecdn.com/restaurants/ba5e4369-e0f3-4da2-9d61-ee27295dd604/images/c2b07ef1-6d52-4765-8374-b32be3141d04.jpeg"
+        "https://assets.neotastecdn.com/restaurants/af1afb13-f897-4e74-86c9-1c02fba15a2e/images/39f60ff3-c3ae-4b2f-a20a-f5bfc35d9922.png",
+        "https://assets.neotastecdn.com/restaurants/af1afb13-f897-4e74-86c9-1c02fba15a2e/images/a7808dc6-ba7a-402b-84b0-0861ee2cf867.png"
       ],
       "priceRange": 2
     },
@@ -20437,11 +20345,68 @@
       "latitude": 48.1752103,
       "longitude": 16.3772635,
       "avgRating": 4.5,
-      "ratingsCount": 67,
+      "ratingsCount": 69,
       "reviewsCount": 27,
       "images": [
         "https://assets.neotastecdn.com/restaurants/f66d479c-5305-4193-9c63-888b11d6a05d/images/88b708d0-9a89-4422-8008-98b0ec3d1faa.jpg",
         "https://assets.neotastecdn.com/restaurants/f66d479c-5305-4193-9c63-888b11d6a05d/images/2f56ee31-2a46-4a58-a67c-889b4e6b0224.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Eissalon Monte 1100 Wien",
+      "uuid": "e94265ab-fbb4-421a-9682-fb948932e240",
+      "deals": [
+        {
+          "uuid": "88dcb489-98d9-4532-b72f-4acc496c9aa7",
+          "name": "2for1 Dessert",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 desserts of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "3266e01c-bd7d-4450-9ef9-f149ee48f3d4",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        }
+      ],
+      "address": "Quellenstraße 68",
+      "zipCode": "1100",
+      "latitude": 48.1755585,
+      "longitude": 16.3765425,
+      "avgRating": 4.4,
+      "ratingsCount": 28,
+      "reviewsCount": 8,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/1e682b4a-a761-46da-94f3-72126700856d.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/0ece94fe-6539-4d4a-8d7a-1b238bcee3b3.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/81f1913c-5373-4128-8494-2ea4888e6426.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c31cee5f-a945-483a-bd51-1895099ac326.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/c99283d7-72bb-4e71-9162-6de066a67f49.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/a3d7f0c3-1fb2-4ce9-9b43-993df12a48b7.jpeg",
+        "https://assets.neotastecdn.com/restaurants/e94265ab-fbb4-421a-9682-fb948932e240/images/ba4b2df6-0fb4-45e4-bd58-5286e528c5a7.jpeg"
       ],
       "priceRange": 2
     },
@@ -20554,274 +20519,6 @@
       "priceRange": 2
     },
     {
-      "name": "Pummaro 2.0",
-      "uuid": "2691bd8d-2743-4369-9e60-ed09146faea4",
-      "deals": [
-        {
-          "uuid": "0cf10c41-55c3-4afb-98f0-f5a9a2fec020",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "df0489e5-4d5f-47e2-8df3-663968a074bf",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main item of your choice and get a cola for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Meiselstraße 59",
-      "zipCode": "1140",
-      "latitude": 48.1980938,
-      "longitude": 16.3109144,
-      "avgRating": 4.8,
-      "ratingsCount": 101,
-      "reviewsCount": 33,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/575fa96e-a229-42a9-8416-b798181de3d4.jpeg",
-        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/0f8416b5-1f96-4bac-8668-047f2e9bab65.jpeg",
-        "https://assets.neotastecdn.com/restaurants/2691bd8d-2743-4369-9e60-ed09146faea4/images/72697abb-800a-40f9-a321-c6ed09dde17f.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Schnizza",
-      "uuid": "cdd68259-a226-4642-b8d2-52c536558a4e",
-      "deals": [
-        {
-          "uuid": "50dcf442-3e8a-4946-95a7-c925c7afd7b5",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "0d8c9845-2ce3-4b31-8f06-4fc1dc7c0ff9",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Wienerbergstraße 24",
-      "zipCode": "1120",
-      "latitude": 48.1716819,
-      "longitude": 16.3322473,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/6c314c49-4301-4fd7-938a-736346987fe4.jpg",
-        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/5f63d0aa-a92e-4be7-8187-bd87c9285afe.jpg",
-        "https://assets.neotastecdn.com/restaurants/cdd68259-a226-4642-b8d2-52c536558a4e/images/01f895aa-7e2e-41e1-b81d-c75e77a049c7.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "15 Süße Minuten Bistro",
-      "uuid": "4cbe2d86-036d-445f-a98f-e94ef1ba1321",
-      "deals": [
-        {
-          "uuid": "650abdf5-8c12-49cf-819e-12280db5cf23",
-          "name": "2for1 Bakery",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 bakery items of your choice, the cheaper/same-priced item is free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "0535662e-b53d-4786-8214-79f8f30d5de4",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Favoritenstraße 45",
-      "zipCode": "1040",
-      "latitude": 48.18745089999999,
-      "longitude": 16.3736141,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/81f01e31-2863-484e-8af3-941693341e70.jpg",
-        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/8ac497c4-27bd-493d-bf54-4be78fe13b35.jpg",
-        "https://assets.neotastecdn.com/restaurants/4cbe2d86-036d-445f-a98f-e94ef1ba1321/images/dd8352c3-2f8d-4131-998b-33fe0baf0249.jpg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Sixtn Lounge",
-      "uuid": "3748fcb3-d9c5-484f-86d5-06ed242d5ccc",
-      "deals": [
-        {
-          "uuid": "d398caf6-b28b-406c-ba84-54a5d42569d0",
-          "name": "2for1 Cocktail",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 9,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "782e4742-9edc-4de5-b6d0-f53283e74fdd",
-          "name": "2for1 Dessert",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 desserts of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Hippgasse 11",
-      "zipCode": "1160",
-      "latitude": 48.20529450000001,
-      "longitude": 16.3354023,
-      "avgRating": 5,
-      "ratingsCount": 3,
-      "reviewsCount": 3,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/87f11979-8b85-463d-8c6f-7786ff267823.jpeg",
-        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/d8df7af2-a43b-4bcb-974f-589b6676e7d3.jpeg",
-        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/4267c777-a60a-4e94-bbfc-bfc2422e858f.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Bolena - Restaurant | Weinbar | Partyraum",
-      "uuid": "74c81d65-d5b7-4f6f-8c60-f89567ed6db9",
-      "deals": [
-        {
-          "uuid": "ed86afd0-f99e-4469-bac4-158173c658d2",
-          "name": "€10 Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.\n\nReservation via the homepage is required. Reservations \"drinks only\" are not possible. It is assumed that guests are coming for dinner (which includes ordering meals).\n\n1.) Guests must indicate in advance which deal they want to redeem when making a reservation via the homepage.\n\n2.) The seating duration is always limited to 2 hours.",
-          "locationCondition": "onSite",
-          "value": 10,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "db86b0d8-b24c-47db-aef7-35353673583b",
-          "name": "FREE Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and receive a glass of Rebenspiel vintage sparkling wine Rose Zweigelt or Grüner Veltliner Brut for free.\n\nReservation via the homepage required.\n\n1.) Guests must indicate which deal they wish to redeem when making the reservation via the homepage in advance.\n\n2.) The seating duration is always limited to 2 hours.",
-          "locationCondition": "onSite",
-          "value": 7,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Lange Gasse 61",
-      "zipCode": "1080",
-      "latitude": 48.2138816,
-      "longitude": 16.3508891,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/c73cfb5f-6461-433f-9898-a2b25d7c7095.jpeg",
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/d073fb76-99a7-4594-9d72-694a0c507b93.jpg",
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/86829fda-b6a2-42ca-bc0b-e22e4c107077.jpg",
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/af59483f-e846-46e7-9c74-63c9974e5dcb.jpg",
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/99ff5319-ca74-4c05-be4c-b9dc99efee6b.jpg",
-        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/10d02a8b-2f0d-4895-b530-26c69650a574.jpg"
-      ],
-      "priceRange": 3
-    },
-    {
       "name": "Friends Street Food",
       "uuid": "14ebdd31-87fb-4e43-8176-e519b039089f",
       "deals": [
@@ -20871,114 +20568,6 @@
         "https://assets.neotastecdn.com/restaurants/14ebdd31-87fb-4e43-8176-e519b039089f/images/d840aa1c-97f3-459e-a11a-c0437612d072.png",
         "https://assets.neotastecdn.com/restaurants/14ebdd31-87fb-4e43-8176-e519b039089f/images/670968b7-3d19-4952-b088-7faa448a463e.png",
         "https://assets.neotastecdn.com/restaurants/14ebdd31-87fb-4e43-8176-e519b039089f/images/566fa6fc-b7d2-4e05-93df-75ea3496ea44.png"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Duru Kebap",
-      "uuid": "51c2f524-9059-46f7-b7b5-608ce6aee210",
-      "deals": [
-        {
-          "uuid": "dd958976-5cb2-4be0-ae81-df2f259e90e7",
-          "name": "2for1 Sandwich/Dürüm/Bowl",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Order 2 chicken or falafel Sandwich/Dürüm/Bowl of your choice, the cheaper/equally priced dish will not be charged.",
-          "locationCondition": "onSite",
-          "value": 9,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "7428b658-94e2-4c69-b13b-070bcdbbc856",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Thaliastraße 23",
-      "zipCode": "1160",
-      "latitude": 48.2091564,
-      "longitude": 16.334521,
-      "avgRating": 4.9,
-      "ratingsCount": 33,
-      "reviewsCount": 14,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/3a39e398-6ed4-4ce4-8613-539e1bcd27f9.jpeg",
-        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/35fd2763-5484-4a4d-941c-84c1578bf286.jpeg",
-        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/5c6c77b9-8409-4255-8e94-5a508f865fdc.jpeg",
-        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/0dd41e65-6fcd-49ec-97ae-db1e0d901f7a.jpeg",
-        "https://assets.neotastecdn.com/restaurants/51c2f524-9059-46f7-b7b5-608ce6aee210/images/014ce294-50c3-48ed-8fe1-ceb923e1bca5.jpeg"
-      ],
-      "priceRange": 2
-    },
-    {
-      "name": "Flan Bakery",
-      "uuid": "a2ed2cb0-4716-476f-aede-90fd2b048195",
-      "deals": [
-        {
-          "uuid": "31e96bba-3373-4ead-8ba9-8870e39b13d3",
-          "name": "2for1 Main Item",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 13,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        },
-        {
-          "uuid": "e6ab357f-8e5c-4664-9305-b205f855f437",
-          "name": "30% Discount",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
-          "locationCondition": "onSite",
-          "value": 4,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Währinger Straße 162",
-      "zipCode": "1180",
-      "latitude": 48.2280525,
-      "longitude": 16.3368955,
-      "avgRating": 0,
-      "ratingsCount": 0,
-      "reviewsCount": 0,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/0eab70d6-493c-4f20-84c4-2b19d8f28795.jpg",
-        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/129ed4ad-c7d5-45b2-bf46-cf153ede025d.jpg",
-        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/1a2c19da-fc78-4c44-9f83-24602e30bd93.jpg"
       ],
       "priceRange": 2
     },
@@ -21038,17 +20627,70 @@
       "priceRange": 2
     },
     {
-      "name": "NALTU Wien",
-      "uuid": "af1afb13-f897-4e74-86c9-1c02fba15a2e",
+      "name": "Parsano",
+      "uuid": "e63c0519-4e43-4a24-a496-a1b75b3d1b0e",
       "deals": [
         {
-          "uuid": "5e4557ca-eb20-4877-bf87-69953e95b43c",
-          "name": "€10 Discount",
+          "uuid": "f326f3ec-c08d-4f89-882b-b11809810c15",
+          "name": "2for1 Main Item",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
           "locationCondition": "onSite",
-          "value": 10,
+          "value": 11,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "a98ec160-30cc-4381-a21c-09aeca351205",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a sharing dish of your choice and get a beer, wine or a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        }
+      ],
+      "address": "Mollardgasse 62",
+      "zipCode": "1060",
+      "latitude": 48.18982810000001,
+      "longitude": 16.3441239,
+      "avgRating": 4.8,
+      "ratingsCount": 33,
+      "reviewsCount": 15,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/896e09c0-a2ed-43f9-accc-8ca2ed935c8e.png",
+        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/a30cf519-2048-4b44-a85e-1e35bff6872b.jpg",
+        "https://assets.neotastecdn.com/restaurants/e63c0519-4e43-4a24-a496-a1b75b3d1b0e/images/f2c9f932-41c0-4dd6-915f-6d891ded7ef6.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Flan Bakery",
+      "uuid": "a2ed2cb0-4716-476f-aede-90fd2b048195",
+      "deals": [
+        {
+          "uuid": "31e96bba-3373-4ead-8ba9-8870e39b13d3",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 13,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -21059,7 +20701,60 @@
           "status": "available"
         },
         {
-          "uuid": "2041295c-7579-4460-a2c6-764d34a9b3e4",
+          "uuid": "e6ab357f-8e5c-4664-9305-b205f855f437",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 4,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Währinger Straße 162",
+      "zipCode": "1180",
+      "latitude": 48.2280525,
+      "longitude": 16.3368955,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/0eab70d6-493c-4f20-84c4-2b19d8f28795.jpg",
+        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/129ed4ad-c7d5-45b2-bf46-cf153ede025d.jpg",
+        "https://assets.neotastecdn.com/restaurants/a2ed2cb0-4716-476f-aede-90fd2b048195/images/1a2c19da-fc78-4c44-9f83-24602e30bd93.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Assal Burger",
+      "uuid": "622900ff-f63d-4aec-b69d-d56f06065c57",
+      "deals": [
+        {
+          "uuid": "1efdab0e-c8cd-4914-b602-5f8c2c6f5c55",
+          "name": "2for1 Burger",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 burgers of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "5376db70-a72b-421d-baf8-a406a90552b5",
           "name": "30% Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
@@ -21072,20 +20767,182 @@
             "symbol": "€",
             "conversionRateToEuro": 1
           },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Heiligenstädter Straße 8",
+      "zipCode": "1090",
+      "latitude": 48.2320315,
+      "longitude": 16.3555605,
+      "avgRating": 4.9,
+      "ratingsCount": 83,
+      "reviewsCount": 22,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/622900ff-f63d-4aec-b69d-d56f06065c57/images/2c79ab0f-f43d-43fe-a7f2-aa9522bba7a1.jpeg",
+        "https://assets.neotastecdn.com/restaurants/622900ff-f63d-4aec-b69d-d56f06065c57/images/29485670-3449-4c9c-b69c-80d28ffa78e3.jpeg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "Café Délice Vienna",
+      "uuid": "af2f75f0-40b4-4cc9-9b42-2d34890fd4fa",
+      "deals": [
+        {
+          "uuid": "bc350d9e-7153-460e-8faa-5eece48d7c81",
+          "name": "2for1 Croissant + Coffee",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 croissants and 2 coffees of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 10,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "d4767ff3-d20b-4fcf-ab1c-874a1e7df8c5",
+          "name": "2for1 Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 drinks of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
           "daysToReset": 30,
           "status": "available"
         }
       ],
-      "address": "Burggasse 40",
-      "zipCode": "1070",
-      "latitude": 48.204409,
-      "longitude": 16.3503767,
-      "avgRating": 5,
-      "ratingsCount": 2,
-      "reviewsCount": 1,
+      "address": "Skodagasse 25",
+      "zipCode": "1080",
+      "latitude": 48.21487,
+      "longitude": 16.3483398,
+      "avgRating": 4.9,
+      "ratingsCount": 42,
+      "reviewsCount": 12,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/af1afb13-f897-4e74-86c9-1c02fba15a2e/images/39f60ff3-c3ae-4b2f-a20a-f5bfc35d9922.png",
-        "https://assets.neotastecdn.com/restaurants/af1afb13-f897-4e74-86c9-1c02fba15a2e/images/a7808dc6-ba7a-402b-84b0-0861ee2cf867.png"
+        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/31f415d2-7aa4-4400-9b74-3c205f2284ef.jpg",
+        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/74862c4f-cd60-4589-89a2-449f45b11219.jpg",
+        "https://assets.neotastecdn.com/restaurants/af2f75f0-40b4-4cc9-9b42-2d34890fd4fa/images/dc5c0103-6344-4a36-a2f3-b1bbeef0bbd1.jpg"
+      ],
+      "priceRange": 1
+    },
+    {
+      "name": "Bio Welt Restaurant",
+      "uuid": "38e0854e-5367-4d1b-aff8-274d32fe9d11",
+      "deals": [
+        {
+          "uuid": "d008ede7-f698-4c5d-b502-5a4e5462a172",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 19,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "135488a5-8d97-4883-8542-a25a19d28134",
+          "name": "FREE Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main item of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 2,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Rauscherstraße 6/a",
+      "zipCode": "1150",
+      "latitude": 48.2304323,
+      "longitude": 16.3757278,
+      "avgRating": 4.5,
+      "ratingsCount": 4,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/d7894d2d-cbf1-4cc0-8f31-f7f3addea4f1.jpg",
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/506b0f5a-ae57-4c70-9765-45a2635ec55e.jpg",
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/201f36f6-8d9f-4231-a131-23cbd2d20739.jpg",
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/aa2e2fa0-2475-43ad-8c1c-94d09df59ddf.jpg",
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/b84ae34d-de74-4fec-9e99-129118dc6487.jpg",
+        "https://assets.neotastecdn.com/restaurants/38e0854e-5367-4d1b-aff8-274d32fe9d11/images/4f3a53c9-a743-44da-8142-619a65cd2270.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Sixtn Lounge",
+      "uuid": "3748fcb3-d9c5-484f-86d5-06ed242d5ccc",
+      "deals": [
+        {
+          "uuid": "d398caf6-b28b-406c-ba84-54a5d42569d0",
+          "name": "2for1 Cocktail",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 cocktails of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 9,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "782e4742-9edc-4de5-b6d0-f53283e74fdd",
+          "name": "2for1 Dessert",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 desserts of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Hippgasse 11",
+      "zipCode": "1160",
+      "latitude": 48.20529450000001,
+      "longitude": 16.3354023,
+      "avgRating": 5,
+      "ratingsCount": 3,
+      "reviewsCount": 3,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/87f11979-8b85-463d-8c6f-7786ff267823.jpeg",
+        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/d8df7af2-a43b-4bcb-974f-589b6676e7d3.jpeg",
+        "https://assets.neotastecdn.com/restaurants/3748fcb3-d9c5-484f-86d5-06ed242d5ccc/images/4267c777-a60a-4e94-bbfc-bfc2422e858f.jpeg"
       ],
       "priceRange": 2
     },
@@ -21146,15 +21003,15 @@
       "priceRange": 2
     },
     {
-      "name": "Renos Weisser Esel Heurigenlounge",
-      "uuid": "bae61078-17a7-4f09-bb48-e8b2958d8731",
+      "name": "Bolena - Restaurant | Weinbar | Partyraum",
+      "uuid": "74c81d65-d5b7-4f6f-8c60-f89567ed6db9",
       "deals": [
         {
-          "uuid": "79d7fee3-d3fd-479d-a14b-e4c17b32c80c",
+          "uuid": "ed86afd0-f99e-4469-bac4-158173c658d2",
           "name": "€10 Discount",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "From a minimum order value of €25 you get €10 discount.",
+          "conditions": "From a minimum order value of €25 you get €10 discount.\n\nReservation via the homepage is required. Reservations \"drinks only\" are not possible. It is assumed that guests are coming for dinner (which includes ordering meals).\n\n1.) Guests must indicate in advance which deal they want to redeem when making a reservation via the homepage.\n\n2.) The seating duration is always limited to 2 hours.",
           "locationCondition": "onSite",
           "value": 10,
           "currency": {
@@ -21167,13 +21024,13 @@
           "status": "available"
         },
         {
-          "uuid": "e0752513-f5b4-4f48-9d1e-e52cbdf4f4ca",
-          "name": "30% Discount",
+          "uuid": "db86b0d8-b24c-47db-aef7-35353673583b",
+          "name": "FREE Drink",
           "eventDeal": false,
           "remainingDaysToReset": null,
-          "conditions": "Receive 30% discount on your entire bill!",
+          "conditions": "You order a main course of your choice and receive a glass of Rebenspiel vintage sparkling wine Rose Zweigelt or Grüner Veltliner Brut for free.\n\nReservation via the homepage required.\n\n1.) Guests must indicate which deal they wish to redeem when making the reservation via the homepage in advance.\n\n2.) The seating duration is always limited to 2 hours.",
           "locationCondition": "onSite",
-          "value": 10,
+          "value": 7,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -21184,19 +21041,22 @@
           "status": "available"
         }
       ],
-      "address": "Hirschstettner Straße 11",
-      "zipCode": "1220",
-      "latitude": 48.2467486,
-      "longitude": 16.4520418,
+      "address": "Lange Gasse 61",
+      "zipCode": "1080",
+      "latitude": 48.2138816,
+      "longitude": 16.3508891,
       "avgRating": 0,
       "ratingsCount": 0,
       "reviewsCount": 0,
       "images": [
-        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/8ce77ba5-5d72-44e5-9c23-5e5edf3f96ed.jpg",
-        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/e43e8de2-eb3b-4c96-b666-5ee660e3fe5e.jpg",
-        "https://assets.neotastecdn.com/restaurants/bae61078-17a7-4f09-bb48-e8b2958d8731/images/c1c40297-9856-4aa2-ad5f-a8405a0ab725.jpg"
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/c73cfb5f-6461-433f-9898-a2b25d7c7095.jpeg",
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/d073fb76-99a7-4594-9d72-694a0c507b93.jpg",
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/86829fda-b6a2-42ca-bc0b-e22e4c107077.jpg",
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/af59483f-e846-46e7-9c74-63c9974e5dcb.jpg",
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/99ff5319-ca74-4c05-be4c-b9dc99efee6b.jpg",
+        "https://assets.neotastecdn.com/restaurants/74c81d65-d5b7-4f6f-8c60-f89567ed6db9/images/10d02a8b-2f0d-4895-b530-26c69650a574.jpg"
       ],
-      "priceRange": 2
+      "priceRange": 3
     }
   ]
 }
