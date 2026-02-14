@@ -4295,9 +4295,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 78
+    },
+    {
+      "date": "2026-02-14",
+      "total_restaurants": 40,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 80
     }
   ],
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-14",
   "restaurants": [
     {
       "name": "asiahung Mannheim Hbf",
@@ -4342,9 +4350,9 @@
       "zipCode": "68161",
       "latitude": 49.47940029999999,
       "longitude": 8.4704508,
-      "avgRating": 4.2,
-      "ratingsCount": 38,
-      "reviewsCount": 16,
+      "avgRating": 4,
+      "ratingsCount": 43,
+      "reviewsCount": 20,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
         "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/600a76a4-62d5-4f60-8bbe-5b10bea72096.png",
@@ -4452,8 +4460,8 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 727,
-      "reviewsCount": 254,
+      "ratingsCount": 730,
+      "reviewsCount": 255,
       "images": [
         "https://assets.neotastecdn.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
       ],
@@ -4724,7 +4732,7 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 265,
+      "ratingsCount": 266,
       "reviewsCount": 66,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
@@ -4778,8 +4786,8 @@
       "latitude": 49.5256997,
       "longitude": 8.5641324,
       "avgRating": 4.9,
-      "ratingsCount": 7,
-      "reviewsCount": 5,
+      "ratingsCount": 8,
+      "reviewsCount": 6,
       "images": [
         "https://assets.neotastecdn.com/restaurants/18eb82fd-26bb-46e1-b63e-16bd6e49d616/images/dfd0727b-7527-4f86-ab48-afa40aa61680.jpg",
         "https://assets.neotastecdn.com/restaurants/18eb82fd-26bb-46e1-b63e-16bd6e49d616/images/4d81268a-8b62-466f-8e66-722e128290bf.jpg",
@@ -4991,8 +4999,8 @@
       "latitude": 49.48502781792361,
       "longitude": 8.435306065011337,
       "avgRating": 4.9,
-      "ratingsCount": 34,
-      "reviewsCount": 14,
+      "ratingsCount": 35,
+      "reviewsCount": 15,
       "images": [
         "https://assets.neotastecdn.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/5bad75c3-940d-4bb4-aa05-4376eb22d346.jpeg",
         "https://assets.neotastecdn.com/restaurants/100e8c71-0003-450a-8d4b-4ac4310c58d9/images/e10185b8-60a7-4083-8c49-ffcd24ffc0bd.jpeg",
@@ -6127,9 +6135,9 @@
       "zipCode": "68161",
       "latitude": 49.4823497,
       "longitude": 8.4709795,
-      "avgRating": 4.4,
-      "ratingsCount": 25,
-      "reviewsCount": 7,
+      "avgRating": 4.5,
+      "ratingsCount": 26,
+      "reviewsCount": 8,
       "images": [
         "https://assets.neotastecdn.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/77ade362-7a05-4207-b998-cc1a7b190ab9.jpg",
         "https://assets.neotastecdn.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/6f496708-7e26-4148-a11b-49225e57006b.jpg",
@@ -6300,7 +6308,7 @@
       "latitude": 49.4839446,
       "longitude": 8.4503428,
       "avgRating": 5,
-      "ratingsCount": 3,
+      "ratingsCount": 4,
       "reviewsCount": 2,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a420c284-5a4f-4da2-8ec9-36cfc46739fc/images/f9ae656d-94dd-4154-9151-0fd74d315a21.jpeg",
@@ -6427,6 +6435,69 @@
         "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/d5f5a033-0aa0-4e0d-bf09-6274109a4f08.png",
         "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/d56fb054-c4b3-4379-a8c6-41637e7cfb79.png",
         "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/9b111956-dd89-4ff3-bf82-9179494b5ed0.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Hartl´s Bistro",
+      "uuid": "e618f136-15c9-4c2e-887e-725e5daac9ad",
+      "deals": [
+        {
+          "uuid": "b30d5bb8-3580-45d8-9388-f04707065072",
+          "name": "2for1 Main Course",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main courses of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 12,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "6211d929-da21-408e-b360-a74a1d259663",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 3,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Rheingoldstraße 77",
+      "zipCode": "68199",
+      "latitude": 49.453891,
+      "longitude": 8.4827985,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/2ef7f857-3609-46a9-b0b2-a56a1994565d.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/c8642661-ea73-4076-ae17-73ae5de88517.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/1781be84-23ec-4300-a643-349166708d77.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/95cdfa3c-3043-42ff-9b80-0b5ba8c92d93.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/7e7b8c76-8069-4123-b410-bd9fd5f91ea5.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/242136c6-6d56-4a3f-b4f2-ca621f1ee529.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/d61f9b99-09f4-47e1-846a-a9ef178caaf8.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/979f8d48-7e7a-40c8-abc3-6a2d159f1df2.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/15ff1f2d-894a-45af-899c-ad18c8491425.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/69030707-c525-4a8e-8de5-ff5ab44dddee.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/15db8052-6155-4a6b-a1fc-639883a06bdc.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/dc10ea8f-7fad-464e-908b-1b42256cbb6c.jpg",
+        "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/358ffad4-4a84-4987-af9d-0d94ebe905d3.jpg"
       ],
       "priceRange": 2
     }
