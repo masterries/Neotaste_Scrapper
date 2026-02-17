@@ -4319,9 +4319,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 78
+    },
+    {
+      "date": "2026-02-17",
+      "total_restaurants": 41,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 82
     }
   ],
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-02-17",
   "restaurants": [
     {
       "name": "asiahung Mannheim Hbf",
@@ -4527,7 +4535,7 @@
       "latitude": 49.49255001248255,
       "longitude": 8.461192696096019,
       "avgRating": 4.9,
-      "ratingsCount": 464,
+      "ratingsCount": 465,
       "reviewsCount": 86,
       "images": [
         "https://assets.neotastecdn.com/restaurants/602f72bb-4e66-4196-85b4-fa7d62254d4e/images/4435d433-4af9-4f00-9e3a-74bc37701b65.jpeg"
@@ -4634,8 +4642,8 @@
       "latitude": 49.48766253594116,
       "longitude": 8.470548980941285,
       "avgRating": 4.7,
-      "ratingsCount": 232,
-      "reviewsCount": 65,
+      "ratingsCount": 233,
+      "reviewsCount": 66,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/284ebc2a-c0ee-4481-b9e5-81cd92dd079b.jpeg",
         "https://assets.neotastecdn.com/restaurants/a4e192d0-7e8b-4864-b2aa-aae3b12aad36/images/f910a7dc-99cd-4654-98cd-9535ce2988af.jpeg",
@@ -4802,7 +4810,7 @@
       "latitude": 49.5256997,
       "longitude": 8.5641324,
       "avgRating": 4.9,
-      "ratingsCount": 10,
+      "ratingsCount": 11,
       "reviewsCount": 7,
       "images": [
         "https://assets.neotastecdn.com/restaurants/18eb82fd-26bb-46e1-b63e-16bd6e49d616/images/dfd0727b-7527-4f86-ab48-afa40aa61680.jpg",
@@ -4920,15 +4928,55 @@
     {
       "name": "POP Bar",
       "uuid": "1a1816d0-e53b-48c2-b609-114567644e47",
-      "deals": [],
-      "address": "",
-      "zipCode": "",
+      "deals": [
+        {
+          "uuid": "d85529c5-fcfc-4172-4332-08dbccc4ca55",
+          "name": "2for1 Long drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 identical long drinks of your choice (excluding the Sours) and pay for only one.",
+          "locationCondition": "onSite",
+          "value": 13,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "592996a1-9b2f-4403-4333-08dbccc4ca55",
+          "name": "FREE Homemade Shot",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order an aperitif/long drink of your choice and get a free homemade shot (vanilla, hazelnut, or melon) with it.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Beilstraße 14",
+      "zipCode": "68159",
       "latitude": 49.49411415510568,
       "longitude": 8.459693991967573,
       "avgRating": 4.8,
       "ratingsCount": 96,
-      "reviewsCount": null,
-      "images": [],
+      "reviewsCount": 9,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/142bfdfe-0e5e-40ff-bc17-568a36346e1e.jpeg",
+        "https://assets.neotastecdn.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/da41a863-099a-41ba-9ea2-2a5c32fa905c.jpeg",
+        "https://assets.neotastecdn.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/90b1f4cc-0b3b-45c4-817b-bfe214d2903b.jpeg",
+        "https://assets.neotastecdn.com/restaurants/48b229a0-44df-486e-b331-8d652d11c2b7/images/28309392-e8bc-4eed-8a0c-fac623b1499a.jpeg"
+      ],
       "priceRange": 2
     },
     {
@@ -5028,7 +5076,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 325,
+      "ratingsCount": 326,
       "reviewsCount": 71,
       "images": [
         "https://assets.neotastecdn.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
@@ -5629,6 +5677,64 @@
         "https://assets.neotastecdn.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/cc80fe3f-3996-46bf-ad10-cde6adf7ee05.jpeg",
         "https://assets.neotastecdn.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/cf84c030-07c2-4552-ade9-ff59e02cc9f3.jpeg",
         "https://assets.neotastecdn.com/restaurants/21b89400-1de7-454b-8e2b-606ebc562a95/images/08a20c09-0385-4f72-b3f1-19a326a8f9fd.jpeg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "L'Osteria Mannheim",
+      "uuid": "425374d8-f6cb-477b-a696-3a7b2a0691b9",
+      "deals": [
+        {
+          "uuid": "952db02f-e389-4730-9884-1404527489d4",
+          "name": "2for1 Aperitivi",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order two aperitivi of your choice, the cheaper/equally priced one will not be charged. This deal must be shown before ordering.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        },
+        {
+          "uuid": "fa772425-d3ac-48ea-b72d-4756f3e87702",
+          "name": "FREE Piccolo Dolci",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and receive a free Piccolo Dolci. This deal must be shown before ordering.",
+          "locationCondition": "onSite",
+          "value": 7,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 7,
+          "status": "available"
+        }
+      ],
+      "address": "Friedrichsplatz 12",
+      "zipCode": "68165",
+      "latitude": 49.4826819,
+      "longitude": 8.4774795,
+      "avgRating": 4.7,
+      "ratingsCount": 152,
+      "reviewsCount": 31,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/e406029e-b054-432d-bcbb-edb13f9b36d2.jpeg",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/6f87c530-1ec9-4ef6-bbc1-7a50a8f3f891.jpeg",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/f9bc06b7-451c-4892-95df-e9bf5a6048fe.png",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/fab11f19-ca52-4e6c-b5e5-9762f757b33a.png",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/6255092e-df1a-43cd-a15b-2b6f92e81c37.jpeg",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/fed57667-3b1a-4564-8c8c-107e290373f2.jpeg",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/1453e952-831c-43d1-b93e-96185aea4d2b.jpeg",
+        "https://assets.neotastecdn.com/restaurants/425374d8-f6cb-477b-a696-3a7b2a0691b9/images/336c8d4e-0206-4529-a9bf-c771474f9e75.jpeg"
       ],
       "priceRange": 2
     },

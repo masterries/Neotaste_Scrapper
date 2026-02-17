@@ -4319,9 +4319,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 108
+    },
+    {
+      "date": "2026-02-17",
+      "total_restaurants": 53,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 106
     }
   ],
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-02-17",
   "restaurants": [
     {
       "name": "Burgerheart",
@@ -4367,8 +4375,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1664,
-      "reviewsCount": 415,
+      "ratingsCount": 1665,
+      "reviewsCount": 416,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -5462,8 +5470,8 @@
       "latitude": 49.0097084891021,
       "longitude": 8.405141434360411,
       "avgRating": 4.8,
-      "ratingsCount": 149,
-      "reviewsCount": 33,
+      "ratingsCount": 151,
+      "reviewsCount": 35,
       "images": [
         "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
         "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/ab259520-d18b-4df7-9ebe-dfa6c86764aa.jpeg",
@@ -6780,64 +6788,6 @@
       "priceRange": 2
     },
     {
-      "name": "Madame Croissant Karlsruhe",
-      "uuid": "6901f5e2-6fc7-4f27-b709-97140c8fa6b5",
-      "deals": [
-        {
-          "uuid": "966f0a00-ae50-49d3-b3ad-a750755e30da",
-          "name": "2for1 Croissant",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 croissant of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 6,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "bdb7d65e-1b2d-4297-ae9f-9499d7d69411",
-          "name": "FREE Hot Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a croissant of your choice and get a hot drink for free.",
-          "locationCondition": "onSite",
-          "value": 5,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        }
-      ],
-      "address": "Kaiserstraße 187",
-      "zipCode": "76133",
-      "latitude": 49.0096353,
-      "longitude": 8.3984986,
-      "avgRating": 4.7,
-      "ratingsCount": 252,
-      "reviewsCount": 78,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c421501e-b559-4d1f-bf6f-a3d217b2e55e.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/071d0607-9b9a-4af1-8e77-90ac51e266bb.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/47719643-88ab-4724-9bfe-1cd47bc1b242.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/486e9afc-04d2-4e9d-9a05-d8519bac513c.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/9204e112-a429-44a5-84c9-225625e452b4.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/0cb7aed3-e3d5-4aac-be79-1a04a6f187f4.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c83cedf9-0c13-4485-8237-a88757aae33f.jpg",
-        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/79c6d442-4783-4012-845a-345088328c07.jpg"
-      ],
-      "priceRange": 1
-    },
-    {
       "name": "Rote Bete Karlsruhe",
       "uuid": "adecf337-de1f-480e-afed-b10703ca1e30",
       "deals": [
@@ -6881,7 +6831,7 @@
       "latitude": 49.0127923,
       "longitude": 8.3943821,
       "avgRating": 4.8,
-      "ratingsCount": 98,
+      "ratingsCount": 99,
       "reviewsCount": 45,
       "images": [
         "https://assets.neotastecdn.com/restaurants/adecf337-de1f-480e-afed-b10703ca1e30/images/9346cf3d-e4fa-4066-9a73-1646d5a6ded3.jpg",
@@ -7003,7 +6953,7 @@
       "latitude": 49.01036240000001,
       "longitude": 8.397197499999999,
       "avgRating": 4.7,
-      "ratingsCount": 121,
+      "ratingsCount": 123,
       "reviewsCount": 42,
       "images": [
         "https://assets.neotastecdn.com/restaurants/879e04e5-a8fe-4214-951c-c28191b7388b/images/9c11ca55-44f2-4f64-932d-c9fa1d83699e.jpg",
@@ -7277,9 +7227,9 @@
       "zipCode": "76133",
       "latitude": 49.0087826,
       "longitude": 8.396353,
-      "avgRating": 4.7,
-      "ratingsCount": 48,
-      "reviewsCount": 19,
+      "avgRating": 4.6,
+      "ratingsCount": 50,
+      "reviewsCount": 21,
       "images": [
         "https://assets.neotastecdn.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/26b5e623-e543-42b2-997b-9aded27dc6ee.jpg",
         "https://assets.neotastecdn.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/687828d6-2480-4608-bc4a-6d12b33fb4d0.jpg",
