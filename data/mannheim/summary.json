@@ -4351,9 +4351,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 83
+    },
+    {
+      "date": "2026-02-21",
+      "total_restaurants": 42,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 84
     }
   ],
-  "last_updated": "2026-02-20",
+  "last_updated": "2026-02-21",
   "restaurants": [
     {
       "name": "asiahung Mannheim Hbf",
@@ -4367,23 +4375,6 @@
           "conditions": "You order the Nudelbox 01 and pay only €2. Presented by @hannover_eats, @favesbyari, @tastetourimarta & @bonappetitelisa.",
           "locationCondition": "onSite",
           "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "fc6b5c8b-8e97-4cf9-90e3-7258db304ab8",
-          "name": "2for1 Snack-Box",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order 2 snack-boxes of your choice, the cheaper/equally priced one will not be charged.",
-          "locationCondition": "onSite",
-          "value": 9,
           "currency": {
             "name": "Euro",
             "isoCode": "EUR",
@@ -4416,7 +4407,7 @@
       "latitude": 49.47940029999999,
       "longitude": 8.4704508,
       "avgRating": 4,
-      "ratingsCount": 46,
+      "ratingsCount": 48,
       "reviewsCount": 20,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
@@ -5336,8 +5327,8 @@
       "latitude": 49.47569775730934,
       "longitude": 8.472454841104417,
       "avgRating": 4.7,
-      "ratingsCount": 450,
-      "reviewsCount": 62,
+      "ratingsCount": 451,
+      "reviewsCount": 63,
       "images": [
         "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/9d21245f-55ae-40bc-87e4-e0a2dcbf639e.jpeg",
         "https://assets.neotastecdn.com/restaurants/5c5cb434-84ad-42aa-9fce-d477a38cb5aa/images/a16d3e75-756c-4a59-b5c8-2579f4db68e8.jpeg",
@@ -5500,7 +5491,7 @@
       "latitude": 49.49562231639872,
       "longitude": 8.458862808585865,
       "avgRating": 4.9,
-      "ratingsCount": 45,
+      "ratingsCount": 46,
       "reviewsCount": 5,
       "images": [
         "https://assets.neotastecdn.com/restaurants/44ce5090-e49b-4899-98a4-7ef8ccaff1e8/images/39b6eebf-5a1e-4be6-82df-7c0b7319ccdd.jpeg"
@@ -5938,7 +5929,7 @@
       "latitude": 49.4841292,
       "longitude": 8.472449899999999,
       "avgRating": 4.6,
-      "ratingsCount": 30,
+      "ratingsCount": 31,
       "reviewsCount": 10,
       "images": [
         "https://assets.neotastecdn.com/restaurants/7f28bd87-0565-4011-a485-3f67a02a24e7/images/b54a877e-6e84-414a-9a0a-85f2d2cd3d5a.jpg",
@@ -6259,7 +6250,7 @@
       "latitude": 49.4823497,
       "longitude": 8.4709795,
       "avgRating": 4.5,
-      "ratingsCount": 27,
+      "ratingsCount": 29,
       "reviewsCount": 8,
       "images": [
         "https://assets.neotastecdn.com/restaurants/bfa88724-644e-4e29-94cf-0a98520ee3ad/images/77ade362-7a05-4207-b998-cc1a7b190ab9.jpg",
@@ -6541,7 +6532,7 @@
       "latitude": 49.4939771,
       "longitude": 8.460337899999999,
       "avgRating": 5,
-      "ratingsCount": 1,
+      "ratingsCount": 2,
       "reviewsCount": 0,
       "images": [
         "https://assets.neotastecdn.com/restaurants/407fa8c7-b16d-4bfe-bb2a-f1aa57331128/images/a89eed44-2f57-4253-b1f0-5bca18f98c97.jpeg",
@@ -6621,6 +6612,62 @@
         "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/15db8052-6155-4a6b-a1fc-639883a06bdc.jpg",
         "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/dc10ea8f-7fad-464e-908b-1b42256cbb6c.jpg",
         "https://assets.neotastecdn.com/restaurants/e618f136-15c9-4c2e-887e-725e5daac9ad/images/358ffad4-4a84-4987-af9d-0d94ebe905d3.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Domino's Pizza Mannheim Mitte",
+      "uuid": "0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972",
+      "deals": [
+        {
+          "uuid": "eae98979-95bf-426f-8fb0-5e62276ac305",
+          "name": "2for1 Pizza",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Order 2 Classic size pizzas of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 9,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "6b31edb1-5ad5-4bde-afd7-a6495184a142",
+          "name": "FREE Muffin or stuffed pizza rolls",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a pizza (classic, medium, large) of your choice and get a muffin or stuffed pizza rolls for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 1,
+          "status": "available"
+        }
+      ],
+      "address": "S6 21",
+      "zipCode": "68161",
+      "latitude": 49.4877276,
+      "longitude": 8.4756887,
+      "avgRating": 5,
+      "ratingsCount": 1,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/2a6ea326-849b-485e-9da6-319cd451183b.jpg",
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/91fefd67-2d8d-46cc-be5e-cdaf05fb1748.jpg",
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/e16d51e5-8294-43f9-b4d9-1a5814951fba.jpg",
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/5a6bf6c0-f820-4bf2-8db3-565703cd5035.jpg",
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/a41c022f-8842-4479-a300-1b5e70a585c9.jpg",
+        "https://assets.neotastecdn.com/restaurants/0be3c59b-5dc8-4bcd-8c5c-5a958e0ed972/images/f8fe6ed8-6b50-47b5-9caa-9996aea04ce3.jpg"
       ],
       "priceRange": 2
     }
