@@ -4375,9 +4375,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 106
+    },
+    {
+      "date": "2026-02-24",
+      "total_restaurants": 54,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 108
     }
   ],
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-02-24",
   "restaurants": [
     {
       "name": "Burgerheart",
@@ -4423,8 +4431,8 @@
       "latitude": 49.01012728176009,
       "longitude": 8.396175093865812,
       "avgRating": 4.8,
-      "ratingsCount": 1669,
-      "reviewsCount": 417,
+      "ratingsCount": 1672,
+      "reviewsCount": 420,
       "images": [
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
         "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/fc8be304-82ce-44fd-bafb-48ca69ffa2f0.jpeg",
@@ -5298,8 +5306,8 @@
       "latitude": 49.01089746017443,
       "longitude": 8.398931965335484,
       "avgRating": 5,
-      "ratingsCount": 129,
-      "reviewsCount": 43,
+      "ratingsCount": 130,
+      "reviewsCount": 44,
       "images": [
         "https://assets.neotastecdn.com/restaurants/8c488735-b2ad-43a5-9a7f-bc2ad1f4f6b3/images/f1b81bda-36ad-496d-9c30-b96ecc96e7ce.jpeg",
         "https://assets.neotastecdn.com/restaurants/8c488735-b2ad-43a5-9a7f-bc2ad1f4f6b3/images/c230fabb-2ec1-4b9d-a6f4-06694893815a.jpeg",
@@ -5518,7 +5526,7 @@
       "latitude": 49.0097084891021,
       "longitude": 8.405141434360411,
       "avgRating": 4.8,
-      "ratingsCount": 151,
+      "ratingsCount": 152,
       "reviewsCount": 35,
       "images": [
         "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
@@ -5909,7 +5917,7 @@
       "latitude": 48.99633785151723,
       "longitude": 8.408646384139123,
       "avgRating": 4.7,
-      "ratingsCount": 178,
+      "ratingsCount": 177,
       "reviewsCount": 68,
       "images": [
         "https://assets.neotastecdn.com/restaurants/090d83cf-5ad0-4bfd-b5ac-d10ab7379847/images/c9b543cf-366b-4ee7-a9c7-b4748378c261.jpeg",
@@ -6178,8 +6186,8 @@
       "latitude": 48.99988792054022,
       "longitude": 8.46407629355963,
       "avgRating": 4.9,
-      "ratingsCount": 358,
-      "reviewsCount": 130,
+      "ratingsCount": 360,
+      "reviewsCount": 132,
       "images": [
         "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/bf8864bd-a259-4d19-8e51-c7858cc94eca.jpeg",
         "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/5d71e43e-238f-4f12-8237-7646660aea74.jpeg",
@@ -6340,8 +6348,8 @@
       "latitude": 48.99826268286159,
       "longitude": 8.465798303991885,
       "avgRating": 5,
-      "ratingsCount": 47,
-      "reviewsCount": 20,
+      "ratingsCount": 48,
+      "reviewsCount": 21,
       "images": [
         "https://assets.neotastecdn.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/ed12a89d-a008-4409-9d8b-1558c9a3c83b.jpeg",
         "https://assets.neotastecdn.com/restaurants/a474e048-a017-41f4-95ad-ffdee6654915/images/ffc9a9f0-702b-474d-857d-8bbc83717644.jpeg",
@@ -6611,8 +6619,8 @@
       "latitude": 49.0077618,
       "longitude": 8.4074139,
       "avgRating": 4.9,
-      "ratingsCount": 151,
-      "reviewsCount": 53,
+      "ratingsCount": 153,
+      "reviewsCount": 54,
       "images": [
         "https://assets.neotastecdn.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
         "https://assets.neotastecdn.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/9f521200-360f-4e0a-a1b7-f8af3f63b2cb.jpg",
@@ -6834,6 +6842,64 @@
         "https://assets.neotastecdn.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/c810c05e-0fed-45bb-ab06-f1de445d5a58.jpeg"
       ],
       "priceRange": 2
+    },
+    {
+      "name": "Madame Croissant Karlsruhe",
+      "uuid": "6901f5e2-6fc7-4f27-b709-97140c8fa6b5",
+      "deals": [
+        {
+          "uuid": "966f0a00-ae50-49d3-b3ad-a750755e30da",
+          "name": "2for1 Croissant",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 croissant of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 6,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "bdb7d65e-1b2d-4297-ae9f-9499d7d69411",
+          "name": "FREE Hot Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a croissant of your choice and get a hot drink for free.",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        }
+      ],
+      "address": "Kaiserstraße 187",
+      "zipCode": "76133",
+      "latitude": 49.0096353,
+      "longitude": 8.3984986,
+      "avgRating": 4.7,
+      "ratingsCount": 252,
+      "reviewsCount": 78,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c421501e-b559-4d1f-bf6f-a3d217b2e55e.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/071d0607-9b9a-4af1-8e77-90ac51e266bb.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/47719643-88ab-4724-9bfe-1cd47bc1b242.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/486e9afc-04d2-4e9d-9a05-d8519bac513c.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/9204e112-a429-44a5-84c9-225625e452b4.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/0cb7aed3-e3d5-4aac-be79-1a04a6f187f4.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c83cedf9-0c13-4485-8237-a88757aae33f.jpg",
+        "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/79c6d442-4783-4012-845a-345088328c07.jpg"
+      ],
+      "priceRange": 1
     },
     {
       "name": "Rote Bete Karlsruhe",
@@ -7276,7 +7342,7 @@
       "latitude": 49.0087826,
       "longitude": 8.396353,
       "avgRating": 4.7,
-      "ratingsCount": 60,
+      "ratingsCount": 61,
       "reviewsCount": 25,
       "images": [
         "https://assets.neotastecdn.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/26b5e623-e543-42b2-997b-9aded27dc6ee.jpg",
