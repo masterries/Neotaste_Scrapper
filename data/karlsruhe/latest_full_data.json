@@ -46,16 +46,16 @@
     ],
     "tags": [
       {
-        "slug": "burgers",
-        "name": "Burgers",
-        "category": "cuisine",
-        "emoji": "🍔"
-      },
-      {
         "slug": "bbq",
         "name": "BBQ",
         "category": "cuisine",
         "emoji": "🔥"
+      },
+      {
+        "slug": "burgers",
+        "name": "Burgers",
+        "category": "cuisine",
+        "emoji": "🍔"
       },
       {
         "slug": "drinks",
@@ -65,7 +65,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1681,
+    "ratingsCount": 1683,
     "reviewsCount": 423,
     "images": [
       "https://assets.neotastecdn.com/restaurants/ca535c49-e85f-47f8-8a46-0401a1ca599d/images/6b3a00fb-90bc-4335-ac43-d9d863401c8b.jpeg",
@@ -216,7 +216,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 599,
+    "ratingsCount": 600,
     "reviewsCount": 127,
     "images": [
       "https://assets.neotastecdn.com/restaurants/124422c7-1d0a-44f7-b527-fec0589ae750/images/1d5f647e-d79c-4bf2-bc39-1ffa167febdd.jpeg",
@@ -294,7 +294,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 660,
+    "ratingsCount": 659,
     "reviewsCount": 179,
     "images": [
       "https://assets.neotastecdn.com/restaurants/d248ecc7-5462-4952-b19d-341f02aaeefe/images/50cf7008-9b1d-4138-b701-8410872aec22.jpeg",
@@ -1510,8 +1510,8 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 153,
-    "reviewsCount": 35,
+    "ratingsCount": 154,
+    "reviewsCount": 36,
     "images": [
       "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/e0cc8bd1-c4c6-4623-af42-cd650977d5e9.jpeg",
       "https://assets.neotastecdn.com/restaurants/decc4543-c01b-4190-936c-70fc8868789d/images/ab259520-d18b-4df7-9ebe-dfa6c86764aa.jpeg",
@@ -2278,6 +2278,12 @@
     ],
     "tags": [
       {
+        "slug": "bbq",
+        "name": "BBQ",
+        "category": "cuisine",
+        "emoji": "🔥"
+      },
+      {
         "slug": "burgers",
         "name": "Burgers",
         "category": "cuisine",
@@ -2288,16 +2294,10 @@
         "name": "German",
         "category": "cuisine",
         "emoji": "🥨"
-      },
-      {
-        "slug": "bbq",
-        "name": "BBQ",
-        "category": "cuisine",
-        "emoji": "🔥"
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 365,
+    "ratingsCount": 366,
     "reviewsCount": 134,
     "images": [
       "https://assets.neotastecdn.com/restaurants/81015c16-8038-4642-a6ed-8c79d1828447/images/bf8864bd-a259-4d19-8e51-c7858cc94eca.jpeg",
@@ -2852,7 +2852,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 154,
+    "ratingsCount": 155,
     "reviewsCount": 54,
     "images": [
       "https://assets.neotastecdn.com/restaurants/77f776a3-d332-4f9e-bda4-9aff8292a3b3/images/349b7fa4-d7e1-4157-b4fa-e77bb15b127b.jpg",
@@ -3139,74 +3139,6 @@
       "https://assets.neotastecdn.com/restaurants/c6d3274a-9a07-4050-b33f-aaf05e38e9b4/images/c810c05e-0fed-45bb-ab06-f1de445d5a58.jpeg"
     ],
     "priceRange": 2
-  },
-  {
-    "uuid": "6901f5e2-6fc7-4f27-b709-97140c8fa6b5",
-    "name": "Madame Croissant Karlsruhe",
-    "slug": "madame-croissant-karlsruhe",
-    "address": "Kaiserstraße 187",
-    "addressOptional": null,
-    "zipCode": "76133",
-    "latitude": 49.0096353,
-    "longitude": 8.3984986,
-    "deals": [
-      {
-        "uuid": "966f0a00-ae50-49d3-b3ad-a750755e30da",
-        "name": "2for1 Croissant",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order 2 croissant of your choice, the cheaper/equally priced one will not be charged.",
-        "locationCondition": "onSite",
-        "value": 6,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      },
-      {
-        "uuid": "bdb7d65e-1b2d-4297-ae9f-9499d7d69411",
-        "name": "FREE Hot Drink",
-        "eventDeal": false,
-        "remainingDaysToReset": null,
-        "conditions": "You order a croissant of your choice and get a hot drink for free.",
-        "locationCondition": "onSite",
-        "value": 5,
-        "currency": {
-          "name": "Euro",
-          "isoCode": "EUR",
-          "symbol": "€",
-          "conversionRateToEuro": 1
-        },
-        "daysToReset": 90,
-        "status": "available"
-      }
-    ],
-    "tags": [
-      {
-        "slug": "cafe",
-        "name": "Café",
-        "category": "cuisine",
-        "emoji": "☕"
-      }
-    ],
-    "avgRating": 4.7,
-    "ratingsCount": 252,
-    "reviewsCount": 78,
-    "images": [
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c421501e-b559-4d1f-bf6f-a3d217b2e55e.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/071d0607-9b9a-4af1-8e77-90ac51e266bb.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/47719643-88ab-4724-9bfe-1cd47bc1b242.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/486e9afc-04d2-4e9d-9a05-d8519bac513c.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/9204e112-a429-44a5-84c9-225625e452b4.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/0cb7aed3-e3d5-4aac-be79-1a04a6f187f4.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/c83cedf9-0c13-4485-8237-a88757aae33f.jpg",
-      "https://assets.neotastecdn.com/restaurants/6901f5e2-6fc7-4f27-b709-97140c8fa6b5/images/79c6d442-4783-4012-845a-345088328c07.jpg"
-    ],
-    "priceRange": 1
   },
   {
     "uuid": "adecf337-de1f-480e-afed-b10703ca1e30",
@@ -3795,7 +3727,7 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 73,
+    "ratingsCount": 74,
     "reviewsCount": 29,
     "images": [
       "https://assets.neotastecdn.com/restaurants/78801b81-cfef-4c84-96ca-79105e4572be/images/26b5e623-e543-42b2-997b-9aded27dc6ee.jpg",

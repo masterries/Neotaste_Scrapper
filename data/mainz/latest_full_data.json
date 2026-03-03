@@ -59,7 +59,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 1259,
+    "ratingsCount": 1262,
     "reviewsCount": 287,
     "images": [
       "https://assets.neotastecdn.com/restaurants/32b9f86d-ac05-48ae-8109-f93ac4306aac/images/c3c09087-89e3-41d2-a980-43c91862f9dd.jpeg",
@@ -295,7 +295,7 @@
       }
     ],
     "avgRating": 4.8,
-    "ratingsCount": 882,
+    "ratingsCount": 883,
     "reviewsCount": 212,
     "images": [
       "https://assets.neotastecdn.com/restaurants/5f63fbc0-8b59-492e-afc6-c08d2beb63f5/images/7b01177a-91fd-46f9-9581-9a75f7007bef.jpeg",
@@ -1584,8 +1584,8 @@
       }
     ],
     "avgRating": 4.7,
-    "ratingsCount": 70,
-    "reviewsCount": 22,
+    "ratingsCount": 71,
+    "reviewsCount": 23,
     "images": [
       "https://assets.neotastecdn.com/restaurants/dada4362-de1f-41ce-b1f8-2eb90cc272be/images/7b9861be-6fdd-468f-82ed-c87157000e08.jpeg",
       "https://assets.neotastecdn.com/restaurants/dada4362-de1f-41ce-b1f8-2eb90cc272be/images/19644b84-91fa-40d7-b724-7a1f862a4896.jpeg",
@@ -1663,7 +1663,7 @@
       }
     ],
     "avgRating": 4.9,
-    "ratingsCount": 220,
+    "ratingsCount": 221,
     "reviewsCount": 84,
     "images": [
       "https://assets.neotastecdn.com/restaurants/9e3732dc-72e5-49df-a48d-8b71cbee6144/images/64c319b9-1e9b-4c79-812b-3a2b0ecf3100.jpg",
@@ -1811,7 +1811,7 @@
       }
     ],
     "avgRating": 4.4,
-    "ratingsCount": 64,
+    "ratingsCount": 65,
     "reviewsCount": 25,
     "images": [
       "https://assets.neotastecdn.com/restaurants/a94a7091-92ba-4fe3-a786-f8495d95f28e/images/829c0c5a-e020-42f6-94b5-6ae1e5761cd3.jpg",
@@ -2032,6 +2032,73 @@
       "https://assets.neotastecdn.com/restaurants/3bc93ad4-6e9d-445f-8448-2016777cfecb/images/29cef552-862e-41e8-b5ae-e2c6c30685d0.jpeg"
     ],
     "priceRange": 2
+  },
+  {
+    "uuid": "624177a9-57a2-4c1f-b362-5cc3ccb2c0a9",
+    "name": "PANINO",
+    "slug": "panino",
+    "address": "Fischtorstraße 7",
+    "addressOptional": null,
+    "zipCode": "55116",
+    "latitude": 49.9994864,
+    "longitude": 8.2764964,
+    "deals": [
+      {
+        "uuid": "6905dc7f-0f88-4812-878b-cd967628d882",
+        "name": "FREE Hot Drink",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a cake of your choice and get a hot drink for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      },
+      {
+        "uuid": "85fd4bca-b86f-4a1c-80a2-a1a6313023f3",
+        "name": "FREE Coffee Specialty",
+        "eventDeal": false,
+        "remainingDaysToReset": null,
+        "conditions": "You order a piece of cake of your choice and get a coffee specialty for free.",
+        "locationCondition": "onSite",
+        "value": 4,
+        "currency": {
+          "name": "Euro",
+          "isoCode": "EUR",
+          "symbol": "€",
+          "conversionRateToEuro": 1
+        },
+        "daysToReset": 90,
+        "status": "available"
+      }
+    ],
+    "tags": [
+      {
+        "slug": "sandwich",
+        "name": "Sandwich",
+        "category": "cuisine",
+        "emoji": "🥪"
+      },
+      {
+        "slug": "cafe",
+        "name": "Café",
+        "category": "cuisine",
+        "emoji": "☕"
+      }
+    ],
+    "avgRating": 4,
+    "ratingsCount": 9,
+    "reviewsCount": 5,
+    "images": [
+      "https://assets.neotastecdn.com/restaurants/624177a9-57a2-4c1f-b362-5cc3ccb2c0a9/images/ffd28030-0089-4e66-b4c9-624385069aaa.jpeg"
+    ],
+    "priceRange": 1
   },
   {
     "uuid": "d28161a9-44e6-4afd-9379-9c92e4616719",

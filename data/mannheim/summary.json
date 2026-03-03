@@ -4431,64 +4431,18 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 84
+    },
+    {
+      "date": "2026-03-03",
+      "total_restaurants": 42,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 84
     }
   ],
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-03",
   "restaurants": [
-    {
-      "name": "asiahung Mannheim Hbf",
-      "uuid": "d0eaeec4-279a-412f-9984-cd6178ebbb23",
-      "deals": [
-        {
-          "uuid": "9cf3a683-4e81-4260-9de1-14ca28bc7c33",
-          "name": "€2 Noodlebox 01",
-          "eventDeal": true,
-          "remainingDaysToReset": null,
-          "conditions": "You order the Nudelbox 01 and pay only €2. Presented by @hannover_eats, @favesbyari, @tastetourimarta & @bonappetitelisa.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 90,
-          "status": "available"
-        },
-        {
-          "uuid": "c09b013f-181c-4364-ae48-84e3ed6a37dd",
-          "name": "FREE Soft Drink",
-          "eventDeal": false,
-          "remainingDaysToReset": null,
-          "conditions": "You order a main course of your choice and get a soft drink for free.",
-          "locationCondition": "onSite",
-          "value": 3,
-          "currency": {
-            "name": "Euro",
-            "isoCode": "EUR",
-            "symbol": "€",
-            "conversionRateToEuro": 1
-          },
-          "daysToReset": 30,
-          "status": "available"
-        }
-      ],
-      "address": "Willy-Brandt-Platz 17",
-      "zipCode": "68161",
-      "latitude": 49.47940029999999,
-      "longitude": 8.4704508,
-      "avgRating": 4.1,
-      "ratingsCount": 58,
-      "reviewsCount": 23,
-      "images": [
-        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
-        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/600a76a4-62d5-4f60-8bbe-5b10bea72096.png",
-        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/2bedfd43-b187-459a-8c0b-6ded69897467.png",
-        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/41518dad-346d-43c4-af3b-c2c097070096.png"
-      ],
-      "priceRange": 2
-    },
     {
       "name": "Compleat Quadrate",
       "uuid": "b686922b-28db-4871-b8a7-55a746fd13e0",
@@ -4588,7 +4542,7 @@
       "latitude": 49.48213686156112,
       "longitude": 8.471570562583093,
       "avgRating": 4.8,
-      "ratingsCount": 733,
+      "ratingsCount": 734,
       "reviewsCount": 256,
       "images": [
         "https://assets.neotastecdn.com/restaurants/0d911499-9a29-4857-87ac-e468d61807e7/images/accb77b4-c3cb-4f11-baaa-560b36523ab8.jpeg"
@@ -4817,6 +4771,60 @@
       "priceRange": 1
     },
     {
+      "name": "asiahung Mannheim Hbf",
+      "uuid": "d0eaeec4-279a-412f-9984-cd6178ebbb23",
+      "deals": [
+        {
+          "uuid": "fc6b5c8b-8e97-4cf9-90e3-7258db304ab8",
+          "name": "2for1 Snack-Box",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 snack-boxes of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 9,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 90,
+          "status": "available"
+        },
+        {
+          "uuid": "c09b013f-181c-4364-ae48-84e3ed6a37dd",
+          "name": "FREE Soft Drink",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order a main course of your choice and get a soft drink for free.",
+          "locationCondition": "onSite",
+          "value": 3,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Willy-Brandt-Platz 17",
+      "zipCode": "68161",
+      "latitude": 49.47940029999999,
+      "longitude": 8.4704508,
+      "avgRating": 4.1,
+      "ratingsCount": 58,
+      "reviewsCount": 23,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/7c928786-6c94-48cb-9f13-2c704bdada90.png",
+        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/600a76a4-62d5-4f60-8bbe-5b10bea72096.png",
+        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/2bedfd43-b187-459a-8c0b-6ded69897467.png",
+        "https://assets.neotastecdn.com/restaurants/d0eaeec4-279a-412f-9984-cd6178ebbb23/images/41518dad-346d-43c4-af3b-c2c097070096.png"
+      ],
+      "priceRange": 2
+    },
+    {
       "name": "Dear Bagel Mannheim",
       "uuid": "d891a999-1a39-4efc-ab61-6921b0736e11",
       "deals": [
@@ -4860,8 +4868,8 @@
       "latitude": 49.4858407,
       "longitude": 8.473140999999998,
       "avgRating": 4.8,
-      "ratingsCount": 275,
-      "reviewsCount": 69,
+      "ratingsCount": 277,
+      "reviewsCount": 70,
       "images": [
         "https://assets.neotastecdn.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/c12839c5-3eca-408c-93bb-da6681f5ce53.jpg",
         "https://assets.neotastecdn.com/restaurants/d891a999-1a39-4efc-ab61-6921b0736e11/images/b765c463-aeaf-4b14-b165-fe23ceb0e5e2.jpg",
@@ -5180,7 +5188,7 @@
       "latitude": 49.48125102479414,
       "longitude": 8.484002435205113,
       "avgRating": 4.9,
-      "ratingsCount": 331,
+      "ratingsCount": 332,
       "reviewsCount": 72,
       "images": [
         "https://assets.neotastecdn.com/restaurants/74413b38-0737-4779-99c2-b62ca2dfadae/images/69d70ec5-29af-44dc-9993-6ec4e8dcc74a.jpeg",
