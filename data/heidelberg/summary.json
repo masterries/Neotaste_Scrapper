@@ -4447,9 +4447,17 @@
       "removed_restaurants": 0,
       "restaurants_with_deal_changes": 0,
       "total_deals": 84
+    },
+    {
+      "date": "2026-03-05",
+      "total_restaurants": 44,
+      "new_restaurants": 0,
+      "removed_restaurants": 0,
+      "restaurants_with_deal_changes": 0,
+      "total_deals": 88
     }
   ],
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-05",
   "restaurants": [
     {
       "name": "HANS IM GLÜCK - Heiliggeistkirche",
@@ -4495,7 +4503,7 @@
       "latitude": 49.41189263773346,
       "longitude": 8.709023034553123,
       "avgRating": 4.8,
-      "ratingsCount": 1277,
+      "ratingsCount": 1278,
       "reviewsCount": 255,
       "images": [
         "https://assets.neotastecdn.com/restaurants/357cd449-443e-45dc-aea0-63e1b10cb5fe/images/0c324448-a34d-40a2-9331-2cbdc0d7a1cf.jpg",
@@ -4552,8 +4560,8 @@
       "latitude": 49.40892330591613,
       "longitude": 8.692200507807478,
       "avgRating": 4.9,
-      "ratingsCount": 1053,
-      "reviewsCount": 190,
+      "ratingsCount": 1055,
+      "reviewsCount": 191,
       "images": [
         "https://assets.neotastecdn.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/afb319f6-8f82-44f4-a38c-715172606aa8.jpeg",
         "https://assets.neotastecdn.com/restaurants/cd2ac0ed-bb91-4180-8108-690c5a2fc65c/images/aa4154c5-d1b4-4d79-b96f-cce40ff2353f.jpeg",
@@ -4659,7 +4667,7 @@
       "latitude": 49.41131614369048,
       "longitude": 8.711970070552214,
       "avgRating": 4.8,
-      "ratingsCount": 346,
+      "ratingsCount": 347,
       "reviewsCount": 86,
       "images": [
         "https://assets.neotastecdn.com/restaurants/8743a7c6-f30d-47ef-998d-1bc315954546/images/6a681eb9-4a6c-4eff-88af-39b49b989010.jpeg",
@@ -4988,7 +4996,7 @@
       "latitude": 49.40406751183698,
       "longitude": 8.667722814417,
       "avgRating": 4.8,
-      "ratingsCount": 846,
+      "ratingsCount": 847,
       "reviewsCount": 146,
       "images": [
         "https://assets.neotastecdn.com/restaurants/af11cb47-9db7-45ee-8694-048fe2902f91/images/43de6166-502f-487a-bdee-8021dc3ab844.jpg",
@@ -5314,8 +5322,8 @@
       "latitude": 49.42394889611123,
       "longitude": 8.648648837912212,
       "avgRating": 4.9,
-      "ratingsCount": 102,
-      "reviewsCount": 24,
+      "ratingsCount": 103,
+      "reviewsCount": 25,
       "images": [
         "https://assets.neotastecdn.com/restaurants/e893f273-40b1-465e-84e4-a0ce7aba3c40/images/90b7e72c-3514-4b58-92e4-8944a503b457.jpeg",
         "https://assets.neotastecdn.com/restaurants/e893f273-40b1-465e-84e4-a0ce7aba3c40/images/f215f244-d187-4055-bf0e-031448f26649.jpeg",
@@ -6743,6 +6751,115 @@
         "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/b42c4eb6-b892-49a4-8d30-fcd9cdd94dbc.jpg",
         "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/b55a258c-d2f9-49c9-b131-04270c50c31c.jpg",
         "https://assets.neotastecdn.com/restaurants/9dc7e551-ce00-45e7-a286-136ff8ba6a39/images/80e452bc-e234-4c92-a0ce-e9e07e1d97ab.jpg"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Food Corner Heidelberg",
+      "uuid": "cb0cd6f1-b98b-48e9-abdb-65764fa55b48",
+      "deals": [
+        {
+          "uuid": "ac5f1e09-2598-4e41-a3ec-14758ddcf63f",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "c213f44a-3e86-4b64-b838-37ae68bd3195",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Speyerer Straße 4",
+      "zipCode": "69115",
+      "latitude": 49.4000802,
+      "longitude": 8.6766994,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/cb0cd6f1-b98b-48e9-abdb-65764fa55b48/images/9bb5d1bb-3b70-4923-ad44-e2fd8d308a1a.png",
+        "https://assets.neotastecdn.com/restaurants/cb0cd6f1-b98b-48e9-abdb-65764fa55b48/images/e75f04db-8fe6-40f6-8d23-500c563ee0dd.png",
+        "https://assets.neotastecdn.com/restaurants/cb0cd6f1-b98b-48e9-abdb-65764fa55b48/images/ba05c724-46b8-4fa5-b7ab-8d372244b7a4.png",
+        "https://assets.neotastecdn.com/restaurants/cb0cd6f1-b98b-48e9-abdb-65764fa55b48/images/7c0384bb-75d0-4db2-94b4-9f0de03c2d44.png"
+      ],
+      "priceRange": 2
+    },
+    {
+      "name": "Matze's Backstub",
+      "uuid": "aed8a85a-9d7e-4a13-b122-a67f0821d7b8",
+      "deals": [
+        {
+          "uuid": "ee33603b-1b5f-4c8a-b70f-dde1c9de5bf0",
+          "name": "2for1 Main Item",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "You order 2 main items of your choice, the cheaper/equally priced one will not be charged.",
+          "locationCondition": "onSite",
+          "value": 11,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        },
+        {
+          "uuid": "af4dd185-3448-4347-a25a-da4912601351",
+          "name": "30% Discount",
+          "eventDeal": false,
+          "remainingDaysToReset": null,
+          "conditions": "Receive 30% discount on your entire bill!",
+          "locationCondition": "onSite",
+          "value": 5,
+          "currency": {
+            "name": "Euro",
+            "isoCode": "EUR",
+            "symbol": "€",
+            "conversionRateToEuro": 1
+          },
+          "daysToReset": 30,
+          "status": "available"
+        }
+      ],
+      "address": "Speyerer Straße 4",
+      "zipCode": "69115",
+      "latitude": 49.4000802,
+      "longitude": 8.6766994,
+      "avgRating": 0,
+      "ratingsCount": 0,
+      "reviewsCount": 0,
+      "images": [
+        "https://assets.neotastecdn.com/restaurants/aed8a85a-9d7e-4a13-b122-a67f0821d7b8/images/2092568c-2c0f-48ee-bb84-31a538b6d63a.png",
+        "https://assets.neotastecdn.com/restaurants/aed8a85a-9d7e-4a13-b122-a67f0821d7b8/images/169de5ea-b6ea-4fd9-968b-aeaa8d205fce.png",
+        "https://assets.neotastecdn.com/restaurants/aed8a85a-9d7e-4a13-b122-a67f0821d7b8/images/ba6b55e5-ef2a-46d9-a26f-f3815f756972.png",
+        "https://assets.neotastecdn.com/restaurants/aed8a85a-9d7e-4a13-b122-a67f0821d7b8/images/336eda2e-d415-4779-8547-2dd2c431ca60.jpeg",
+        "https://assets.neotastecdn.com/restaurants/aed8a85a-9d7e-4a13-b122-a67f0821d7b8/images/7a6ff2cf-e0ed-40c6-8fb7-699b9dca727e.png"
       ],
       "priceRange": 2
     }
